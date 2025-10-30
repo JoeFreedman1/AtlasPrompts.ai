@@ -1,0 +1,232 @@
+/* Import fonts */
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;600;700&family=Inter:wght@400;500;600;700&display=swap');
+
+:root {
+  --color-background: #0B1020;
+  --color-primary: #00F0FF;
+  --color-secondary: #6C00FF;
+  --color-text: #FFFFFF;
+  --color-muted: #888CA0;
+}
+
+/* Global reset */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: var(--color-background);
+  color: var(--color-text);
+  line-height: 1.6;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Space Grotesk', sans-serif;
+  color: var(--color-primary);
+  margin-bottom: 0.5rem;
+}
+
+a {
+  color: var(--color-primary);
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--color-secondary);
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+  background-color: rgba(11, 16, 32, 0.9);
+  position: sticky;
+  top: 0;
+  z-index: 999;
+}
+
+.navbar .logo a {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: var(--color-primary);
+}
+
+.navbar .nav-links {
+  list-style: none;
+  display: flex;
+  gap: 1.5rem;
+}
+
+.navbar .nav-links li a {
+  font-weight: 500;
+}
+
+.section {
+  padding: 4rem 1rem;
+}
+
+.container {
+  width: 90%;
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+.hero {
+  text-align: center;
+  padding: 6rem 1rem;
+}
+
+.hero h1 {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+.hero p {
+  font-size: 1.2rem;
+  margin-bottom: 2rem;
+}
+
+.cta-button {
+  display: inline-block;
+  padding: 0.75rem 2rem;
+  background-color: var(--color-secondary);
+  color: var(--color-background);
+  border-radius: 4px;
+  font-weight: 600;
+}
+
+.cta-button:hover {
+  background-color: var(--color-primary);
+}
+
+.cta-link {
+  display: inline-block;
+  margin-top: 1rem;
+  color: var(--color-secondary);
+}
+
+.products .product-grid,
+.shop .product-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 2rem;
+}
+
+.product-card {
+  background-color: #11182C;
+  padding: 2rem;
+  border-radius: 8px;
+  text-align: center;
+}
+
+.product-card h3, .product-card h2 {
+  color: var(--color-primary);
+  margin-bottom: 0.5rem;
+}
+
+.product-card .price {
+  display: block;
+  font-size: 1.2rem;
+  color: var(--color-secondary);
+  margin: 0.5rem 0 1rem;
+}
+
+.buy-button, .waitlist-button {
+  display: inline-block;
+  padding: 0.5rem 1.5rem;
+  border-radius: 4px;
+  font-weight: 600;
+  background-color: var(--color-primary);
+  color: var(--color-background);
+}
+
+.buy-button:hover, .waitlist-button:hover {
+  background-color: var(--color-secondary);
+}
+
+.details-link {
+  display: block;
+  margin-top: 0.5rem;
+  color: var(--color-muted);
+  font-size: 0.9rem;
+}
+
+.section.about, .section.how-it-works, .section.products {
+  text-align: center;
+}
+
+.steps {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+@media (min-width: 768px) {
+  .steps {
+    flex-direction: row;
+    justify-content: space-between;
+  }
+}
+
+.footer {
+  background-color: #0A0F22;
+  padding: 2rem 1rem;
+}
+
+.footer-nav {
+  margin-top: 1rem;
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+}
+
+.form-field {
+  margin-bottom: 1rem;
+}
+
+.form-field label {
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+.form-field input,
+.form-field textarea {
+  width: 100%;
+  padding: 0.75rem;
+  border: none;
+  border-radius: 4px;
+  background-color: #1D2338;
+  color: var(--color-text);
+}
+
+button[type="submit"] {
+  padding: 0.75rem 2rem;
+  background-color: var(--color-secondary);
+  color: var(--color-background);
+  border: none;
+  border-radius: 4px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+button[type="submit"]:hover {
+  background-color: var(--color-primary);
+}
+
+.faq details {
+  margin-bottom: 1rem;
+}
+
+.faq summary {
+  cursor: pointer;
+  color: var(--color-primary);
+  font-weight: 600;
+}
+
+.coming-soon .waitlist-form {
+  margin-top: 1rem;
+}
