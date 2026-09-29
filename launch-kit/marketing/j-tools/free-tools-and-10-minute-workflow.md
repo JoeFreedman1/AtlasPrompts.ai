@@ -35,8 +35,8 @@ Everything Well Listed needs to make faceless posts for £0: which free tools to
 
 | Tool | What for | Cost | Tip |
 |---|---|---|---|
-| **iPhone built-in screen recording** (Control Centre) | Recording an AI chat tool writing a listing. | Free, built in. | Turn on Do Not Disturb or a Focus mode first. Log out of or crop away the account name and profile picture. |
-| **Android built-in screen recorder** (quick settings, on most recent versions) | Same as above. | Free, built in (menu names vary by phone maker). | Same privacy steps. Turn off "show touches" unless the taps help. |
+| **iPhone built-in screen recording** (Control Centre) | Recording an AI chat tool writing a listing. | Free, built in. | Turn on Do Not Disturb or a Focus mode first. Keep the **microphone off** (long-press the record button and check Microphone is off) so your voice and room are not recorded. Crop or blur the account name and profile picture. |
+| **Android built-in screen recorder** (quick settings, on most recent versions) | Same as above. | Free, built in (menu names vary by phone maker). | Same privacy steps. Set sound to "none" (not microphone). Turn off "show touches" unless the taps help. |
 | **OBS Studio** (Windows, Mac, Linux) | Recording a laptop screen, cropped to just the chat window. | Free and open source. | Add a "Window capture" source for the browser only, then crop to the chat panel. This keeps tabs, bookmarks and the address bar out of shot. |
 
 ### Stock footage and images
@@ -122,7 +122,7 @@ Do this once. After it, every post is "duplicate, replace text, export".
 
 ## 3. One post in under 10 minutes (minute by minute)
 
-Before you start: choose today's post ID from `marketing/a-content-calendar/calendar.csv`, and open its script in `marketing/b-short-form-posts/`. Phone on Do Not Disturb.
+Before you start: find today's post on the dashboard (or in `marketing/a-content-calendar/calendar.csv`), and open its script in `marketing/b-short-form-posts/`. Phone on Do Not Disturb. This timing assumes the one-time setup in section 2 is done. On launch day it will not be yet: make the Day 1 post as simply as you can (text on the TikTok or CapCut screen over a screen recording is fine) and do section 2 before day 3.
 
 **Minute 0 to 1: read and decide.**
 Read the post's Hook, Script and Visuals. Decide: carousel (slides) or video (VO plus screen recording or stock). Open the matching master template (Canva "WL master" or CapCut "WL template") and duplicate it.
@@ -146,7 +146,7 @@ Export (1080 x 1920 video, or PNG slides). Watch or swipe through once on the ph
 Upload natively to each platform in the calendar row (no other platform's watermark). Paste the Caption and Hashtags blocks from the script exactly. Put the search phrase in the first caption line (it already is in the scripts). Add alt text on Instagram if offered.
 
 **Minute 9 to 10: publish or schedule, then log.**
-Post now or schedule (Meta Business Suite, TikTok Studio, Pinterest). Add a note to the metrics sheet that the post is out. Done.
+Post now or schedule (Meta Business Suite, TikTok Studio, Pinterest). Tick it off on the dashboard. Done. (The metrics file only takes one row of numbers per day, filled in the next morning, so do not add post notes there.)
 
 If a post takes longer than 10 minutes, it is usually the screen recording. Record three or four walkthroughs in one sitting at the weekend and keep them in a "WL raw clips" album.
 
@@ -164,7 +164,7 @@ Run through this for every image, video and screen recording before it goes live
 - [ ] **No home details.** No recognisable room, view from a window, house number, post, letters, parcels with addresses or labels, family photos, pets, car or number plate.
 - [ ] **No location tags.** Location tagging off in the post; photo location data (metadata) removed or location services off for the camera. Never tag a town or venue.
 - [ ] **No real listings or buyers.** No screenshot of anyone's real listing, username or message without permission. Example listings are ours and labelled "Example".
-- [ ] **No personal voice or handwriting.** Voiceover is the brand text-to-speech voice. No handwritten notes in shot.
+- [ ] **No personal voice or handwriting.** Voiceover is the brand text-to-speech voice. The screen recording's microphone was off (play it back with the sound up to check). No handwritten notes in shot.
 - [ ] **No marketplace logos** used as if we are affiliated.
 - [ ] **Words checked.** No em dashes or en dashes, no income claims, no invented numbers, UK spelling, "check the current rule" where a limit appears (`01-brief/WRITING-RULES.md`).
-- [ ] **Music is licensed.** Only the platform's commercial-use library or a royalty-free source.
+- [ ] **Music is licensed.** Only the platform's commercial-use library or a royalty-free source (TikTok business accounts are generally limited to its Commercial Music Library: check the current rule in the app).

@@ -100,4 +100,4 @@ Fill in everything in [SQUARE BRACKETS]. Delete any line that is not true for th
 
 ## Tracking outreach
 
-Keep a short log in `metrics/` (not shared publicly): date, name or handle, platform, the genuine reference you used, date of follow-up (if any), outcome. Delete the details of anyone who says no.
+Keep a short log in a private spreadsheet in the brand's own Google account, **not in this repo** (the repo may be shared, and names and emails are personal data): date, public handle, platform, the genuine reference you used, date of follow-up (if any), outcome. Delete the details of anyone who says no. The 5-a-day limit is a maximum, not a target.

@@ -10,9 +10,7 @@ Run these just before you post. They take a minute and catch what gets listings 
 2. Run the check for where you are posting: **C2** eBay UK, **C3** Vinted, **C4** Depop, **C5** Etsy, **C6** Amazon UK, **C7** TikTok Shop UK.
 3. If the listing mentions health, the environment, quality, brands, authenticity or returns, add **C8**, **C9** or **C11**. For keyword stuffing, use **K7** (Module 04).
 
-The platform points built into C2 to C7 are our summary, checked in September 2026. Even better: copy the rule text from the platform's help pages and paste it where the prompt says. The AI will then check against today's rule.
-
-Every check labels each issue **Must fix**, **Should fix** or **Fine**, flags rather than silently fixes, and ends with a verdict: "Ready to post" or "Fix first".
+The platform points in C2 to C7 are our summary, checked in September 2026. Better still, paste the rule text from the platform's help pages where the prompt says, so the AI checks against today's rule. Every check labels issues **Must fix**, **Should fix** or **Fine** and ends with a verdict.
 
 ---
 
@@ -84,10 +82,9 @@ My listing (title, specifics, condition, description, photos in a line each, pri
 For Clarks black leather Chelsea boots, UK 6:
 
 > 1. **Must fix:** title is 86 characters. Remove the "Womens Ladies" repeat: 74.
-> 2. **Must fix:** description says "Dr Martens style". These are Clarks: remove the other brand.
-> 3. **Should fix:** item specific Colour says "Black Brown Tan". The brief says black.
+> 2. **Must fix:** "Dr Martens style" in the description. These are Clarks: remove the other brand.
 >
-> **Title:** 86 (limit 80). **Verdict: Fix first.**
+> **Verdict: Fix first.**
 
 **Check before you post:**
 - The title count is 80 or fewer after your edits, in eBay's own box.
@@ -123,7 +120,6 @@ For a cream Zara linen shirt, size S, faint mark on the left cuff:
 
 > 1. **Must fix:** no photo of the cuff mark. Add one.
 > 2. **Should fix:** condition "Very good", but there is a mark. "Good" fits the brief better.
-> 3. **Should fix:** size says "S" only. Add chest and length measurements.
 >
 > **Verdict: Fix first.**
 
@@ -159,11 +155,10 @@ My listing (description with hashtags, category, brand, size, condition, photos 
 
 For Levi's 501 jeans, W30 L32, light fading on the knees:
 
-> 1. **Must fix:** 8 hashtags, limit 5. Keep #levis #501 #straightleg #bluejeans #denim.
-> 2. **Must fix:** #wranglerstyle names another brand. Remove.
-> 3. **Should fix:** the fading is only called "character". Say "light fading on both knees".
+> 1. **Must fix:** 8 hashtags, limit 5, and #wranglerstyle names another brand. Keep #levis #501 #straightleg #bluejeans #denim.
+> 2. **Should fix:** the fading is only called "character". Say "light fading on both knees".
 >
-> **Hashtags:** 8 (limit 5). **Verdict: Fix first.**
+> **Verdict: Fix first.**
 
 **Check before you post:**
 - Wear is described in plain words, not dressed up.
@@ -200,9 +195,8 @@ For a handmade speckled blue ceramic mug, 350 ml:
 
 > 1. **Must fix:** "eco-friendly glaze" has no evidence in the brief. Remove, or state the specific fact.
 > 2. **Should fix:** tag "handmade ceramic coffee mug" is 27 characters. Limit 20.
-> 3. **Fine:** title 94 characters, reads clearly.
 >
-> **Tags:** 13, one over 20. **Verdict: Fix first.**
+> **Verdict: Fix first.**
 
 **Check before you post:**
 - Any AI use is disclosed the way Etsy currently requires.
@@ -238,9 +232,8 @@ My listing (title, Item Highlights, bullets, description, search terms, images i
 
 For an own-brand "Oakden Home" bamboo chopping board set of 3:
 
-> 1. **Must fix:** title is 118 characters, limit 75. Suggested: "Oakden Home Bamboo Chopping Board Set of 3, Small Medium Large" (62).
-> 2. **Must fix:** "board" appears three times. Maximum twice.
-> 3. **Must fix:** bullet 2 says "antibacterial" with no evidence in the brief. Remove (see C8).
+> 1. **Must fix:** title is 118 characters, limit 75, and "board" appears three times. Suggested: "Oakden Home Bamboo Chopping Board Set of 3, Small Medium Large" (62).
+> 2. **Must fix:** bullet 2 says "antibacterial" with no evidence in the brief. Remove (see C8).
 >
 > **Verdict: Fix first.**
 
@@ -276,9 +269,8 @@ My title, description, images in a line each, and any video script or captions:
 
 For an own-brand lavender and shea hand balm, 50 ml:
 
-> 1. **Must fix:** "soothes eczema" is a claim to treat a condition. Remove.
-> 2. **Must fix:** caption "helps you sleep" is a health claim. Remove.
-> 3. **Should fix:** title "Hand Balm!! 20% OFF" has symbols and a promotion. Suggested: "Lavender and Shea Butter Hand Balm 50 ml" (40).
+> 1. **Must fix:** "soothes eczema" and "helps you sleep" are health claims. Remove.
+> 2. **Should fix:** title "Hand Balm!! 20% OFF" has symbols and a promotion. Suggested: "Lavender and Shea Butter Hand Balm 50 ml" (40).
 >
 > **Verdict: Fix first.**
 

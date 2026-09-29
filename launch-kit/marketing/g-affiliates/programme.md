@@ -48,7 +48,7 @@ We could not open Gumroad's help pages overnight, so check each step against Gum
 - Gumroad tracks affiliate sales with a cookie set when someone clicks the link. The cookie length is commonly reported as 30 days, but we have **not verified** this. Check Gumroad's help pages and tell creators the real figure, or say "tracking lasts for a limited time after the click" if unsure.
 - Tracking can fail if the buyer uses a different device or browser, clears cookies, or uses an ad blocker. Creators should know this upfront so there is no bad feeling.
 - If a sale goes through our own site first and then to Gumroad, the affiliate link must point straight to the Gumroad product page (or a page that keeps the affiliate tag). Test one link end to end before a creator posts.
-- Keep a simple sheet in `metrics/`: creator name, platform, date added, commission rate, date of their post, sales reported by Gumroad.
+- Keep a simple sheet of creators: public handle, platform, date added, commission rate, date of their post, sales reported by Gumroad. Keep it in a private spreadsheet in the brand's own Google account, **not in this repo**: names and email addresses are personal data, and the repo may be shared. The daily operator only needs handles and numbers.
 
 ---
 
@@ -64,7 +64,7 @@ UK advertising rules (the CAP Code, enforced by the ASA) say that paid or affili
 - Next to the link itself, add "affiliate link" (for example: "Affiliate link: [link]"). On its own, "affiliate link" may not be clear enough for the ASA, so use it **as well as** #ad, not instead of it. Check the ASA guidance for the current wording.
 - Use the platform's own paid partnership tool as well where one exists (TikTok's content disclosure setting, Instagram's "Paid partnership" label, YouTube's "includes paid promotion" box).
 - For video, say it or show it on screen at the start too, for example "Ad: this is an affiliate link, I get a commission if you buy."
-- A free kit alone, with no commission, still needs labelling as a gift. Once they have an affiliate link, it is an ad.
+- A free kit alone, with no commission, still needs labelling, for example "gifted" or "free copy from Well Listed". Once they have an affiliate link, it is an ad and needs #ad.
 
 ### No income or sales claims
 
@@ -109,6 +109,6 @@ We ask once for the post to be fixed (for example, adding #ad). If it is not fix
 - **Who we invite:** small UK creators whose content is about reselling, decluttering or small marketplace shops, and whose tone fits ours (practical, honest). Size does not matter. We never invite anyone whose content is about income claims or "get rich" reselling.
 - **How we find them:** by watching and reading their content first (see `research/where-buyers-hang-out.md`). No bought lists, no scraped emails.
 - **How we contact them:** one personalised message at a time, through the contact route they publish for business or collaboration enquiries (see `outreach.md`). Maximum 5 a day.
-- **Checking posts:** when a creator tells us they have posted, check it has #ad at the start and no income claims. Save the link in the `metrics/` sheet.
+- **Checking posts:** when a creator tells us they have posted, check it has #ad at the start and no income claims. Save the link in the private creator sheet.
 - **Being fair:** reply to creators within 2 working days. If Gumroad tracking misses a sale they can reasonably show came from them, we will look at it.
 - **Privacy:** only keep what we need (name or handle, contact email, Gumroad email, rate, posts). Delete details of anyone who says no.

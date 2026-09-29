@@ -12,7 +12,7 @@ secondary_keywords: how to describe flaws on ebay, used clothing condition descr
 
 ## Why condition wording matters
 
-Buyers mind surprises far more than flaws. A clear condition description sets the right expectation and shows you disclosed the flaw if a question comes up. "Sold as seen" does not rescue a wrong description: even private sellers must describe items accurately, and business sellers have extra duties under UK consumer law.
+Buyers mind surprises far more than flaws. A clear condition description sets the right expectation and shows you disclosed the flaw if a question comes up. "Sold as seen" does not rescue a wrong description: even private sellers must describe items accurately, and business sellers have extra duties under UK consumer law (general information, not legal advice).
 
 ## The four-part flaw formula
 

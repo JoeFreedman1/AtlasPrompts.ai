@@ -8,7 +8,7 @@ secondary_keywords: how to write a vinted description, what to put in vinted des
 
 # Vinted description template: what to write, with examples
 
-**The short answer:** a good Vinted description is short and complete. Say what the item is, the size on the label and the measurements in cm (laid flat), the condition with every flaw (where, what, how big), the material, and one line inviting questions. That is five short lines, and it answers most of the messages you would otherwise get. Copy the template below and fill it in.
+**The short answer:** a good Vinted description is short and complete. Say what the item is, the size on the label and the measurements in cm (laid flat), the condition with every flaw (where, what, how big), the material, and one line inviting questions. Five short lines answer most of the messages you would otherwise get. Copy the template below and fill it in.
 
 ## The free Vinted description template
 
@@ -92,7 +92,7 @@ All items below are invented examples.
 - **Say how it fits, only if you know.** "Fits like a UK 10 on me" helps. Guessing does not.
 - **Say what you checked, and what you did not.** "All buttons present" and "not checked for odour" are both honest.
 - **Point to photos.** "See photo 5" shows you disclosed the flaw.
-- **Keep other brands out.** "Zara style" or "similar to Arket" is keyword spam and can break Vinted's rules.
+- **Keep other brands out.** "Zara style" or "similar to Arket" is keyword spam and can mislead buyers. Check Vinted's Catalogue Rules for the current wording.
 
 ## What to leave out
 

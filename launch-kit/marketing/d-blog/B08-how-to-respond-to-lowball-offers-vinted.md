@@ -6,7 +6,7 @@ primary_keyword: how to respond to lowball offers on vinted
 secondary_keywords: how to decline an offer on vinted politely, how to negotiate price on vinted
 ---
 
-# How to Respond to Lowball Offers on Vinted (Politely, and Without Caving)
+# How to respond to lowball offers on Vinted (politely, and without caving)
 
 The best way to respond to a lowball offer on Vinted is to decide your floor price before any offers arrive, then choose one of three short replies: counter at a price you are happy with, decline politely and invite a better offer, or accept if it clears your floor. Keep it under 30 words, stay friendly, give one true reason if you give any, and send any counter through the app's offer tools. Never lecture the buyer about what the item is worth.
 
@@ -34,15 +34,15 @@ Now "£8?" takes no thought at all. It is a polite decline, and you can get on w
 
 ### 1. The friendly counter
 
-> Thanks for the offer. £8 is a bit low for me, but I could do £26. I will send it through the offer button if that works for you.
+> Thanks for the offer. £22 is a bit low for me, but I could do £26. I will send it through the offer button if that works for you.
 
-Counter with a real number, not "make me a better offer". A specific figure gives the buyer something to say yes to.
+This is for offers between your floor and your target (here, £20 to £25). Counter with a real number, not "make me a better offer". A specific figure gives the buyer something to say yes to.
 
 ### 2. The polite decline
 
 > Thanks for your interest, but I cannot go that low on this one. You are welcome to make another offer.
 
-This is how to decline an offer on Vinted politely without closing the door. Plenty of buyers open low to see what happens, then come back with a sensible figure.
+This is how to decline an offer on Vinted politely without closing the door. Some buyers open low to see what happens, then come back with a sensible figure.
 
 ### 3. The accept
 
@@ -70,7 +70,7 @@ No argument needed. If they can, they will.
 
 ### The buyer who makes an offer and vanishes
 
-Normal. Many people send offers on several items at once and buy the first one accepted. Do not chase more than once.
+Normal. Some buyers send offers on several items at once and buy the first one accepted. Do not chase more than once.
 
 ### "Can I pay you directly to save the fees?"
 

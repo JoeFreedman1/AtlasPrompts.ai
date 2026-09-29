@@ -6,7 +6,7 @@ primary_keyword: chatgpt etsy listing prompt
 secondary_keywords: etsy product description template, ai etsy title and description
 ---
 
-# ChatGPT Etsy Listing Prompt: Titles and Descriptions That Sound Like You
+# ChatGPT Etsy listing prompt: titles and descriptions that sound like you
 
 The best ChatGPT Etsy listing prompt does three jobs. It gives the AI your real facts first (materials, sizes, making time, care), it asks for a readable title under Etsy's 140 characters, and it bans the AI from inventing anything. Paste your notes, ask for three titles and a structured description, then check every line against the item on your table. Our prompt below does all of that in one go, and it works in ChatGPT or any other free AI chat tool.
 
@@ -119,6 +119,6 @@ Yes, as long as the listing is accurate. Give it your real facts, forbid additio
 Etsy's disclosure rules, at the time of writing, focus on items created with AI help. Check the current Creativity Standards in Etsy's help pages for your situation.
 
 **How long should an Etsy title be?**
-Up to 140 characters at the time of writing. Most clear titles land between 60 and 110.
+Up to 140 characters at the time of writing. A clear title rarely needs all of them.
 
 *Well Listed is not affiliated with, endorsed by or sponsored by Etsy or OpenAI. ChatGPT is a trademark of OpenAI. Etsy is a trademark of Etsy, Inc.*

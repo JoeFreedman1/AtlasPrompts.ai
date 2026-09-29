@@ -144,7 +144,7 @@ Add the answers to your brief, not just the listing, so every platform gets them
 
 The Well Listed team
 
-P.S. This is a shortened version of prompt B4 from The Well Listed Kit, which also has brief versions for clothing, electronics, books, homeware, toys and handmade: [GUMROAD_PRODUCT_LINK]
+P.S. This is a shortened version of prompt B4 from The Well Listed Kit, which also has extra brief lines for clothing, electronics, books, homeware, toys and handmade: [GUMROAD_PRODUCT_LINK]
 ~~~
 
 ---
@@ -307,7 +307,7 @@ My Listing Brief: [PASTE]
 
 Now, the kit, since you have been getting these emails for a week and a bit.
 
-The Well Listed Kit is 13 short modules and 94 prompts: all-in-one starter prompts for each platform, briefs, titles, descriptions and condition, keywords and item specifics, photos, pricing, buyer messages, video and TikTok Shop, a pre-post rule checker and a batch workflow. Plus fill-in templates (including 22 ready buyer replies), six worked examples, a platform cheatsheet, a PDF, and a prompt library with copy buttons that works on your phone. It works with the free versions of ChatGPT, Claude, Gemini or Copilot. It is [CURRENT_PRICE], one-off, no subscription, with a 30-day no-questions refund.
+The Well Listed Kit is 13 short modules and 92 prompts: all-in-one starter prompts for each platform, briefs, titles, descriptions and condition, keywords and item specifics, photos, pricing, buyer messages, video and TikTok Shop, a pre-post rule checker and a batch workflow. Plus fill-in templates (including 22 ready buyer replies), six worked examples, a platform cheatsheet, a PDF, and a prompt library with copy buttons that works on your phone. It works with the free versions of ChatGPT, Claude, Gemini or Copilot. It is [CURRENT_PRICE], one-off, no subscription, with a 30-day no-questions refund.
 
 It is not for you if:
 - You want a promise of more sales. We cannot make one, and nobody honestly can.

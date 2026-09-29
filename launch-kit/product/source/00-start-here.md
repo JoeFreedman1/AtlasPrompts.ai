@@ -47,7 +47,6 @@ Rules:
 
 **Check before you post:**
 - Tap every field in the app yourself. Filters use the fields, not the text.
-- AI tools miscount characters. Trust the counter in the app.
 
 ### A2 All-in-one eBay UK listing
 **Use it when:** You want an eBay UK title, item specifics and description in one go.
@@ -81,8 +80,7 @@ Rules:
 - Nothing about returns or buyers' rights (I set those in eBay).
 ```
 **Check before you post:**
-- Paste the title into eBay's title box and read its counter.
-- Choose eBay's condition option that matches your flaws, reading eBay's own definition.
+- Paste the title into eBay's title box and read its counter. AI tools miscount.
 
 ### A3 All-in-one Depop listing
 **Use it when:** You want a Depop description (first line doing the job of a title) plus hashtags in one go.
@@ -116,7 +114,6 @@ Rules:
 ```
 **Check before you post:**
 - Fill in Depop's category, brand, size and condition fields as well.
-- Check the current hashtag and description limits in the app.
 
 ### A4 All-in-one Etsy listing
 **Use it when:** You make or sell handmade, vintage or craft supply items and want a title, tags and description in one go.
@@ -148,7 +145,6 @@ Rules:
 ```
 **Check before you post:**
 - Count any tag close to 20 characters. Etsy will reject a longer one.
-- If you used AI in making the item or its design, check Etsy's current rules on saying so.
 
 ### A5 All-in-one Amazon UK listing
 **Use it when:** You are a brand owner or seller of new stock creating an Amazon UK product listing.
@@ -180,8 +176,7 @@ Rules:
 - No health, medical or eco claims. No other brand names anywhere.
 ```
 **Check before you post:**
-- Check your category's style guide in Seller Central. Limits and rules differ by category and change.
-- Every feature must match your product specification exactly.
+- Check your category's style guide in Seller Central. Limits differ by category and change.
 
 ### A6 All-in-one TikTok Shop UK listing
 **Use it when:** You sell new stock or your own products on TikTok Shop UK and want a title, description and claims check in one go.
@@ -210,8 +205,7 @@ Rules:
 - No "best", no comparisons with other brands, no fake urgency, no vague green claims.
 ```
 **Check before you post:**
-- Check the title maximum and your category rules in Seller Center. Some categories need approval.
-- Keep the video and photos consistent with the listing.
+- Check the title maximum and your category rules in Seller Center.
 
 ---
 
@@ -237,48 +231,21 @@ Module 11 shows six full examples from notes to buyer reply. Module 12 has every
 
 ---
 
-## What is in the download
-
-- **Well-Listed-Kit.pdf:** this guide.
-- **prompt-library.html:** every prompt, searchable, with a copy button. Works offline. Best on your phone.
-- **all-prompts.txt:** every prompt in one plain file for your notes app.
-- **templates/:** the Listing Brief (text and spreadsheet), a stock and pricing tracker, ready buyer replies and photo shot lists.
-
----
-
 ## How every prompt works
 
-Generic AI output goes wrong because it is given too little, so it fills the gaps with guesses: invented materials, wrong sizes, American spellings and "stunning vintage piece". Every prompt here fixes that the same way:
+Generic AI output goes wrong because it is given too little, so it guesses: invented materials, wrong sizes, American spellings, "stunning vintage piece". Every prompt here works the same way:
 
-1. **Facts first.** You give it the facts, either in the A prompts' fill-in lines or in a **Listing Brief** (Module 01), which you fill in once and reuse for every platform.
-2. **Only those facts.** The AI is told not to add, assume or improve anything.
-3. **Gaps are marked [CHECK: ...]** instead of guessed, so you know exactly what to look up.
-4. **UK English, UK sizes, the platform's limits, no hype, no misleading claims.**
+1. **Facts first,** either in the A prompts' fill-in lines or in a **Listing Brief** (Module 01) that you fill in once and reuse everywhere.
+2. **Only those facts.** Gaps come back as **[CHECK: ...]** instead of guesses.
+3. **UK English, UK sizes, the platform's limits, no hype, no misleading claims.**
 
-Each prompt has an ID and name (the letter is the module: A all-in-one, B brief, T titles, D descriptions, K keywords, PH photos, R pricing, M messages, V video, C checks, W workflow), a "Use it when" line, the prompt to paste, usually an example of good output for an invented item, and a short "Check before you post" list. Replace everything in [SQUARE BRACKETS] before you send.
+Each prompt has an ID (the letter is the module: A all-in-one, B brief, T titles, D descriptions, K keywords, PH photos, R pricing, M messages, V video, C checks, W workflow), a "Use it when" line, the prompt, usually an example for an invented item, and a short check list. Replace everything in [SQUARE BRACKETS] before you send.
 
----
+**Which AI tool?** Every prompt works in the free versions of ChatGPT, Claude, Gemini and Microsoft Copilot, with no plugins or browsing. Use the one you have. Start a new chat per item or batch, paste the whole prompt, and if it gets something wrong, say so: "The size is 14, not 12. Rewrite using only my facts." The platforms' own AI helpers (eBay and Depop can draft from a photo, Amazon offers listing tools to UK sellers) follow the same rule: check every word, or tidy their draft with D10.
 
-## Choosing a free AI tool
+**Privacy: items yes, people no.** Never paste buyers' names, usernames, addresses, phone numbers, emails, order numbers or screenshots of order pages, or your own bank details or home address. Replace a buyer's details with [BUYER]. Check your AI tool's data settings too.
 
-Every prompt works in the free versions of ChatGPT, Claude, Gemini and Microsoft Copilot. No plugins, no paid features, no browsing needed. Free limits change often, so use the one you already have.
-
-- **One chat per item, or per batch.** A new chat stops details leaking between items.
-- **Paste the whole prompt.** The rules at the bottom keep the AI honest.
-- **If it gets something wrong, say so:** "The size is 14, not 12. Rewrite using only my facts."
-- **AI tools miscount characters.** Always check title length in the listing form.
-
-**The platforms' own AI helpers** (eBay's app can draft a listing from a photo, Depop can generate a description from a photo, Amazon offers generative listing tools to UK sellers) can be useful. The same rule applies: check every word against the item. You can paste their draft into D10 (Module 03) to tidy it into UK English and remove anything unsupported.
-
----
-
-## Privacy: items yes, people no
-
-Treat AI chat tools like a public notice board.
-
-- **Never paste:** buyers' names, usernames, addresses, phone numbers, emails, order or tracking numbers, screenshots of order pages, or your own bank details, passwords or home address.
-- **Safe to paste:** facts about the item, sold prices you copied by hand, and a buyer's question with their details replaced by [BUYER].
-- Check your AI tool's data settings. Many let you choose whether your chats are used to improve their models.
+The download also has **prompt-library.html** (every prompt, searchable, with copy buttons, works offline on your phone), **all-prompts.txt** and a **templates** folder (Listing Brief, stock and pricing tracker, buyer replies, photo shot lists).
 
 ---
 

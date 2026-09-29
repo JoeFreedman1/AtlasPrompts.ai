@@ -59,6 +59,7 @@ UK advertising rules (the ASA and the CAP Code) say affiliate content must be ob
 2. In video, say or show "Ad" near the start.
 3. "Affiliate link" next to the link itself.
 4. Switch on your platform's paid partnership or disclosure setting.
+5. If you only use the free kit and have no affiliate link, still say so, for example "gifted" or "free copy from Well Listed".
 
 The ASA's guide for influencers explains this in detail: https://www.asa.org.uk/resource/influencers-guide.html
 

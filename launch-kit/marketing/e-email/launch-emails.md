@@ -49,7 +49,7 @@ Hi,
 
 The Well Listed Kit is out. It is the full version of the cheat sheet you downloaded.
 
-What is inside: 13 short modules and 94 prompts covering an all-in-one starter prompt for each platform, Listing Briefs, titles, descriptions and condition, keywords and item specifics, photos, pricing from sold comps, buyer messages, video and TikTok Shop, a pre-post rule checker and a batch workflow for listing up to 10 items in one chat. Plus fill-in templates (including 22 ready buyer replies), six worked examples, a PDF, and a prompt library with copy buttons that works on your phone. It works with the free versions of ChatGPT, Claude, Gemini or Copilot.
+What is inside: 13 short modules and 92 prompts covering an all-in-one starter prompt for each platform, Listing Briefs, titles, descriptions and condition, keywords and item specifics, photos, pricing from sold comps, buyer messages, video and TikTok Shop, a pre-post rule checker and a batch workflow for listing up to 10 items in one chat. Plus fill-in templates (including 22 ready buyer replies), six worked examples, a PDF, and a prompt library with copy buttons that works on your phone. It works with the free versions of ChatGPT, Claude, Gemini or Copilot.
 
 The launch price is £12 until 11:59pm UK time on [LAUNCH END DATE]. After that it is £19. That is the only deadline and it is a real one.
 

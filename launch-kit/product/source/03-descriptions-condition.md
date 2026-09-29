@@ -42,8 +42,6 @@ Describe every flaw with **location, type, size and photo**.
 | Minor wear | Light rubbing on both heels, about 1 cm, see photo 5 |
 | Small mark | Pale grey mark on the front, below the left pocket, about 5 mm. Not tested whether it washes out |
 | A few scratches | Three fine scratches on the back casing, only visible at an angle. Screen has no scratches |
-| Used condition | Pages lightly yellowed. Previous owner's name in pen on the first page. Spine uncreased |
-| Tiny chip | Chip on the rim next to the handle, about 2 mm. See photo 4 |
 
 - Say what you checked: "No holes or stains that I can see" is honest. "Perfect" is a promise.
 - Say what you did not check: "Not tested with a charger".
@@ -126,13 +124,7 @@ My Listing Brief:
 
 For black Levi's 501 jeans, W30 L32:
 
-> Black Levi's 501 straight leg jeans. Label size W30 L32.
->
-> Measured flat: waist 39 cm (78 cm doubled), inside leg 81 cm, rise 28 cm.
->
-> Good condition. Faded to a washed charcoal on both knees and along the thighs (photo 4). Back belt loop slightly frayed. No rips or holes.
->
-> 100% cotton, button fly. Happy to answer questions or send more photos.
+> Black Levi's 501 straight leg jeans, label size W30 L32. Measured flat: waist 39 cm (78 cm doubled), inside leg 81 cm. Good condition: faded to a washed charcoal on both knees (photo 4). No rips or holes. 100% cotton, button fly. Happy to answer questions or send more photos.
 
 **Check before you post:**
 - Fill in Vinted's brand, size, colour, condition and material fields. They matter as much as the text.
@@ -167,11 +159,7 @@ For the brown suede Topshop jacket, size 10:
 
 > Topshop brown suede jacket, size 10, 90s style
 >
-> Boxy, slightly cropped fit with a four-button front and two flap pockets. Fully lined.
->
-> Measured flat: pit to pit 52 cm, length 58 cm, sleeve 60 cm.
->
-> Good condition. Light darkening on both cuffs. Small scuff on the back hem, about 1 cm (photo 6).
+> Boxy, cropped fit, four-button front. Measured flat: pit to pit 52 cm, length 58 cm. Good condition: light darkening on both cuffs, small scuff on the back hem, about 1 cm (photo 6).
 >
 > #suedejacket #brownsuede #topshop #90sstyle #croppedjacket
 
@@ -206,13 +194,7 @@ My Listing Brief:
 
 For a handmade soy wax candle in a 200 ml amber glass jar, fig scent:
 
-> A hand-poured soy wax candle in an amber glass jar, scented with fig. Made in small batches.
->
-> **Jar:** amber glass, 200 ml, 8 cm tall. **Wax:** soy wax blend [CHECK: exact wax from supplier]. **Burn time:** [CHECK: your tested burn time, or leave out]
->
-> **Made to order.** Dispatched within 3 working days.
->
-> **Safety:** never leave a burning candle unattended. Keep away from children, pets and anything flammable. [CHECK: the safety and allergen information your fragrance supplier provides]
+> A hand-poured soy wax candle in a 200 ml amber glass jar, scented with fig. **Wax:** soy wax blend [CHECK: exact wax from supplier]. **Burn time:** [CHECK: your tested burn time, or leave out]. Made to order, dispatched within 3 working days. **Safety:** never leave a burning candle unattended. [CHECK: the safety and allergen information your fragrance supplier provides]
 
 **Check before you post:**
 - Scented products sold in the UK may need specific safety and allergen labelling. Check with your supplier and official guidance.
@@ -312,9 +294,8 @@ Things I checked and found fine:
 For "mark on the front, bit of fraying at the hem, zip a bit stiff":
 
 > - Pale mark on the front [CHECK: which side, and size in mm]
-> - Light fraying along the bottom hem [CHECK: where, and length in cm]
+> - Light fraying along the bottom hem [CHECK: length in cm]
 > - Zip works but is stiff to pull
-> - Checked: no holes, no odour noticed
 
 **Check before you post:**
 - Use the same flaw list on every platform you list on.
@@ -339,12 +320,7 @@ UK English. Never estimate or invent a measurement. If one is missing, write [CH
 
 For a wool coat, after the seller replies:
 
-> **Label size:** UK 14
-> **Measurements (laid flat, in cm)**
-> Pit to pit: 58 cm
-> Shoulder to shoulder: 44 cm
-> Length (shoulder by collar to hem): 96 cm
-> Sleeve (shoulder seam to cuff): 61 cm
+> **Label size:** UK 14. **Measurements (laid flat, in cm):** pit to pit 58, shoulder to shoulder 44, length (shoulder by collar to hem) 96, sleeve (shoulder seam to cuff) 61.
 
 **Check before you post:**
 - Measure buttoned and smoothed, not stretched, the same way every time. Say if the fabric stretches.
@@ -412,7 +388,7 @@ Old: "OMG this gorgeous vintage sweater is a MUST HAVE!! Timeless piece in amazi
 
 > **Rewrite:** Cream cable knit jumper, size M on label. Measured flat: pit to pit 55 cm, length 66 cm. Very good condition, light bobbling under the arms. [CHECK: fabric from the care label]
 >
-> **Removed:** "Vintage" (no era in the brief). "Amazing condition" (replaced with the grade and the flaw). "Fits true to size" (not in the brief). "Fall" (US word, not needed). Hype and exclamation marks.
+> **Removed:** "Vintage" (no era in the brief), "amazing condition" (replaced with the grade and flaw), "fits true to size" (not in the brief), "fall" (US word), hype and exclamation marks.
 
 **Check before you post:**
 - If the AI removed a claim you know is true, add it back with the evidence (e.g. "receipt available").

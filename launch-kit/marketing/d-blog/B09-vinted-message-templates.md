@@ -6,7 +6,7 @@ primary_keyword: vinted message templates
 secondary_keywords: reply to "is this still available", ebay buyer message templates, polite reply to buyer
 ---
 
-# Vinted Message Templates: Polite Replies for Every Buyer Question
+# Vinted message templates: polite replies for every buyer question
 
 Good Vinted message templates are short, friendly and factual, and they keep everything on the platform. Answer the question in the first sentence, add one useful fact (when you post, or a measurement), and point to the app's own buttons for buying or offers. Below are 14 copy-paste replies, from "is this still available?" to returns, plus a prompt for anything unusual. They work as eBay buyer message templates too.
 
@@ -22,7 +22,7 @@ Fill in the [SQUARE BRACKETS] and check every fact is true for your item before 
 
 ## Reply to "is this still available?"
 
-The classic. Answer it, then make the next step easy.
+Answer it, then make the next step easy.
 
 **1. Yes, still available**
 > Hi, yes it is still available. I can post [NEXT WORKING DAY] after purchase. Any questions, just ask.
@@ -31,7 +31,7 @@ The classic. Answer it, then make the next step easy.
 > Hi, sorry, this one has sold. I have a few similar items listed if you would like a look.
 
 **3. Sold on another app (if you cross-list)**
-> Hi, I am really sorry, this has just sold elsewhere and I have removed it.
+> Hi, sorry, this has just sold elsewhere and I have removed it.
 
 If an order has come in on a second platform, cancel it through that platform's process and check its rules, as some count seller cancellations against you. Better still, remove cross-listed items the moment one sells.
 
@@ -48,7 +48,7 @@ Get this often? Your descriptions need measurements. Our [Vinted description tem
 Add photos to the listing rather than sending them by message, so every buyer sees them.
 
 **6. Smoke-free or pet-free?**
-> Hi, thanks for asking. Yes, it comes from a smoke-free home. [ONLY ADD PET-FREE IF TRUE.]
+> Hi, thanks for asking. [ONLY IF TRUE: Yes, it comes from a smoke-free and pet-free home.]
 
 ## Offers and bundles
 
@@ -86,7 +86,7 @@ Always decline. Paying outside the platform removes buyer and seller protection,
 **14. Item not as described**
 > Hi, I am sorry about that, and thanks for telling me. Could you send a photo of the [PROBLEM] here? I will sort it out through the app.
 
-Reread your listing first. If you did not mention the flaw, the fair thing is usually to put it right through the app. If you did mention and photograph it, you are on firmer ground. As a private seller, change-of-mind returns are generally your choice, but "not as described" claims may be covered by buyer protection whatever your policy says. Check the current rule in the platform's help pages, and gov.uk or Citizens Advice if you might count as a trader.
+Reread your listing first. If you did not mention the flaw, the fair thing is usually to put it right through the app. If you did mention and photograph it, you are on firmer ground. As a private seller, change-of-mind returns are generally your choice, but "not as described" claims may be covered by buyer protection whatever your policy says. This is general information, not legal advice: check the platform's help pages, and gov.uk or Citizens Advice if you might count as a trader.
 
 ## Using these as eBay buyer message templates
 

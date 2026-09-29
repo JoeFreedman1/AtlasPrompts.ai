@@ -89,9 +89,9 @@ The notes said "works fine", but the loose stick means we list exactly what was 
 >
 > Posted with a tracked 48 hour service, well padded.
 
-**Item specifics (K1):** Brand: Sony. Model: Sony PlayStation 4 Slim. Storage capacity: 500 GB. Colour: Black. MPN: CUH-2216A. Region code: [CHECK: eBay's region field and the console's region]. Type: Home console.
+**Item specifics (K1):** Brand: Sony. Model: PlayStation 4 Slim. Storage: 500 GB. Colour: Black. MPN: CUH-2216A. Region code: [CHECK: the console's region].
 
-**Price reasoning, invented comps:** 500GB, 1 controller, cables, no box: £105 (the only close match). Boxed: £120. With 2 controllers and 3 games: £135. Console only, scratched: £80. 1TB: £125. The loose stick and top scratches put ours slightly below the clean match. UK private sellers pay no final value fee in most categories (the buyer pays a Buyer Protection fee; check eBay's current fee pages). List at **£105 plus postage**, Buy It Now with offers, floor **£95**.
+**Price reasoning, invented comps:** 500GB, 1 controller, cables, no box: £105 (the only close match). Boxed, bundled with games, 1TB or console-only listings are not fair comparisons. The loose stick and top scratches put ours slightly below the clean match. UK private sellers pay no final value fee in most categories (the buyer pays a Buyer Protection fee; check eBay's current fee pages). List at **£105 plus postage**, Buy It Now with offers, floor **£95**.
 
 **Buyer reply (M1):**
 
@@ -137,7 +137,7 @@ The notes said "works fine", but the loose stick means we list exactly what was 
 
 **Tags (K2):** tealight holder, ceramic candle, stoneware holder, sage green decor, speckled pottery, star candle holder, handmade pottery, ceramic tealight, candle holder set, housewarming gift, rustic home decor, pottery gift, table centrepiece
 
-**Price reasoning, invented figures:** costs are clay and glaze £3.20, kiln share £2.00, packaging £1.40 and 1 hour of time at a rate we choose, £12.00: £18.60 in total. Etsy fees checked September 2026: listing $0.20 (about £0.15), 6.5% transaction fee on item price plus postage, UK payment processing 4% + £0.20, plus a UK Regulatory Operating Fee [CHECK: current rate]. At £24 plus £4.50 postage (£28.50 order): transaction about £1.85, processing about £1.34, listing £0.15, so about £3.34 before the Regulatory Operating Fee. With the postage charge covering real postage, about £20.66 is left against £18.60 of costs. Three similar handmade pairs sold at £22, £26 and £28 (invented). List at **£24 plus postage**.
+**Price reasoning, invented figures:** costs £18.60 (clay and glaze £3.20, kiln share £2.00, packaging £1.40, 1 hour of time at a rate we choose £12.00). Etsy fees checked September 2026 on a £24 item plus £4.50 postage (£28.50 order): 6.5% transaction about £1.85, processing (4% + £0.20) about £1.34, listing about £0.15, so about £3.34 before the UK Regulatory Operating Fee [CHECK: current rate]. With postage covering postage, about £20.66 is left against £18.60 of costs. Similar handmade pairs sold at £22, £26 and £28 (invented). List at **£24 plus postage**.
 
 **Buyer reply (M1):**
 
@@ -176,7 +176,7 @@ The notes said "works fine", but the loose stick means we list exactly what was 
 
 **Fields (K3):** Category: Coats and jackets [CHECK: pick men's or women's by the cut and buttons]. Brand: Wrangler. Size: M. Condition: Used, good. Colour: Blue. Source: Vintage.
 
-**Price reasoning, invented comps:** 90s Wrangler cord collar jacket, M, good: £38 (closest). Vintage Wrangler, L, no cord collar: £30. Cord collar, M, heavy fading: £28. Cord collar, S, excellent: £45. Ours has a small mark, so a little below the closest match. Depop charges UK sellers no selling fee, but payment processing still comes out of each sale [CHECK: current rate in Depop's help centre]. List at **£36**, floor **£30**.
+**Price reasoning, invented comps:** 90s Wrangler cord collar jacket, M, good: £38 (closest). Others (different size, no cord collar, heavy fading) sold from £28 to £45. Ours has a small mark, so a little below the closest match. Depop charges UK sellers no selling fee, but payment processing still comes out of each sale [CHECK: current rate in Depop's help centre]. List at **£36**, floor **£30**.
 
 **Buyer reply (M1):**
 
@@ -207,19 +207,17 @@ The notes said "works fine", but the loose stick means we list exactly what was 
 
 **Item Highlights:** Solid beech, 3 viewing angles, charging cable slot, rubber feet, fits phones up to 7 inch. Made in the UK. (106)
 
-**Bullets (D5):**
+**Bullets (D5), first three of five:**
 
 1. VIEWING ANGLES: move the back support to one of 3 positions for video calls, recipes or watching.
 2. CABLE SLOT: thread your charging cable through the slot at the back to charge while the phone is on the stand.
-3. FITS: phones up to 7 inch, with or without a slim case, in portrait or landscape. Also tested with an 8.3 inch small tablet in landscape.
-4. MATERIAL: solid beech with an oiled finish and 4 rubber feet on a 12 x 9 cm base.
-5. MADE IN THE UK: cut and finished in our UK workshop. Phone not included.
+3. FITS: phones up to 7 inch, with or without a slim case. Also tested with an 8.3 inch small tablet in landscape.
 
 **Search terms (K5):** desk mobile cradle dock kitchen recipe video call bedside tablet
 
 No word from the title is repeated, and nothing the product is not (no "bamboo", no other brands).
 
-**Price reasoning, invented figures:** beech, oil and feet £3.10, labour £4.00, packaging £0.80, plus delivery or fulfilment [CHECK: your cost]. Amazon (checked September 2026): Individual plan £0.75 per item sold, or Professional £25 a month excluding VAT, plus a referral fee by category [CHECK: rate for this category]. Similar small-brand wooden stands at £12.99, £15.99, £16.99 and £19.99 (invented). "RRP £17.99" from the notes is not used: a reference price must be a genuine price we have actually charged. List at **£15.99**.
+**Price reasoning, invented figures:** costs £7.90 plus delivery or fulfilment [CHECK: your cost]. Amazon (checked September 2026): Individual plan £0.75 per item sold, or Professional £25 a month excluding VAT, plus a referral fee by category [CHECK: rate for this category]. Similar small-brand wooden stands are priced from £12.99 to £19.99 (invented, a sense check only). "RRP £17.99" from the notes is not used: a reference price must be a genuine price we have actually charged. List at **£15.99**.
 
 **Buyer reply (M1):**
 
@@ -259,9 +257,7 @@ No word from the title is repeated, and nothing the product is not (no "bamboo",
 >
 > Size: 29 to 49 cm wide, 38 cm deep, 5 cm high. What's included: 1 cutlery tray. Care: wipe clean with a damp cloth. Not dishwasher safe. Do not soak.
 
-**Video idea (V1, hands only):** empty drawer, top-down ("Measure your drawer first"). Hands pull the tray to full width ("29 cm to 49 cm wide"). Cutlery goes in ("5 to 7 compartments"). Drawer closes ("Details in the shop").
-
-**Price reasoning, invented figures:** landed unit cost £5.80, packaging £0.60, delivery £2.90: £9.30. TikTok Shop UK standard commission checked September 2026: 9%, inclusive of VAT. At £16.99, commission is about £1.53, leaving about £6.16 before any affiliate commission, ads or promotions. Similar trays at £14.99, £17.99, £19.99 and £22.99 (invented). List at **£16.99**. Any "was" price or discount must be genuine.
+**Price reasoning, invented figures:** landed unit cost £5.80, packaging £0.60, delivery £2.90: £9.30. TikTok Shop UK standard commission checked September 2026: 9%, inclusive of VAT. At £16.99, commission is about £1.53, leaving about £6.16 before any affiliate commission, ads or promotions. Similar trays are priced from £14.99 to £22.99 (invented, a sense check only). List at **£16.99**. Any "was" price or discount must be genuine.
 
 **Buyer reply (M1):**
 

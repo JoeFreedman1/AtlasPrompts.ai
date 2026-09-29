@@ -14,7 +14,7 @@ secondary_keywords: how to fill in item specifics on ebay, ebay item specifics c
 
 A buyer who searches "womens jumper" often narrows the results with filters: Size 12, Brand Next, Colour Grey. Those filters run on item specifics, and eBay's UK Seller Centre advises adding them because they help listings appear in filtered search. Fill in only the required fields and your listing can drop out the moment a buyer taps a filter. A great title cannot fix that.
 
-Specifics also give buyers the key facts in a format they can scan and check against the title and photos.
+Specifics also give buyers facts they can scan and check against the photos.
 
 ## How to fill in item specifics on eBay
 
@@ -122,7 +122,7 @@ Want every platform's limits and a pre-post checklist on one page? **The UK List
 Some are required in most categories. The rest are optional, but they power the filters buyers use, so fill in every one that applies.
 
 **Can I add my own item specifics?**
-In many categories, yes. Keep it factual, and do not use it to add extra search words.
+In many categories, at the time of writing, yes (check the listing form). Keep it factual, and do not use it to add extra search words.
 
 **Do item specifics replace the description?**
 No. Specifics are short facts. Condition, flaws, measurements and what is included still belong in the description.

@@ -17,6 +17,7 @@ Sources: `research/where-buyers-hang-out.md` (communities and what we could and 
 7. **Never tell eBay users to trade off eBay** or move payment off any platform.
 8. **No trademark confusion.** We say "for eBay sellers", never anything that suggests we are eBay, Vinted, Etsy, Amazon, Depop or TikTok.
 9. **Faceless.** No personal account, no real name, no photos of anyone's home, and no "when I started selling" stories. We speak as "we" about the work, not about a founder.
+10. **Check who you are posting as, every time.** Facebook needs a personal profile behind the Page, so before you comment in a group, check the name shown next to the comment box says "Well Listed", not your own name. If a group does not allow Pages, do not join it with your personal profile: skip that group. Sign up to Reddit and forums with the brand email only.
 
 ---
 
@@ -59,7 +60,7 @@ Many groups do not allow Pages to post or comment, and most ban promotion outsid
 | eBay Community UK (community.ebay.co.uk) | eBay's Community Guidelines say advertising merchandise, services or commercial websites is not permitted, and members must not post links to off-eBay sites or tell others to leave eBay. | **Research only.** Read what sellers struggle with and turn it into content. Do not post links or mention the kit. |
 | Amazon Seller Forums UK | Treat as no promotion (FAQ could not be opened). | **Research only.** Track rule changes such as the title limit. |
 | Etsy Community Forums and Teams | Forums ask to be kept free of self-promotion; promotion only in named teams and threads. Needs an open Etsy shop. | Skip. We are not selling on Etsy. |
-| UK reseller Discord servers (FlipAlerts, Resell Vault, Resellers Paradise) | Rules not read. Many are paid "cook groups" that lean on income claims or scanning tools. | Only join servers with a genuine help channel, never post links outside a promo channel, and leave any server built around scraping or income claims. |
+| UK reseller Discord servers (names found in research: FlipAlerts, Resell Vault, Resellers Paradise) | Rules not read. Some reseller servers are paid groups built around sourcing alerts or scanning tools; check what each one is before joining. | Only join servers with a genuine help channel, never post links outside a promo channel, and leave any server built around scraping or income claims. |
 | YouTube comment sections (UK reseller channels such as Shed Flips, Reselling Polly) | YouTube's normal rules; creators can remove spam. | Useful brand comments that answer a question in the comments, no links. |
 
 ---
@@ -135,7 +136,7 @@ Some people will not like a brand account in their community, some will dislike 
 
 ## 6. Weekly cadence: 3 sessions of 10 minutes
 
-Set three 10-minute slots a week (for example Monday, Wednesday and Friday evening). Use a timer. Stop when it rings.
+Set three 10-minute slots a week (for example Monday, Wednesday and Friday evening). Use a timer. Stop when it rings. In the first week, only read (rules, pinned posts, the kind of questions people ask). A brand-new account that posts straight away looks like spam, and some communities filter new accounts automatically. From week 2, start with one short, complete answer per session.
 
 **Session 1: Monday (Reddit)**
 1. Minutes 0 to 2: open r/eBayUK, r/vinted, r/Flipping. Sort by New. Note any rule changes in the sidebar.
@@ -148,7 +149,7 @@ Set three 10-minute slots a week (for example Monday, Wednesday and Friday eveni
 3. Minutes 8 to 10: reply to comments. If there is a promo thread today and the rules allow it, post one plain line about the kit with the price.
 
 **Session 3: Friday (research and one extra answer)**
-1. Minutes 0 to 4: read eBay Community UK and Amazon Seller Forums UK for new rule changes or common problems. Do not post. Note topics in `marketing/` ideas list for new posts or blog articles.
+1. Minutes 0 to 4: read eBay Community UK and Amazon Seller Forums UK for new rule changes or common problems. Do not post. Note topics in `launch-kit/marketing/ideas.md` (create it the first time) for new posts or blog articles, or tell the daily operator session.
 2. Minutes 4 to 8: answer one question anywhere (r/EtsySellers, r/Depop, a YouTube comment section, or a Discord help channel).
 3. Minutes 8 to 10: if it is r/EtsySellers' weekly promotion thread and the rules allow it, post one plain line. Otherwise, update the tally.
 
@@ -296,7 +297,7 @@ These are **not adverts**. Each one works on its own and needs nothing from us. 
 >
 > Broadly: the 14-day "change of mind" cancellation right in UK consumer law applies to traders selling at a distance, not to private individuals clearing out their own things. But items still need to match their description, and platforms run their own buyer protection schemes that can apply regardless (for example, Vinted's Buyer Protection covers items that do not arrive, arrive damaged or are significantly not as described). Vinted Pro sellers must accept returns within 14 days.
 >
-> We are not legal advisers, so check the current details on gov.uk and your platform's help pages. [Where the community allows links, add: gov.uk guide: https://www.gov.uk/accepting-returns-and-giving-refunds and Vinted Buyer Protection: https://www.vinted.co.uk/help/550-buyer-protection]
+> This is general information, not legal advice, so check the current details on gov.uk and your platform's help pages. [Where the community allows links, add: gov.uk guide: https://www.gov.uk/accepting-returns-and-giving-refunds and Vinted Buyer Protection: https://www.vinted.co.uk/help/550-buyer-protection]
 >
 > Whatever the answer, a calm reply helps: "Thanks for letting me know. Could you send a photo of the problem so I can see what's happened?"
 
@@ -306,9 +307,9 @@ These are **not adverts**. Each one works on its own and needs nothing from us. 
 
 For a weekly promotion thread or promo day, and nowhere else:
 
-> We make The Well Listed Kit: 88 copy-and-paste AI prompts, fill-in templates and checklists for UK sellers on eBay, Vinted, Depop, Amazon, Etsy and TikTok Shop. It works with free ChatGPT, Claude, Gemini or Copilot. It is a one-off £19 (£12 during our launch fortnight), with a 30-day refund if it is not useful. We cannot promise sales, just clearer listings written faster. [Link]
+> We make The Well Listed Kit: copy-and-paste AI prompts, fill-in templates and checklists for UK sellers on eBay, Vinted, Depop, Amazon, Etsy and TikTok Shop. It works with free ChatGPT, Claude, Gemini or Copilot. It is a one-off £19 (£12 during our launch fortnight), with a 30-day refund if it is not useful. We cannot promise sales, just clearer listings written faster. [Link]
 
-Only mention the £12 launch price while it is genuinely running, and never say "last chance" or invent a deadline.
+Only mention the £12 launch price while it is genuinely running (days 1 to 14, ending 11:59pm on the launch end date in STATE.md). From day 15, delete the brackets. Never say "last chance" or invent a deadline. We leave the prompt count out on purpose: if you add one, copy it from the live sales page so it is always the true number.
 
 ---
 

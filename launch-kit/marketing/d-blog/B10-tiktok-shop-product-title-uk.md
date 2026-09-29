@@ -6,15 +6,13 @@ primary_keyword: tiktok shop product title uk
 secondary_keywords: tiktok shop product description, tiktok shop listing rules uk
 ---
 
-# TikTok Shop Product Title UK: Rules, Formula and Examples
+# TikTok Shop product title UK: rules, formula and examples
 
 A good TikTok Shop product title in the UK follows a plain formula: brand, product type, material, one or two key features, then size, colour or quantity. It must be accurate and at least 15 characters. TikTok Shop UK's rules say titles must not include promotions such as "20% off", your shop name or web address, any mention of TikTok or other platforms, or symbols and special characters. Aim for 60 to 100 characters that a shopper can read at a glance on a phone.
 
 ## TikTok Shop listing rules UK sellers need for titles
 
-TikTok Shop UK's own listing guidance says this about titles (checked September 2026).
-
-Rules change, so check the current rule in Seller Center before you list.
+TikTok Shop UK's own listing guidance says this about titles (checked September 2026; rules change, so check the current rule in Seller Center before you list).
 
 | Rule | What it means in practice |
 |---|---|
@@ -25,7 +23,7 @@ Rules change, so check the current rule in Seller Center before you list.
 | No platform names | No "TikTok", "as seen on TikTok", "cheaper than Amazon" |
 | No symbols or special characters | No !!!, stars, pipes, tildes or emojis |
 
-The maximum is commonly quoted as 255 characters, but long titles are harder to read anyway. Seller Center shows a counter, so trust that.
+The maximum is commonly quoted as 255 characters. Seller Center shows a counter, so trust that.
 
 Only put a brand in the title if it is yours or you are authorised to sell it.
 
@@ -49,14 +47,14 @@ Problems: "BEST" is an unsupported claim, "!!!" and "|" are symbols, "20% OFF" a
 **After (67 characters):**
 > Tidy Nook Bamboo Drawer Organiser Set of 6 Boxes in 3 Sizes Natural
 
-Brand, product type, material, quantity, sizes, colour.
+Brand, product type, material, quantity, sizes, colour. "Tidy Nook" stays because it is the product's own brand, printed on the boxes.
 
 ### Example 2: a lavender wheat bag
 
 **Before (79 characters):**
 > Relieves Back Pain Lavender Wheat Bag \*\* Viral on TikTok \*\* Cheaper than Amazon
 
-Worse. "Relieves back pain" is a health claim, and TikTok Shop UK's policies say products must not claim to cure, treat, prevent or relieve any disease or medical condition, anywhere in the listing or video. It also mentions two platforms and uses symbols.
+"Relieves back pain" is a health claim, and TikTok Shop UK's policies say products must not claim to cure, treat, prevent or relieve any disease or medical condition, anywhere in the listing or video. It also mentions two platforms and uses symbols.
 
 **After (71 characters):**
 > Microwavable Wheat Bag with Dried Lavender Cotton Cover 35 x 15 cm Sage
