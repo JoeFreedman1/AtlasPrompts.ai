@@ -118,7 +118,7 @@ def build_guide(mods, prompts):
     <div class="brand">Well Listed<span class="tick">&#10003;</span></div>
     <h1>The Well Listed Kit</h1>
     <p class="sub">AI prompts, templates and checklists for UK sellers on eBay, Vinted, Depop, Etsy, Amazon and TikTok Shop</p>
-    <p class="meta">{len(prompts)} tested prompts &middot; Version {VERSION} &middot; {TODAY}</p>
+    <p class="meta">{len(prompts)} prompts with worked examples &middot; Version {VERSION} &middot; {TODAY}</p>
   </div>
   <p class="small">Works with the free versions of ChatGPT, Claude, Gemini and Microsoft Copilot. Not affiliated with or endorsed by eBay, Vinted, Depop, Etsy, Amazon or TikTok. Platform rules change: always check the platform's own help pages. Nothing in this kit is legal, tax or financial advice. For your own use; please do not resell or share the files.</p>
 </section>

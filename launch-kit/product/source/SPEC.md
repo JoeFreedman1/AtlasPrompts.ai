@@ -27,7 +27,7 @@ Generic AI output is bad because the input is bad. Every prompt in the kit start
 IDs: B = brief, T = titles, D = descriptions and condition, K = keywords, tags and item specifics, PH = photos, R = pricing, M = buyer messages, V = video and TikTok Shop, C = rule checker, W = workflow and batch.
 
 ## Quality bar
-- Around 70 to 80 prompts in total, each genuinely different and useful. Quality over quantity.
+- Around 70 to 95 prompts in total, each genuinely different and useful. Quality over quantity.
 - Every prompt works in free ChatGPT, Claude, Gemini or Copilot (no plugins, no browsing assumed, no paid features).
 - Every prompt tells the AI: UK English, no invented details, respect the platform's limits, no hype words, no misleading claims.
 - Worked examples use invented items (e.g. "grey Next wool-blend jumper, size 12, small bobbling under arms").

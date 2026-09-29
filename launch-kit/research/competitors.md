@@ -132,7 +132,7 @@ Also worth noting: **pricing method.** Built-in and app price suggestions are a 
 
 ## Positioning statement
 
-For UK sellers who list on eBay, Vinted, Depop, Etsy, Amazon or TikTok Shop and are tired of slow listings, bland AI copy and endless buyer messages, **The Well Listed Kit** is a one-off pack of tested prompts, fill-in templates and checklists that turns the free AI chat tool you already use into a careful listing assistant. Unlike the AI buttons built into each marketplace, it works across all your platforms, writes in UK English, handles buyer replies and pricing, checks the draft against platform rules, and never adds anything you did not tell it. You stay the editor. We just make the writing quicker and tidier.
+For UK sellers who list on eBay, Vinted, Depop, Etsy, Amazon or TikTok Shop and are tired of slow listings, bland AI copy and endless buyer messages, **The Well Listed Kit** is a one-off pack of prompts with worked examples, fill-in templates and checklists that turns the free AI chat tool you already use into a careful listing assistant. Unlike the AI buttons built into each marketplace, it works across all your platforms, writes in UK English, handles buyer replies and pricing, checks the draft against platform rules, and never adds anything you did not tell it. You stay the editor. We just make the writing quicker and tidier.
 
 Short version for copy: **"The marketplaces give you an AI button. We give you control of what it says."**
 
