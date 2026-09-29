@@ -107,7 +107,8 @@ def main():
             where = "%s:%d" % (rel, n)
             if "\u2014" in line or "\u2013" in line:
                 errors.append("%s  dash (em or en) found" % where)
-            for t in ident:
+            legal_ok = os.path.basename(path) in ("terms.html", "privacy.html", "placeholders.json")
+            for t in ([] if legal_ok else ident):
                 if re.search(r"\b%s\b" % re.escape(t), line, re.I):
                     errors.append("%s  possible owner identifier: %s" % (where, t))
             for em in re.findall(r"[\w.+-]+@[\w-]+\.[\w.]+", line):

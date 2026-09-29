@@ -1,8 +1,11 @@
 # Paid ads: 20 faceless variations (A01 to A20)
 
+> **LATER, ONLY ONCE SALES COVER IT.** The launch budget is £0. Do not run any of these ads until the money kept from sales (after Gumroad's fees) covers the whole test budget of about £70 per fortnight. Until then, organic posting only.
+
+
 A01 to A10 are for **TikTok**. A11 to A20 are for **Meta** (Facebook and Instagram, placements: Feed, Stories and Reels).
 
-Read `test-plan.md` before running any of these. Do not start ads before the organic page and the email sign-up are working. Ads that drive to **The Well Listed Kit** only run from day 15 (full price, £19). Before that, only use the ads that drive to the free **UK Listing Cheat Sheet**.
+Read `test-plan.md` before running any of these. Do not start ads before the organic page and the email sign-up are working. Ads only run once sales cover the test budget; ads that drive to **The Well Listed Kit** never run before day 15 (full price, £19). Before that, only use the ads that drive to the free **UK Listing Cheat Sheet**.
 
 ## Rules every ad follows (check before you upload)
 

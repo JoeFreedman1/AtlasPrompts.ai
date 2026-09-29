@@ -182,6 +182,27 @@ await p.screenshot({path:process.argv[2]});await b.close()})();""", tmp, os.path
     os.remove(tmp)
 
 
+def build_brand_assets():
+    """Logo and Gumroad cover images, so the owner does not have to design them (not deployed)."""
+    outdir = os.path.join(SITE, "brand-assets")
+    os.makedirs(outdir, exist_ok=True)
+    logo = f"""<html><head>{FONTS}<style>body{{margin:0;width:1080px;height:1080px;background:#FAF6EF;display:flex;align-items:center;justify-content:center;font-family:Archivo,Arial,sans-serif}}
+.l{{font-weight:800;font-size:420px;color:#1F2A44;letter-spacing:-12px}}.l i{{color:#1E7F55;font-style:normal;font-size:300px;margin-left:10px}}</style></head>
+<body><div class="l">WL<i>&#10003;</i></div></body></html>"""
+    cover = f"""<html><head>{FONTS}<style>body{{margin:0;width:1280px;height:720px;background:#1F2A44;display:flex;align-items:center;justify-content:center;font-family:Archivo,Arial,sans-serif}}
+.c{{background:#FAF6EF;border:6px solid #C9A27E;outline:4px dashed #C9A27E;outline-offset:14px;border-radius:24px;padding:56px 64px;width:1060px}}
+.b{{font-weight:800;font-size:34px;color:#1F2A44}}.b i{{color:#1E7F55;font-style:normal}}h1{{font-size:78px;line-height:1.05;margin:16px 0;color:#1F2A44}}
+p{{font:30px Inter,Arial,sans-serif;color:#5b6478;margin:0}}</style></head>
+<body><div class="c"><div class="b">Well Listed <i>&#10003;</i></div><h1>The Well Listed Kit</h1><p>AI prompts, templates and checklists for UK sellers on eBay, Vinted, Depop, Etsy, Amazon and TikTok Shop</p></div></body></html>"""
+    for name, htmltext, w, h in (("logo-1080.png", logo, 1080, 1080), ("gumroad-cover-1280x720.png", cover, 1280, 720)):
+        tmp = os.path.join(outdir, "_tmp.html")
+        write(tmp, htmltext)
+        chromium(r"""const {chromium}=require('playwright');(async()=>{const b=await chromium.launch();const p=await b.newPage({viewport:{width:+process.argv[3],height:+process.argv[4]}});
+await p.goto('file://'+process.argv[1]);try{await p.waitForLoadState('networkidle',{timeout:6000})}catch(e){}
+await p.screenshot({path:process.argv[2]});await b.close()})();""", tmp, os.path.join(outdir, name), str(w), str(h))
+        os.remove(tmp)
+
+
 def main():
     ph = load_placeholders()
     su = (ph.get("site_url") or "").strip().rstrip("/")
@@ -216,6 +237,17 @@ def main():
         xml = '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' + "".join(
             "<url><loc>%s%s</loc><lastmod>%s</lastmod></url>\n" % (site_url.rstrip("/"), u, today) for u in urls) + "</urlset>\n"
         write(os.path.join(OUT, "sitemap.xml"), xml)
+    build_brand_assets()
+    # the owner's legal name and address may appear ONLY on terms.html and privacy.html
+    for key in ("LEGAL NAME", "ADDRESS"):
+        val = (ph.get(key) or "").strip()
+        if not val:
+            continue
+        for dp, _, fns in os.walk(OUT):
+            for fn in fns:
+                if fn.endswith((".html", ".txt", ".xml")) and fn not in ("terms.html", "privacy.html"):
+                    if val in read(os.path.join(dp, fn)):
+                        print("WARNING: your %s appears in %s. It must only be on terms and privacy." % (key.lower(), os.path.relpath(os.path.join(dp, fn), OUT)))
     # report unfilled placeholders
     left = {}
     for dp, _, fns in os.walk(OUT):

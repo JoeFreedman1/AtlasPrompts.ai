@@ -54,9 +54,9 @@ Launch email send times and wording are in `marketing/e-email/launch-emails.md` 
 
 **Day 15 (full price day), first thing, about 15 minutes on a computer:**
 1. In Gumroad, change the price to **£19** (never before 11:59pm on day 14: the launch price must run for the full time we promised).
-2. Say "Run OPERATOR.md" as usual. On day 15 the operator switches both sales pages to £19, rebuilds the site and pushes, and updates STATE.md (current price £19, ad cap).
+2. Say "Run OPERATOR.md" as usual. On day 15 the operator switches both sales pages to £19, rebuilds the site and pushes, and updates STATE.md (current price £19).
 3. Download a fresh ZIP from GitHub and drag the new `netlify-site` folder onto Netlify (Deploys, drag and drop box). Check the site now says £19 and the buy button opens Gumroad at £19.
-4. From today the optional £5 a day ad test may start, on **Meta first** (TikTok's minimum budget may be above £5 a day). Only if the checklist in `marketing/f-paid-ads/test-plan.md` is met.
+4. No ads yet. The £5 a day ad test is for later, only once money kept from sales covers its £70 budget (then Meta first). See `marketing/f-paid-ads/test-plan.md`.
 
 From day 15 onwards, follow `marketing/a-content-calendar/calendar.csv` (days 15 to 30), adjusted by the daily operator using the stop, keep, scale rules. After day 30, the operator builds the next month from what worked.
 

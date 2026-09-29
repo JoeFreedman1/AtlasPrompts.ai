@@ -1,5 +1,8 @@
 # The £5 a day ad test: plain English plan
 
+> **LATER, ONLY ONCE SALES COVER IT.** The launch budget is £0. Do not run any of these ads until the money kept from sales (after Gumroad's fees) covers the whole test budget of about £70 per fortnight. Until then, organic posting only.
+
+
 This is a small, careful test, not a growth plan. Its only job is to answer one question: **can £5 a day of ads bring email sign-ups or sales for less than a sale is worth to us?** The ads are in `ads.md` (A01 to A20). The decision numbers come from `STOP-KEEP-SCALE.md` and are copied exactly below.
 
 Everything here is planning, not a forecast. Ads can lose money, and a brand-new account often gets nothing from them in the first fortnight. That is normal and is why the budget is capped.
@@ -38,8 +41,8 @@ Do **not** start ads until all of these are true:
 
 **Recommended start:**
 
-- **Day 15 onwards (full price £19):** the main test. Kit ads and cheat sheet ads are both allowed.
-- **Not before day 15.** The ad budget cap in STATE.md is £0 until then, and the profile needs 14 days of posts first (see the checklist above). Never run kit ads at the £12 launch price: at about £9.86 kept per sale, there is very little room to pay for ads, and the launch price ending would make the ad wrong halfway through the test.
+- **Only once sales cover it, and not before day 15 (full price £19):** the main test. Kit ads and cheat sheet ads are both allowed.
+- **Not before sales cover it, and never before day 15.** The ad budget cap in STATE.md is £0 until money kept from sales reaches about £70, and the profile needs 14 days of posts first (see the checklist above). Never run kit ads at the £12 launch price: at about £9.86 kept per sale, there is very little room to pay for ads, and the launch price ending would make the ad wrong halfway through the test.
 
 ---
 
@@ -133,7 +136,7 @@ Each ad must have **at least £5 spent and 1,000 impressions** before you judge 
 
 **Stop everything** if £70 has been spent (14 days at £5) with zero sales: pause ads, and fix the offer and organic content first. Ads amplify something that already works; they rarely fix something that does not.
 
-**Hard cap:** never spend more than the "ad budget cap" written in STATE.md without the owner changing it. Starting cap: £0 until day 15, then £5 a day, £70 per fortnight, on one platform at a time (Meta first).
+**Hard cap:** never spend more than the "ad budget cap" written in STATE.md without the owner changing it. Starting cap: £0 until money kept from sales covers the £70 test budget (and never before day 15), then £5 a day, £70 per fortnight, on one platform at a time (Meta first).
 
 For reference, money kept per sale after fees (from `MONEY.md`): about **£9.86 at £12** and about **£15.95 at £19**. The SCALE thresholds (£6 and £8) leave room for profit under those.
 

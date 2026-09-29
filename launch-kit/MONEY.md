@@ -19,22 +19,20 @@ Everything here is planning maths, not a forecast or a promise. Fee figures come
 ## 2. Every cost and fee
 
 ### Start-up costs
-| Item | Cost | Needed? |
-|---|---|---|
-| Gumroad account | £0 | Yes |
-| Netlify hosting (free plan) | £0 | Yes |
-| Email tool, MailerLite free plan (free up to a subscriber limit, reported as 500 after a 2025 change: check) | £0 | Yes |
-| Brand email address (free Gmail or Outlook account in the brand's name) | £0 | Yes |
-| Social accounts (TikTok, Instagram, YouTube, Pinterest) | £0 | Yes |
-| Canva free, CapCut free, free AI chat tools | £0 | Yes |
-| Domain name, e.g. `well-listed.co.uk` | About £5 to £15 for the first year (varies by registrar and offers) | Optional, recommended in week 1 or 2 |
-| ICO data protection fee | £0 if exempt (processing only for your own marketing, accounts and records is usually exempt). If not exempt, the lowest tier is around £52 a year: check with the ICO self-assessment | Check |
-| Limited company (the brand trades through its own company, see ASSUMPTIONS.md point 12) | Companies House online incorporation fee: reported as £100 (check the current fee on gov.uk before you apply) | Yes |
-| Registered office and director service address service (keeps your home address off the public register) | Varies by provider, often around £20 to £60 a year (check) | Yes |
-| Business bank account for the company | £0 with several UK business accounts (some charge monthly fees: compare) | Yes |
-| **Total to launch** | **about £120 to £160** (about £130 to £170 with a domain) | |
+**Budget: £0.** Well Listed trades as a sole trader, and every tool is on a free plan.
+| Item | Cost |
+|---|---|
+| Gumroad account (fees are only taken when a sale happens) | £0 |
+| Netlify hosting (free plan, free `.netlify.app` address) | £0 |
+| MailerLite free plan (free up to a subscriber limit, reported as 500: check) | £0 |
+| Brand email address (free Gmail or Outlook) | £0 |
+| Social accounts (TikTok, Instagram, YouTube, Pinterest) | £0 |
+| Canva free, CapCut free, free AI chat tools | £0 |
+| Logo and Gumroad cover (already made, in `sales-site/brand-assets/`) | £0 |
+| ICO data protection fee | £0 if exempt: check with the free ICO self-assessment |
+| **Total to launch** | **£0** |
 
-**Note on the original £50 budget:** without a company, launch cost is £0 to £10. Trading through a limited company is the owner's choice to keep the business separate from their name, and it takes start-up costs over £50. Everything else stays free.
+Not in the launch plan (only later, and only once money kept from sales covers it): a domain name, a paid email plan, paid ads.
 
 ### Fees per sale (Gumroad direct sale, card payment)
 | Fee | Rate |
@@ -48,11 +46,10 @@ Everything here is planning maths, not a forecast or a promise. Fee figures come
 ### Ongoing costs
 | Item | Cost |
 |---|---|
-| Paid ads (optional test from day 15, on Meta first because TikTok's minimum daily budget may be above £5) | £5 a day, capped at £70 per fortnight (see STOP-KEEP-SCALE.md and `marketing/f-paid-ads/test-plan.md`) |
-| Email tool once over the free subscriber limit | MailerLite's paid plans start at roughly £9 to £10 a month (check) |
-| Domain renewal | About £10 to £15 a year |
-| Registered office and service address | Yearly renewal of the service above (check your provider's price) |
-| Company running costs | Companies House charges a yearly fee for the confirmation statement, and the company must file accounts and returns. gov.uk explains what is needed (search "running a limited company"). Many small companies use an accountant; prices vary. Check current fees on gov.uk |
+| Everything in the launch plan | £0 (Gumroad takes its fee from each sale, see above) |
+| Later, only once sales cover it: paid ads | The £5 a day test in `marketing/f-paid-ads/test-plan.md` needs about £70 per fortnight. Only start once money kept from sales is at least that much |
+| Later, only once sales cover it: email tool over the free limit | MailerLite's paid plans start at roughly £9 to £10 a month (check) |
+| Later, optional: a domain name | About £5 to £15 a year |
 
 ## 3. Profit per sale
 
@@ -67,7 +64,7 @@ If VAT is **included** in the price instead (UK buyer, 20% VAT): about **£7.86*
 
 There is no cost of goods: it is a digital download. Your time is the real cost.
 
-**Tax:** the company's profits are taxable. We do not set out tax rules here: gov.uk explains the company's tax duties (search "running a limited company" on gov.uk), or ask an accountant.
+**Tax:** profits from the business are taxable. We do not set out tax rules here: gov.uk explains them (search "selling online tax" or "working for yourself" on gov.uk), or ask an accountant.
 
 ### Your first payout
 Gumroad pays out once the balance reaches $100 (about £75 at £1 = $1.34). Money kept per sale is roughly $13.20 at £12 and $21.40 at £19, so:
@@ -77,21 +74,15 @@ Gumroad pays out once the balance reaches $100 (about £75 at £1 = $1.34). Mone
 | All at the £19 full price | about **5 sales** |
 | A mix (for example 4 at £12, then 3 at £19) | about **7 sales** |
 
-Refunds come out of the balance, so allow one or two more. In the "bad" scenario below, the first payout may not arrive until month 2 or 3, so plan any spending (ads, company fees) from money you already have, not from expected payouts.
+Refunds come out of the balance, so allow one or two more. In the "bad" scenario below, the first payout may not arrive until month 2 or 3. With a £0 budget there is nothing to pay for in the meantime.
 
 ## 4. Sales needed to break even
 
-| Scenario | Costs to cover | Sales needed |
-|---|---|---|
-| Company and address service (the minimum set-up) | about £120 to £160 | 13 to 17 at £12, or 8 to 11 at £19 |
-| Plus a domain | about £130 to £170 | 14 to 18 at £12, or 9 to 11 at £19 |
-| Plus a full 14-day ad test (£70) | about £200 to £240 | 13 to 16 at £19 |
-
-Yearly company running costs (confirmation statement, any accountant) come on top: add them once you know them.
+**Break-even is the first sale.** Start-up costs are £0 and there is no stock, so every sale is profit from day 1 (about £9.86 at £12, about £15.95 at £19, after Gumroad's fees). The only wait is for cash: Gumroad pays out once your balance reaches $100 (see "Your first payout" above).
 
 ## 5. 30, 60 and 90 day scenarios
 
-**Read this first:** these are illustrations to help you plan, not predictions. A brand-new faceless account starts with zero followers, and many new accounts see very little in the first month. The "bad" case is common, not a disaster. Totals are cumulative sales since launch, net of Gumroad fees, with the first 14 days at £12 and then £19, and with no ad spend deducted.
+**Read this first:** these are illustrations to help you plan, not predictions. A brand-new faceless account starts with zero followers, and many new accounts see very little in the first month. The "bad" case is common, not a disaster. Totals are cumulative sales since launch, net of Gumroad fees, with the first 14 days at £12 and then £19. There is no ad spend and no start-up cost to deduct.
 
 | | What it looks like | By day 30 | By day 60 | By day 90 |
 |---|---|---|---|---|
@@ -101,7 +92,7 @@ Yearly company running costs (confirmation statement, any accountant) come on to
 
 What moves you from bad to okay: posting every day for the full 30 days, repeating what works (the stop, keep, scale rules), and building the email list. What moves you from okay to good is usually one repeatable winning format plus word of mouth from real buyers.
 
-If you run the £5 a day ad test (from day 15, Meta first), subtract up to £70 per fortnight, and only keep going if the ad rules say KEEP or SCALE.
+Paid ads are not part of these scenarios. They are for later, only once money kept from sales covers the test budget.
 
 ## 6. The 5 numbers to check every day
 
@@ -109,6 +100,6 @@ If you run the £5 a day ad test (from day 15, Meta first), subtract up to £70 
 2. **Checkout conversion:** Gumroad product page views, and what share became sales (7-day). Tells you whether the offer and price work.
 3. **Email sign-ups yesterday.** MailerLite. This is your future sales pipeline.
 4. **Bio link clicks and site visitors.** TikTok and Instagram analytics or your link tool. Tells you whether content is sending people anywhere.
-5. **Best post's views against your usual (baseline).** Tells you what to make more of. When ads are running, swap this for **ad cost per sale** (or cost per sign-up).
+5. **Best post's views against your usual (baseline).** Tells you what to make more of. (Later, if ads ever run, swap this for **ad cost per sale**.)
 
 The daily operator (OPERATOR.md) works these out for you from `metrics/`.

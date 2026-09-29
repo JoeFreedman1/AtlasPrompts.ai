@@ -60,7 +60,7 @@ Start with the programme in `marketing/g-affiliates/`. Scaling means more good-f
 
 Paid ads amplify something that already works. Only increase spend when **all** of these are true:
 
-1. The £5 a day test (`marketing/f-paid-ads/test-plan.md`) has run for at least 14 days.
+1. Money kept from sales covered the £5 a day test, and the test (`marketing/f-paid-ads/test-plan.md`) has run for at least 14 days.
 2. At least one ad is labelled **SCALE** under `STOP-KEEP-SCALE.md`: cost per sale £8 or less at full price, across at least 3 sales in 7 days.
 3. Checkout conversion on the Gumroad page is at least 2% over the last 100 or more checkout views.
 4. Refunds are under 5%.
@@ -79,7 +79,7 @@ Paid ads amplify something that already works. Only increase spend when **all** 
 | When | Focus |
 |---|---|
 | Weeks 1 to 2 | Launch, daily posting, launch emails, first sales and feedback |
-| Weeks 3 to 4 | Full price from day 15, optional £5 a day ad test on Meta, first 5 creator outreach messages, first category pack written |
+| Weeks 3 to 4 | Full price from day 15, first 5 creator outreach messages, first category pack written. Ads only once sales cover the £70 test budget |
 | Month 2 | Category packs live as Gumroad upsells, 10 creators contacted, blog articles 11 to 20 (from buyer questions) |
 | Month 3 | Seller Sheet, price test at £24 if the rules allow, affiliate page public, partner outreach |
 | Month 4 and later | Shop Kit for brands and makers, bundle, ads beyond £5 a day only if the rules above are met |

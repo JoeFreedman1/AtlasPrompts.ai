@@ -33,9 +33,9 @@ Never delete underperforming posts (it can look odd and does not help). Just sto
 | Welcome email clicks | 50 subscribers | Under **2%** clicks on the kit link: make the kit mention clearer and earlier in emails 4 to 6 |
 | Refunds | Any | More than 1 refund in 10 sales: read every refund reason and fix the product or the sales page promise within 7 days |
 
-## 3. Paid ads (the £5 a day test)
+## 3. Paid ads (the £5 a day test: later, only once sales cover it)
 
-Full test plan: `marketing/f-paid-ads/test-plan.md`. Ads start on day 15 at the earliest, on Meta first (TikTok's minimum daily budget may be more than £5; see the test plan). The "£6 at launch price" figure below only matters if kit ads ever run at £12, which the test plan advises against. Each ad must have **at least £5 spent and 1,000 impressions** before you judge it.
+Full test plan: `marketing/f-paid-ads/test-plan.md`. Ads are for later: they start only once money kept from sales covers the £70 test budget, never before day 15, and on Meta first (TikTok's minimum daily budget may be more than £5; see the test plan). The "£6 at launch price" figure below only matters if kit ads ever run at £12, which the test plan advises against. Each ad must have **at least £5 spent and 1,000 impressions** before you judge it.
 
 | Label | Rule | Action |
 |---|---|---|
@@ -45,7 +45,7 @@ Full test plan: `marketing/f-paid-ads/test-plan.md`. Ads start on day 15 at the 
 
 **Stop everything** if £70 has been spent (14 days at £5) with zero sales: pause ads, and fix the offer and organic content first. Ads amplify something that already works; they rarely fix something that does not.
 
-**Hard cap:** never spend more than the "ad budget cap" written in STATE.md without the owner changing it. Starting cap: £0 until day 15, then £5 a day, £70 per fortnight, on one platform at a time (Meta first).
+**Hard cap:** never spend more than the "ad budget cap" written in STATE.md without the owner changing it. Starting cap: £0 until money kept from sales covers the £70 test budget (never before day 15), then £5 a day, £70 per fortnight, on one platform at a time (Meta first).
 
 ## 4. Products and prices
 - Do not change the price in the first 14 days (except the planned switch from £12 to £19 at the end of launch).

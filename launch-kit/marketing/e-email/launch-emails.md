@@ -26,7 +26,7 @@ These are **campaigns**, not an automation. A campaign is a single email you sen
 6. **Schedule:** pick the date and a time. We suggest an evening slot such as 7:30pm UK time, when many part-time sellers are sorting listings after work (a guess to test, not a fact). For L3, send it no later than 10am on [LAUNCH END DATE] so it gives people most of the day.
 7. Send yourself a test first. Check the links, the footer address and the unsubscribe link.
 
-**Footer (every email):** MailerLite adds an unsubscribe link automatically; never remove it (UK law requires an easy opt-out on every marketing email). Put [FOOTER_ADDRESS] as the postal address in MailerLite's footer settings. Use a business address, PO box or registered office service if you prefer not to show your home. Suggested footer text: "You are getting this because you downloaded The UK Listing Cheat Sheet from Well Listed. Well Listed is independent and not affiliated with eBay, Vinted, Depop, Etsy, Amazon or TikTok. [FOOTER_ADDRESS]. Unsubscribe any time with the link below."
+**Footer (every email):** MailerLite requires a postal address in every email footer and adds an unsubscribe link (never remove it). **Do not send these emails until the owner has decided the footer address question in STATE.md**: the owner's address must otherwise appear only on the terms and privacy pages. When decided, put the chosen address in [FOOTER_ADDRESS].
 
 **On the night the launch ends (important):**
 - Change the price on Gumroad to £19 after 11:59pm UK time on [LAUNCH END DATE], never before it. If you will be asleep, change it first thing the next morning: a few extra hours at £12 is fine, ending early is not, because every page and email says 11:59pm.

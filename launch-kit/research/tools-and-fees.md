@@ -45,6 +45,8 @@ Worked example (planning only): at the £12 launch price, Gumroad's fee is 10% o
 
 ## Company set-up and compliance costs
 
+**Not needed now:** the owner trades as a sole trader with a £0 budget, so the Companies House row below is kept only as a research record.
+
 | Item | What we believe applies | Confidence | Check here |
 |---|---|---|---|
 | UK domain (.co.uk or .uk) | Typically about £5 to £15 a year at retail registrars; Nominet raised wholesale prices in recent years. A .com is usually about £10 to £15. | NOT VERIFIED | Registrar sites; Nominet: https://www.nominet.uk |
@@ -63,4 +65,4 @@ Worked example (planning only): at the £12 launch price, Gumroad's fee is 10% o
 
 ## Not verified in this session
 
-Everything in this file except the Etsy listing fee, transaction fee and UK payment processing fee, and the Gumroad direct-sale fees, VAT handling and payout minimum (checked by the owner). Priority checks before launch: the MailerLite or Kit free limit (decides the email tool), the Companies House fee and a registered office service price (the brand will trade through a limited company), and the ICO fee or exemption.
+Everything in this file except the Etsy listing fee, transaction fee and UK payment processing fee, and the Gumroad direct-sale fees, VAT handling and payout minimum (checked by the owner). Priority checks before launch: the MailerLite or Kit free limit (decides the email tool), and the ICO fee or exemption. (Companies House costs no longer apply: the owner trades as a sole trader with a £0 budget.)
