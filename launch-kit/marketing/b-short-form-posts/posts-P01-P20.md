@@ -9,6 +9,7 @@ Production notes that apply to every post:
 - Every example item, price and message in these posts is invented for illustration. Say so in small text on screen where a price appears ("Example figures").
 - Screen recordings: crop to the chat window only. Blur or crop out account names, emails, profile pictures, browser tabs, bookmarks and the phone status bar notifications.
 - Character limits: platform limits change. Wherever a limit is shown, keep the small line "Check the current rule in the platform's help pages".
+- Prices: "£12 at launch" may only appear in posts that go out during the 14-day launch window (see STATE.md). Any Kit post published or reposted after it ends says "£19" or just "link in bio".
 - Carousel posts (Instagram and TikTok photo mode) use the slide text as written. Video posts use the voiceover lines with the timings given.
 
 ---
@@ -79,11 +80,11 @@ Example item. eBay's title limit is 80 characters at the time of writing: check 
 - **Length:** 7 slides
 - **Call to action:** Kit
 
-**Hook (first 2 seconds):** Slide 1: "AI is not guessing badly. You are briefing it badly." (Photo mode VO, optional: "The AI is only as good as what you tell it.")
+**Hook (first 2 seconds):** Slide 1: "'Blue jumper, good condition.' That is all the AI got. So it invented cashmere." (Photo mode VO, optional: "Four words in, one made-up fabric out.")
 
 ### Script
-1. Slide 1: "AI is not guessing badly. You are briefing it badly." Small text: "Here is the fix, in one note."
-2. Slide 2: "Type 'blue jumper, good condition' and AI fills every gap with guesses. Merino. Vintage. Flawless. None of it true."
+1. Slide 1: "'Blue jumper, good condition.' That is all the AI got. So it invented cashmere." Small text: "The fix fits in one note."
+2. Slide 2: "Type 'blue jumper, good condition' and AI fills every gap with guesses. Cashmere. Vintage. Flawless. None of it true."
 3. Slide 3: "The fix: a Listing Brief. A short block of facts you fill in once, then paste before every prompt."
 4. Slide 4 (the template, in a code-style box): "What it is / Brand / Size on label / Measurements (cm) / Colour / Material (from the label) / Condition / Flaws: where, what, how big / Included / Postage / Price"
 5. Slide 5: "Then one rule in every prompt: 'Use ONLY the facts in my brief. Write [CHECK: ...] where something is missing.'"
@@ -91,7 +92,7 @@ Example item. eBay's title limit is 80 characters at the time of writing: check 
 7. Slide 7: "The Well Listed Kit has category briefs for clothing, electronics, books, homeware, toys and handmade. Launch price £12. Or grab the free cheat sheet first."
 
 ### On-screen text
-AI is not guessing badly. You are briefing it badly.
+"Blue jumper, good condition." So the AI invented cashmere.
 "Blue jumper, good condition" = guesses.
 The fix: a Listing Brief.
 Facts only. Filled in once. Pasted every time.
@@ -101,13 +102,13 @@ The Well Listed Kit: £12 at launch. Free cheat sheet too.
 
 ### Caption
 ```text
-AI is not guessing badly. It is being briefed badly.
+Four words in, and the AI invented cashmere. It was not guessing badly: it had nothing else to go on.
 
 Before you ask any AI tool to write a listing, give it a Listing Brief: a short block of facts about the item. Brand, size on the label, measurements in cm, colour, material from the care label, condition, and flaws written as where, what and how big.
 
 Then add one line to every prompt: "Use ONLY the facts in my brief. Write [CHECK: ...] wherever something is missing."
 
-You fill in the checks yourself. No invented merino, no surprise "vintage".
+You fill in the checks yourself. No invented cashmere, no surprise "vintage".
 
 Save this, and copy the template from slide 4 into your notes app.
 
@@ -121,8 +122,8 @@ The Well Listed Kit has brief templates for six categories and prompts that turn
 
 ### Visuals
 - Canva, 1080 x 1350 portrait, Cream background.
-- Slide 1: parcel-label card (kraft border, dashed cut line), "briefing" highlighted in Label Yellow.
-- Slide 2: a mock AI reply in a grey chat bubble with the invented words "Merino", "Vintage", "Flawless" struck through in Returns Red.
+- Slide 1: parcel-label card (kraft border, dashed cut line), "cashmere" highlighted in Label Yellow.
+- Slide 2: a mock AI reply in a grey chat bubble with the invented words "Cashmere", "Vintage", "Flawless" struck through in Returns Red.
 - Slide 4: JetBrains Mono inside an Ink box with Cream text, like a code block. This is the slide people save, so keep it readable (minimum 28 pt).
 - Slide 5: "[CHECK: ...]" in Label Yellow.
 - Slide 7: small flat product mock-up of the Kit cover (text-only cover in brand colours, no marketplace logos). Price in Sold Green.
@@ -172,7 +173,7 @@ Ask your AI tool for five short lines, in this order:
 
 Add "UK English, no hype words, no emoji, use only my facts" and you get something a buyer can read in ten seconds.
 
-Example item: invented Levi's 501s. Save this for your next listing.
+Example item: invented Levi's 501s. Save this for the next pair of jeans you list.
 ```
 
 ### Hashtags
@@ -196,23 +197,23 @@ Example item: invented Levi's 501s. Save this for your next listing.
 - **Length:** 6 slides
 - **Call to action:** Soft (free cheat sheet)
 
-**Hook (first 2 seconds):** Slide 1: "13 Etsy tags. 20 characters each. Most shops waste half of them."
+**Hook (first 2 seconds):** Slide 1: "13 Etsy tags. Write 'tea towel' three ways and two of them are wasted."
 
 ### Script
-1. Slide 1: "13 Etsy tags. 20 characters each. Most shops waste half of them." Small text: "Limits at the time of writing. Check Etsy's help pages."
-2. Slide 2: "Common waste: the same phrase 3 ways. 'candle holder', 'candle holders', 'candleholder gift'."
+1. Slide 1: "13 Etsy tags. Write 'tea towel' three ways and two of them are wasted." Small text: "Up to 20 characters each. Limits at the time of writing: check Etsy's help pages."
+2. Slide 2: "Common waste: the same phrase 3 ways. 'tea towel', 'tea towels', 'linen tea towels'."
 3. Slide 3: "Better: each tag is a different way a buyer might search. Material. Style. Use. Occasion. Room."
 4. Slide 4 (prompt box): "Write 13 Etsy tags for my Listing Brief. Each 20 characters or fewer, with the count. No two tags the same idea. Only facts from my brief. No other brand names."
-5. Slide 5 (worked example, handmade stoneware taper candle holder, sage green): "ceramic candleholder / taper candle holder / sage green pottery / speckled glaze / handmade candlestick / pottery candlestick / small candle holder / stoneware candle / housewarming gift / boho table decor / green home decor / dinner table decor / mantelpiece decor"
+5. Slide 5 (worked example, hand block printed linen tea towel, yellow lemon print on natural linen): "linen tea towel / lemon print / natural linen / block printed towel / yellow kitchen decor / citrus kitchen / cottage kitchen / drying cloth / summer table linen / kitchen textiles / housewarming gift / gift for baker / mothers day gift"
 6. Slide 6: "Check every tag is true for your item. Free cheat sheet with the character table: link in bio."
 
 ### On-screen text
-13 Etsy tags. 20 characters each. Most shops waste half.
+13 Etsy tags. "Tea towel" three ways wastes two.
 Same phrase 3 ways = 2 tags wasted.
 One tag per search idea.
 Material. Style. Use. Occasion. Room.
 13 tags, 20 characters or fewer, with the count.
-Example: stoneware taper candle holder
+Example: block printed linen tea towel
 Every tag must be true.
 Free cheat sheet: link in bio
 
@@ -224,7 +225,7 @@ Do not repeat one phrase three ways. Give each tag a different way a buyer might
 
 Ask your AI tool for 13 tags from your Listing Brief, each 20 characters or fewer with the count shown, no two tags covering the same idea, and no other brand names.
 
-Slide 5 is a full worked set for an example stoneware candle holder. Count them yourself before pasting.
+Slide 5 is a full worked set for an example block printed linen tea towel. Count them yourself before pasting.
 
 Free UK Listing Cheat Sheet (with the character-limit table): link in bio.
 ```
@@ -237,8 +238,9 @@ Free UK Listing Cheat Sheet (with the character-limit table): link in bio.
 ### Visuals
 - Canva, 1080 x 1350, Cream background.
 - Slide 2: three tag "pills" in grey, two struck through in Returns Red.
-- Slide 5: 13 tag pills in Ink outline on Cream, each with its character count in small Sold Green text (20, 19, 18, 14, 20, 19, 19, 16, 17, 16, 16, 18, 17).
-- Slide 5 background photo: Canva free library search "ceramic candle holder" or Pexels "green pottery candlestick" (item only). If the stock item is not sage green, use a cream background instead, so the photo does not contradict the example.
+- Slide 5: 13 tag pills in Ink outline on Cream, each with its character count in small Sold Green text (15, 11, 13, 19, 20, 14, 15, 12, 18, 16, 17, 14, 16).
+- Slide 5 background photo: Canva free library search "linen tea towel" or Pexels "folded tea towel kitchen" (item only). If the stock towel does not have a lemon print, use a cream background instead, so the photo does not contradict the example.
+- Only use "block printed" if the maker really block printed it: every tag must be true.
 - No Etsy logo. Write "Etsy" as plain text only.
 
 ---
@@ -336,7 +338,7 @@ Decide your floor before any offer lands. Then ask your AI tool for a short coun
 3. Gives one reason, and only a true one (heavy to post, near-new condition)
 4. Leaves the door open
 
-Leave out "someone else is interested" unless it is true. Fake pressure is a bad look and it breaks most platforms' rules.
+Leave out "someone else is interested" unless it is true. Fake pressure is a bad look, and buyers can usually tell.
 
 Example: "Thanks for the offer. The lowest I can do is £56, as it is heavy to post."
 
@@ -397,7 +399,7 @@ For electronics, list what you tested and what you did not:
 
 If you use AI to tidy your notes, add: "Keep every flaw as serious as I wrote it. Do not soften anything." Otherwise it may quietly turn "hole" into "tiny imperfection".
 
-Save this for your next listing.
+Save this, then reread your last three condition notes.
 ```
 
 ### Hashtags
@@ -532,10 +534,10 @@ Works in the free versions of the common AI chat tools. The rules message is in 
 - **Length:** 30 seconds
 - **Call to action:** Soft (save)
 
-**Hook (first 2 seconds):** On screen: "Size 12 in 2024 is not size 12 in 1985." VO: "A size 12 from 1985 is not a size 12 today. Measure instead."
+**Hook (first 2 seconds):** On screen: "Size 12 today is not size 12 in 1985." VO: "A size 12 from 1985 is not a size 12 today. Measure instead."
 
 ### Script
-1. (0 to 2s) VO: "A size 12 from 1985 is not a size 12 today. Measure instead." | On screen: "Size 12 in 2024 is not size 12 in 1985."
+1. (0 to 2s) VO: "A size 12 from 1985 is not a size 12 today. Measure instead." | On screen: "Size 12 today is not size 12 in 1985."
 2. (2 to 8s) VO: "Tops: pit to pit. Lay it flat, buttoned, and measure straight across from one armpit seam to the other." | On screen: "Tops: pit to pit. Armpit seam to armpit seam."
 3. (8 to 12s) VO: "Then length: top of the shoulder by the collar, down to the hem." | On screen: "Length: shoulder by the collar to hem."
 4. (12 to 17s) VO: "Trousers and jeans: waist straight across, then inside leg, crotch seam to hem." | On screen: "Trousers: waist flat. Inside leg: crotch seam to hem."
@@ -544,7 +546,7 @@ Works in the free versions of the common AI chat tools. The rules message is in 
 7. (26 to 30s) VO: "Centimetres, laid flat, and say how you measured. Save this." | On screen: "Cm. Laid flat. Say how. Save this."
 
 ### On-screen text
-Size 12 in 2024 is not size 12 in 1985.
+Size 12 today is not size 12 in 1985.
 Tops: pit to pit. Armpit seam to armpit seam.
 Length: shoulder by the collar to hem.
 Trousers: waist flat. Inside leg: crotch seam to hem.
@@ -562,7 +564,7 @@ Coats: add sleeve (shoulder seam to cuff).
 
 Always centimetres, always laid flat, and say how you measured. If you doubled a flat measurement to get a full chest or waist, say you doubled it.
 
-Save this for your next listing.
+Save this, and keep a tape measure where you take your photos.
 ```
 
 ### Hashtags
@@ -574,7 +576,7 @@ Save this for your next listing.
 - Film it yourself, hands only, top-down: a jumper and a pair of jeans on a plain cream sheet, with a fabric tape measure. Film in daylight. Keep rings, tattoos, nails that could identify you and any home background out of shot (use a plain sheet that fills the frame).
 - If you cannot film, use Pexels "tape measure clothes flat lay" and "measuring jeans" (hands only).
 - Overlay a Sold Green dotted line along each measurement path, with the measurement name in a small Ink label.
-- Slide 1: two parcel-label cards side by side, "Size 12 (1985)" and "Size 12 (2024)", slightly different widths.
+- Slide 1: two parcel-label cards side by side, "Size 12 (1985)" and "Size 12 (today)", slightly different widths.
 - No voice of your own: AI voiceover only.
 
 ---
@@ -586,10 +588,10 @@ Save this for your next listing.
 - **Length:** 30 seconds
 - **Call to action:** Soft (free cheat sheet)
 
-**Hook (first 2 seconds):** On screen: "This Amazon title breaks 4 rules. Spot them?" VO: "This Amazon title has four problems. Can you spot them?"
+**Hook (first 2 seconds):** On screen: "This Amazon title has 4 problems. Spot them?" VO: "This Amazon title has four problems. Can you spot them?"
 
 ### Script
-1. (0 to 2s) VO: "This Amazon title has four problems. Can you spot them?" | On screen: "Bamboo Drawer Organiser!!! Best Bamboo Drawer Organiser Bamboo Kitchen Storage Set 6 Pack..."
+1. (0 to 2s) VO: "This Amazon title has four problems. Can you spot them?" | On screen: "Bamboo Drawer Organiser!!! Best Bamboo Drawer Organiser Bamboo Kitchen Storage Set 6 Pack for Cutlery Utensils Office Desk Makeup Bathroom"
 2. (2 to 7s) VO: "One. Amazon UK cut titles to seventy-five characters for most categories from twenty-seven July twenty twenty-six. This one is a hundred and thirty-eight." | On screen: "1. 138 characters. Most categories: 75 max."
 3. (7 to 11s) VO: "Two. Exclamation marks. Amazon restricts characters like that unless they are part of the brand name." | On screen: "2. '!' is a restricted character."
 4. (11 to 15s) VO: "Three. 'Bamboo' appears three times. The same word more than twice is not allowed." | On screen: "3. Same word more than twice."
@@ -598,7 +600,7 @@ Save this for your next listing.
 7. (25 to 30s) VO: "Paste your title in and ask the AI to check it against these rules. Then check Seller Central for your category. Free cheat sheet in bio." | On screen: "Check your category in Seller Central. Free cheat sheet: link in bio"
 
 ### On-screen text
-This Amazon title breaks 4 rules. Spot them?
+This Amazon title has 4 problems. Spot them?
 1. 138 characters. Most categories: 75 max.
 2. "!" is a restricted character.
 3. Same word more than twice.
@@ -628,7 +630,7 @@ Free UK Listing Cheat Sheet: link in bio.
 ```
 
 ### Visuals
-- Slide 1: the bad title on a grey generic listing card (built in Canva, no Amazon logo). Hold for 2 seconds so viewers can try to spot the problems.
+- Slide 1: the bad title (138 characters, counted) on a grey generic listing card (built in Canva, no Amazon logo). Hold for 2 seconds so viewers can try to spot the problems.
 - Slides 2 to 5: highlight each problem in turn with a Returns Red underline: the character count badge "138", the "!!!", each "Bamboo", then "Best".
 - Screen-record the AI chat checking the title. Suggested prompt: "Check this Amazon UK title: 75 characters max including spaces for my category, no ! $ ? _ { } ^ ¬ ¦ unless part of the brand, no word more than twice, no unsupported claims like best. List each problem, then give a fixed version with the character count. Use only facts from my brief." Crop and blur the account.
 - Fixed title on a parcel-label card with a Sold Green tick and "(67)".
@@ -644,31 +646,31 @@ Free UK Listing Cheat Sheet: link in bio.
 - **Length:** 25 to 30 seconds
 - **Call to action:** Kit
 
-**Hook (first 2 seconds):** On screen: "No face. No voice. No studio. Just this 5-shot script." VO: "You do not need your face on camera to show a product properly."
+**Hook (first 2 seconds):** On screen: "Five shots. Fifteen seconds. Hands only." VO: "Five hands-only shots. That is the whole product video."
 
 ### Script
-1. (0 to 2s) VO: "You do not need your face on camera to show a product properly." | On screen: "No face. No voice. No studio."
+1. (0 to 2s) VO: "Five hands-only shots. That is the whole product video." | On screen: "Five shots. Fifteen seconds. Hands only."
 2. (2 to 5s) VO: "Five shots, hands only, fifteen seconds. Shot one: say what it is." | On screen: "Shot 1 (0 to 3s): What it is."
 3. (5 to 8s) VO: "Shot two: the key detail, up close." | On screen: "Shot 2 (3 to 6s): Key detail, close up."
 4. (8 to 11s) VO: "Shot three: size, next to something everyone knows." | On screen: "Shot 3 (6 to 9s): Size, for scale."
 5. (11 to 14s) VO: "Shot four: an honest limit. What it does not do, or a flaw." | On screen: "Shot 4 (9 to 12s): The honest bit."
 6. (14 to 17s) VO: "Shot five: calm call to action. Details in the listing." | On screen: "Shot 5 (12 to 15s): Details in the listing."
-7. (17 to 23s) VO: "Keep claims plain. TikTok Shop UK's policies say claims must be accurate and verifiable, and no health claims." | On screen: "No 'cures'. No 'best'. No fake countdowns."
-8. (23 to 28s) VO: "The Well Listed Kit has the prompt that writes this from your item's details. Twelve pounds at launch." | On screen: "The Well Listed Kit. £12 at launch."
+7. (17 to 23s) VO: "Keep claims plain. TikTok Shop UK's policies ban health and medical claims, and the listing has to be accurate." | On screen: "No 'cures'. No 'best'. No fake countdowns."
+8. (23 to 28s) VO: "The Well Listed Kit has the prompt that writes this from your item's details. Link in bio." | On screen: "The Well Listed Kit. Link in bio."
 
 ### On-screen text
-No face. No voice. No studio.
+Five shots. Fifteen seconds. Hands only.
 Shot 1 (0 to 3s): What it is.
 Shot 2 (3 to 6s): Key detail, close up.
 Shot 3 (6 to 9s): Size, for scale.
 Shot 4 (9 to 12s): The honest bit.
 Shot 5 (12 to 15s): Details in the listing.
 No "cures". No "best". No fake countdowns.
-The Well Listed Kit. £12 at launch.
+The Well Listed Kit. Link in bio.
 
 ### Caption
 ```text
-No face, no voice, no studio. A 15-second product video in five hands-only shots.
+Five shots, fifteen seconds, hands only. A product video with no face and no studio.
 
 1. What it is (0 to 3s)
 2. Key detail, close up (3 to 6s)
@@ -676,9 +678,9 @@ No face, no voice, no studio. A 15-second product video in five hands-only shots
 4. The honest bit: a limit or a flaw (9 to 12s)
 5. Calm call to action: details in the listing (12 to 15s)
 
-Use a text-to-speech voice and on-screen text of 8 words or fewer. Keep claims plain: TikTok Shop UK's policies say claims must be genuine, accurate and verifiable, with no health or medical claims. Check the current policies in Seller Center.
+Use a text-to-speech voice and on-screen text of 8 words or fewer. Keep claims plain: TikTok Shop UK's policies ban claims that a product cures, treats, prevents or relieves anything, and listings must be accurate. Check the current policies in Seller Center.
 
-The Well Listed Kit includes the prompt that turns your item's details into this script. £12 at launch.
+The Well Listed Kit includes the prompt that turns your item's details into this script. Link in bio.
 ```
 
 ### Hashtags
@@ -867,49 +869,49 @@ No "someone else is interested", no rushing. Only promise a dispatch time you ca
 - **Length:** 6 slides
 - **Call to action:** Kit
 
-**Hook (first 2 seconds):** Slide 1: "'Candle Holder Ceramic Candle Holder Handmade Candle Holder...' Read that out loud."
+**Hook (first 2 seconds):** Slide 1: "'Macrame Plant Hanger Boho Macrame Plant Hanger Handmade Macrame...' Read that out loud."
 
 ### Script
-1. Slide 1: "'Candle Holder Ceramic Candle Holder Handmade Candle Holder Boho Decor Gift For Her...' Read that out loud."
-2. Slide 2: "Keyword soup. 'Candle holder' three times, 'gift' twice, 128 characters. It reads like spam."
-3. Slide 3: "Etsy's own advice (at the time of writing): keep titles clear and readable. The extra keywords go in your 13 tags."
-4. Slide 4: "After: 'Handmade Ceramic Taper Candle Holder, Speckled Sage Green Glaze, Small Pottery Candlestick' (90)."
-5. Slide 5: "What it is. Material. Colour and finish. Size. One more way to say it. Everything else goes in tags."
-6. Slide 6: "The Well Listed Kit writes the title and the 13 tags together, from one brief. £12 at launch."
+1. Slide 1: "'Macrame Plant Hanger Boho Macrame Plant Hanger Handmade Macrame Wall Hanging...' Read that out loud."
+2. Slide 2: "Keyword soup. 'Macrame' four times, 'boho' twice, 131 characters. It reads like spam, and it never says how long it is."
+3. Slide 3: "Write a title a person can read. The extra search phrases go in your 13 tags. That is what tags are for."
+4. Slide 4: "After: 'Handmade Macrame Plant Hanger, Natural Cotton Rope, 90 cm Long, Fits Pots up to 15 cm' (85)."
+5. Slide 5: "What it is. Material. Size. What it fits. Everything else goes in the tags."
+6. Slide 6: "The Well Listed Kit writes the title and the 13 tags together, from one brief. Link in bio."
 
 ### On-screen text
 Read that out loud.
-Keyword soup: 128 characters, "candle holder" x3.
-Clear title. Extra keywords in the tags.
-Handmade Ceramic Taper Candle Holder, Speckled Sage Green Glaze, Small Pottery Candlestick (90)
-What it is. Material. Colour. Size.
-The Well Listed Kit: title and tags, one brief. £12 at launch.
+Keyword soup: 131 characters, "macrame" x4.
+Readable title. Extra keywords in the tags.
+Handmade Macrame Plant Hanger, Natural Cotton Rope, 90 cm Long, Fits Pots up to 15 cm (85)
+What it is. Material. Size. What it fits.
+The Well Listed Kit: title and tags, one brief. Link in bio.
 
 ### Caption
 ```text
-"Candle Holder Ceramic Candle Holder Handmade Candle Holder..." Read that out loud and you can hear the problem.
+"Macrame Plant Hanger Boho Macrame Plant Hanger Handmade Macrame..." Read that out loud and you can hear the problem.
 
-Before (128 characters): Candle Holder Ceramic Candle Holder Handmade Candle Holder Boho Decor Gift For Her Housewarming Gift Candle Stick Holder Pottery
+Before (131 characters): Macrame Plant Hanger Boho Macrame Plant Hanger Handmade Macrame Wall Hanging Plant Pot Holder Gift For Her Boho Gift Indoor Macrame
 
-After (90 characters): Handmade Ceramic Taper Candle Holder, Speckled Sage Green Glaze, Small Pottery Candlestick
+After (85 characters): Handmade Macrame Plant Hanger, Natural Cotton Rope, 90 cm Long, Fits Pots up to 15 cm
 
-Say what it is, what it is made of, the colour and finish, and the size. Then put "housewarming gift", "boho table decor" and friends into your 13 tags, where they belong. Etsy titles can be up to 140 characters at the time of writing, but you do not have to fill them.
+The after says what it is, what it is made of, how long it is and what pot it takes, which is what a buyer checks first. "Boho decor", "plant lover gift" and "housewarming gift" move into your 13 tags, where they still help search. Etsy titles can be up to 140 characters at the time of writing, but you do not have to fill them.
 
-The Well Listed Kit writes the title and tags together from one brief. £12 at launch. Check current limits in Etsy's help pages.
+The Well Listed Kit writes the title and tags together from one brief. Link in bio. Example item. Check current limits in Etsy's help pages.
 ```
 
 ### Hashtags
 ```text
-#etsysellertips #etsyseo #etsyseller #etsyukseller #handmadeuk
+#etsysellertips #etsyseo #etsyukseller #handmadeuk #macrame
 ```
 
 ### Visuals
 - Canva, 1080 x 1350.
 - Slide 1: the soup title in grey on a parcel-label card, overflowing the card edge slightly.
-- Slide 2: each repeated "Candle Holder" circled in Returns Red, and a count badge "128".
-- Slide 4: clean title in Ink with a Sold Green tick and "(90)".
-- Photo: Pexels search "ceramic taper candle holder" or "pottery candlestick" (item only). Match colour to the example or use a neutral background.
-- Slide 6: Kit cover mock-up, price in Sold Green. No Etsy logo.
+- Slide 2: each "Macrame" circled in Returns Red, and a count badge "131".
+- Slide 4: clean title in Ink with a Sold Green tick and "(85)".
+- Photo: Pexels search "macrame plant hanger" or "hanging plant white wall" (item only, no people, no maker's label visible). Use a neutral background if the stock hanger is not natural cotton.
+- Slide 6: Kit cover mock-up, price in Sold Green only if the post goes out during the launch window (see production notes). No Etsy logo.
 - Note for the team: the Kit itself must not be listed on Etsy (Etsy does not allow selling prompt bundles, see research/platform-rules-uk.md). This post only teaches Etsy sellers.
 
 ---
@@ -1028,10 +1030,10 @@ The Well Listed Kit has these rules built into every prompt, plus brief template
 - **Length:** 6 slides
 - **Call to action:** Soft (free cheat sheet)
 
-**Hook (first 2 seconds):** Slide 1: "'Would you do all 3 for £10?' Here is how to answer with a number, not a sigh."
+**Hook (first 2 seconds):** Slide 1: "'Would you do all 3 for £10?' Answer with a number, not a sigh."
 
 ### Script
-1. Slide 1: "'Would you do all 3 for £10?' Here is how to answer with a number, not a sigh."
+1. Slide 1: "'Would you do all 3 for £10?' Answer with a number, not a sigh."
 2. Slide 2: "Before: 'No sorry.' Conversation over."
 3. Slide 3: "Do the sums first. 3 tops listed at £8, £8 and £7 = £23. Your floors: £6, £6 and £5 = £17."
 4. Slide 4: "Postage: £3.20 as one parcel, £8.40 separately. They save £5.20 by bundling. (Example figures)"
