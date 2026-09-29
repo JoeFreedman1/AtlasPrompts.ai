@@ -184,6 +184,14 @@ await p.screenshot({path:process.argv[2]});await b.close()})();""", tmp, os.path
 
 def main():
     ph = load_placeholders()
+    su = (ph.get("site_url") or "").strip().rstrip("/")
+    if su:
+        ph.setdefault("SALES_PAGE_URL", "")
+        ph.setdefault("CHEAT_SHEET_LINK", "")
+        if not ph["SALES_PAGE_URL"]:
+            ph["SALES_PAGE_URL"] = su + "/"
+        if not ph["CHEAT_SHEET_LINK"]:
+            ph["CHEAT_SHEET_LINK"] = su + "/free/uk-listing-cheat-sheet.pdf"
     live = (ph.get("live_version") or "A").upper()
     site_url = (ph.get("site_url") or "").strip()
     if os.path.isdir(OUT):
@@ -214,6 +222,8 @@ def main():
         for fn in fns:
             if fn.endswith(".html"):
                 for m in re.findall(r"\[([A-Z][A-Z0-9 _]{3,})\]", read(os.path.join(dp, fn))):
+                    if m not in ph:
+                        continue  # fill-in text inside prompts, not a site placeholder
                     left.setdefault(m, set()).add(os.path.relpath(os.path.join(dp, fn), OUT))
     print("Built", os.path.relpath(OUT, ROOT), "| live version:", live, "| blog articles:", len(items))
     if left:

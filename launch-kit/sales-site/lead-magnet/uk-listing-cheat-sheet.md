@@ -219,7 +219,7 @@ My Listing Brief:
 
 ## 5. Want the full kit?
 
-This sheet is a starting point. **The Well Listed Kit** is the full version: 88 prompts in 12 modules, covering a brief for every category, titles and descriptions for all six platforms, item specifics and tags, photos, pricing, 12 buyer message prompts (returns, "not as described", damage in the post, difficult buyers), a rule checker for each platform, batch listing for up to 10 items in one chat, and six worked examples. It comes with templates, 20 ready buyer replies, and an offline prompt library with a copy button on every prompt.
+This sheet is a starting point. **The Well Listed Kit** is the full version: 94 prompts in 13 modules, covering an all-in-one listing prompt for each platform, a brief for every category, titles and descriptions for all six platforms, item specifics and tags, photos, pricing, 12 buyer message prompts (returns, "not as described", damage in the post, difficult buyers), a rule checker for each platform, batch listing for up to 10 items in one chat, and six worked examples. It comes with templates, 20 ready buyer replies, and an offline prompt library with a copy button on every prompt.
 
 It is a one-off payment, not a subscription: £12 at launch, then £19. It comes with a 30-day no-questions refund through Gumroad. It will not promise you more sales (nobody honestly can), but it will help you write clear, accurate listings and replies more quickly.
 

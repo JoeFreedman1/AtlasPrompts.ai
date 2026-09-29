@@ -81,7 +81,7 @@ My Listing Brief:
 ```
 **What good output looks like:**
 
-For the Next jumper (grey, women's size 12, 60% acrylic and 40% wool, light bobbling under both arms):
+For the Next jumper (grey, women's, crew neck, size 12, 60% acrylic and 40% wool, measured, light bobbling under both arms, sent in a postal bag):
 
 > Next women's grey wool-blend jumper, size 12.
 >
@@ -89,9 +89,9 @@ For the Next jumper (grey, women's size 12, 60% acrylic and 40% wool, light bobb
 >
 > **Condition:** Good, pre-owned. Light bobbling under both arms (photo 5). No holes, stains or pulls that I can see.
 >
-> **Details:** 60% acrylic, 40% wool (care label). Ribbed cuffs and hem.
+> **Details:** 60% acrylic, 40% wool (care label).
 >
-> **Postage:** Royal Mail 2nd Class [CHECK: your service].
+> **Postage:** Folded and sent in a postal bag.
 
 **Check before you post:**
 - Every flaw in the text is in a photo, and every flaw in a photo is in the text.

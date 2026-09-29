@@ -1,6 +1,10 @@
 # Sales site: how to put it live
 
-Everything here is plain HTML. There is nothing to install or build. You fill in a few blanks, drag a folder onto Netlify, and the site is live.
+Everything here is plain HTML. You fill in a few blanks, drag a folder onto Netlify, and the site is live.
+
+**The easy way (recommended):** paste your Gumroad link, brand email, legal name and address, launch end date and MailerLite form code into a message to Claude and say "fill in the sales site placeholders". Claude writes them into `placeholders.json`, runs `python3 launch-kit/tools/build_site.py`, and the finished folder appears in `netlify-site/`. Never paste passwords.
+
+**Doing it yourself:** edit the values in `placeholders.json` (the name on the left is the placeholder, type your value between the quotes on the right), then ask any Claude session to run the build. Do not edit files inside `netlify-site/` directly: the build replaces that folder each time.
 
 ## What is in this folder
 
@@ -10,14 +14,15 @@ Everything here is plain HTML. There is nothing to install or build. You fill in
 | `version-b.html` | Sales page, angle B: "time back". Headline: *Clear the listing pile and the buyer messages without losing your evening.* |
 | `privacy.html` | Privacy notice (UK GDPR). A template: check it before publishing. |
 | `terms.html` | Terms of sale and licence. A template: check it before publishing. |
-| `lead-magnet/uk-listing-cheat-sheet.md` | The free "UK Listing Cheat Sheet" that people get for signing up. Turn it into a PDF (see step 4) and put the PDF link in your first welcome email. It is not part of the website. |
-| `netlify-site/` | The folder you drag onto Netlify. It holds `index.html` (a copy of version A), `privacy.html` and `terms.html`. |
+| `lead-magnet/uk-listing-cheat-sheet.md` | The free "UK Listing Cheat Sheet" source. The build turns it into `netlify-site/free/uk-listing-cheat-sheet.pdf` automatically. |
+| `placeholders.json` | The values that replace the [PLACEHOLDERS]. `live_version` chooses A or B for the home page. `site_url` is your Netlify address once you have it |
+| `netlify-site/` | Built by the script: the folder you drag onto Netlify. Holds `index.html` (the live version), `b/` (the other version, hidden from Google, for testing), `privacy.html`, `terms.html`, `blog/` (all 10 articles), `free/` (the cheat sheet PDF), `og-image.png` (share preview image) and `robots.txt`. |
 
 **Which file is the home page?** Netlify shows whichever file is called `index.html`. The `netlify-site/index.html` file starts as a copy of `version-a.html`. We suggest launching with version A, because the "AI makes things up" complaint was the strongest thing sellers said in our research.
 
 ## Step 1: fill in the placeholders
 
-Open each file in `netlify-site/` in a plain text editor (Notepad on Windows, TextEdit on a Mac set to plain text, or edit directly on GitHub with the pencil icon). Use Find and Replace (Ctrl+H on Windows, Cmd+Option+F on a Mac) for each placeholder below. Type the placeholder exactly, including the square brackets.
+Put each value into `placeholders.json` (or give them to Claude), then rebuild. The build prints any placeholder still empty. The two HTML comments (the MailerLite embed and the analytics snippet) are pasted into `version-a.html` and `version-b.html` by Claude, because they are code rather than a single value.
 
 | Placeholder | Where it appears | What to put in | Where the value comes from |
 |---|---|---|---|
@@ -31,10 +36,10 @@ Open each file in `netlify-site/` in a plain text editor (Notepad on Windows, Te
 | `<!-- EMAIL FORM EMBED CODE: paste MailerLite form here -->` | Sales page: "free cheat sheet" section | Paste MailerLite's embed code directly under this line, then delete the whole `<form class="signup" ...> ... </form>` block below it so there are not two forms | MailerLite: Forms, Embedded forms, your form, "Embed", copy the HTML code (LAUNCH.md step 10) |
 | `<!-- ANALYTICS SNIPPET -->` | Sales page, privacy and terms: in the `<head>` near the top | Optional. Paste an analytics code snippet here if you add one later. Netlify's built-in analytics needs no code | Your analytics tool. If it sets cookies, you also need a cookie banner and a line in the privacy notice |
 | `[ANALYTICS PROVIDER, ...]` | Privacy notice, section 3 | Name the analytics tool and what it records, or delete this bullet if you do not use one | As above |
-| `/og-image.png` | Sales page: the preview image used when someone shares the link | Not a placeholder to type over: add an image file called `og-image.png` (1200 x 630 pixels) into `netlify-site/` next to `index.html` | Make it in Canva: cream background, "Well Listed" logo, the headline, parcel-label style |
-| `[SALES_PAGE_URL]` | Lead magnet cheat sheet, last page | The live site address, e.g. `https://well-listed.netlify.app` | Netlify, after step 3 |
+| `/og-image.png` | Sales page: the preview image used when someone shares the link | Nothing to do: the build makes it automatically | |
+| `[SALES_PAGE_URL]` and `[CHEAT_SHEET_LINK]` | Cheat sheet last page, welcome email 1 | Filled automatically from `site_url` (the cheat sheet link becomes `your-site/free/uk-listing-cheat-sheet.pdf`) | Put your Netlify address in `site_url` after step 3, rebuild and redeploy |
 
-**Check you got them all:** use Find to search each file for `[` . The only square brackets left on the sales page should be the `[CHECK: ...]` examples and the `[BUYER]` example in the FAQ, which are meant to be there.
+**Check you got them all:** the build lists every site placeholder still unfilled. Square brackets inside example prompts (like `[CHECK: ...]` or `[PASTE YOUR NOTES]`) are meant to be there.
 
 **Before you publish privacy.html and terms.html:** read them through. They are plain-English templates, not legal advice. Make sure the 30-day refund in the terms matches the refund policy you set in Gumroad, and that the list of providers (Gumroad, MailerLite, Netlify, Google Fonts) matches what you actually use. The HTML comment at the top of each file says the same thing; it is invisible to visitors.
 
@@ -61,22 +66,21 @@ The privacy and terms links in the footer (`/privacy.html`, `/terms.html`) only 
 
 ## Step 4: turn the cheat sheet into a PDF
 
-The cheat sheet is written in Markdown (plain text with simple formatting). Easiest route: open https://github.com on the repo, open `lead-magnet/uk-listing-cheat-sheet.md` (GitHub shows it formatted), and use your browser's Print, "Save as PDF". Or paste it into Google Docs or Canva and export as PDF. It prints at around 3 to 4 pages. Upload the PDF to MailerLite (Files) or Google Drive (set to "anyone with the link can view") and put that link in welcome email 1.
+Done for you: the build makes `netlify-site/free/uk-listing-cheat-sheet.pdf`. Once the site is live, its link is `your-site-address/free/uk-listing-cheat-sheet.pdf`. Put that link in welcome email 1 (in place of `[CHEAT_SHEET_LINK]`).
 
 ## Swapping between version A and version B
 
 The two versions have different headlines, different examples and a different section order, so you can test which angle works better.
 
-1. Make sure the placeholders are also filled in on the other version (open `version-b.html` and do the same Find and Replace as in step 1).
-2. Copy `version-b.html` into the `netlify-site` folder and rename it to `index.html`, replacing the old one.
-3. Drag the `netlify-site` folder onto Netlify again (step 3, point 6).
+1. Change `live_version` in `placeholders.json` to `"B"` (or ask Claude to).
+2. Rebuild, then drag the new `netlify-site` folder onto Netlify again (step 3, point 6).
 
-To go back, do the same with `version-a.html`.
+To go back, set it to `"A"`. Whichever version is not live is still reachable at `your-site/b/` (or `/a/`) for checking, and is hidden from Google.
 
 **How to test fairly:** run one version for a full week, then the other for a full week, and compare Gumroad's "views to sales" figure and the number of cheat sheet sign-ups (log both in `metrics/`). Change only the page, not your posting, during the test. Small numbers swing a lot, so do not decide on a handful of sales.
 
 ## After launch
 
-- **On the launch end date:** change the Gumroad price to £19. On the sales page, change "£12" to "£19" in the hero button, price box, buy button and sticky bar, remove the "Full price £19" line and the launch price note, and redeploy. Do not extend or restart the launch price: that would make the "ends on" date untrue.
+- **On the launch end date:** change the Gumroad price to £19. Ask Claude to switch both sales pages to £19 (hero button, price box, buy button, sticky bar; remove the launch price note), rebuild and redeploy. Do not extend or restart the launch price: that would make the "ends on" date untrue.
 - **When you get real reviews:** only add them with the buyer's permission, word for word, and replace the "New for 2026: no reviews yet" line. Never write or edit a review yourself.
-- **If the kit changes** (for example the number of prompts), update the "What is inside" section and the price box so every number on the page stays true. The prompt counts on the page were taken from the kit source files on 29 September 2026: B 7, T 8, D 10, K 8, PH 8, R 8, M 12, V 8, C 11, W 8 (88 in total), plus the starter prompt in "Start here".
+- **If the kit changes** (for example the number of prompts), update the "What is inside" section and the price box so every number on the page stays true. The prompt counts on the page were taken from the kit source files on 29 September 2026: A 6, B 7, T 8, D 10, K 8, PH 8, R 8, M 12, V 8, C 11, W 8 (94 in total, in modules 00 to 10; modules 11 and 12 are examples and the cheatsheet). Recount with: `grep -cE "^### [A-Z]{1,2}[0-9]+ " launch-kit/product/source/*.md`
