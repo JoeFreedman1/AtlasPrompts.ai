@@ -240,3 +240,26 @@ Evidence:
 - The library search box does not say that IDs are two digits (fixed by 1), and READ-ME-FIRST.txt does not say to start from the A prompts on the library's first screen.
 
 Fix: plain steps in READ-ME-FIRST.txt (computer and phone) for opening the CSV templates in Google Sheets. W4 gains a phone-friendly route (paste into Google Sheets, then split text to columns, or ask for a table) and a line on saving a CSV.
+
+## Round 2 result
+
+All 10 fixed in `product/source/`, `product/templates/` and `product/READ-ME-FIRST.txt`. `build.py` was not edited.
+
+- Prompts: 89 before, 90 after (one new maker prompt, C11 Product safety and label details; V05 to V07 renumbered V04 to V06 and the old C11 renumbered C10, so there are no gaps).
+- PDF length: 136 A4 pages before, 141 after (the new prompt, the children's extras block and the maker rows).
+- Longest prompt: A04 at 1,305 characters. It replaces four separate Etsy prompts. Every other prompt is 1,279 or fewer.
+- Library search tested with the build's own data: "A01", "M07", "PH04", "C05", "D09" and every other ID now find their prompt. No dead ID references remain.
+- `check_content.py`: 0 problems. One warning, on the deliberate "Sweater | Jumper" row in Module 04.
+
+### What changed
+
+1. Every prompt ID in the source, templates and READ-ME-FIRST.txt is now two digits (A01, M08), matching the library badge and `all-prompts.txt`. Module 00 and READ-ME say so. Numbering gaps closed.
+2. A04 bans returns, refund and guarantee wording and points makers to C10. The brief CSV example states trader rights correctly. "Not legal advice" lines added to golden rule 7 and the closing note of 00, the "Sold as seen" paragraph in 03, and example 5 in 11.
+3. New C11 builds a copy-exact safety block, a label checklist and GOV.UK questions (including whether GPSR applies when posting to Northern Ireland or the EU) from the maker's own supplier documents. HANDMADE EXTRAS, A04, D04, C05, V05, Module 12 and the shot lists point to it.
+4. A04, D04, C05 and HANDMADE EXTRAS ask who made the item and whether AI was used in the design or photos. Hand words are limited to steps the seller does by hand. A04 has a vintage age line. 05 and 12 state what our research found (disclose AI in the description, "Designed by") and that we found no rule on AI-written listing text.
+5. CHILDREN'S CLOTHING EXTRAS in 01 (age size, height, shoe sizes, wear points, name tapes, cords). A01's size line takes age and height. D09 has a kids' bundle example and a Vinted bundle note. A children's section is in the shot lists. PH01 reminds about name tapes and school logos. The 00 table has a kids' row.
+6. A01 has a "What I checked and found fine" line, and its example now reaches 52 words with no invented reassurance. The D01 and D02 example briefs state what was checked. A05 flags media titles as [CHECK]. A06 bans sending buyers elsewhere to pay.
+7. Example 3's title is 87 characters and 13 words with no repeated idea. Its tags come only from the brief. D04's example keeps "soy wax" and uses hand words only as the brief allows. Example 6 follows V04's format. Example 4's fields are no longer labelled K03.
+8. The tracker's example cost is £6.60 (matching Module 11). The example Profit cells are formulas. The brief CSV's columns are corrected. The .txt example jumper matches the rest of the kit.
+9. Maker rows in "Which prompt do I need?", a "Make and sell your own products?" line, the check row now covers C02 to C07, and R07 accepts making costs.
+10. READ-ME-FIRST.txt has steps for opening the CSVs in Google Sheets on a computer and on a phone. W04 explains pasting a table into Google Sheets, "Split text to columns", and downloading a CSV.

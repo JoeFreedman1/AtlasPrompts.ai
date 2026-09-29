@@ -2,7 +2,7 @@
 
 Buyers cannot pick your item up, so your photos do most of the describing. AI cannot take them for you, but it is good at three jobs: planning the shots so you do not forget the label, the flaw or the back; checking your photo set against your Listing Brief; and writing captions and alt text.
 
-For a ready tick-list of shots by category, use **templates/photo-shot-lists.md**. PH1 tailors it to one item.
+For a ready tick-list of shots by category, use **templates/photo-shot-lists.md**. PH01 tailors it to one item.
 
 ## The one rule about edited and AI photos
 
@@ -16,7 +16,7 @@ For a ready tick-list of shots by category, use **templates/photo-shot-lists.md*
 |---|---|
 | eBay UK | Photos must show the actual item. No stock photos for used items. No added borders, text or watermarks |
 | Vinted | Your own photos of the item's current condition. Whole item first, labels for branded items, every defect. No stock, watermarked or found-online images, no collages |
-| Etsy | Listings must accurately show what the buyer will receive. Specific rules on disclosing AI use |
+| Etsy | Listings must accurately show what the buyer will receive. If AI helped create the item or its design, the Creativity Standards (as we read them) ask you to say so in the description and label the item "Designed by". Mockups must not mislead |
 | TikTok Shop UK | Realistic AI images or video must be labelled, and must not make the product look different (texture, features, size) |
 | Depop, Amazon UK | Images must accurately show the product. Amazon has strict main image rules |
 
@@ -24,7 +24,7 @@ Rules change. **Check the current rule in the platform's help pages before using
 
 ---
 
-### PH1 Shot list for my item
+### PH01 Shot list for my item
 **Use it when:** You have written the Listing Brief and want a numbered shot list before you pick up your phone.
 **Paste this:**
 ```text
@@ -38,6 +38,7 @@ Rules:
 - Base it only on my brief. If a shot depends on something the brief does not say (e.g. whether there is a box), write [CHECK: ...].
 - If there are more shots than the platform allows, say which to combine or drop, but never drop a flaw shot.
 - No filters or edits that change colour or hide wear.
+- Children's items: remind me to cover name tapes, names written on labels and school logos.
 
 My Listing Brief:
 [PASTE YOUR LISTING BRIEF HERE]
@@ -54,7 +55,7 @@ My Listing Brief:
 **Check before you post:**
 - The cover photo shows the whole item, not a close-up.
 
-### PH2 Flaw photo checklist
+### PH02 Flaw photo checklist
 **Use it when:** Your item has any wear, marks or faults and you want to show them properly. This protects you as much as the buyer.
 **Paste this:**
 ```text
@@ -81,7 +82,7 @@ Extra flaws I have noticed since: [EXTRA FLAWS OR "NONE"]
 **Check before you post:**
 - The flaw is visible at phone screen size, not only when zoomed in.
 
-### PH3 Phone lighting and background plan
+### PH03 Phone lighting and background plan
 **Use it when:** You photograph at home with just a phone and want truer colour without buying kit.
 **Paste this:**
 ```text
@@ -106,7 +107,7 @@ My Listing Brief:
 **Check before you post:**
 - Nothing in the background could be mistaken as included.
 
-### PH4 Photo set audit
+### PH04 Photo set audit
 **Use it when:** You have taken your photos and want a second pair of eyes to spot gaps before you post.
 **Paste this:**
 ```text
@@ -139,7 +140,7 @@ My Listing Brief:
 **Check before you post:**
 - Nothing in any photo suggests something is included when it is not.
 
-### PH5 Photo captions
+### PH05 Photo captions
 **Use it when:** Your platform lets you add a caption to each photo, or you want matching lines for the description.
 **Paste this:**
 ```text
@@ -162,7 +163,7 @@ My Listing Brief:
 **Check before you post:**
 - Captions match the description word for word on flaws.
 
-### PH6 Alt text for listing photos
+### PH06 Alt text for listing photos
 **Use it when:** Your platform or web shop has an alt text box (a short description of an image for people using screen readers). Etsy and most web shops have one.
 **Paste this:**
 ```text
@@ -186,7 +187,7 @@ My Listing Brief:
 **Check before you post:**
 - Each line describes the photo, not the sales pitch.
 
-### PH7 Is this edit OK?
+### PH07 Is this edit OK?
 **Use it when:** You are tempted to use a background remover, a "magic eraser", an AI model or any AI photo tool, and want to check it will not misrepresent the item.
 **Paste this:**
 ```text

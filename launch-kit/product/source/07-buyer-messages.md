@@ -26,7 +26,7 @@ The practical upshot: **an honest listing with every flaw described and photogra
 
 ---
 
-### M1 Reply to any buyer message
+### M01 Reply to any buyer message
 **Use it when:** You have a message that does not fit the other prompts, or just want a quick, polite reply.
 **Paste this:**
 ```text
@@ -54,7 +54,7 @@ My Listing Brief:
 
 > "Hi, thanks for asking. Yes, it comes from a smoke-free home. I post on Mondays and Thursdays, so if you buy before Monday it will go out then."
 
-### M2 "Is this still available?"
+### M02 "Is this still available?"
 **Use it when:** You get the classic question and want a reply that answers it and moves things along.
 **Paste this:**
 ```text
@@ -76,7 +76,7 @@ My Listing Brief:
 **Check before you post:**
 - It really is still available everywhere you cross-list.
 
-### M3 Lowball offer
+### M03 Lowball offer
 **Use it when:** Someone offers far below your price and you want to stay polite without giving the item away.
 **Paste this:**
 ```text
@@ -102,7 +102,7 @@ My Listing Brief (includes my floor):
 **Check before you post:**
 - Your stated reason is true (you really looked at comps).
 
-### M4 Bundle request
+### M04 Bundle request
 **Use it when:** A buyer wants several of your items and asks for a deal.
 **Paste this:**
 ```text
@@ -111,7 +111,7 @@ A buyer on [PLATFORM] wants several of my items together. Help me reply with a b
 The items (title, list price and floor for each):
 [PASTE ITEMS HERE]
 Postage as one parcel: £[AMOUNT OR "NOT SURE"]
-Bundle price I am happy with (or work it out with R4 first): £[AMOUNT]
+Bundle price I am happy with (or work it out with R04 first): £[AMOUNT]
 How the platform handles bundles: [E.G. "BUYER ADDS ITEMS TO A BUNDLE AND I SEND AN OFFER" / "NOT SURE"]
 
 Write a reply under 60 words that confirms the items, gives the price and whether postage is included, and says how to buy with the platform's bundle or offer tool.
@@ -125,7 +125,7 @@ Rules: UK English, friendly, on the platform. Never below the total of my floors
 **Check before you post:**
 - The combined parcel fits the postage size you quoted.
 
-### M5 Postage questions
+### M05 Postage questions
 **Use it when:** A buyer asks about postage cost, speed, tracking, collection or sending abroad.
 **Paste this:**
 ```text
@@ -150,7 +150,7 @@ Rules: UK English. Only these facts; anything else becomes [CHECK: ...]. Never p
 **Check before you post:**
 - Any upgrade cost is added through the platform, not paid separately.
 
-### M6 Delay: late dispatch or parcel stuck in transit
+### M06 Delay: late dispatch or parcel stuck in transit
 **Use it when:** You are going to post late, or tracking has stalled and the buyer is asking where their parcel is.
 **Paste this:**
 ```text
@@ -175,7 +175,7 @@ UK English. Do not blame the buyer. Do not promise a delivery date. No cancellin
 **Check before you post:**
 - If you promised to follow up, set a reminder on your phone.
 
-### M7 Return request
+### M07 Return request
 **Use it when:** A buyer asks to return an item, for any reason.
 **Paste this:**
 ```text
@@ -206,9 +206,9 @@ My Listing Brief:
 > **Part 2:** "Hi, sorry it did not fit. As I sell privately I do not accept returns for fit, which is why I listed the measurements. If there is anything wrong with the item itself, please let me know and I will help."
 
 **Check before you post:**
-- You are clear whether you are a private seller or a trader. If the claim is about a fault or the description, use M8.
+- You are clear whether you are a private seller or a trader. If the claim is about a fault or the description, use M08.
 
-### M8 "Item not as described"
+### M08 "Item not as described"
 **Use it when:** A buyer says the item is different from the listing, faulty, or has a flaw you did not mention.
 **Paste this:**
 ```text
@@ -235,7 +235,7 @@ UK English. If the listing did not mention the problem, say so plainly. Never ac
 **Check before you post:**
 - Any refund goes through the platform so both of you stay covered.
 
-### M9 Damaged in the post
+### M09 Damaged in the post
 **Use it when:** The buyer says the item arrived broken, crushed or wet.
 **Paste this:**
 ```text

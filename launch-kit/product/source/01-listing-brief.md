@@ -45,7 +45,7 @@ Every prompt that writes buyer-facing copy is told never to reveal your lowest p
 
 ## Category extras
 
-The master brief works for anything. For these categories, add the extra lines buyers ask about most (or ask B5 to build a brief for your own category).
+The master brief works for anything. For these categories, add the extra lines buyers ask about most (or ask B05 to build a brief for your own category).
 
 **Clothing, shoes and accessories.** Measurements beat sizes: a size 12 from 2024 is not a size 12 from 1985.
 
@@ -63,6 +63,21 @@ Fit / cut (e.g. oversized, cropped, high waisted):
 Tags attached? (yes / no / cut label): 
 Era (only if known: "tag style suggests 1990s" is fine, a guessed year is not): 
 ```
+
+**Children's clothing and shoes.** Parents buy by age size and height, and bundles are common (use D09 for those).
+
+```text
+CHILDREN'S CLOTHING EXTRAS
+Age size on label, written with "to" (e.g. 5 to 6 years): 
+Height or weight on label, if printed (e.g. 116 cm): 
+Girls', boys' or not stated on the label: 
+Shoe size (UK child sizes run up to 13, then restart at adult 1: copy the label): 
+Wear points checked (knees, cuffs, elbows, toes, bobbling after washing): 
+Names written in or name tapes (removed? covered in photos?): 
+Cords, drawstrings or small parts (e.g. hood cords, toggles, poppers): 
+```
+
+Before you photograph kids' clothes, cover or crop name tapes, names written on labels and school logos: they identify a child. School uniform with a logo, nightwear, cords on hoods and used safety items (car seats, cycle helmets) can have extra safety rules or platform limits. Check the platform's help pages and GOV.UK before listing them.
 
 **Electronics.** Buyers want to know it works, what comes with it, and whether anything is locked.
 
@@ -119,13 +134,18 @@ Age guidance on box (copy exactly):
 
 ```text
 HANDMADE EXTRAS
+Who made it and how (which steps you do by hand, any production partner): 
+AI used in the design, pattern or photos? (no / yes, how): 
 Materials (every one, including findings, thread, finish, glaze): 
 Personalisation (what can change, character limits): 
 Made to order or ready to post, and making time: 
 Care instructions: 
 Allergy information (e.g. "nickel-free" only if your supplier confirms it): 
 Each piece varies? (e.g. hand-dyed): 
-Safety notes (e.g. "not a toy", candle safety): 
+Safety text (copied exactly from your label or supplier documents; C11 helps): 
+Your business name and address on the product or packaging (yes / no): 
+Product or batch reference, if you use one: 
+Post to Northern Ireland or the EU? (yes / no): 
 ```
 
 ---
@@ -134,7 +154,7 @@ Safety notes (e.g. "not a toy", candle safety):
 
 These build a brief from whatever you have: scribbled notes, a voice note, a photo description or a box label. The AI only organises facts and flags gaps. It does not write the listing yet.
 
-### B1 Messy notes to Listing Brief
+### B01 Messy notes to Listing Brief
 **Use it when:** You have jotted a few scrappy notes about an item and want a tidy brief.
 **Paste this:**
 ```text
@@ -165,7 +185,7 @@ My notes:
 **Check before you post:**
 - Make sure the AI has not quietly upgraded your words (for example "wool mix" becoming "merino").
 
-### B2 Voice note transcript to Listing Brief
+### B02 Voice note transcript to Listing Brief
 **Use it when:** You talked about the item into your phone (quicker than typing) and have the transcript.
 **Paste this:**
 ```text
@@ -193,7 +213,7 @@ Transcript:
 **Check before you post:**
 - Check brand names and model numbers against the label. Transcription gets them wrong most often.
 
-### B3 Photo description to Listing Brief
+### B03 Photo description to Listing Brief
 **Use it when:** You want to describe what you can see, photo by photo, and turn it into a brief. The AI does not need to see images, so it works in any free tool.
 **Paste this:**
 ```text
@@ -222,7 +242,7 @@ Postage: [POSTAGE]
 **Check before you post:**
 - If you are not sure a mark is genuine, say what it reads rather than who made it.
 
-### B4 Gap finder: what a buyer will ask
+### B04 Gap finder: what a buyer will ask
 **Use it when:** You have a brief and want to catch the questions buyers will message you about.
 **Paste this:**
 ```text
@@ -247,7 +267,7 @@ My Listing Brief:
 **Check before you post:**
 - Add the answers to the brief itself, so every platform version gets them.
 
-### B5 Build my own category brief
+### B05 Build my own category brief
 **Use it when:** You sell a lot of one thing (bikes, prams, golf clubs, board games) and want a brief template made for it.
 **Paste this:**
 ```text
@@ -263,7 +283,7 @@ UK English, plain words, no sales language.
 **Check before you post:**
 - Some categories are restricted or banned on some platforms. Check the prohibited items page before listing.
 
-### B6 Label or box text to Listing Brief
+### B06 Label or box text to Listing Brief
 **Use it when:** You have a new or boxed item, or a clear product label, and want the facts copied off it accurately.
 **Paste this:**
 ```text
@@ -292,7 +312,7 @@ My extra details (condition, flaws, whether opened, postage, price):
 **Check before you post:**
 - Check whether the category has hygiene rules on the platform. Opened personal care items often do.
 
-### B7 Brief tidy-up and consistency check
+### B07 Brief tidy-up and consistency check
 **Use it when:** Your brief is filled in and you want a sanity check before running the title and description prompts.
 **Paste this:**
 ```text

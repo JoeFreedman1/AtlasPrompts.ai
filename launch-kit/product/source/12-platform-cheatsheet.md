@@ -71,7 +71,7 @@ Limits, fees and the rules that matter most when you write a listing, one table 
 | Title and tags | Title 140 characters, clear and readable. Up to 13 tags, each up to 20 characters |
 | Photos and video | Up to 20 photos. Video commonly reported as 1 clip of 5 to 15 seconds |
 | Fees | Listing $0.20 (about £0.15) per listing or renewal, lasting 4 months or until sold. Transaction fee 6.5% including postage. UK payment processing 4% + £0.20. A UK Regulatory Operating Fee applies (check the current rate). Offsite Ads fees apply to orders from Etsy's adverts |
-| Key rules | Handmade, vintage (at least 20 years old; check the current rule) and craft supplies only. If AI was used in creating an item, Etsy's Creativity Standards ask you to say so. No keyword stuffing, counterfeits or health claims |
+| Key rules | Handmade, vintage (at least 20 years old; check the current rule) and craft supplies only. If AI was used in creating an item or its design, Etsy's Creativity Standards (commonly reported) ask you to say so in the description and to label the item "Designed by". We found no Etsy rule about using AI to help write listing text: check the Creativity Standards. Selling lists of AI prompts is not allowed. No keyword stuffing, counterfeits or health claims |
 
 - Fees and payments policy: https://www.etsy.com/uk/legal/fees/
 - Payment processing fees: https://help.etsy.com/hc/en-gb/articles/115015628847-What-are-Payment-Processing-Fees-for-Selling-on-Etsy
@@ -117,5 +117,6 @@ We have not verified the detail here. Please read the official pages yourself.
 - **Selling as a business?** Read GOV.UK on accepting returns and giving refunds: https://www.gov.uk/accepting-returns-and-giving-refunds
 - **Platform reporting to HMRC.** Being reported does not by itself mean tax is due: https://www.gov.uk/government/publications/reporting-rules-for-digital-platforms
 - **Trading allowance and tax:** https://www.gov.uk/guidance/tax-free-allowances-on-property-and-trading-income
+- **Making and selling your own products?** Product safety and labelling rules depend on the product (candles, toys, cosmetics, electricals, children's clothing and items that touch food all have their own). If you post to Northern Ireland or the EU, check whether the EU General Product Safety Regulation (GPSR) applies to you. Search GOV.UK for "product safety for businesses", and use C11 to gather your details.
 
 **Last checked: September 2026. Rules change: always check the current rule in the platform's help pages before you list.**

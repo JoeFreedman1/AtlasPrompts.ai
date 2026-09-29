@@ -2,7 +2,7 @@
 
 **Skip this module if** you only list second-hand items on Vinted, eBay or Depop and do not make videos. Nothing else in the kit depends on it.
 
-A short video can show an item's size, texture and flaws better than photos. You do not need to show your face, use your voice or film your home: everything here works with hands-only shots, a plain background, on-screen text and a text-to-speech voice. The module covers faceless product videos (V1 to V3) and TikTok Shop UK copy (V5 to V7). For TikTok Shop titles, use T6 in Module 02.
+A short video can show an item's size, texture and flaws better than photos. You do not need to show your face, use your voice or film your home: everything here works with hands-only shots, a plain background, on-screen text and a text-to-speech voice. The module covers faceless product videos (V01 to V03) and TikTok Shop UK copy (V04 to V06). For TikTok Shop titles, use T06 in Module 02.
 
 ## Three rules for video
 
@@ -25,7 +25,7 @@ Rules change. Read TikTok Shop UK's current policies in Seller Center before you
 
 ---
 
-### V1 Faceless product video script (15 to 30 seconds)
+### V01 Faceless product video script (15 to 30 seconds)
 **Use it when:** You want a short, honest video of one item without showing your face or using your own voice.
 **Paste this:**
 ```text
@@ -60,7 +60,7 @@ My Listing Brief:
 - Watch it with the sound off. Does the on-screen text alone tell the truth about the item?
 - Scan every frame for faces, reflections, post or house numbers.
 
-### V2 Hands-only shot list and showcase ideas
+### V02 Hands-only shot list and showcase ideas
 **Use it when:** You know what the item is but not how to film it without a face or a model.
 **Paste this:**
 ```text
@@ -84,7 +84,7 @@ My Listing Brief:
 **Check before you post:**
 - Every [CHECK] is answered before you film the shots that depend on it.
 
-### V3 Caption, on-screen text and hashtags for a product video
+### V03 Caption, on-screen text and hashtags for a product video
 **Use it when:** You have filmed the video and need the words to go with it.
 **Paste this:**
 ```text
@@ -115,7 +115,7 @@ My Listing Brief:
 **Check before you post:**
 - The caption mentions the flaw as clearly as the video shows it.
 
-### V5 TikTok Shop UK product description
+### V04 TikTok Shop UK product description
 **Use it when:** You need a TikTok Shop product description that is clear, scannable on a phone and free of risky claims.
 **Paste this:**
 ```text
@@ -147,7 +147,7 @@ My Listing Brief:
 **Check before you post:**
 - Measure the product yourself and match the numbers exactly.
 
-### V6 TikTok Shop claims check and safe rewrite
+### V05 TikTok Shop claims check and safe rewrite
 **Use it when:** You have product copy or a video script and want to catch risky claims before TikTok Shop or a buyer does.
 **Paste this:**
 ```text
@@ -181,9 +181,9 @@ My Listing Brief:
 > | "Only 3 left!!!" | Possible fake urgency, symbols | Remove |
 
 **Check before you post:**
-- Heated, electrical, children's and skin products often need extra documents. Check the category rules in Seller Center, and copy the real safety instructions from the label word for word.
+- Heated, electrical, children's and skin products often need extra documents. Check the category rules in Seller Center, and copy the real safety instructions from the label word for word (C11 helps makers gather them).
 
-### V7 Live-selling run-sheet
+### V06 Live-selling run-sheet
 **Use it when:** You are planning a TikTok Shop LIVE, or any live selling session, and want a calm, honest plan without showing your face.
 **Paste this:**
 ```text

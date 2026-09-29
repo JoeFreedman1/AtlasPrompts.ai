@@ -13,12 +13,13 @@ Write a Vinted listing in UK English using ONLY these facts.
 
 What it is: [E.G. JUMPER]
 Brand: [BRAND OR "UNBRANDED"]
-Size on label: [SIZE]
+Size on label: [E.G. 12, OR KIDS: AGE 5 TO 6 YEARS, 116 CM]
 Measurements, laid flat (cm): [E.G. PIT TO PIT 51, LENGTH 63]
 Colour: [COLOUR]
 Material (from the label): [MATERIAL OR "NOT SURE"]
 Condition: [NEW WITH TAGS / NEW WITHOUT TAGS / VERY GOOD / GOOD / SATISFACTORY]
 Flaws (where, what, how big): [FLAWS OR "NONE FOUND"]
+What I checked and found fine: [E.G. "NO HOLES, ZIP WORKS" OR "NOTHING CHECKED"]
 Anything else true: [E.G. "SMOKE-FREE HOME" OR "NONE"]
 
 Give me:
@@ -99,25 +100,29 @@ Write an Etsy listing in UK English using ONLY these facts.
 
 What it is: [ITEM]
 Handmade, vintage or craft supply: [TYPE]
-Materials (all of them): [MATERIALS]
+Who made it and how: [E.G. "I THROW AND GLAZE EACH ONE"]
+AI used in the design or photos? [NO / YES, HOW]
+Vintage only, age, proof and flaws: [E.G. "1970S, DATED BACKSTAMP, 2 MM RIM CHIP"]
+Materials, all of them: [MATERIALS]
 Size and weight: [DIMENSIONS]
-Colours or options: [OPTIONS]
-Personalisation (if any): [WHAT CAN CHANGE, CHARACTER LIMITS, OR "NONE"]
-Made to order or ready to post, and dispatch time: [DETAILS]
-Care instructions: [CARE]
-Safety notes: [E.G. "NOT A TOY" OR "NONE"]
-Condition and flaws (vintage only): [DETAILS OR "NOT APPLICABLE"]
+Options and personalisation: [OPTIONS OR "NONE"]
+Made to order or ready, dispatch time: [DETAILS]
+Care: [CARE]
+Safety text, copied exactly (see C11): [TEXT OR "NONE"]
 
 Give me:
-1. Two titles under 140 characters, with the count. A clear, readable phrase first, not a keyword list.
-2. 13 tags, each 20 characters or fewer including spaces, with counts, then all 13 on one comma-separated line.
-3. A description: two clear opening lines, then details, personalisation, dispatch, care and safety.
+1. Two titles under 140 characters, with the count: readable phrases, not keyword lists.
+2. 13 tags of 20 characters or fewer, with counts, then all 13 on one comma-separated line.
+3. A description: two opening lines, then details, who made it, personalisation, dispatch, care, safety.
 
 Rules:
 - Missing facts become [CHECK: what is missing]. Never guess.
-- Materials exactly as I wrote them. Do not upgrade "silver-plated" to "silver".
-- No health or wellbeing claims (calming, healing, hypoallergenic). No hype words or exclamation marks.
-- No other brands or characters. "Vintage" only if I gave an age of 20 years or more.
+- Materials and safety text exactly as I wrote them (never "silver" for silver-plated).
+- Hand words (handmade, hand-poured) only for steps I do by hand.
+- If I used AI, one plain sentence saying how.
+- No health claims (calming, healing, hypoallergenic), hype or exclamation marks.
+- No other brands or characters. "Vintage" only for 20 years or more.
+- No returns, refund or guarantee wording.
 
 [A05] All-in-one Amazon UK listing
 Use it when: You are a brand owner or seller of new stock creating an Amazon UK product listing.
@@ -135,7 +140,7 @@ Care or use instructions: [DETAILS]
 Is this a media product (books, music, video)? [YES / NO]
 
 Give me:
-1. A title of 75 characters or fewer including spaces (the rule for non-media categories from 27 July 2026), with the count.
+1. A title of 75 characters or fewer including spaces (the rule for non-media categories from 27 July 2026), with the count. If it is a media product, write [CHECK: title limit for media in Seller Central] instead of guessing.
 2. An Item Highlights line of 125 characters or fewer, with the count, adding details not in the title.
 3. Up to 5 bullet points, each a short label and one or two plain sentences.
 4. A product description of 100 to 200 words.
@@ -171,6 +176,7 @@ Rules:
 - Titles: no symbols, emoji, promotions (sale, x% off), shop name, web address, or mention of TikTok or other platforms.
 - No claims that it cures, treats, prevents or relieves anything. No weight loss claims.
 - No "best", no comparisons with other brands, no fake urgency, no vague green claims.
+- No other platforms, and nothing sending buyers elsewhere to pay.
 
 
 ============================================================
@@ -529,17 +535,19 @@ Write an Etsy listing description for the item in my Listing Brief below.
 Order:
 1. Two opening lines: what it is and what makes it distinctive, from the brief only.
 2. Details: every material, size and dimensions, colours, weight if relevant.
-3. Personalisation: what can change and how to request it (skip if not offered).
-4. Made to order or ready to post, and making time.
-5. Care instructions, then safety notes from my brief.
-6. Vintage items only: era (as supported by the brief) and every flaw.
+3. Who made it and how, in one line. If AI was used in the design, pattern or photos, one plain sentence saying so.
+4. Personalisation: what can change and how to request it (skip if not offered).
+5. Made to order or ready to post, and making time.
+6. Care instructions, then my safety text word for word.
+7. Vintage items only: era (as supported by the brief) and every flaw.
 
 Rules:
 - UK English. Warm, plain tone. Short paragraphs.
 - Use ONLY facts in my brief. Missing facts become [CHECK: ...].
 - Materials exactly as written. Do not upgrade "silver-plated" to "silver" or "cotton blend" to "cotton".
+- Hand words (handmade, hand-poured, hand-thrown) only for steps my brief says I do by hand.
 - No health, wellbeing or medical claims (calming, healing, detox, hypoallergenic) unless I give supplier evidence.
-- No hype, no "perfect gift for everyone", no exclamation marks.
+- No hype, no "perfect gift for everyone", no exclamation marks. No returns or refund wording.
 
 My Listing Brief:
 [PASTE YOUR LISTING BRIEF HERE]
@@ -628,7 +636,7 @@ Use it when: You are selling several items together (kids' clothes, a box of boo
 Write a [PLATFORM] UK description for a bundle or job lot from my list below.
 
 1. Opening line: what the bundle is, how many items, key shared details (e.g. "Bundle of 8 girls' tops, age 7 to 8 years").
-2. A numbered list: one line per item with brand, item, size, condition and any flaw with location and size.
+2. A numbered list: one line per item with brand, item, size, condition and any flaw with location and size. Children's sizes as on the label, written "age 7 to 8 years", never a single guessed age.
 3. What the bundle does NOT include (only if I say).
 4. Parcel weight or size if I give it.
 
@@ -822,6 +830,7 @@ Rules:
 - Base it only on my brief. If a shot depends on something the brief does not say (e.g. whether there is a box), write [CHECK: ...].
 - If there are more shots than the platform allows, say which to combine or drop, but never drop a flaw shot.
 - No filters or edits that change colour or hide wear.
+- Children's items: remind me to cover name tapes, names written on labels and school logos.
 
 My Listing Brief:
 [PASTE YOUR LISTING BRIEF HERE]
@@ -994,7 +1003,7 @@ Rules:
 My Listing Brief (includes my floor):
 [PASTE YOUR LISTING BRIEF HERE]
 
-My sold comps (ideally the table from R1):
+My sold comps (ideally the table from R01):
 [PASTE COMPS HERE]
 
 [R03] Adjust for condition and extras
@@ -1080,7 +1089,7 @@ My Listing Brief (includes my floor):
 [PASTE YOUR LISTING BRIEF HERE]
 
 [R07] Fee and postage maths
-Use it when: You want to know what you actually keep after fees, postage and packaging, before you set a price or accept an offer.
+Use it when: You want to know what you actually keep after fees, postage and packaging, before you set a price or accept an offer. Makers: put your materials (and time, if you want it counted) in the cost line.
 ----------------------------------------
 Work out what I keep from a sale, using fees I copy from the platform myself.
 
@@ -1091,7 +1100,7 @@ My actual postage cost: £[AMOUNT]
 Packaging: £[AMOUNT OR "0"]
 Fees copied from the platform's fee page today (percentage, fixed fee, whether it applies to postage):
 [PASTE CURRENT FEE DETAILS HERE]
-What I paid for the item (optional): £[AMOUNT OR "NOT SURE"]
+What the item cost me (optional): £[PRICE PAID, OR FOR MAKERS: MATERIALS + SHARE OF KILN OR TOOLS + TIME AT A RATE I CHOOSE, EACH LISTED]
 Amount I want to keep: £[TARGET AMOUNT]
 
 Show a simple table: money in, each fee with its sum, postage and packaging out, what I keep, and what is left after cost if I gave one. Then the lowest sale price that still keeps my target amount.
@@ -1099,7 +1108,7 @@ Show a simple table: money in, each fee with its sum, postage and packaging out,
 Rules:
 - UK English, pounds, nearest penny.
 - Use ONLY the fees I pasted, never your own knowledge. Unclear fees become [CHECK: ...].
-- This is a sum, not advice. Only call it "profit" if I gave a cost price.
+- This is a sum, not advice. Only call it "profit" if I gave a cost. If I listed making costs, add them up and show each one.
 
 [R08] Is it worth listing on its own?
 Use it when: You have a low-value item and are not sure whether to list it alone, bundle it or let it go.
@@ -1107,7 +1116,7 @@ Use it when: You have a low-value item and are not sure whether to list it alone
 Help me decide whether this item is worth listing on its own.
 
 Sold comps (optional): [PASTE OR "NONE"]
-What I keep at that price (from R7, optional): £[AMOUNT OR "NOT SURE"]
+What I keep at that price (from R07, optional): £[AMOUNT OR "NOT SURE"]
 Minutes it takes me to list, message and pack one item: [MINUTES]
 Similar items I could put with it: [LIST OR "NONE"]
 
@@ -1185,7 +1194,7 @@ A buyer on [PLATFORM] wants several of my items together. Help me reply with a b
 The items (title, list price and floor for each):
 [PASTE ITEMS HERE]
 Postage as one parcel: £[AMOUNT OR "NOT SURE"]
-Bundle price I am happy with (or work it out with R4 first): £[AMOUNT]
+Bundle price I am happy with (or work it out with R04 first): £[AMOUNT]
 How the platform handles bundles: [E.G. "BUYER ADDS ITEMS TO A BUNDLE AND I SEND AN OFFER" / "NOT SURE"]
 
 Write a reply under 60 words that confirms the items, gives the price and whether postage is included, and says how to buy with the platform's bundle or offer tool.
@@ -1400,7 +1409,7 @@ Rules: only facts from my brief; [CHECK: ...] for anything missing; no hype, "be
 My Listing Brief:
 [PASTE YOUR LISTING BRIEF HERE]
 
-[V05] TikTok Shop UK product description
+[V04] TikTok Shop UK product description
 Use it when: You need a TikTok Shop product description that is clear, scannable on a phone and free of risky claims.
 ----------------------------------------
 Write a TikTok Shop UK product description in UK English for the product in my Listing Brief.
@@ -1420,7 +1429,7 @@ Rules:
 My Listing Brief:
 [PASTE YOUR LISTING BRIEF HERE]
 
-[V06] TikTok Shop claims check and safe rewrite
+[V05] TikTok Shop claims check and safe rewrite
 Use it when: You have product copy or a video script and want to catch risky claims before TikTok Shop or a buyer does.
 ----------------------------------------
 Check this TikTok Shop UK copy or video script line by line. UK English.
@@ -1444,7 +1453,7 @@ Copy or script to check:
 My Listing Brief:
 [PASTE YOUR LISTING BRIEF HERE]
 
-[V07] Live-selling run-sheet
+[V06] Live-selling run-sheet
 Use it when: You are planning a TikTok Shop LIVE, or any live selling session, and want a calm, honest plan without showing your face.
 ----------------------------------------
 Plan a faceless live selling session (hands and products only, voice or on-screen text). UK English.
@@ -1567,24 +1576,26 @@ Use it when: You are about to post a handmade, vintage or craft supply listing o
 ----------------------------------------
 Check my Etsy listing before I post. Report problems, do not rewrite.
 
+Who made it and how: [E.G. "I THROW AND GLAZE EACH ONE"]
 Did I use AI in making the item, its design or the photos? [NO / YES, HOW]
 Etsy rule text I copied today (optional): [PASTE OR "NONE"]
 
 Check (pasted rule text wins if different):
-- Title 140 characters or fewer, a clear description. Show the count.
-- 13 tags or fewer, each 20 characters or fewer. Count each. Flag repeats and tags that do not fit.
-- Item type (handmade, vintage, craft supply) fits the brief. Vintage with no age: [CHECK: Etsy's vintage rule].
-- If AI was used, remind me Etsy expects it to be disclosed (Creativity Standards).
+- Title 140 characters or fewer, readable. Show the count.
+- Up to 13 tags, each 20 characters or fewer. Count each. Flag repeats and tags that do not fit.
+- Item type fits the brief. Vintage with no age: [CHECK: Etsy's vintage rule].
+- AI used in the item, design or photos: the description says so (Creativity Standards).
+- Hand words (handmade, hand-poured) match who made it.
 - Photos show what the buyer receives; mockups must not mislead.
 - No brands, characters or crests I have no right to use.
-- Materials, eco and health claims backed by the brief. Returns wording keeps UK buyers' rights (see C11).
+- Materials, eco and health claims backed by the brief. Returns wording keeps UK buyers' rights (see C10).
 
 Label issues Must fix, Should fix or Fine, then a verdict. UK English. If unsure, write [CHECK: Etsy help pages].
 
 My Listing Brief:
 [PASTE YOUR LISTING BRIEF HERE]
 
-My listing (title, tags, description, item type, materials, photos in a line each, price, returns):
+My listing (title, tags, description, item type, photos in a line each, returns):
 [PASTE YOUR LISTING HERE]
 
 [C06] Amazon UK pre-post check
@@ -1603,7 +1614,7 @@ Check (pasted rule text wins if different):
 - Nothing claimed that is not in the brief (materials, sizes, compatibility, certifications).
 - Search terms: no title words, competitor brands or irrelevant words. [CHECK: byte limit.]
 - Main image: plain white background, product only.
-- Flag any health, safety or eco claim for C8.
+- Flag any health, safety or eco claim for C08.
 
 Label issues Must fix, Should fix or Fine, then a verdict. UK English. If unsure, write [CHECK: Seller Central help].
 
@@ -1679,7 +1690,7 @@ My Listing Brief (including how I know the brand):
 My listing:
 [PASTE YOUR LISTING HERE]
 
-[C11] UK consumer law wording check
+[C10] UK consumer law wording check
 Use it when: Your listing or shop has returns, refunds or guarantee wording, or you are not sure whether you are a private seller or a business.
 ----------------------------------------
 Check my returns, refunds and guarantee wording against UK consumer law basics. A practical check, not legal advice.
@@ -1696,6 +1707,26 @@ My wording:
 5. Suggest fair, clear replacement wording for my status.
 
 UK English. Never suggest wording that denies legal rights. Tell me to check gov.uk, Citizens Advice and the platform's help pages.
+
+[C11] Product safety and label details (makers)
+Use it when: You make and sell your own products (candles, ceramics, jewellery, textiles, toys, cosmetics) and want the safety text and label details gathered before you list.
+----------------------------------------
+I make and sell [PRODUCT] in the UK on [PLATFORM(S)]. Help me gather its safety and label details. A practical checklist, not legal advice.
+
+Materials and components: [LIST]
+Who it is for: [ADULTS / COULD APPEAL TO CHILDREN / MADE FOR CHILDREN]
+Warnings and instructions from my suppliers (paste exactly): [TEXT OR "NONE"]
+What my label or packaging says now: [TEXT OR "NO LABEL"]
+My business name and address on the product or packaging? [YES / NO]
+Product or batch reference: [REFERENCE OR "NONE"]
+Post to Northern Ireland or the EU? [YES / NO]
+
+Give me:
+1. A "Safety information" block for my listing, using ONLY the supplier and label text above, word for word. Gaps become [CHECK: ...].
+2. A label checklist: what my label already has, and what is missing, as questions.
+3. Up to 6 questions to check on GOV.UK for this product type. If I post to Northern Ireland or the EU, include whether the EU General Product Safety Regulation (GPSR) applies to me.
+
+Rules: UK English. State no law, standard or certification as fact. Never write "safe", "non-toxic", "child-safe", CE or UKCA unless my supplier text says so. If it could appeal to children but is not made for them, flag it.
 
 
 ============================================================
@@ -1722,7 +1753,7 @@ It must include these fixed rules: UK English, UK sizes and £. Only facts from 
 [W02] Start a batch session (list up to 10 items in one chat)
 Use it when: You have a pile of items photographed and noted, and want to list them in one sitting.
 ----------------------------------------
-[PASTE YOUR SHOP STYLE INSTRUCTION FROM W1]
+[PASTE YOUR SHOP STYLE INSTRUCTION FROM W01]
 
 We are going to list [NUMBER, UP TO 10] items in this chat. Platform for this batch: [EBAY UK / VINTED / DEPOP / ETSY].
 
@@ -1737,7 +1768,7 @@ How this works:
 Reply "Ready for ITEM 1" and nothing else.
 
 [W03] Turn messy notes for 10 items into Listing Briefs in one go
-Use it when: You have quick notes for a stack of items and want proper briefs before you start W2.
+Use it when: You have quick notes for a stack of items and want proper briefs before you start W02.
 ----------------------------------------
 Turn my rough notes for [NUMBER] items into Listing Briefs. UK English.
 
@@ -1799,7 +1830,7 @@ Help me plan a weekly listing routine. UK English. Realistic, not motivational.
 - Drop-off options near me: [E.G. LOCKER, 24 HOURS]
 
 Give me:
-1. A day-by-day table: Day, Time, Task, Roughly how many items, Prompts to use (by ID, e.g. W2, W5, R prompts, M prompts).
+1. A day-by-day table: Day, Time, Task, Roughly how many items, Prompts to use (by ID, e.g. W02, W05, R prompts, M prompts).
 2. Batch similar tasks: all photos in one go, all measuring in one go, all writing in one AI session.
 3. A 10-minute daily check for messages and dispatch.
 4. A weekly 20-minute review: what sold, what has had no interest, what to refresh or reprice.
@@ -1809,7 +1840,7 @@ Simple enough to follow on a phone. Do not promise any sales results.
 [W07] Repurpose one listing across platforms
 Use it when: You have a good listing for one platform and want versions for others without starting again.
 ----------------------------------------
-[PASTE YOUR SHOP STYLE INSTRUCTION FROM W1, IF YOU HAVE ONE]
+[PASTE YOUR SHOP STYLE INSTRUCTION FROM W01, IF YOU HAVE ONE]
 
 Here is the listing I wrote for [PLATFORM]:
 [PASTE THE LISTING]

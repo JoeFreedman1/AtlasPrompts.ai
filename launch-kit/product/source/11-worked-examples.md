@@ -17,7 +17,7 @@ Examples 1, 2 and 4 are second-hand resale. Examples 3, 5 and 6 are for makers a
 
 **Messy notes:** "white stuff jumper oatmeal cable knit 14?? bit bobbly under arms. no holes. wore it a few times. smells fine. 8 quid?"
 
-**Listing Brief (B1):**
+**Listing Brief (B01):**
 
 | Field | Fact |
 |---|---|
@@ -31,9 +31,9 @@ Examples 1, 2 and 4 are second-hand resale. Examples 3, 5 and 6 are for makers a
 | Postage | Vinted's standard options. Posted within 2 working days |
 | Price floor | £10 |
 
-**Title (T2):** White Stuff oatmeal cable knit jumper, size 14 (46)
+**Title (T02):** White Stuff oatmeal cable knit jumper, size 14 (46)
 
-**Description (D2):**
+**Description (D02):**
 
 > Oatmeal cable-knit jumper from White Stuff, UK size 14. Crew neck, 60% cotton and 40% wool.
 >
@@ -43,11 +43,11 @@ Examples 1, 2 and 4 are second-hand resale. Examples 3, 5 and 6 are for makers a
 >
 > Posted within 2 working days. Happy to answer any questions.
 
-**Fields (K4):** Category: Women > Jumpers [CHECK: pick the closest category you see]. Brand: White Stuff. Size: UK 14. Condition: Very good. Colour: Beige. Material: Cotton, Wool.
+**Fields (K04):** Category: Women > Jumpers [CHECK: pick the closest category you see]. Brand: White Stuff. Size: UK 14. Condition: Very good. Colour: Beige. Material: Cotton, Wool.
 
-**Price reasoning (R1, R2), invented comps:** size 12 cream, very good, £14. Size 14 grey with bobbling, good, £11. Size 16 oatmeal, very good, £15. Size 14 with no flaws, excellent, £18. The closest matches sold between £11 and £15. Ours has light bobbling, so it sits in the middle, not at the top. Vinted does not charge private sellers a selling fee (the buyer pays a Buyer Protection fee at checkout; check the current price list). List at **£14**, accept offers down to the **£10** floor. The "8 quid" in the notes was a guess, so we checked comps before setting a price.
+**Price reasoning (R01, R02), invented comps:** size 12 cream, very good, £14. Size 14 grey with bobbling, good, £11. Size 16 oatmeal, very good, £15. Size 14 with no flaws, excellent, £18. The closest matches sold between £11 and £15. Ours has light bobbling, so it sits in the middle, not at the top. Vinted does not charge private sellers a selling fee (the buyer pays a Buyer Protection fee at checkout; check the current price list). List at **£14**, accept offers down to the **£10** floor. The "8 quid" in the notes was a guess, so we checked comps before setting a price.
 
-**Buyer reply (M3):**
+**Buyer reply (M03):**
 
 > - **Buyer:** Would you take £8?
 > - **Reply:** Hi, thanks for the offer. That's a bit low for this one, as similar White Stuff jumpers have sold for more. I could do £12. Let me know and I'll send an offer through Vinted.
@@ -58,7 +58,7 @@ Examples 1, 2 and 4 are second-hand resale. Examples 3, 5 and 6 are for makers a
 
 **Messy notes:** "ps4 slim 500gb black. 1 pad. cables. works fine, did factory reset. couple scratches top. pad left stick a bit loose? no box. no games."
 
-**Listing Brief (B1, electronics version):**
+**Listing Brief (B01, electronics version):**
 
 | Field | Fact |
 |---|---|
@@ -75,9 +75,9 @@ Examples 1, 2 and 4 are second-hand resale. Examples 3, 5 and 6 are for makers a
 
 The notes said "works fine", but the loose stick means we list exactly what was tested rather than "fully working".
 
-**Title (T1):** Sony PS4 Slim 500GB Console Jet Black CUH-2216A Controller and Cables Tested (76)
+**Title (T01):** Sony PS4 Slim 500GB Console Jet Black CUH-2216A Controller and Cables Tested (76)
 
-**Description (D1):**
+**Description (D01):**
 
 > Sony PlayStation 4 Slim, 500GB, jet black, model CUH-2216A.
 >
@@ -89,11 +89,11 @@ The notes said "works fine", but the loose stick means we list exactly what was 
 >
 > Posted with a tracked 48 hour service, well padded.
 
-**Item specifics (K1):** Brand: Sony. Model: PlayStation 4 Slim. Storage: 500 GB. Colour: Black. MPN: CUH-2216A. Region code: [CHECK: the console's region].
+**Item specifics (K01):** Brand: Sony. Model: PlayStation 4 Slim. Storage: 500 GB. Colour: Black. MPN: CUH-2216A. Region code: [CHECK: the console's region].
 
 **Price reasoning, invented comps:** 500GB, 1 controller, cables, no box: £105 (the only close match). Boxed, bundled with games, 1TB or console-only listings are not fair comparisons. The loose stick and top scratches put ours slightly below the clean match. UK private sellers pay no final value fee in most categories (the buyer pays a Buyer Protection fee; check eBay's current fee pages). List at **£105 plus postage**, Buy It Now with offers, floor **£95**.
 
-**Buyer reply (M1):**
+**Buyer reply (M01):**
 
 > - **Buyer:** Does the controller drift? Mine did and it drove me mad.
 > - **Reply:** Hi, fair question. The left stick has a little play if you move it, but I tested it in a game for 10 minutes and saw no drift. It's in the listing so there are no surprises. If anything isn't as described, you're covered by eBay's protection and I'll sort it.
@@ -104,12 +104,12 @@ The notes said "works fine", but the loose stick means we list exactly what was 
 
 **Messy notes:** "new batch tealight holders!! sage speckle glaze, stoneware, 2 per set. about 8cm tall 7 wide. little star cutouts. glaze pooling on some = handmade look. tealights not incl. dishwasher? no, hand wash"
 
-**Listing Brief (B1, handmade version):**
+**Listing Brief (B01, handmade version):**
 
 | Field | Fact |
 |---|---|
 | What it is | Tealight holders, set of 2, with star-shaped cut-outs |
-| Maker | Handmade by us (invented shop: Hollow Hill Pottery) |
+| Maker | Handmade by us (invented shop: Hollow Hill Pottery). No AI used in the design or photos |
 | Size | Each about 8 cm tall, 7 cm wide [CHECK: measure the inner opening] |
 | Colour and material | Sage green speckled glaze, glazed stoneware |
 | Handmade variation | Glaze pools differently on each piece |
@@ -119,9 +119,9 @@ The notes said "works fine", but the loose stick means we list exactly what was 
 | Postage | Royal Mail Tracked 48, boxed with recycled paper padding |
 | Price floor | £20 |
 
-**Title (T4):** Handmade Ceramic Tealight Holder Set of 2, Sage Green Speckled Stoneware Candle Holders with Star Cut Outs (106)
+**Title (T04):** Handmade Stoneware Tealight Holders, Set of 2, Sage Green Speckled Glaze, Star Cut-Outs (87 characters, 13 words)
 
-**Description (D4):**
+**Description (D04):**
 
 > A pair of handmade stoneware tealight holders in a speckled sage green glaze, each with small star-shaped cut-outs.
 >
@@ -135,11 +135,13 @@ The notes said "works fine", but the loose stick means we list exactly what was 
 >
 > Posted Royal Mail Tracked 48, boxed with recycled paper padding.
 
-**Tags (K2):** tealight holder, ceramic candle, stoneware holder, sage green decor, speckled pottery, star candle holder, handmade pottery, ceramic tealight, candle holder set, housewarming gift, rustic home decor, pottery gift, table centrepiece
+**Tags (K02):** tealight holder, stoneware holder, ceramic tealight, sage green pottery, speckled glaze, star cut out, handmade pottery, stoneware tealight, candle holder set, set of 2 holders, sage tealight holder, star candle holder, speckled stoneware
+
+Every tag comes from the brief. No "gift" or occasion tags, because the brief does not say who it is for.
 
 **Price reasoning, invented figures:** costs £18.60 (clay and glaze £3.20, kiln share £2.00, packaging £1.40, 1 hour of time at a rate we choose £12.00). Etsy fees checked September 2026 on a £24 item plus £4.50 postage (£28.50 order): 6.5% transaction about £1.85, processing (4% + £0.20) about £1.34, listing about £0.15, so about £3.34 before the UK Regulatory Operating Fee [CHECK: current rate]. With postage covering postage, about £20.66 is left against £18.60 of costs. Similar handmade pairs sold at £22, £26 and £28 (invented). List at **£24 plus postage**.
 
-**Buyer reply (M1):**
+**Buyer reply (M01):**
 
 > - **Buyer:** Would these hold a small pillar candle instead?
 > - **Reply:** Hi, thanks for asking. They're made for standard tealights, so a pillar candle won't fit inside. The opening is about [CHECK: inner width] cm across.
@@ -150,7 +152,7 @@ The notes said "works fine", but the loose stick means we list exactly what was 
 
 **Messy notes:** "wrangler denim jacket vintage 90s? label says made in 1996 i think. medium. light wash. corduroy collar. small mark on back. fits boxy"
 
-**Listing Brief (B1, clothing version):**
+**Listing Brief (B01, clothing version):**
 
 | Field | Fact |
 |---|---|
@@ -164,7 +166,7 @@ The notes said "works fine", but the loose stick means we list exactly what was 
 | Postage | Depop tracked shipping |
 | Price floor | £30 |
 
-**Description (D3):**
+**Description (D03):**
 
 > Vintage 1996 Wrangler denim jacket in a light wash with a brown corduroy collar. Size M, boxy fit.
 >
@@ -174,11 +176,11 @@ The notes said "works fine", but the loose stick means we list exactly what was 
 >
 > #vintagewrangler #denimjacket #90svintage #corduroycollar #lightwashdenim
 
-**Fields (K3):** Category: Coats and jackets [CHECK: pick men's or women's by the cut and buttons]. Brand: Wrangler. Size: M. Condition: Used, good. Colour: Blue. Source: Vintage.
+**Depop's fields (filled in by hand in the app):** Category: Coats and jackets [CHECK: pick men's or women's by the cut and buttons]. Brand: Wrangler. Size: M. Condition: [CHECK: nearest option to Good in the app]. Colour: Blue. Hashtags checked with K03.
 
 **Price reasoning, invented comps:** 90s Wrangler cord collar jacket, M, good: £38 (closest). Others (different size, no cord collar, heavy fading) sold from £28 to £45. Ours has a small mark, so a little below the closest match. Depop charges UK sellers no selling fee, but payment processing still comes out of each sale [CHECK: current rate in Depop's help centre]. List at **£36**, floor **£30**.
 
-**Buyer reply (M1):**
+**Buyer reply (M01):**
 
 > - **Buyer:** I'm usually a size 12 in women's, would this fit?
 > - **Reply:** Hi, it's labelled M and has a boxy cut, so it's likely to be roomy on a size 12. The best check is to lay a jacket you like flat and measure pit to pit: this one is 60 cm. If yours is around 52 to 55 cm, this will be an oversized fit.
@@ -189,7 +191,7 @@ The notes said "works fine", but the loose stick means we list exactly what was 
 
 **Messy notes:** "oakpeg stand v2. beech wood, adjustable 3 angles. fits phones up to 7in and small tablets? (tested ipad mini ok). cable slot at back. rubber feet. 12 x 9 cm base. made in UK workshop. RRP 17.99??"
 
-**Listing Brief (B6 style):**
+**Listing Brief (B06 style):**
 
 | Field | Fact |
 |---|---|
@@ -202,17 +204,17 @@ The notes said "works fine", but the loose stick means we list exactly what was 
 | Included | 1 stand. Phone not included |
 | Price floor | £14.99 |
 
-**Title (A5 or T5):** Oakpeg Beech Wood Phone Stand, Adjustable Holder with Cable Slot, 3 Angles (74)
+**Title (A05 or T05):** Oakpeg Beech Wood Phone Stand, Adjustable Holder with Cable Slot, 3 Angles (74)
 
 **Item Highlights:** Solid beech, 3 viewing angles, charging cable slot, rubber feet, fits phones up to 7 inch. Made in the UK. (106)
 
-**Search terms (K5):** desk mobile cradle dock kitchen recipe video call bedside tablet
+**Search terms (K05):** desk mobile cradle dock kitchen recipe video call bedside tablet
 
 No word from the title is repeated, and nothing the product is not (no "bamboo", no other brands).
 
-**Price reasoning, invented figures:** costs £7.90 plus delivery or fulfilment [CHECK: your cost]. Amazon (checked September 2026): Individual plan £0.75 per item sold, or Professional £25 a month excluding VAT, plus a referral fee by category [CHECK: rate for this category]. Similar small-brand wooden stands are priced from £12.99 to £19.99 (invented, a sense check only). "RRP £17.99" from the notes is not used: a reference price must be a genuine price we have actually charged. List at **£15.99**.
+**Price reasoning, invented figures:** costs £7.90 plus delivery or fulfilment [CHECK: your cost]. Amazon (checked September 2026): Individual plan £0.75 per item sold, or Professional £25 a month excluding VAT, plus a referral fee by category [CHECK: rate for this category]. Similar small-brand wooden stands are priced from £12.99 to £19.99 (invented, a sense check only). "RRP £17.99" from the notes is not used: we have never charged it. A "was" or reference price should be one you have genuinely charged (check Amazon's current reference price rules; this is not legal advice). List at **£15.99**.
 
-**Buyer reply (M1):**
+**Buyer reply (M01):**
 
 > - **Buyer:** Will this hold an iPad Air?
 > - **Reply:** Hello, thanks for your message. We've tested it with phones up to 7 inch and an 8.3 inch small tablet in landscape. We haven't tested an iPad Air, which is larger and heavier, so we can't promise it will be stable.
@@ -223,7 +225,7 @@ No word from the title is repeated, and nothing the product is not (no "bamboo",
 
 **Messy notes:** "tidy nook expanding cutlery tray. bamboo. 5 sections closed, pulls out to 7. 29-49cm wide?? 38 deep 5 high. wipe clean. comes flat? no, one piece. people say it's the best on the market lol"
 
-**Listing Brief (B6 style):**
+**Listing Brief (B06 style):**
 
 | Field | Fact |
 |---|---|
@@ -238,15 +240,24 @@ No word from the title is repeated, and nothing the product is not (no "bamboo",
 
 "The best on the market" from the notes is a comparison we cannot prove, so it goes nowhere near the listing or videos.
 
-**Title (T6):** Tidy Nook Expandable Bamboo Cutlery Tray 5 to 7 Compartments Kitchen Drawer Organiser (85)
+**Title (T06):** Tidy Nook Expandable Bamboo Cutlery Tray 5 to 7 Compartments Kitchen Drawer Organiser (85)
 
-**Description (V5):**
+**Description (V04):**
 
-> An expandable bamboo cutlery tray that widens from 29 cm to 49 cm to fit your kitchen drawer. 5 compartments closed, 7 expanded. Bamboo with a lacquered finish, arrives in one piece. Size: 29 to 49 cm wide, 38 cm deep, 5 cm high. Care: wipe clean with a damp cloth. Not dishwasher safe. Do not soak.
+> An expandable bamboo cutlery tray for kitchen drawers, 29 cm wide closed and 49 cm fully open.
+>
+> - Expands: widens from 29 cm to 49 cm.
+> - Compartments: 5 closed, 7 expanded.
+> - One piece: arrives assembled.
+> - Finish: lacquered bamboo [CHECK: lacquer type from supplier spec].
+>
+> **What's included:** 1 tray. **Size and specs:** 29 to 49 cm wide, 38 cm deep, 5 cm high. **Care:** wipe clean with a damp cloth. Not dishwasher safe. Do not soak.
+>
+> **Phrases to check:** "for kitchen drawers" (buyers should measure their drawer; you only know the tray's size).
 
 **Price reasoning, invented figures:** landed unit cost £5.80, packaging £0.60, delivery £2.90: £9.30. TikTok Shop UK standard commission checked September 2026: 9%, inclusive of VAT. At £16.99, commission is about £1.53, leaving about £6.16 before any affiliate commission, ads or promotions. Similar trays are priced from £14.99 to £22.99 (invented, a sense check only). List at **£16.99**. Any "was" price or discount must be genuine.
 
-**Buyer reply (M1):**
+**Buyer reply (M01):**
 
 > - **Buyer:** Can it go in the dishwasher?
 > - **Reply:** Hi, thanks for asking. No, it's bamboo, so please wipe it with a damp cloth and don't soak it.

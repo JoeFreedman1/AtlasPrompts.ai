@@ -4,13 +4,13 @@ Run these just before you post. They catch what gets listings removed or items r
 
 **This is not legal advice.** An AI tool can miss things or be wrong about a rule. For anything important, check the current rule in the platform's help pages, and for legal questions see gov.uk, Citizens Advice or a qualified adviser.
 
-**How to use it:** run **C1** on every listing. Then the check for where you are posting: **C2** eBay UK, **C3** Vinted, **C4** Depop, **C5** Etsy, **C6** Amazon UK, **C7** TikTok Shop UK. Add **C8**, **C9** or **C11** if the listing mentions health, the environment, brands, authenticity or returns. For keyword stuffing, use **K7** (Module 04).
+**How to use it:** run **C01** on every listing. Then the check for where you are posting: **C02** eBay UK, **C03** Vinted, **C04** Depop, **C05** Etsy, **C06** Amazon UK, **C07** TikTok Shop UK. Add **C08**, **C09** or **C10** if the listing mentions health, the environment, brands, authenticity or returns. Makers selling their own products: **C11** for safety text and label details. For keyword stuffing, use **K07** (Module 04).
 
-The platform points in C2 to C7 are our summary, checked in September 2026. Better still, paste the rule text from the platform's help pages where the prompt says, so the AI checks against today's rule.
+The platform points in C02 to C07 are our summary, checked in September 2026. Better still, paste the rule text from the platform's help pages where the prompt says, so the AI checks against today's rule.
 
 ---
 
-### C1 Accuracy check: listing against brief
+### C01 Accuracy check: listing against brief
 **Use it when:** Every time, on every platform, before you post.
 **Paste this:**
 ```text
@@ -43,7 +43,7 @@ My listing (title, description, specifics or tags, condition, price, postage):
 **Check before you post:**
 - Every Must fix is fixed, not just noted.
 
-### C2 eBay UK pre-post check
+### C02 eBay UK pre-post check
 **Use it when:** You are about to post on eBay UK.
 **Paste this:**
 ```text
@@ -77,7 +77,7 @@ My listing (title, specifics, condition, description, photos in a line each, pri
 **Check before you post:**
 - The title count is 80 or fewer in eBay's own box.
 
-### C3 Vinted pre-post check
+### C03 Vinted pre-post check
 **Use it when:** You are about to post on Vinted.
 **Paste this:**
 ```text
@@ -110,7 +110,7 @@ My listing (title, description, fields, photos in a line each, price):
 **Check before you post:**
 - If you buy items to resell, read Vinted's current guidance on Vinted Pro.
 
-### C4 Depop pre-post check
+### C04 Depop pre-post check
 **Use it when:** You are about to post on Depop.
 **Paste this:**
 ```text
@@ -143,30 +143,32 @@ My listing (description with hashtags, fields, photos in a line each, price):
 **Check before you post:**
 - Wear is described in plain words, not dressed up.
 
-### C5 Etsy pre-post check
+### C05 Etsy pre-post check
 **Use it when:** You are about to post a handmade, vintage or craft supply listing on Etsy.
 **Paste this:**
 ```text
 Check my Etsy listing before I post. Report problems, do not rewrite.
 
+Who made it and how: [E.G. "I THROW AND GLAZE EACH ONE"]
 Did I use AI in making the item, its design or the photos? [NO / YES, HOW]
 Etsy rule text I copied today (optional): [PASTE OR "NONE"]
 
 Check (pasted rule text wins if different):
-- Title 140 characters or fewer, a clear description. Show the count.
-- 13 tags or fewer, each 20 characters or fewer. Count each. Flag repeats and tags that do not fit.
-- Item type (handmade, vintage, craft supply) fits the brief. Vintage with no age: [CHECK: Etsy's vintage rule].
-- If AI was used, remind me Etsy expects it to be disclosed (Creativity Standards).
+- Title 140 characters or fewer, readable. Show the count.
+- Up to 13 tags, each 20 characters or fewer. Count each. Flag repeats and tags that do not fit.
+- Item type fits the brief. Vintage with no age: [CHECK: Etsy's vintage rule].
+- AI used in the item, design or photos: the description says so (Creativity Standards).
+- Hand words (handmade, hand-poured) match who made it.
 - Photos show what the buyer receives; mockups must not mislead.
 - No brands, characters or crests I have no right to use.
-- Materials, eco and health claims backed by the brief. Returns wording keeps UK buyers' rights (see C11).
+- Materials, eco and health claims backed by the brief. Returns wording keeps UK buyers' rights (see C10).
 
 Label issues Must fix, Should fix or Fine, then a verdict. UK English. If unsure, write [CHECK: Etsy help pages].
 
 My Listing Brief:
 [PASTE YOUR LISTING BRIEF HERE]
 
-My listing (title, tags, description, item type, materials, photos in a line each, price, returns):
+My listing (title, tags, description, item type, photos in a line each, returns):
 [PASTE YOUR LISTING HERE]
 ```
 **What good output looks like** for a handmade speckled blue ceramic mug:
@@ -176,8 +178,10 @@ My listing (title, tags, description, item type, materials, photos in a line eac
 
 **Check before you post:**
 - Any AI use is disclosed the way Etsy currently requires.
+- Safety text on the listing matches your label (C11).
+- Used AI only to help write the listing text? We found no Etsy rule on that, but check the current Creativity Standards.
 
-### C6 Amazon UK pre-post check
+### C06 Amazon UK pre-post check
 **Use it when:** You are about to publish or update an Amazon UK product listing. Skip this if you only sell second-hand.
 **Paste this:**
 ```text
@@ -194,7 +198,7 @@ Check (pasted rule text wins if different):
 - Nothing claimed that is not in the brief (materials, sizes, compatibility, certifications).
 - Search terms: no title words, competitor brands or irrelevant words. [CHECK: byte limit.]
 - Main image: plain white background, product only.
-- Flag any health, safety or eco claim for C8.
+- Flag any health, safety or eco claim for C08.
 
 Label issues Must fix, Should fix or Fine, then a verdict. UK English. If unsure, write [CHECK: Seller Central help].
 
@@ -212,7 +216,7 @@ My listing (title, Item Highlights, bullets, description, search terms, images i
 **Check before you post:**
 - The title is within the current limit shown in Seller Central.
 
-### C7 TikTok Shop UK pre-post check
+### C07 TikTok Shop UK pre-post check
 **Use it when:** You are about to publish a product on TikTok Shop UK, or a video that shows it. Skip this if you only sell second-hand on the resale apps.
 **Paste this:**
 ```text
@@ -244,7 +248,7 @@ My title, description, images in a line each, and any video script:
 **Check before you post:**
 - Cosmetics have their own UK safety rules. [CHECK: gov.uk guidance on selling cosmetics.]
 
-### C8 Risky claims scan
+### C08 Risky claims scan
 **Use it when:** Your listing claims anything about health, safety, the environment, quality, origin or popularity, on any platform.
 **Paste this:**
 ```text
@@ -279,7 +283,7 @@ My listing:
 **Check before you post:**
 - Every claim left in is one you could prove if asked.
 
-### C9 Brands, authenticity and trademark wording
+### C09 Brands, authenticity and trademark wording
 **Use it when:** Your item is branded, looks like a brand, or you are tempted to write "genuine", "authentic", "style", "inspired by" or "dupe".
 **Paste this:**
 ```text
@@ -302,7 +306,7 @@ My listing:
 **Check before you post:**
 - Authenticity is shown with photos and plain facts, not adjectives.
 
-### C11 UK consumer law wording check
+### C10 UK consumer law wording check
 **Use it when:** Your listing or shop has returns, refunds or guarantee wording, or you are not sure whether you are a private seller or a business.
 **Paste this:**
 ```text
@@ -329,6 +333,37 @@ UK English. Never suggest wording that denies legal rights. Tell me to check gov
 
 **Check before you post:**
 - Your returns settings in the app match your wording.
+
+### C11 Product safety and label details (makers)
+**Use it when:** You make and sell your own products (candles, ceramics, jewellery, textiles, toys, cosmetics) and want the safety text and label details gathered before you list.
+**Paste this:**
+```text
+I make and sell [PRODUCT] in the UK on [PLATFORM(S)]. Help me gather its safety and label details. A practical checklist, not legal advice.
+
+Materials and components: [LIST]
+Who it is for: [ADULTS / COULD APPEAL TO CHILDREN / MADE FOR CHILDREN]
+Warnings and instructions from my suppliers (paste exactly): [TEXT OR "NONE"]
+What my label or packaging says now: [TEXT OR "NO LABEL"]
+My business name and address on the product or packaging? [YES / NO]
+Product or batch reference: [REFERENCE OR "NONE"]
+Post to Northern Ireland or the EU? [YES / NO]
+
+Give me:
+1. A "Safety information" block for my listing, using ONLY the supplier and label text above, word for word. Gaps become [CHECK: ...].
+2. A label checklist: what my label already has, and what is missing, as questions.
+3. Up to 6 questions to check on GOV.UK for this product type. If I post to Northern Ireland or the EU, include whether the EU General Product Safety Regulation (GPSR) applies to me.
+
+Rules: UK English. State no law, standard or certification as fact. Never write "safe", "non-toxic", "child-safe", CE or UKCA unless my supplier text says so. If it could appeal to children but is not made for them, flag it.
+```
+**What good output looks like** for a soy wax candle with the fragrance supplier's warning text pasted and no label yet:
+
+> 1. **Safety information:** "Never leave a burning candle unattended. Burn out of reach of children and pets." (from your supplier's text, unchanged) [CHECK: the allergen statement your fragrance supplier gives for this fragrance]
+> 2. **Label:** no business name or address yet. No batch reference [CHECK: would one help you trace a batch?]
+> 3. **To check on GOV.UK:** what labelling applies to scented candles? Does your supplier's safety data sheet say what must go on the label?
+
+**Check before you post:**
+- Keep supplier documents and your label wording on file for each product and batch.
+- Rules differ by product and change. If unsure, check GOV.UK or ask your local Trading Standards service.
 
 ---
 

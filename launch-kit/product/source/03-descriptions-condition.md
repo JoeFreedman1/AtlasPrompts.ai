@@ -37,13 +37,13 @@ Describe every flaw with **location, type, size and photo**.
 - Say what you did not check: "Not tested with a charger".
 - Do not soften: "barely noticeable" is your opinion. Give the size and let the buyer decide.
 
-**"Sold as seen"** does not cover a wrong description. Every seller must describe items accurately, business sellers cannot remove buyers' legal rights, and platform buyer protection applies on top (Module 07 explains). An accurate description is the protection, not a disclaimer.
+**"Sold as seen"** does not cover a wrong description. Every seller must describe items accurately, business sellers cannot remove buyers' legal rights, and platform buyer protection applies on top (Module 07 explains). An accurate description is the protection, not a disclaimer. (This is practical guidance, not legal advice. Module 07 has the detail and where to check it.)
 
 ---
 
 ## The D prompts
 
-### D1 eBay UK description
+### D01 eBay UK description
 **Use it when:** You have a title and want a clear, complete eBay UK description.
 **Paste this:**
 ```text
@@ -67,7 +67,7 @@ Rules:
 My Listing Brief:
 [PASTE YOUR LISTING BRIEF HERE]
 ```
-**What good output looks like** for the Next jumper (grey, women's, crew neck, size 12, 60% acrylic and 40% wool, measured, light bobbling under both arms, sent in a postal bag):
+**What good output looks like** for the Next jumper (grey, women's, crew neck, size 12, 60% acrylic and 40% wool, measured, light bobbling under both arms, checked: no holes, stains or pulls, sent in a postal bag):
 
 > Next women's grey wool-blend jumper, size 12.
 >
@@ -83,7 +83,7 @@ My Listing Brief:
 - Every flaw in the text is in a photo, and every flaw in a photo is in the text.
 - eBay's condition option matches the grade in the description.
 
-### D2 Vinted description
+### D02 Vinted description
 **Use it when:** You are listing on Vinted and want a short, friendly, accurate description.
 **Paste this:**
 ```text
@@ -108,14 +108,14 @@ Rules:
 My Listing Brief:
 [PASTE YOUR LISTING BRIEF HERE]
 ```
-**What good output looks like** for black Levi's 501 jeans, W30 L32:
+**What good output looks like** for black Levi's 501 jeans, W30 L32, 100% cotton, button fly, faded on both knees, checked: no rips or holes:
 
 > Black Levi's 501 straight leg jeans, label size W30 L32. Measured flat: waist 39 cm (78 cm doubled), inside leg 81 cm. Good condition: faded to a washed charcoal on both knees (photo 4). No rips or holes. 100% cotton, button fly. Happy to answer questions or send more photos.
 
 **Check before you post:**
 - Fill in Vinted's brand, size, colour, condition and material fields. They matter as much as the text.
 
-### D3 Depop description
+### D03 Depop description
 **Use it when:** You are listing on Depop and want a description that works as both title and details.
 **Paste this:**
 ```text
@@ -150,7 +150,7 @@ My Listing Brief:
 **Check before you post:**
 - Fill in Depop's category, size, brand and condition fields as well.
 
-### D4 Etsy description (handmade or vintage)
+### D04 Etsy description (handmade or vintage)
 **Use it when:** You sell handmade or vintage items on Etsy and need a description that is warm but factual.
 **Paste this:**
 ```text
@@ -159,30 +159,32 @@ Write an Etsy listing description for the item in my Listing Brief below.
 Order:
 1. Two opening lines: what it is and what makes it distinctive, from the brief only.
 2. Details: every material, size and dimensions, colours, weight if relevant.
-3. Personalisation: what can change and how to request it (skip if not offered).
-4. Made to order or ready to post, and making time.
-5. Care instructions, then safety notes from my brief.
-6. Vintage items only: era (as supported by the brief) and every flaw.
+3. Who made it and how, in one line. If AI was used in the design, pattern or photos, one plain sentence saying so.
+4. Personalisation: what can change and how to request it (skip if not offered).
+5. Made to order or ready to post, and making time.
+6. Care instructions, then my safety text word for word.
+7. Vintage items only: era (as supported by the brief) and every flaw.
 
 Rules:
 - UK English. Warm, plain tone. Short paragraphs.
 - Use ONLY facts in my brief. Missing facts become [CHECK: ...].
 - Materials exactly as written. Do not upgrade "silver-plated" to "silver" or "cotton blend" to "cotton".
+- Hand words (handmade, hand-poured, hand-thrown) only for steps my brief says I do by hand.
 - No health, wellbeing or medical claims (calming, healing, detox, hypoallergenic) unless I give supplier evidence.
-- No hype, no "perfect gift for everyone", no exclamation marks.
+- No hype, no "perfect gift for everyone", no exclamation marks. No returns or refund wording.
 
 My Listing Brief:
 [PASTE YOUR LISTING BRIEF HERE]
 ```
-**What good output looks like** for a handmade soy wax candle in a 200 ml amber glass jar, fig scent:
+**What good output looks like** for a soy wax candle in a 200 ml amber glass jar, fig scent, "I pour each one by hand", no AI used, no safety text given yet:
 
-> A hand-poured soy wax candle in a 200 ml amber glass jar, scented with fig. **Wax:** soy wax blend [CHECK: exact wax from supplier]. **Burn time:** [CHECK: your tested burn time, or leave out]. Made to order, dispatched within 3 working days. **Safety:** never leave a burning candle unattended. [CHECK: the safety and allergen information your fragrance supplier provides]
+> A soy wax candle in a 200 ml amber glass jar, scented with fig. **Wax:** soy wax [CHECK: exact wax name from your supplier]. **Burn time:** [CHECK: your tested burn time, or leave out]. Hand-poured by me, one at a time. Made to order, dispatched within 3 working days. **Safety:** [CHECK: paste the safety and allergen text from your label or fragrance supplier, word for word]
 
 **Check before you post:**
-- Scented products sold in the UK may need specific safety and allergen labelling. Check with your supplier and official guidance.
+- Candles, wax melts and other scented items often come with supplier label wording. Use C11 to turn your supplier's documents into the safety text.
 - Dispatch times match your Etsy postage settings.
 
-### D5 Amazon UK bullet points and description
+### D05 Amazon UK bullet points and description
 **Use it when:** You are a brand owner or seller of new stock writing Amazon UK bullets and a product description. Skip this if you only sell second-hand.
 **Paste this:**
 ```text
@@ -212,7 +214,7 @@ My Listing Brief:
 **Check before you post:**
 - Every fact matches your product specification and packaging exactly.
 
-### D6 Condition grader
+### D06 Condition grader
 **Use it when:** You are not sure which condition grade to choose, or which platform option matches.
 **Paste this:**
 ```text
@@ -242,7 +244,7 @@ Used or worn? [HOW OFTEN, IF KNOWN]
 **Check before you post:**
 - The grade and the description agree. A mismatch is a common cause of disputes.
 
-### D7 Flaw disclosure rewriter
+### D07 Flaw disclosure rewriter
 **Use it when:** You wrote your flaws in a hurry and want them clear, specific and protective.
 **Paste this:**
 ```text
@@ -272,7 +274,7 @@ Things I checked and found fine:
 **Check before you post:**
 - Use the same flaw list on every platform you list on.
 
-### D8 Measurements block
+### D08 Measurements block
 **Use it when:** You want a neat measurements section for clothing, bags or shoes, and a reminder of what to measure.
 **Paste this:**
 ```text
@@ -291,14 +293,14 @@ UK English. Never estimate or invent a measurement. If one is missing, write [CH
 **Check before you post:**
 - Measure buttoned and smoothed, not stretched, the same way every time. Say if the fabric stretches.
 
-### D9 Bundle and job lot description
+### D09 Bundle and job lot description
 **Use it when:** You are selling several items together (kids' clothes, a box of books, a job lot of mugs).
 **Paste this:**
 ```text
 Write a [PLATFORM] UK description for a bundle or job lot from my list below.
 
 1. Opening line: what the bundle is, how many items, key shared details (e.g. "Bundle of 8 girls' tops, age 7 to 8 years").
-2. A numbered list: one line per item with brand, item, size, condition and any flaw with location and size.
+2. A numbered list: one line per item with brand, item, size, condition and any flaw with location and size. Children's sizes as on the label, written "age 7 to 8 years", never a single guessed age.
 3. What the bundle does NOT include (only if I say).
 4. Parcel weight or size if I give it.
 
@@ -314,15 +316,18 @@ My list:
 [ITEM 3: BRAND, ITEM, SIZE, CONDITION, FLAWS]
 Parcel weight or size: [IF KNOWN]
 ```
-**What good output looks like:**
+**What good output looks like** for a Vinted bundle of kids' clothes:
 
-> Bundle of 5 paperback crime novels. Condition varies from Very good to Good, see each book.
+> Bundle of 4 boys' tops, age 5 to 6 years. Condition varies from Very good to Good, see each item.
 >
-> 1. [TITLE], [AUTHOR], paperback, 2019 printing. Very good. Spine uncreased.
-> 2. [TITLE], [AUTHOR], paperback. Good. Previous owner's name on first page. [CHECK: printing year]
+> 1. Next navy long-sleeve top, age 5 to 6 years. Very good.
+> 2. M&S grey hoodie, age 5 to 6 years. Good: bobbling on both cuffs. [CHECK: hood cord removed or still fitted?]
+> 3. Frugi stripe T-shirt, age 5 to 6 years. Good: small faded mark on the front, about 1 cm.
+> 4. George dinosaur T-shirt, [CHECK: age size on label]. Very good.
 
 **Check before you post:**
 - Count the items again before you post, and photograph them all together. A missing item is a common dispute.
+- On Vinted, buyers often build their own bundle from separate listings, so decide whether one bundle listing or single listings suit you (check how bundles work in the app today). Cover name tapes in every photo.
 
 ### D10 De-hype and UK-ify an AI description
 **Use it when:** You have a description from a generic AI tool, a platform's AI helper or an old listing that sounds American, gushing or over-promising.

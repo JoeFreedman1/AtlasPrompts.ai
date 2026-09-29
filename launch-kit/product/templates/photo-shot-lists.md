@@ -28,6 +28,16 @@ Tick through the list for your category before you pack the camera (well, the ph
 - [ ] Every flaw: bobbling, marks, pulls, fading, holes, missing buttons
 - [ ] Optional: on a mannequin or dress form (never a face)
 
+## Children's clothes and shoes
+
+- [ ] Front and back, laid flat
+- [ ] Size label showing the age range (and height, if printed)
+- [ ] Knees, elbows, cuffs and toes, where kids' clothes wear first
+- [ ] Any bobbling, fading, marks or repairs, close up
+- [ ] Hood cords, toggles and poppers, if fitted
+- [ ] For a bundle: everything together, then each item on its own
+- [ ] Before any photo: cover or crop name tapes, names written on labels and school logos
+
 ## Shoes and boots
 
 - [ ] Both shoes side by side, from the side
@@ -95,7 +105,7 @@ Before you photograph: factory reset the device and sign out of all accounts.
 - [ ] Working features, if battery-operated (a short video helps where the platform allows it)
 - [ ] Missing parts: show the gap and say so in the listing
 
-Note: check safety rules for children's toys, and the platform's rules on selling used toys, before listing.
+Note: toys have their own safety rules, and some platforms limit used toys. Check GOV.UK and the platform's help pages before listing. Makers: anything that looks like a toy needs particular care (C11).
 
 ## Handmade items
 
@@ -107,6 +117,7 @@ Note: check safety rules for children's toys, and the platform's rules on sellin
 - [ ] Colour variations, if you offer them, each labelled
 - [ ] Packaging, if it is part of the product
 - [ ] A shot that shows natural handmade variation, so buyers know what to expect
+- [ ] The label or packaging showing any safety text, if you print one (C11 helps you write it)
 
 ## New products (Amazon UK, TikTok Shop UK and similar)
 

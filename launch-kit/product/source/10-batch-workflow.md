@@ -4,17 +4,17 @@ Listing ten items one at a time, starting a new chat for each, is slow. This mod
 
 The order we suggest:
 
-1. **W1** Write your shop style instruction once and save it in your phone's notes.
-2. **W3** Turn rough notes for the whole pile into Listing Briefs in one go.
-3. **W2** Start a batch session with your style instruction, then feed it up to 10 briefs.
-4. **W4** Get the batch back as a table or CSV. **W5** Check the whole batch.
-5. **W6 to W8** Plan the week, cross-list, and refresh quiet listings.
+1. **W01** Write your shop style instruction once and save it in your phone's notes.
+2. **W03** Turn rough notes for the whole pile into Listing Briefs in one go.
+3. **W02** Start a batch session with your style instruction, then feed it up to 10 briefs.
+4. **W04** Get the batch back as a table or CSV. **W05** Check the whole batch.
+5. **W06 to W08** Plan the week, cross-list, and refresh quiet listings.
 
 Free AI chats can lose track in very long sessions. If answers start drifting (American spelling, invented details, forgotten rules), start a fresh chat and paste your style instruction again. Batches of 5 to 10 items work best.
 
 ---
 
-### W1 Build your reusable "shop style" instruction
+### W01 Build your reusable "shop style" instruction
 **Use it when:** You are fed up of re-explaining your shop to the AI. Do this once, save the result, and paste it at the start of every session.
 **Paste this:**
 ```text
@@ -44,11 +44,11 @@ It must include these fixed rules: UK English, UK sizes and £. Only facts from 
 - Only include "smoke-free" or "pet-free" if it is true for every item.
 - Business sellers: any returns wording must respect buyers' legal rights (Module 07).
 
-### W2 Start a batch session (list up to 10 items in one chat)
+### W02 Start a batch session (list up to 10 items in one chat)
 **Use it when:** You have a pile of items photographed and noted, and want to list them in one sitting.
 **Paste this:**
 ```text
-[PASTE YOUR SHOP STYLE INSTRUCTION FROM W1]
+[PASTE YOUR SHOP STYLE INSTRUCTION FROM W01]
 
 We are going to list [NUMBER, UP TO 10] items in this chat. Platform for this batch: [EBAY UK / VINTED / DEPOP / ETSY].
 
@@ -73,8 +73,8 @@ Then paste each brief starting with ITEM 1, ITEM 2 and so on.
 **Check before you post:**
 - Scan each item for facts that leaked from an earlier item.
 
-### W3 Turn messy notes for 10 items into Listing Briefs in one go
-**Use it when:** You have quick notes for a stack of items and want proper briefs before you start W2.
+### W03 Turn messy notes for 10 items into Listing Briefs in one go
+**Use it when:** You have quick notes for a stack of items and want proper briefs before you start W02.
 **Paste this:**
 ```text
 Turn my rough notes for [NUMBER] items into Listing Briefs. UK English.
@@ -93,7 +93,7 @@ My notes:
 **Check before you post:**
 - Check the brand label on every item. Never list an item as a brand you cannot confirm.
 
-### W4 Batch output as a table or CSV for bulk upload tools
+### W04 Batch output as a table or CSV for bulk upload tools
 **Use it when:** You have finished a batch and want it in a spreadsheet, or a CSV to import into a bulk listing or cross-listing tool.
 **Paste this:**
 ```text
@@ -120,10 +120,12 @@ Output format: [TABLE / CSV]
 
 Rows with [CHECK]: WL-014 (Material).
 
-**Check before you post:**
-- Use your bulk tool's own template headers, open the CSV in a spreadsheet app before uploading, and test one or two rows first.
+**Getting it into a spreadsheet on your phone:** the easiest route is TABLE. Copy the table from the chat and paste it into cell A01 of a new Google Sheet. If everything lands in one column (common with CSV), select that column, then choose Data, then "Split text to columns" and pick comma. To make a CSV file for an upload tool, do this on a computer: paste into Google Sheets as above, then File, Download, "Comma separated values (.csv)".
 
-### W5 Batch accuracy check before you post
+**Check before you post:**
+- Use your bulk tool's own template headers, look over the sheet before uploading, and test one or two rows first.
+
+### W05 Batch accuracy check before you post
 **Use it when:** You have a batch of listings ready and want a second pair of eyes to spot invented details, missing flaws and rule problems.
 **Paste this:**
 ```text
@@ -154,7 +156,7 @@ LISTINGS:
 **Check before you post:**
 - The checker can miss things. Always read the flaws yourself, and go back to the item, not the AI, for the truth.
 
-### W6 Weekly listing routine planner
+### W06 Weekly listing routine planner
 **Use it when:** You want a realistic weekly plan that fits your evenings and weekends, so listing does not pile up.
 **Paste this:**
 ```text
@@ -167,7 +169,7 @@ Help me plan a weekly listing routine. UK English. Realistic, not motivational.
 - Drop-off options near me: [E.G. LOCKER, 24 HOURS]
 
 Give me:
-1. A day-by-day table: Day, Time, Task, Roughly how many items, Prompts to use (by ID, e.g. W2, W5, R prompts, M prompts).
+1. A day-by-day table: Day, Time, Task, Roughly how many items, Prompts to use (by ID, e.g. W02, W05, R prompts, M prompts).
 2. Batch similar tasks: all photos in one go, all measuring in one go, all writing in one AI session.
 3. A 10-minute daily check for messages and dispatch.
 4. A weekly 20-minute review: what sold, what has had no interest, what to refresh or reprice.
@@ -177,11 +179,11 @@ Simple enough to follow on a phone. Do not promise any sales results.
 **Check before you post:**
 - The dispatch times in your listings match the plan you can actually keep. The stock tracker template makes the weekly review quick.
 
-### W7 Repurpose one listing across platforms
+### W07 Repurpose one listing across platforms
 **Use it when:** You have a good listing for one platform and want versions for others without starting again.
 **Paste this:**
 ```text
-[PASTE YOUR SHOP STYLE INSTRUCTION FROM W1, IF YOU HAVE ONE]
+[PASTE YOUR SHOP STYLE INSTRUCTION FROM W01, IF YOU HAVE ONE]
 
 Here is the listing I wrote for [PLATFORM]:
 [PASTE THE LISTING]
@@ -203,7 +205,7 @@ Rules:
 My Listing Brief:
 [PASTE YOUR LISTING BRIEF HERE]
 ```
-For Amazon UK or TikTok Shop UK, use A5 or A6 in Module 00 with the same facts.
+For Amazon UK or TikTok Shop UK, use A05 or A06 in Module 00 with the same facts.
 
 **What good output looks like** for a Levi's denim jacket, size M, mid-wash, small fade at the left cuff, care label dated 1996, first written for eBay UK:
 
@@ -212,7 +214,7 @@ For Amazon UK or TikTok Shop UK, use A5 or A6 in Module 00 with the same facts.
 **Check before you post:**
 - Cross-listing one item? Remove it everywhere else as soon as it sells, or you may sell it twice.
 
-### W8 Refresh a batch of quiet listings
+### W08 Refresh a batch of quiet listings
 **Use it when:** Some listings have had little interest for a couple of weeks and you want to improve them honestly, without stuffing or fake price tricks.
 **Paste this:**
 ```text
@@ -235,4 +237,4 @@ UK English. Only facts from the brief; [CHECK: ...] for gaps. No stuffing, no "r
 
 ## Save these for every session
 
-Keep these in one phone note: your shop style instruction (W1), the empty Listing Brief (templates/listing-brief-template.txt) and your bulk tool's column headers (for W4).
+Keep these in one phone note: your shop style instruction (W01), the empty Listing Brief (templates/listing-brief-template.txt) and your bulk tool's column headers (for W04).

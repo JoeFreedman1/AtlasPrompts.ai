@@ -4,7 +4,8 @@ Thank you for buying the kit. Here is what is in this folder and where to start.
 
 1. prompt-library.html
    Open this on your phone or computer (it works without internet once downloaded).
-   Search for what you need (for example "A1", "lowball" or "eBay title"), fill in the
+   Every prompt has a two-digit ID (A01, M08), the same in the guide and the library.
+   Search for what you need (for example "A01", "lowball" or "eBay title"), fill in the
    [SQUARE BRACKETS], press "Copy prompt" and paste it into a free AI chat tool
    such as ChatGPT, Claude, Gemini or Microsoft Copilot.
    On iPhone: save the file to the Files app, then tap it to open.
@@ -12,9 +13,10 @@ Thank you for buying the kit. Here is what is in this folder and where to start.
 
 2. Well-Listed-Kit.pdf
    The full guide. Start with "Quick start" on the first page of Module 00: one
-   all-in-one prompt per platform (A1 Vinted, A2 eBay UK, A3 Depop, A4 Etsy,
-   A5 Amazon UK, A6 TikTok Shop UK). You do not need to read the rest first:
+   all-in-one prompt per platform (A01 Vinted, A02 eBay UK, A03 Depop, A04 Etsy,
+   A05 Amazon UK, A06 TikTok Shop UK). You do not need to read the rest first:
    dip into the module you need using the "Which prompt do I need?" table.
+   Makers: start with A04, then C11 (safety details) and C10 (returns wording).
 
 3. all-prompts.txt
    Every prompt as plain text, handy for copying into your notes app.
@@ -22,8 +24,17 @@ Thank you for buying the kit. Here is what is in this folder and where to start.
 4. templates folder
    - listing-brief-template.txt / .csv : the fill-in Listing Brief
    - stock-and-pricing-tracker.csv : opens in Google Sheets, Excel or Numbers
+     (the example Profit cells work themselves out: copy one down)
    - message-snippets.txt : quick replies for common buyer messages
    - photo-shot-lists.md : what to photograph for each type of item
+
+   Opening the .csv files in Google Sheets:
+   - On a computer: go to sheets.google.com, start a blank sheet, then choose
+     File, Import, Upload, and pick the .csv file.
+   - On a phone: tapping a .csv often shows a preview you cannot edit. Upload the
+     file to Google Drive, then open it with Google Sheets. If it still will not
+     edit, do the import once on a computer and use the sheet on your phone after.
+   - Excel and Numbers open the files directly on a computer.
 
 Three rules that make every prompt work better:
 - Give the AI facts, not hopes: fill in the brackets or the Listing Brief first.

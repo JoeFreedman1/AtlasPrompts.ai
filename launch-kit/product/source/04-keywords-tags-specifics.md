@@ -36,7 +36,7 @@ Generic AI tools default to American words. Use the UK word in the title. Where 
 
 ## The K prompts
 
-### K1 eBay UK item specifics
+### K01 eBay UK item specifics
 **Use it when:** You are listing on eBay UK and want every relevant item specific filled in accurately.
 **Paste this:**
 ```text
@@ -69,7 +69,7 @@ My Listing Brief:
 - Copy the field names straight from the eBay form, so the AI works with the fields your category really has.
 - Leave a field blank rather than guess. A wrong specific can lead to a "not as described" case.
 
-### K2 Etsy 13 tags
+### K02 Etsy 13 tags
 **Use it when:** You are listing on Etsy and want 13 honest, varied tags within the 20-character limit.
 **Paste this:**
 ```text
@@ -97,7 +97,7 @@ My Listing Brief:
 - "Hand forged" only if you forge it by hand. Every tag must be true.
 - Fill in Etsy's attributes (colour, material, occasion) as well.
 
-### K3 Depop hashtags
+### K03 Depop hashtags
 **Use it when:** You are listing on Depop and want up to 5 relevant hashtags.
 **Paste this:**
 ```text
@@ -120,7 +120,7 @@ My Listing Brief:
 **Check before you post:**
 - Swap hashtags rather than going over the limit.
 
-### K4 Vinted fields and search words
+### K04 Vinted fields and search words
 **Use it when:** You are listing on Vinted and want every field filled in and the right search words in your title and description.
 **Paste this:**
 ```text
@@ -146,7 +146,7 @@ My current title and description (if written):
 **Check before you post:**
 - Select the brand from Vinted's list where it exists, so brand filters find you.
 
-### K5 Amazon UK backend search terms
+### K05 Amazon UK backend search terms
 **Use it when:** You are a brand owner or seller filling in the backend search terms field on Amazon UK. Skip this if you only sell second-hand.
 **Paste this:**
 ```text
@@ -175,7 +175,7 @@ My Listing Brief:
 **Check before you post:**
 - Remove any term that would disappoint a buyer who searched it.
 
-### K6 Buyer search phrase finder (from what you see)
+### K06 Buyer search phrase finder (from what you see)
 **Use it when:** You want to know how buyers search for your item, using the suggestions the platform's own search bar shows you.
 **Paste this:**
 ```text
@@ -201,7 +201,7 @@ My Listing Brief:
 **Check before you post:**
 - Copy suggestions and titles by hand. Do not use automated tools to collect data from platforms.
 
-### K7 Keyword stuffing checker
+### K07 Keyword stuffing checker
 **Use it when:** You want a quick check that your title, tags, hashtags or search terms are honest and will not look like spam, on any platform.
 **Paste this:**
 ```text

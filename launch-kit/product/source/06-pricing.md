@@ -16,7 +16,7 @@ Do not use scraping tools, bots or browser add-ons that harvest listings. Most p
 
 ---
 
-### R1 Tidy my sold comps
+### R01 Tidy my sold comps
 **Use it when:** You have copied a messy pile of sold listings into your notes and want a clean table before pricing.
 **Paste this:**
 ```text
@@ -46,9 +46,9 @@ Sold listings I copied (messy is fine):
 > **Drop:** the NWT one.
 
 **Check before you post:**
-- You have at least three Good matches before moving on to R2.
+- You have at least three Good matches before moving on to R02.
 
-### R2 Price from my sold comps
+### R02 Price from my sold comps
 **Use it when:** You have your tidied comps and want a list price, a realistic range and a floor.
 **Paste this:**
 ```text
@@ -72,7 +72,7 @@ Rules:
 My Listing Brief (includes my floor):
 [PASTE YOUR LISTING BRIEF HERE]
 
-My sold comps (ideally the table from R1):
+My sold comps (ideally the table from R01):
 [PASTE COMPS HERE]
 ```
 **What good output looks like** for Clarks black leather Chelsea boots, UK 6, floor £18 (invented figures):
@@ -83,9 +83,9 @@ My sold comps (ideally the table from R1):
 > 4. **Reasoning:** five Good matches, median £25. A little above median leaves room for offers.
 
 **Check before you post:**
-- Your floor still covers fees and postage (use R7).
+- Your floor still covers fees and postage (use R07).
 
-### R3 Adjust for condition and extras
+### R03 Adjust for condition and extras
 **Use it when:** Your item is not quite like the comps (better or worse condition, no box, extra accessories) and you want a fair adjustment.
 **Paste this:**
 ```text
@@ -117,7 +117,7 @@ My closest sold comps:
 **Check before you post:**
 - The differences (no box, scratches, extras) are in your description too.
 
-### R4 Bundle pricing
+### R04 Bundle pricing
 **Use it when:** You want to sell several items together, or a buyer asks for a bundle price.
 **Paste this:**
 ```text
@@ -148,7 +148,7 @@ UK English, pounds, show the sums. Use only my numbers; missing postage becomes 
 **Check before you post:**
 - If the platform takes its own bundle discount off on top, you have included it in the sums.
 
-### R5 Offer strategy
+### R05 Offer strategy
 **Use it when:** You want to decide in advance which offers to accept, counter or decline, so you are not deciding at 11pm with a lowballer waiting.
 **Paste this:**
 ```text
@@ -182,7 +182,7 @@ My Listing Brief (includes my floor):
 **Check before you post:**
 - Any reason you give (like heavy postage) is true.
 
-### R6 Planned price drop schedule
+### R06 Planned price drop schedule
 **Use it when:** An item has not sold and you want a calm plan for reducing it, rather than panic-dropping or leaving it forever.
 **Paste this:**
 ```text
@@ -212,8 +212,8 @@ My Listing Brief (includes my floor):
 **Check before you post:**
 - You fix listing problems before you drop the price.
 
-### R7 Fee and postage maths
-**Use it when:** You want to know what you actually keep after fees, postage and packaging, before you set a price or accept an offer.
+### R07 Fee and postage maths
+**Use it when:** You want to know what you actually keep after fees, postage and packaging, before you set a price or accept an offer. Makers: put your materials (and time, if you want it counted) in the cost line.
 **Paste this:**
 ```text
 Work out what I keep from a sale, using fees I copy from the platform myself.
@@ -225,7 +225,7 @@ My actual postage cost: £[AMOUNT]
 Packaging: £[AMOUNT OR "0"]
 Fees copied from the platform's fee page today (percentage, fixed fee, whether it applies to postage):
 [PASTE CURRENT FEE DETAILS HERE]
-What I paid for the item (optional): £[AMOUNT OR "NOT SURE"]
+What the item cost me (optional): £[PRICE PAID, OR FOR MAKERS: MATERIALS + SHARE OF KILN OR TOOLS + TIME AT A RATE I CHOOSE, EACH LISTED]
 Amount I want to keep: £[TARGET AMOUNT]
 
 Show a simple table: money in, each fee with its sum, postage and packaging out, what I keep, and what is left after cost if I gave one. Then the lowest sale price that still keeps my target amount.
@@ -233,7 +233,7 @@ Show a simple table: money in, each fee with its sum, postage and packaging out,
 Rules:
 - UK English, pounds, nearest penny.
 - Use ONLY the fees I pasted, never your own knowledge. Unclear fees become [CHECK: ...].
-- This is a sum, not advice. Only call it "profit" if I gave a cost price.
+- This is a sum, not advice. Only call it "profit" if I gave a cost. If I listed making costs, add them up and show each one.
 ```
 **What good output looks like** for a sale at £15, buyer pays £3.50 postage, real postage £3.20, packaging £0.30, and fees invented for this example (10% of the total including postage, plus £0.30 per order):
 
@@ -253,14 +253,14 @@ Rules:
 - You pasted today's fees from the platform's own pages, and weighed the parcel.
 - Fees can differ for private and business sellers.
 
-### R8 Is it worth listing on its own?
+### R08 Is it worth listing on its own?
 **Use it when:** You have a low-value item and are not sure whether to list it alone, bundle it or let it go.
 **Paste this:**
 ```text
 Help me decide whether this item is worth listing on its own.
 
 Sold comps (optional): [PASTE OR "NONE"]
-What I keep at that price (from R7, optional): £[AMOUNT OR "NOT SURE"]
+What I keep at that price (from R07, optional): £[AMOUNT OR "NOT SURE"]
 Minutes it takes me to list, message and pack one item: [MINUTES]
 Similar items I could put with it: [LIST OR "NONE"]
 

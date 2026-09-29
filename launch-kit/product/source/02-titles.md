@@ -40,7 +40,7 @@ Use these as a starting order. Swap it if your buyers search differently (collec
 
 ## The T prompts
 
-### T1 eBay UK title
+### T01 eBay UK title
 **Use it when:** You are listing on eBay UK and want a title that uses the 80 characters well without padding.
 **Paste this:**
 ```text
@@ -71,7 +71,7 @@ Every word is in the brief. It does not reach 80 characters because there are no
 - Paste the title into eBay's title box. AI tools often miscount.
 - If a word like "Long Sleeve" is true and buyers search it, add it to the brief first, then to the title.
 
-### T2 Vinted title
+### T02 Vinted title
 **Use it when:** You are listing clothes, shoes, accessories or homeware on Vinted.
 **Paste this:**
 ```text
@@ -97,7 +97,7 @@ My Listing Brief:
 **Check before you post:**
 - Fill in Vinted's brand, size, colour and condition fields too. They power the filters.
 
-### T3 Depop opening line (acts as the title)
+### T03 Depop opening line (acts as the title)
 **Use it when:** You are listing on Depop, where the first words of the description do the job of a title.
 **Paste this:**
 ```text
@@ -126,7 +126,7 @@ My Listing Brief:
 **Check before you post:**
 - The opening line matches what is in the photos.
 
-### T4 Etsy title
+### T04 Etsy title
 **Use it when:** You are listing a handmade, vintage or craft supply item on Etsy.
 **Paste this:**
 ```text
@@ -153,9 +153,9 @@ My Listing Brief:
 
 **Check before you post:**
 - "Sterling silver" is a legal description. Use it only for 925 silver, and check whether your item needs hallmarking in the UK.
-- Put extra search words in the 13 tags (K2), not the title.
+- Put extra search words in the 13 tags (K02), not the title.
 
-### T5 Amazon UK title and Item Highlights
+### T05 Amazon UK title and Item Highlights
 **Use it when:** You are a brand owner or seller of new stock creating an Amazon UK product listing. Skip this if you only sell second-hand.
 **Paste this:**
 ```text
@@ -185,7 +185,7 @@ My Listing Brief:
 **Check before you post:**
 - Check your category's style guide in Seller Central. Title rules differ by category.
 
-### T6 TikTok Shop UK product title
+### T06 TikTok Shop UK product title
 **Use it when:** You are listing a product in TikTok Shop UK. Skip this if you only sell second-hand on the resale apps.
 **Paste this:**
 ```text
@@ -213,7 +213,7 @@ My Listing Brief:
 **Check before you post:**
 - Claims like "leakproof" or "keeps drinks cold for 24 hours" must be in your product spec and tested. Leave them out if not.
 
-### T7 Title tester: which version is clearest?
+### T07 Title tester: which version is clearest?
 **Use it when:** You have 2 to 5 title ideas and want an honest, buyer's-eye comparison.
 **Paste this:**
 ```text
@@ -248,7 +248,7 @@ My Listing Brief:
 **Check before you post:**
 - The platform's own search suggestions (start typing in the search bar) are a better guide than the AI's guesses. After posting, search as a buyer would and change one thing at a time.
 
-### T8 Title fixer: too long, too vague or too spammy
+### T08 Title fixer: too long, too vague or too spammy
 **Use it when:** You already have a title (from an old listing or a generic AI tool) and it needs fixing.
 **Paste this:**
 ```text
