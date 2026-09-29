@@ -128,6 +128,8 @@ Fees are a real worry but mostly about the platforms, not something the kit fixe
 
 ## 10. HMRC reporting worries
 
+**Research record only. Owner's rule (September 2026): no Well Listed content states tax rules or figures; if tax comes up, point to gov.uk or an accountant.**
+
 | Phrase | Type | Source |
 |---|---|---|
 | "eBayer worrying about new HMRC Reporting Requirements" | Verbatim (title), UK | https://forums.moneysavingexpert.com/discussion/6523001/ebayer-worrying-about-new-hmrc-reporting-requirements |
@@ -184,7 +186,7 @@ These are our own lines, built from the words sellers use above. They follow the
 17. "Spend less time fixing what the AI made up."
 18. "Sticks to the facts you give it."
 19. "Sounds like a normal person, not a brochure."
-20. "Selling your own stuff, not running a shop" (HMRC reassurance angle, pointing to GOV.UK)
+20. (Removed: tax angle. Tax questions point to gov.uk only.)
 21. "Worried about the 30 items thing? Keep a simple sales log."
 22. "A few items a day feels less like a second job."
 23. "Postage, fees and offers, priced in before you list."

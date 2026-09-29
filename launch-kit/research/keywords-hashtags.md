@@ -243,7 +243,7 @@ Grouped by intent. **Marked [BLOG 1] to [BLOG 10]** are the ten we recommend for
 27. selling on ebay tips uk.
 28. how to sell on vinted uk for beginners.
 29. how to cross list ebay and vinted.
-30. hmrc selling online rules uk (only with a sourced, current explanation; link to gov.uk).
+30. (Not used: tax topics are off limits for content by the owner's rule; point to gov.uk only.)
 
 ### Recommended 10 at a glance
 

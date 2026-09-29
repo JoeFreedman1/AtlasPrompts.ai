@@ -45,9 +45,10 @@ Updated by every session. Newest log entries at the top of the log. The dashboar
 
 ## Decisions waiting for the owner
 - Merge the pull request into main before launch, so every new session sees these files (say "merge the Well Listed pull request"). Until then, sessions must work from the working branch above.
-- Check the facts still marked "NOT VERIFIED" that matter most before launch: the Companies House fee and a registered office service price, the MailerLite free plan limit, the ICO fee exemption, and the consumer law points in `launch-kit/research/platform-rules-uk.md`. (Gumroad fees, VAT handling and the $100 payout minimum are now verified by the owner. Tax rules were removed from all content.)
+- Check the facts still marked "NOT VERIFIED" (full list: `launch-kit/research/STILL-TO-VERIFY.md`) that matter most before launch: the Companies House fee and a registered office service price, the MailerLite free plan limit, the ICO fee exemption, and the consumer law points in `launch-kit/research/platform-rules-uk.md`. (Gumroad fees, VAT handling and the $100 payout minimum are now verified by the owner. Tax rules were removed from all content.)
 
 ## Log
+- 2026-09-29: Owner verified Gumroad fees, VAT handling and the $100 payout minimum (MONEY.md now shows sales needed before the first payout). Brand will trade through a new limited company: LAUNCH.md is now two sessions (98 and 71 minutes). All tax rules removed from content; posts P28 and P31 replaced with non-tax posts. Remaining unverified facts listed in `launch-kit/research/STILL-TO-VERIFY.md`.
 - 2026-09-29: Final pass. Product critiqued twice (now 90 prompts, 141-page PDF, two-digit prompt IDs), all files synced to the final product, every file checked (0 problems in check_content.py, no dashes), site, kit and dashboard rebuilt. Ready for the owner's LAUNCH.md.
 - 2026-09-29: Quality check of blog, community, affiliate, tools and operating docs (see `launch-kit/qc/QC-blog-community-docs.md`). Launch steps now total 119 minutes; day 15 price switch steps added to ROUTINE.md and OPERATOR.md; ads confirmed as Meta first from day 15.
 - 2026-09-29: Overnight build session. Everything in launch-kit/ created. Pull request opened for review, not merged.

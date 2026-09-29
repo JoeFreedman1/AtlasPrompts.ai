@@ -45,6 +45,7 @@ Well Listed sells **The Well Listed Kit**, a £19 digital download (launch price
 | Assumptions and decisions made overnight | `ASSUMPTIONS.md` |
 | Business models scored, brief, brand guide, writing rules | `01-brief/` |
 | Research: competitors, buyer language, keywords and hashtags, where buyers hang out, faceless accounts, UK platform rules, tools and fees | `research/` |
+| Facts still to verify (one list) | `research/STILL-TO-VERIFY.md` |
 | The product: markdown source modules 00 to 12, templates, build script, critique log | `product/source/`, `product/templates/`, `product/build.py`, `product/CRITIQUE.md` |
 | The product as sold (PDF, prompt library, prompt text file, zip for Gumroad) | `product/dist/` (rebuild with `python3 launch-kit/product/build.py`) |
 | Sales pages A and B, privacy and terms, lead magnet, deploy guide | `sales-site/` (`sales-site/README.md` explains placeholders) |
