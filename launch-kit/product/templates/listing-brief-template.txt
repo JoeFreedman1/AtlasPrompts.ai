@@ -10,7 +10,7 @@ Measurements (in cm, laid flat, and how you measured):
 Colour:
 Material (from the care label or product spec):
 Age or era (only if you can back it up):
-Condition (new with tags / new without tags / very good / good / satisfactory):
+Condition (new with tags / new without tags / excellent / very good / good / fair; on Vinted the lowest option is called satisfactory):
 Flaws (every mark, hole, scratch, bobble, fade, missing part, with where it is):
 Tested? (for electrics and games: what you tested and the result):
 What's included:
@@ -32,7 +32,7 @@ What it is (item type): Jumper, crew neck
 Brand: Next
 Model, style or product name: Wool-blend jumper
 Size: UK 12
-Measurements: Pit to pit 51 cm, length 62 cm, laid flat
+Measurements: Pit to pit 51 cm, length 63 cm, sleeve 58 cm, laid flat
 Colour: Grey
 Material: [not on label, leave blank]
 Age or era:

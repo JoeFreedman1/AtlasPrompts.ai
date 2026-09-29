@@ -2,7 +2,9 @@
 
 Three one-off emails sent to everyone on the list during the 14-day launch window. The launch price (£12) is real and ends when we say it ends: at 11:59pm UK time on [LAUNCH END DATE], which is day 14 of the launch. After that the kit is £19. No countdown timers, no "only 3 left", no extending the deadline.
 
-Placeholders: [GUMROAD_PRODUCT_LINK], [CHEAT_SHEET_LINK], [LAUNCH END DATE] (for example "Sunday 18 October"), [FOOTER_ADDRESS].
+Placeholders: [GUMROAD_PRODUCT_LINK], [CHEAT_SHEET_LINK], [LAUNCH END DATE] (for example "Sunday 18 October"), [BRAND_EMAIL], [FOOTER_ADDRESS].
+
+Timing note: the list is the warmest audience, so consider sending L1 on day 1 or 2 rather than day 7. The body works on any day of the launch because it gives the date, not a number of days.
 
 ---
 
@@ -21,15 +23,15 @@ These are **campaigns**, not an automation. A campaign is a single email you sen
 3. **Sender name:** Well Listed. **Sender email:** the brand address. Never a personal name.
 4. **Content:** choose the plain text or simplest "rich text" editor option. Paste the body. Replace every placeholder and turn [GUMROAD_PRODUCT_LINK] into a real link.
 5. **Recipients:** choose the "Cheat sheet" group (or "All active subscribers"). If you have a "Customers" group, exclude it so people who already bought are not asked again.
-6. **Schedule:** pick the date and a time. We suggest 7:30pm UK time on the day, when most sellers are sorting listings after work. For L3, send it no later than 10am on [LAUNCH END DATE] so it gives people most of the day.
+6. **Schedule:** pick the date and a time. We suggest an evening slot such as 7:30pm UK time, when many part-time sellers are sorting listings after work (a guess to test, not a fact). For L3, send it no later than 10am on [LAUNCH END DATE] so it gives people most of the day.
 7. Send yourself a test first. Check the links, the footer address and the unsubscribe link.
 
 **Footer (every email):** MailerLite adds an unsubscribe link automatically; never remove it (UK law requires an easy opt-out on every marketing email). Put [FOOTER_ADDRESS] as the postal address in MailerLite's footer settings. Use a business address, PO box or registered office service if you prefer not to show your home. Suggested footer text: "You are getting this because you downloaded The UK Listing Cheat Sheet from Well Listed. Well Listed is independent and not affiliated with eBay, Vinted, Depop, Etsy, Amazon or TikTok. [FOOTER_ADDRESS]. Unsubscribe any time with the link below."
 
 **On the night the launch ends (important):**
-- At 11:59pm UK time on [LAUNCH END DATE], change the price on Gumroad to £19. Set two phone alarms. If you will be asleep, change it before bed and do not send anything claiming a later time.
+- Change the price on Gumroad to £19 after 11:59pm UK time on [LAUNCH END DATE], never before it. If you will be asleep, change it first thing the next morning: a few extra hours at £12 is fine, ending early is not, because every page and email says 11:59pm.
 - Then open the welcome automation and change [CURRENT_PRICE] in W6 and W7 from £12 to £19.
-- If something goes wrong and the price changes late, that is fine. If it changes early, reply kindly to anyone who asks and refund the difference.
+- If the price changes late, that is fine. If it changes early by mistake, change it back straight away, and refund the difference to anyone who paid £19 before the deadline.
 
 ---
 
@@ -47,13 +49,13 @@ Hi,
 
 The Well Listed Kit is out. It is the full version of the cheat sheet you downloaded.
 
-What is inside: 13 short modules and 88 tested prompts covering Listing Briefs, titles, descriptions and condition, keywords and item specifics, photos, pricing from sold comps, buyer messages, video and TikTok Shop, a pre-post rule checker and a batch workflow for listing 10 items in one sitting. Plus fill-in templates, six worked examples, a PDF, and a prompt library with copy buttons that works on your phone. It works with the free versions of ChatGPT, Claude, Gemini or Copilot.
+What is inside: 13 short modules and 94 prompts covering an all-in-one starter prompt for each platform, Listing Briefs, titles, descriptions and condition, keywords and item specifics, photos, pricing from sold comps, buyer messages, video and TikTok Shop, a pre-post rule checker and a batch workflow for listing up to 10 items in one chat. Plus fill-in templates (including 22 ready buyer replies), six worked examples, a PDF, and a prompt library with copy buttons that works on your phone. It works with the free versions of ChatGPT, Claude, Gemini or Copilot.
 
-The launch price is £12 until 11:59pm on [LAUNCH END DATE]. After that it is £19. That is the only deadline and it is a real one.
+The launch price is £12 until 11:59pm UK time on [LAUNCH END DATE]. After that it is £19. That is the only deadline and it is a real one.
 
 [GUMROAD_PRODUCT_LINK]
 
-If it is not useful, ask for a refund within 30 days. No questions asked.
+If it is not useful, ask for a refund within 30 days of buying: reply to your Gumroad receipt or email [BRAND_EMAIL]. No questions asked.
 
 A quick tip while you are here. Got a pile of £2 items you keep putting off? Before listing one, ask:
 
@@ -66,7 +68,7 @@ Other similar items I have: [LIST OR "NONE"]
 Compare four options in a short table: list alone, bundle with similar items, job lot, or donate. For each give effort, money kept (only from my numbers, otherwise [CHECK]) and when it makes sense. Then one line of advice. UK English. Do not promise anything will sell.
 ----- to here -----
 
-Often the answer is "bundle it", which saves an evening of packing.
+Often the answer is "bundle it": one listing and one parcel instead of five.
 
 The Well Listed team
 
@@ -79,7 +81,7 @@ P.S. Not sure it suits what you sell? Reply and ask. We would rather you did not
 
 - **Send:** day 12 of the launch, about 7:30pm
 - **Subject:** The launch price ends on [LAUNCH END DATE]
-- **Alternative subject (for testing):** One listing, five platforms (and 2 days left at £12)
+- **Alternative subject (for testing):** One listing, three apps (and 2 days left at £12)
 - **Preview text:** Write a listing once, then reuse the facts everywhere. The prompt is inside.
 
 Note on timing: sent on the evening of day 12, there are just over 2 days left, so "2 days" is true. If you send it later than day 12, change "2 days" to the right number or remove it; the date alone is always accurate.
@@ -89,7 +91,7 @@ Note on timing: sent on the evening of day 12, there are just over 2 days left, 
 ~~~text
 Hi,
 
-A quick reminder first: the £12 launch price on The Well Listed Kit ends at 11:59pm on [LAUNCH END DATE], in 2 days. Then it goes to £19.
+A quick reminder first: the £12 launch price on The Well Listed Kit ends at 11:59pm UK time on [LAUNCH END DATE], in 2 days. Then it goes to £19.
 
 [GUMROAD_PRODUCT_LINK]
 
@@ -121,7 +123,7 @@ P.S. This is a shortened version of the cross-platform prompt in the kit's batch
 ## L3: Launch price ends tonight
 
 - **Send:** day 14 of the launch ([LAUNCH END DATE]), by 10am
-- **Subject:** The launch price ends tonight at midnight
+- **Subject:** The launch price ends tonight at 11:59pm
 - **Alternative subject (for testing):** Last day at £12
 - **Preview text:** Short and simple. £12 until 11:59pm tonight, then £19.
 
@@ -136,7 +138,7 @@ Short one. The launch price on The Well Listed Kit ends tonight at 11:59pm UK ti
 
 If you have been meaning to get it, today is the cheaper day. If you have decided it is not for you, that is completely fine, and you do not need to do anything. You will still get the occasional free tip from us.
 
-Either way, the 30-day refund stays: if it is not useful, reply to your receipt within 30 days and we will refund you. No questions asked.
+Either way, the 30-day refund stays: if it is not useful, reply to your Gumroad receipt or email [BRAND_EMAIL] within 30 days of buying and we will refund you in full. No questions asked.
 
 One last free tip: if you are ever between two condition grades, pick the lower one. A buyer who gets better than expected is happy. A buyer who gets worse opens a case. And the grade never replaces the flaw list: "Good" is an opinion, "two small pulls on the back, about 3 mm each, see photo 6" is a fact.
 

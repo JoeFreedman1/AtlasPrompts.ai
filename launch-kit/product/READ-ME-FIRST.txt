@@ -4,15 +4,17 @@ Thank you for buying the kit. Here is what is in this folder and where to start.
 
 1. prompt-library.html
    Open this on your phone or computer (it works without internet once downloaded).
-   Search for what you need (for example "lowball" or "eBay title"), fill in the
+   Search for what you need (for example "A1", "lowball" or "eBay title"), fill in the
    [SQUARE BRACKETS], press "Copy prompt" and paste it into a free AI chat tool
    such as ChatGPT, Claude, Gemini or Microsoft Copilot.
    On iPhone: save the file to the Files app, then tap it to open.
    On Android: open it from your Downloads folder with Chrome.
 
 2. Well-Listed-Kit.pdf
-   The full guide. Start with "Quick start" in Module 00. You do not need to read
-   it all: dip into the module you need.
+   The full guide. Start with "Quick start" on the first page of Module 00: one
+   all-in-one prompt per platform (A1 Vinted, A2 eBay UK, A3 Depop, A4 Etsy,
+   A5 Amazon UK, A6 TikTok Shop UK). You do not need to read the rest first:
+   dip into the module you need using the "Which prompt do I need?" table.
 
 3. all-prompts.txt
    Every prompt as plain text, handy for copying into your notes app.
@@ -24,7 +26,7 @@ Thank you for buying the kit. Here is what is in this folder and where to start.
    - photo-shot-lists.md : what to photograph for each type of item
 
 Three rules that make every prompt work better:
-- Give the AI facts, not hopes: fill in the Listing Brief first.
+- Give the AI facts, not hopes: fill in the brackets or the Listing Brief first.
 - Never paste a buyer's name, address or order details into an AI tool.
 - Read every result before you post it. You are the seller; the AI is the typist.
 

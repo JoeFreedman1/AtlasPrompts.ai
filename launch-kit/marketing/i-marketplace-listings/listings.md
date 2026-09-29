@@ -8,7 +8,7 @@ Three places the kit can legitimately be sold, with copy ready to paste:
 
 Keep prices consistent everywhere the full kit is sold. Never quote sales, downloads, ratings or reviews, because we have none yet, and never add testimonials. Rules and fees below were not verified on the providers' own pages this session (see `research/tools-and-fees.md`), so check each one before publishing.
 
-Facts about the kit used below (checked against `product/`): 88 prompts across modules 01 to 10 (IDs B, T, D, K, PH, R, M, V, C, W), 13 guide modules (00 to 12), 5 templates, delivered as a PDF guide, an offline HTML prompt library and a plain text file of all prompts, in one zip.
+Facts about the kit used below (checked against `product/` on 29 September 2026): 94 prompts across modules 00 to 10 (IDs A, B, T, D, K, PH, R, M, V, C, W; recount with `grep -cE "^### [A-Z]{1,2}[0-9]+ " launch-kit/product/source/*.md`), 13 guide modules (00 to 12), six worked examples, 5 template files (including 22 ready buyer replies and photo shot lists for 9 categories), delivered as a PDF guide, an offline HTML prompt library and a plain text file of all prompts, in one zip.
 
 ---
 
@@ -40,7 +40,7 @@ well-listed-kit
 ### Price
 
 - **Launch (first 14 days after launch day only): £12.**
-- **From day 15: £19.** Change the price on the morning of day 15 and remove any launch wording from the summary and description the same day.
+- **From day 15: £19.** The launch price ends at 11:59pm UK time on [LAUNCH END DATE] (day 14). Change the price after that time, never before (first thing on day 15 is fine), and remove any launch wording from the summary and description the same day.
 - Pay what you want: off. Discount codes: none at launch.
 - Only say "launch price" while it is genuinely running. No countdown timers, no "only 3 left", no "price going up soon" unless it is true and dated.
 
@@ -63,7 +63,7 @@ Describing use with marketplace names ("ebay", "vinted") is fine. Never suggest 
 ### Summary (short text shown near the buy button)
 
 ```text
-88 tested AI prompts, fill-in templates and checklists for UK sellers on eBay, Vinted, Depop, Amazon, Etsy and TikTok Shop. Works with free ChatGPT, Claude, Gemini or Copilot. PDF guide, offline prompt library and spreadsheet templates. 30-day refund.
+94 AI prompts, fill-in templates and checklists for UK sellers on eBay, Vinted, Depop, Amazon, Etsy and TikTok Shop. Works with free ChatGPT, Claude, Gemini or Copilot. PDF guide, offline prompt library and spreadsheet templates. Instant download. 30-day refund.
 ```
 
 ### "You'll get" bullet list (if the layout asks for one)
@@ -71,8 +71,8 @@ Describing use with marketplace names ("ebay", "vinted") is fine. Never suggest 
 ```text
 PDF guide (13 modules)
 Offline prompt library with copy buttons (HTML, works on your phone)
-All 88 prompts in one text file
-5 templates: Listing Brief (text and spreadsheet), stock and pricing tracker, message snippets, photo shot lists
+All 94 prompts in one text file
+5 templates: Listing Brief (text and spreadsheet), stock and pricing tracker, 22 ready buyer replies, photo shot lists
 30-day refund, no questions asked
 ```
 
@@ -81,7 +81,7 @@ All 88 prompts in one text file
 ```text
 Paste in your item's details and get a UK-ready listing, a price check and polite buyer replies, using the free AI tools you already have.
 
-The Well Listed Kit is a pack of tested AI prompts, fill-in templates and checklists for UK sellers on eBay, Vinted, Depop, Amazon, Etsy and TikTok Shop. It is not software. There is nothing to install and no subscription. You copy a prompt, paste in the facts about your item, and the AI does the tidy, time-consuming writing.
+The Well Listed Kit is a pack of AI prompts, fill-in templates and checklists for UK sellers on eBay, Vinted, Depop, Amazon, Etsy and TikTok Shop. It is not software. There is nothing to install and no subscription. You copy a prompt, paste in the facts about your item, and the AI does the tidy, time-consuming writing.
 
 WHY GENERIC AI LISTINGS GO WRONG
 Ask a chatbot to "write an eBay listing for my jumper" and you usually get American spellings and sizes, a title too long for the platform, a material it guessed, "stunning!!!" in every line, and sometimes a claim that breaks the rules.
@@ -90,7 +90,7 @@ THE LISTING BRIEF METHOD
 Every prompt in the kit starts from a Listing Brief: a short fill-in block of facts (item, brand, size, measurements, material, colour, condition and flaws, what is included, postage, your lowest price). The AI is told to use only those facts, and to write [CHECK: ...] where something is missing instead of inventing it. You stay in charge of accuracy. The AI just does the typing.
 
 WHAT'S INSIDE
-00 Start here: your first listing in 5 minutes, choosing a free AI tool, privacy, golden rules
+00 Start here: your first listing in 5 minutes with an all-in-one prompt for each platform, choosing a free AI tool, privacy, golden rules
 01 Listing Brief: the master brief plus versions for clothing, electronics, books and media, homeware, toys and collectables, and handmade
 02 Titles: for eBay UK, Vinted, Depop, Etsy, Amazon UK and TikTok Shop UK, with title formulas and a title fixer
 03 Descriptions and condition: an honest condition scale, flaw wording, measurements, bundles
@@ -104,13 +104,13 @@ WHAT'S INSIDE
 11 Worked examples: six full before and after examples
 12 Platform cheatsheet: limits and rules for each platform, with sources and a "last checked" date
 
-88 prompts in total, each with "use it when", the prompt to paste, an example of good output, and what to check before you post.
+94 prompts in total, each with "use it when", the prompt to paste, usually an example of good output, and what to check before you post.
 
 FORMATS
 PDF guide to read and keep
 Offline prompt library (HTML) with search and copy buttons, best on your phone
 All prompts in one plain text file for your notes app
-Templates: Listing Brief (text and CSV), stock and pricing tracker, message snippets, photo shot lists
+Templates: Listing Brief (text and CSV), stock and pricing tracker, 22 ready buyer replies, photo shot lists
 
 WHO IT IS FOR
 UK part-time resellers on Vinted, eBay and Depop
@@ -123,8 +123,11 @@ If you want software that lists for you automatically, this is not it. If you wa
 WHAT YOU NEED
 A phone or computer and any free AI chat tool (ChatGPT, Claude, Gemini or Copilot). No paid plans or plugins needed.
 
-REFUND
-If the kit is not useful to you, email us within 30 days of purchase for a full refund. No questions asked.
+DELIVERY AND REFUND
+Instant download. By buying, you ask for immediate access to the files, and you acknowledge that for digital content this ends the usual 14-day right to cancel once the download starts. Our own promise goes further: if the kit is not useful to you, email [BRAND_EMAIL] or reply to your Gumroad receipt within 30 days of buying for a full refund. No questions asked.
+
+UPDATES
+If we update the kit (for example after a platform rule changes), you can download the new version free from your Gumroad library. Future updates are not guaranteed, so please buy it for what is in it today.
 
 GOOD TO KNOW
 Platform rules and limits change. The kit's cheatsheet shows when each fact was last checked; always check the current rule in the platform's help pages before relying on it.
@@ -137,7 +140,7 @@ Well Listed is an independent UK brand. We are not affiliated with or endorsed b
 During the launch fortnight only, add this line directly under the first paragraph, then delete it on day 15:
 
 ```text
-Launch price: £12 until [DATE, 14 days after launch]. After that it is £19.
+Launch price: £12 until 11:59pm UK time on [LAUNCH END DATE]. After that it is £19.
 ```
 
 ### Cover image brief (main product image)
@@ -166,31 +169,33 @@ Launch price: £12 until [DATE, 14 days after launch]. After that it is £19.
 ```text
 Thank you for buying The Well Listed Kit.
 
+As you asked at checkout, you have immediate access to the download, so the 14-day right to cancel for digital content ends once you start downloading. Our 30-day refund below still applies.
+
 Your download is below. It is one zip file. On a phone, tap it and choose "Open" or "Save to Files". On a computer, download it and double-click to unzip.
 
 Where to start:
 1. Open "00 Start here" in the PDF, or open the prompt library (prompt-library.html) in your phone's browser.
 2. Pick one item you want to list today.
-3. Fill in the Listing Brief, then use the 5-minute starter prompt.
+3. Fill in the Listing Brief, then use the all-in-one prompt for your platform (Module 00, "Quick start").
 
-Tip: save the prompt library to your home screen so it is one tap away when you list.
+Tip: keep the prompt library somewhere easy to find (for example, a favourite folder in your Files or Downloads app) so it is close to hand when you list.
 
 Two reminders: always read what the AI writes against the item before you post, and never paste a buyer's name, address or order details into an AI tool.
 
-If the kit is not useful to you, reply to this email within 30 days for a full refund. No questions asked.
+If the kit is not useful to you, reply to this email or email [BRAND_EMAIL] within 30 days of buying for a full refund. No questions asked.
 
-Questions, mistakes you spot, or a platform rule you think has changed? Reply to this email. We read everything.
+Questions, mistakes you spot, or a platform rule you think has changed? Reply to this email.
 
 Well Listed
 ```
 
 ### Settings checklist
 
-- [ ] Currency GBP, price £12 (launch) with a calendar reminder to change to £19 on day 15.
+- [ ] Currency GBP, price £12 (launch) with a calendar reminder to change to £19 after 11:59pm UK time on [LAUNCH END DATE] (first thing on day 15 is fine; never earlier).
 - [ ] Refund policy set to 30 days, matching the sales page.
 - [ ] Discover on, category and tags set.
 - [ ] Upload `product/dist/Well-Listed-Kit.zip`.
-- [ ] Check the checkout shows the digital content consent wording Gumroad provides (UK buyers of digital content). See `research/platform-rules-uk.md`, UK law item 1.
+- [ ] Immediate-access wording: the "DELIVERY AND REFUND" paragraph must be in the description (so buyers see it before paying) and a short version in the receipt note. Do not assume Gumroad adds its own consent tick box; check the live checkout. See `research/platform-rules-uk.md`, UK law item 1, and terms.html section 4.
 - [ ] Preview on a phone before publishing.
 
 ---
@@ -222,19 +227,19 @@ reselling, ebay seller, vinted seller, ai prompts, chatgpt prompts, listing temp
 ```text
 Paste in your item's details and get a UK-ready listing, a price check and polite buyer replies, using the free AI tools you already have.
 
-The Well Listed Kit is a downloadable pack of 88 tested AI prompts, fill-in templates and checklists for UK sellers on eBay, Vinted, Depop, Amazon, Etsy and TikTok Shop. It works with free ChatGPT, Claude, Gemini or Copilot. Nothing to install, no subscription.
+The Well Listed Kit is a downloadable pack of 94 AI prompts, fill-in templates and checklists for UK sellers on eBay, Vinted, Depop, Amazon, Etsy and TikTok Shop. It works with free ChatGPT, Claude, Gemini or Copilot. Nothing to install, no subscription.
 
 Every prompt starts from a Listing Brief: a short list of facts about your item. The AI is told to use only those facts and to flag anything missing with [CHECK: ...] rather than guessing, so you get UK English, the right length for each platform, and no invented details or hype.
 
 Inside:
 - A PDF guide in 13 modules: Listing Brief, titles, descriptions and condition, keywords and item specifics, photos, pricing from sold listings, buyer messages, video and TikTok Shop, a rule checker, batch listing, worked examples and a platform cheatsheet
 - An offline prompt library with search and copy buttons, made for your phone
-- All 88 prompts in one text file
-- Templates: Listing Brief (text and spreadsheet), stock and pricing tracker, message snippets, photo shot lists
+- All 94 prompts in one text file
+- Templates: Listing Brief (text and spreadsheet), stock and pricing tracker, 22 ready buyer replies, photo shot lists
 
 What it will not do: list for you automatically, or promise more sales. It helps you write clear, complete, honest listings faster.
 
-30-day refund: if it is not useful, email us within 30 days for a full refund.
+Instant download: by buying you ask for immediate access and acknowledge that this ends the 14-day right to cancel once the download starts. 30-day refund: if it is not useful, email [BRAND_EMAIL] within 30 days of buying for a full refund. No questions asked.
 
 Platform rules change, so always check the current rule in the platform's help pages. Not legal or tax advice. Well Listed is an independent UK brand, not affiliated with or endorsed by eBay, Vinted, Depop, Amazon, Etsy or TikTok.
 ```

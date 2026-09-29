@@ -43,162 +43,90 @@ Every prompt that writes buyer-facing copy is told never to reveal your lowest p
 
 ---
 
-## Category brief variants
+## Category extras
 
-Use the general brief for anything. A category version adds the facts buyers in that category ask about most.
+The master brief works for anything. For these categories, add the extra lines buyers ask about most (or ask B5 to build a brief for your own category).
 
-### Clothing, shoes and accessories
-
-Measurements beat sizes: a size 12 from 2024 is not a size 12 from 1985. Measure flat, in cm.
+**Clothing, shoes and accessories.** Measurements beat sizes: a size 12 from 2024 is not a size 12 from 1985.
 
 ```text
-CLOTHING BRIEF
-Platform(s): 
-Item type (e.g. jumper, midi dress, straight-leg jeans): 
-Brand: 
+CLOTHING EXTRAS
 Size on label (UK / EU / US as printed): 
 Measurements, laid flat (cm):
-  Pit to pit (armpit seam to armpit seam, across the front): 
+  Pit to pit (armpit seam to armpit seam): 
   Length (top of shoulder by the collar to hem): 
   Sleeve (shoulder seam to cuff): 
   Waist (straight across; say if doubled): 
   Inside leg (crotch seam to hem): 
-  Rise (crotch seam to top of waistband): 
-Colour: 
 Fabric (copy the care label, e.g. 60% acrylic, 40% wool): 
-Fit / cut (e.g. oversized, slim, cropped, high waisted): 
-Details (buttons, pockets, lining, zip): 
-Condition: 
-Flaws (bobbling, marks, pulls, fading, stretched cuffs, missing buttons, odour): 
+Fit / cut (e.g. oversized, cropped, high waisted): 
 Tags attached? (yes / no / cut label): 
 Era (only if known: "tag style suggests 1990s" is fine, a guessed year is not): 
-Postage: 
-Price: 
-Lowest I will accept (private): 
 ```
 
-### Electronics
-
-Buyers want to know it works, what comes with it, and whether anything is locked.
+**Electronics.** Buyers want to know it works, what comes with it, and whether anything is locked.
 
 ```text
-ELECTRONICS BRIEF
-Platform(s): 
-Item type: 
-Brand: 
-Exact model name and number (from the label or settings screen): 
-Storage / capacity / specification (from the label, box or settings only): 
-Colour: 
+ELECTRONICS EXTRAS
+Exact model name and number (label or settings screen): 
 Tested? How? (e.g. "powered on, Wi-Fi connected, played a video for 10 minutes"): 
 Not tested (e.g. "Bluetooth not tested"): 
 Faults or quirks: 
 Battery health (figure if shown, or "not checked"): 
-Cosmetic condition (scratches, dents, screen marks, where and how big): 
 Factory reset and accounts removed? (yes / no): 
-Network lock (phones: unlocked / locked to [NETWORK] / not checked): 
-Included (charger, cable, box, remote, manual): 
-Not included: 
-Postage: 
-Price: 
-Lowest I will accept (private): 
+Network lock (phones: unlocked / locked / not checked): 
 ```
 
-**Tip:** never write "fully working" unless you tested every function. "Tested and working: power, screen, Wi-Fi, speakers. Not tested: Bluetooth" is honest and protects you.
+Never write "fully working" unless you tested every function. "Tested and working: power, screen, Wi-Fi. Not tested: Bluetooth" is honest and protects you.
 
-### Books, music and media
+**Books, music and media.** Only write "first edition" if the copyright page supports it, in its exact words.
 
 ```text
-BOOKS AND MEDIA BRIEF
-Platform(s): 
-Format (hardback, paperback, vinyl LP, CD, DVD, Blu-ray, video game): 
-Title: 
-Author / artist / publisher / label: 
-Edition and printing (copy from the copyright page or label): 
-Year of this copy (from the copyright page): 
-ISBN / catalogue number / barcode: 
-Region (DVD, Blu-ray, games, if shown): 
+MEDIA EXTRAS
+Format (hardback, paperback, vinyl LP, CD, DVD, game): 
+Edition, printing and year of this copy (copyright page or label): 
+ISBN / catalogue number: 
+Region (DVD, Blu-ray, games): 
 Signed or inscribed? (only if true, say where): 
-Condition of item (pages, spine, disc, vinyl surface): 
-Condition of cover / sleeve / case: 
-Flaws (foxing, inscriptions, price stickers, creases, scratches, ring wear): 
+Flaws (foxing, inscriptions, stickers, creases, scratches, ring wear): 
 Tested? (e.g. "disc plays without skipping"): 
-Included (inserts, dust jacket, codes, only if checked): 
-Postage: 
-Price: 
-Lowest I will accept (private): 
 ```
 
-**Tip:** only write "first edition" if the copyright page supports it, and copy its exact wording.
-
-### Homeware
+**Homeware.** Run a fingertip round every rim and hold china up to the light: hairline cracks and tiny chips cause most homeware claims.
 
 ```text
-HOMEWARE BRIEF
-Platform(s): 
-Item type (e.g. table lamp, casserole dish, vase): 
-Brand / maker / backstamp (copy any marks on the base): 
-Pattern or range name (only if marked or confirmed): 
-Material: 
-Colour: 
-Dimensions (cm: height, width, depth, diameter; capacity if relevant): 
-Weight (if heavy): 
-Condition: 
-Flaws (chips, crazing, hairline cracks, scratches, stains, wobble): 
-Oven / dishwasher / microwave safe? (only if the base or box says so): 
-Electrical? (UK plug, tested, how): 
+HOMEWARE EXTRAS
+Maker's mark or backstamp (copy it exactly): 
+Pattern or range (only if marked or confirmed): 
+Dimensions (height, width, diameter, capacity): 
+Flaws (chips, crazing, hairline cracks, stains, wobble): 
+Oven / dishwasher safe? (only if the base or box says so): 
 Set or single? (how many pieces, all matching?): 
-Postage (fragile: how you will pack it): 
-Price: 
-Lowest I will accept (private): 
 ```
 
-**Tip:** run a fingertip round every rim and hold glass or china up to the light. Hairline cracks and tiny chips cause most homeware "not as described" claims.
-
-### Toys, games and collectables
+**Toys and collectables.** "Rare" and "limited edition" only if the item or box says so. Collectors check.
 
 ```text
-TOYS AND COLLECTABLES BRIEF
-Platform(s): 
-Item type: 
-Brand / manufacturer: 
+TOYS AND COLLECTABLES EXTRAS
 Name, set number or series (from the box or item): 
-Year (only if printed on the item or box): 
-Complete? (what is present, what is missing): 
-Pieces counted? (yes, how many / no): 
-Box (present, condition, sealed or opened): 
-Instructions (present / not present): 
-Condition: 
-Flaws (paint wear, sun fading, broken parts, battery corrosion): 
+Complete? (what is present, what is missing, pieces counted?): 
+Box and instructions (present, condition, sealed or opened): 
 Batteries and tested? (lights, sounds, motors): 
 Age guidance on box (copy exactly): 
-Postage: 
-Price: 
-Lowest I will accept (private): 
 ```
 
-**Tip:** "rare" and "limited edition" only if the item or box says so. Collectors check.
-
-### Handmade (Etsy and small makers)
+**Handmade.** "Soothing" candles and "healing" crystals are health claims. Describe what it is made of, not what it does to the body.
 
 ```text
-HANDMADE BRIEF
-Platform(s): 
-What it is: 
+HANDMADE EXTRAS
 Materials (every one, including findings, thread, finish, glaze): 
-Size and dimensions (cm or mm): 
-Weight: 
-Colours available: 
-Personalisation (what can change, character limits, fonts): 
-Made to order or ready to post? Time to make (days): 
+Personalisation (what can change, character limits): 
+Made to order or ready to post, and making time: 
 Care instructions: 
 Allergy information (e.g. "nickel-free" only if your supplier confirms it): 
-Each piece varies? (e.g. hand-dyed, colour varies slightly): 
+Each piece varies? (e.g. hand-dyed): 
 Safety notes (e.g. "not a toy", candle safety): 
-Postage (service, dispatch time): 
-Price: 
 ```
-
-**Tip:** "soothing" candles and "healing" crystals are health claims. Describe what the item is and what it is made of, not what it does to the body.
 
 ---
 

@@ -1,4 +1,4 @@
-# 12 Platform cheatsheet
+# Module 12: Platform cheatsheet
 
 One quick reference per platform: title and description limits, tags, photos, the main seller fees and the rules that matter most when you write a listing.
 

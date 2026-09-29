@@ -102,6 +102,8 @@ form.signup input[type=email]{font:inherit;padding:14px;border:2px solid var(--i
 footer{background:var(--ink);color:var(--cream);padding:40px 0 90px;font-size:.93rem}
 footer a{color:var(--cream)}
 footer p{margin:0 0 .8em}
+footer p a{display:inline-block;padding:10px 0;min-height:44px}
+.table-scroll{overflow-x:auto}
 .sticky{position:fixed;left:0;right:0;bottom:0;background:var(--ink);padding:10px 16px;display:flex;gap:12px;align-items:center;justify-content:space-between;z-index:5;transition:transform .2s}
 .sticky span{color:var(--cream);font-weight:600;font-size:.95rem}
 .sticky .btn{padding:12px 18px;font-size:1rem}
@@ -126,7 +128,7 @@ footer p{margin:0 0 .8em}
 </style>
 </head>
 <body>
-<!-- TEMPLATE: check before publishing, not legal advice. Replace every [PLACEHOLDER] and make sure the refund period matches your Gumroad refund policy setting. -->
+<!-- TEMPLATE: check before publishing, not legal advice. Replace every [PLACEHOLDER] and make sure the refund period matches your Gumroad refund policy setting. Before launch, check on gumroad.com that Gumroad is still merchant of record for UK sales (NOT VERIFIED in research/tools-and-fees.md), and put the immediate-access wording from section 4 in the Gumroad product description and receipt, so buyers see it before paying and get it in writing afterwards. -->
 <a class="skip" href="#main">Skip to content</a>
 <header class="top">
  <div class="wrap"><a class="logo" href="/" aria-label="Well Listed, home">Well Listed<svg viewBox="0 0 20 20" aria-hidden="true"><path d="M3 10l5 5 9-11" stroke="#1E7F55" stroke-width="3.2" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></a></div>
@@ -140,18 +142,18 @@ footer p{margin:0 0 .8em}
   <p>These terms cover buying and using The Well Listed Kit. Please read them before you buy. Nothing here affects your legal rights as a consumer.</p>
 
   <h2>1. Who we are</h2>
-  <p>Well Listed is run by [LEGAL NAME], [LEGAL NAME AND ADDRESS]. Contact: [BRAND_EMAIL].</p>
+  <p>Well Listed is run by [LEGAL NAME AND ADDRESS]. Contact: [BRAND_EMAIL].</p>
 
   <h2>2. What you are buying</h2>
   <p>The Well Listed Kit is a digital download: a PDF guide, an HTML prompt library, a plain-text prompt file and templates (CSV spreadsheets and text files). It contains AI prompts, templates and checklists for writing listings, pricing items and replying to buyers. It is not software, it does not connect to any marketplace account, and nothing is posted to you.</p>
   <p>To use the prompts you need your own access to an AI chat tool, such as the free versions of ChatGPT, Claude, Gemini or Copilot. Those tools are provided by other companies under their own terms, and their features and limits can change.</p>
 
   <h2>3. Buying through Gumroad</h2>
-  <p>Gumroad sells the kit to you as the merchant of record. That means Gumroad takes your payment, charges and pays any VAT or sales tax, and issues your receipt. Gumroad's own terms also apply to the payment. Prices are shown in pounds sterling. The launch price is £12 for the first 14 days after launch, and the full price is £19 after that.</p>
+  <p>You buy the kit through Gumroad, which acts as the merchant of record. That means Gumroad takes your payment, charges and pays any VAT or sales tax, and issues your receipt. Gumroad's own terms also apply to the payment. Prices are shown in pounds sterling. The launch price is £12 until 11:59pm UK time on [LAUNCH END DATE], and the full price is £19 after that. You pay the price shown at checkout when you buy.</p>
 
   <h2>4. Delivery and your right to cancel</h2>
-  <p>You get access to the download straight after payment. By buying, you ask us to supply the kit straight away. By law, you normally have 14 days to cancel an online purchase, but for digital content that right ends once the download starts, as long as you agreed to get it straight away and acknowledged that you would lose the right to cancel.</p>
-  <p>You do not lose out, because our refund promise below lasts longer and is simpler.</p>
+  <p>You get access to the download straight after payment. By law, you normally have 14 days to cancel an online purchase. For digital content like this kit, that right ends once the download starts, but only if you asked for immediate access and acknowledged that you would lose the right to cancel. The product page states this before you pay, and by completing your purchase you give that request and acknowledgement. Your Gumroad receipt confirms it.</p>
+  <p>You do not lose out, because our 30-day refund promise below lasts longer than the legal 14 days and applies whether or not you have downloaded the files.</p>
 
   <h2>5. Our 30-day no-questions refund</h2>
   <p>If the kit is not for you, email [BRAND_EMAIL] or reply to your Gumroad receipt within 30 days of buying. We will refund the full price through Gumroad, back to the way you paid. You do not need to give a reason. Once refunded, please delete your copy of the files.</p>
@@ -183,10 +185,10 @@ footer p{margin:0 0 .8em}
   <p>AI tools can make mistakes, even with good prompts. You are responsible for checking every listing, price and message before you post or send it, and for following each platform's rules and the law. We do not promise any number of sales, any income, or any result on any platform.</p>
 
   <h2>9. Our responsibility to you</h2>
-  <p>We will supply the kit with reasonable care and skill, and as described on our sales page. If we fail to do that, we are responsible for loss you suffer that was a foreseeable result. Because the kit is a low-cost digital product used at your own discretion, our total responsibility to you is limited to the price you paid, except where the law does not allow us to limit it (for example for death or personal injury caused by negligence, fraud, or your rights under the Consumer Rights Act 2015).</p>
+  <p>We will supply the kit with reasonable care and skill, and as described on our sales page. If we fail to do that, we are responsible for loss you suffer that was a foreseeable result. Because the kit is a low-cost digital product used at your own discretion, our total responsibility to you is limited to the price you paid, except where the law does not allow us to limit it (for example for death or personal injury caused by negligence, fraud, or your rights under the Consumer Rights Act 2015, including your right to a repair or compensation if digital content we supply damages your device or other digital content because we did not use reasonable care and skill).</p>
 
   <h2>10. Updates</h2>
-  <p>We may update the kit, for example when a platform changes a rule. When we do, you can download the updated version free from your Gumroad library.</p>
+  <p>We may update the kit, for example when a platform changes a rule. If we do, you can download the updated version free from your Gumroad library. We do not promise any future updates: you are buying the kit as it is described at the time you buy.</p>
 
   <h2>11. Trademarks</h2>
   <p>Well Listed is independent. We are not affiliated with or endorsed by eBay, Vinted, Depop, Etsy, Amazon, TikTok or any AI tool provider. Their names are used only to describe which platforms and tools the kit is written for.</p>

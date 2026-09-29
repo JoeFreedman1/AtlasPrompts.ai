@@ -39,7 +39,7 @@ You only do this once. After that it runs by itself for every new sign-up.
 | 13 | Email W7 | Day 12 |
 
 **Step 4: set up each email.** For each email step:
-- **Sender name:** Well Listed. **Sender email:** the brand address (for example hello.welllisted@gmail.com, or your own domain address if you have one). Never a personal name.
+- **Sender name:** Well Listed. **Sender email:** the brand address, [BRAND_EMAIL] (a brand Gmail or, better, an address on your own domain, which is less likely to land in spam). Never a personal name or personal address.
 - **Subject** and **preview text:** copy from below. MailerLite's free plan may not include A/B testing inside automations; if it does not, use the main subject now and try the alternative later by swapping it for a month and comparing open rates.
 - **Content:** choose the plain text or simplest "rich text" editor option, not a designed template. Paste the body exactly as written. Turn any [LINK] placeholder into a real link.
 - The prompts inside the emails sit between "copy from here" lines so they stay readable in plain text.
@@ -61,7 +61,7 @@ You only do this once. After that it runs by itself for every new sign-up.
 - **Send:** immediately after sign-up (automation step 1)
 - **Subject:** Your UK Listing Cheat Sheet is here
 - **Alternative subject (for testing):** Here is your cheat sheet (and a 2-minute way to use it)
-- **Preview text:** Download link inside, plus the one reply that fixes most AI listings.
+- **Preview text:** Download link inside, plus two lines to paste when the AI makes things up.
 
 **Body:**
 
@@ -161,7 +161,7 @@ P.S. This is a shortened version of prompt B4 from The Well Listed Kit, which al
 ~~~text
 Hi,
 
-Most "not as described" disputes come from a flaw the buyer did not expect. Not a hidden one, usually. Just a vague one.
+A "not as described" dispute often starts with a flaw the buyer did not expect. Not always a hidden one. Often just a vague one.
 
 Compare:
 
@@ -229,7 +229,7 @@ Give me the sold price range from the good matches, the median, a suggested list
 Rules: UK English, pounds, show the sums. Use only the numbers I pasted. If I have fewer than three good matches, say the evidence is thin. Do not promise it will sell. Write ranges as "£10 to £14".
 ----- to here -----
 
-Please copy comps by hand rather than using scraping tools or add-ons. Most platforms' terms forbid them, and ten minutes of looking gives you better matches anyway.
+Please copy comps by hand rather than using scraping tools or add-ons. Platform terms often do not allow them (check the current rules), and ten minutes of looking gives you better matches anyway.
 
 Buyers set the final price. This just gives you a reason you can stand behind.
 
@@ -274,7 +274,7 @@ Write two replies under 50 words: a friendly counter-offer and a polite decline.
 Rules: UK English, warm and calm, never sarcastic. Never go below my floor. Only give reasons I supply. Do not invent other buyers or deadlines. Suggest the platform's offer button for any counter.
 ----- to here -----
 
-Most people who send low offers are just trying their luck. A calm counter costs you nothing.
+Plenty of people who send low offers are just trying their luck. A calm counter costs you nothing.
 
 One firm rule: keep everything on the platform. If anyone asks to pay by bank transfer or chat on WhatsApp, the answer is no. It removes their protection and yours.
 
@@ -307,7 +307,7 @@ My Listing Brief: [PASTE]
 
 Now, the kit, since you have been getting these emails for a week and a bit.
 
-The Well Listed Kit is 13 short modules and 88 tested prompts: briefs, titles, descriptions and condition, keywords and item specifics, photos, pricing, buyer messages, video and TikTok Shop, a pre-post rule checker and a batch workflow. Plus fill-in templates, six worked examples, a platform cheatsheet, a PDF, and a prompt library with copy buttons that works on your phone. It works with the free versions of ChatGPT, Claude, Gemini or Copilot. It is [CURRENT_PRICE], one-off, no subscription.
+The Well Listed Kit is 13 short modules and 94 prompts: all-in-one starter prompts for each platform, briefs, titles, descriptions and condition, keywords and item specifics, photos, pricing, buyer messages, video and TikTok Shop, a pre-post rule checker and a batch workflow. Plus fill-in templates (including 22 ready buyer replies), six worked examples, a platform cheatsheet, a PDF, and a prompt library with copy buttons that works on your phone. It works with the free versions of ChatGPT, Claude, Gemini or Copilot. It is [CURRENT_PRICE], one-off, no subscription, with a 30-day no-questions refund.
 
 It is not for you if:
 - You want a promise of more sales. We cannot make one, and nobody honestly can.
@@ -350,7 +350,7 @@ Fix every Must fix, not just note it.
 
 The plain facts:
 - The Well Listed Kit is [CURRENT_PRICE], one payment, no subscription: [GUMROAD_PRODUCT_LINK]
-- If it is not useful, ask for a refund within 30 days by replying to this email or your Gumroad receipt. No questions asked.
+- If it is not useful, ask for a refund within 30 days of buying by replying to this email or your Gumroad receipt, or emailing [BRAND_EMAIL]. No questions asked.
 - We will not chase you with more sales emails from this series. You stay on the list for the occasional tip and update, and you can unsubscribe with the link at the bottom any time.
 
 Got a question about a listing, a prompt, or whether the kit suits what you sell? Just hit reply. A real reply comes back from the Well Listed team (please leave out buyers' names and order details).
