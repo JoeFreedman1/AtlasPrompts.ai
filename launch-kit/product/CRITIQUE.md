@@ -114,17 +114,22 @@ Planned fix: D2 uses "I" or neutral wording. T1 asks for the most useful true wo
 
 ## Round 1 result
 
-All 10 fixed in `product/source/`, `product/templates/` and `product/READ-ME-FIRST.txt`. See the change summary at the end of this file.
+All 10 fixed in `product/source/`, `product/templates/` and `product/READ-ME-FIRST.txt`. `build.py` and `dist/` were not edited.
+
+- Prompts: 88 before, 89 after (6 all-in-one prompts A1 to A6 added; duplicates V4 and C10 removed; padding prompts PH8 cover photo (folded into PH4), V8 week of videos and K8 word pairs (covered by the table in Module 04) removed).
+- PDF length: 214 A4 pages before, 136 after (measured with the same Chromium print settings as `build.py`, in a scratch folder).
+- Longest prompt: 2,072 characters before (C5), 1,279 after (C11). Every prompt now fits comfortably in a phone chat.
+- `check_content.py`: 0 problems. One warning remains, on the deliberate "Sweater | Jumper" row of the US to UK table in Module 04.
 
 ### What changed
 
-1. Quick start page at the very top of 00, with A1 to A6 all-in-one prompts (one per platform, facts built in). The old unnumbered starter prompt is replaced. READ-ME-FIRST.txt points at A1 to A6.
-2. Examples corrected: Next jumper facts made consistent (51 / 63 / 58 cm, 60% acrylic 40% wool), T1 example titles use only brief facts, worked examples 2 to 5 corrected (no "fully working", no invented warmth or studio, "M on label" instead of "men's M", no "bamboo" search term, no exclamation mark).
-3. Padding cut throughout: examples shortened, "Check before you post" trimmed to 2 or 3 specific points, repeated rules compressed, 00 sections merged.
-4. Duplicates removed: V4 (use T6) and C10 (use K7) removed; seller status table kept in 07 only; reply templates moved into `templates/message-snippets.txt`; 05 points to the shot-list template; US to UK table kept in 04 only; limits kept in 12, with a short summary in 02.
-5. Prompts shortened for phones and placeholders standardised on `[PASTE YOUR LISTING BRIEF HERE]`; per-platform checks C2 to C7 cut to what differs by platform.
-6. Unverified facts softened or removed (eBay 30 days, Vinted 2 days, eBay February 2025 condition names, "feedback extortion", eBay "dupe" wording).
-7. Tracker example 2 is now from the seller's own home; snippet 10 points at evidence instead of asserting "genuine"; condition scales aligned with a note on Vinted's "Satisfactory".
-8. Module headings all "# Module NN: Name"; photo prompts called PH everywhere; every "Use it when" line starts with a capital.
-9. "Which prompt do I need?" table in 00; "Skip this if" notes on 08 and on the Amazon and TikTok Shop prompts.
-10. D2 uses "I"; T1 no longer asks for 70 to 80 characters; R5 wording fixed; unprovable lines removed; M7 reply rewritten.
+1. Quick start page at the very top of 00, with A1 to A6 all-in-one prompts (one per platform, facts built in, no separate brief needed) and a "Which prompt do I need?" table. The old unnumbered starter prompt is gone, so the fast path is now in the library. READ-ME-FIRST.txt points at A1 to A6.
+2. Examples corrected: the Next jumper has one set of facts everywhere (51 / 63 / 58 cm, 60% acrylic and 40% wool); T1's example titles use only brief facts and stop short of 80 characters rather than pad; worked example 2 lists what was tested instead of "fully working"; example 3 drops the invented "gets warm" and studio lines; example 4's reply says "labelled M" and has no exclamation mark; example 5's search terms drop "bamboo" and title words. All character counts rechecked.
+3. Padding cut: examples shortened (and dropped from 14 peripheral prompts where the prompt is self-explanatory), "Check before you post" trimmed to one or two specific points, repeated rules compressed, 00 sections merged, 01's six full category briefs turned into short "extras" blocks, 12 cheatsheet tightened, end-of-module checklists that repeated the intros removed. Example lines that the builder was running together into one paragraph are now bullet lists.
+4. Duplicates removed: V4 (use T6), C10 (use K7); seller status table kept in 07 only; the 19 in-guide reply templates replaced by a pointer to `templates/message-snippets.txt`, which gained the two that were missing (late dispatch, sold on another app); 05 points to the shot-list template; the full US to UK table lives in 04; full limits live in 12.
+5. Prompts shortened and placeholders standardised on `[PASTE YOUR LISTING BRIEF HERE]`; W4's mixed-case placeholder replaced with `[... OR WRITE "DEFAULT"]`; C2 to C7 cut to what differs by platform.
+6. Unverified facts softened or removed: eBay "30 days", Vinted "2 days", eBay's "February 2025" condition names and "item conditions by category" page, "feedback extortion", eBay's "dupe" wording.
+7. Tracker EXAMPLE-002 is now the seller's own console (not bought to resell) with a note about trader status; snippet 10 asks for the proof instead of asserting "genuine"; brief templates explain that Vinted's lowest condition option is "Satisfactory".
+8. Every module heading is "# Module NN: Name"; photo prompts are PH everywhere; every "Use it when" line starts with a capital; every prompt heading is "### ID Name".
+9. "Which prompt do I need?" table in 00; "Skip this if you only sell second-hand" notes on Module 08 and on T5, T6, D5, K5, C6 and C7; worked examples labelled resale or maker.
+10. D2 uses "I"; T1 no longer asks for 70 to 80 characters; R5's auto-decline line explains itself; "left money on the table", "Short videos sell things" and the M7 "resells well on here" reply are gone.

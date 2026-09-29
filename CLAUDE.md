@@ -5,7 +5,7 @@ This repo runs a faceless UK side business called **Well Listed**. Any new sessi
 If the owner types **"Run OPERATOR.md"**, follow `OPERATOR.md` step by step.
 
 ## The business in one paragraph
-Well Listed sells **The Well Listed Kit**, a £19 digital download (launch price £12 for days 1 to 14, ending 11:59pm on day 14; day 1 is the launch date in STATE.md) of tested AI prompts, fill-in templates and checklists that help UK sellers write accurate listings, price items and answer buyers on eBay, Vinted, Depop, Etsy, Amazon and TikTok Shop, using free AI chat tools. It is sold through Gumroad, marketed with faceless short-form content (TikTok, Instagram, YouTube Shorts), Pinterest, a blog, and an email list fed by a free lead magnet ("The UK Listing Cheat Sheet").
+Well Listed sells **The Well Listed Kit**, a £19 digital download (launch price £12 for days 1 to 14, ending 11:59pm on day 14; day 1 is the launch date in STATE.md) of AI prompts, fill-in templates and checklists that help UK sellers write accurate listings, price items and answer buyers on eBay, Vinted, Depop, Etsy, Amazon and TikTok Shop, using free AI chat tools. It is sold through Gumroad, marketed with faceless short-form content (TikTok, Instagram, YouTube Shorts), Pinterest, a blog, and an email list fed by a free lead magnet ("The UK Listing Cheat Sheet").
 
 **Who it is for:** UK side-business resellers (Vinted, eBay, Depop), small makers and brand owners (Etsy, Amazon, TikTok Shop), and declutterers turning pro. Time-poor, on mobile, price-sensitive, sceptical of hype and of "AI nonsense" listings.
 

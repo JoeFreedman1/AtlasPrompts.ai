@@ -40,7 +40,7 @@ Write an eBay UK listing in UK English using ONLY these facts.
 
 What it is: [ITEM]
 Brand: [BRAND OR "UNBRANDED"]
-Model, style or product number: [OR "NOT SURE"]
+Model, style or product number: [MODEL OR "NOT SURE"]
 Size on label: [SIZE OR "NOT APPLICABLE"]
 Measurements or dimensions (cm): [MEASUREMENTS]
 Colour: [COLOUR]
@@ -728,7 +728,7 @@ Use it when: You are listing on Vinted and want every field filled in and the ri
 ----------------------------------------
 I am listing on Vinted in the UK. Vinted uses structured fields, not free tags.
 
-1. From my brief, give the value for each field: Category (the most specific path, e.g. Women > Clothing > Jumpers and sweaters > Jumpers), Brand, Size, Condition, Colour (a second colour only if clearly true), Material.
+1. From my brief, give the value for each field: Category (the most specific path you can see, e.g. Women > Clothing > Jumpers), Brand, Size, Condition, Colour (a second colour only if clearly true), Material.
 2. List 5 to 8 search words UK buyers would type for this item. Say which are already in my title or description, and where the missing ones could go naturally, once each.
 3. Flag any word in my title or description that is not in the brief, or is another brand.
 
@@ -1757,7 +1757,8 @@ Use it when: You have finished a batch and want it in a spreadsheet, or a CSV to
 ----------------------------------------
 Put all the items we have written in this chat into one table.
 
-Columns, in this order: [PASTE YOUR TOOL'S COLUMN HEADERS, OR USE: SKU, Title, Description, Condition, Brand, Size, Colour, Material, Category, Price, Quantity, Postage]
+Columns, in this order: [PASTE YOUR TOOL'S COLUMN HEADERS, OR WRITE "DEFAULT"]
+(DEFAULT means: SKU, Title, Description, Condition, Brand, Size, Colour, Material, Category, Price, Quantity, Postage.)
 
 Rules:
 - One row per item. Use the facts already agreed in this chat. Do not add or change anything.

@@ -4,7 +4,7 @@
 **The Well Listed Kit**: a downloadable pack of AI prompts, fill-in templates and checklists that helps UK sellers write better listings, price items, and answer buyers on eBay, Vinted, Amazon, Etsy, Depop and TikTok Shop, using free AI chat tools (ChatGPT, Claude, Gemini or Copilot). Delivered as a PDF guide, a copy-and-paste prompt library (HTML and text) and spreadsheet templates.
 
 ## Who buys it
-1. **UK side-hustle resellers** (the core buyer): people selling clothes, homeware, books, toys, electronics and collectables on Vinted and eBay in evenings and weekends. Often listing 10 to 100 items a week. Time-poor, price-sensitive, already curious about ChatGPT but getting bland, American-sounding results.
+1. **UK side-business resellers** (the core buyer): people selling clothes, homeware, books, toys, electronics and collectables on Vinted and eBay in evenings and weekends. Often listing 10 to 100 items a week. Time-poor, price-sensitive, already curious about ChatGPT but getting bland, American-sounding results.
 2. **Small UK brand owners and crafters** on Etsy, Amazon and TikTok Shop who write product copy for a catalogue and worry about breaking platform rules.
 3. **Declutterers turning pro**: people who started clearing the loft and now want to do it properly.
 
