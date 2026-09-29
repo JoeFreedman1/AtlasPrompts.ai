@@ -3,62 +3,227 @@ Fill in the [SQUARE BRACKETS] before sending. Never paste buyers' personal detai
 
 
 ============================================================
+MODULE 00: START HERE
+============================================================
+
+[A01] All-in-one Vinted listing
+Use it when: You want a Vinted title, description and field values in one go.
+----------------------------------------
+Write a Vinted listing in UK English using ONLY these facts.
+
+What it is: [E.G. JUMPER]
+Brand: [BRAND OR "UNBRANDED"]
+Size on label: [SIZE]
+Measurements, laid flat (cm): [E.G. PIT TO PIT 51, LENGTH 63]
+Colour: [COLOUR]
+Material (from the label): [MATERIAL OR "NOT SURE"]
+Condition: [NEW WITH TAGS / NEW WITHOUT TAGS / VERY GOOD / GOOD / SATISFACTORY]
+Flaws (where, what, how big): [FLAWS OR "NONE FOUND"]
+Anything else true: [E.G. "SMOKE-FREE HOME" OR "NONE"]
+
+Give me:
+1. A title of 60 characters or fewer: brand, item, colour, size. No padding.
+2. A description of 50 to 120 words: what it is, size and measurements, condition with every flaw, material. End with one line inviting questions.
+3. Values for Vinted's fields: category, brand, size, condition, colour, material.
+
+Rules:
+- If a fact is missing, write [CHECK: what is missing]. Never guess.
+- Keep every flaw exactly as serious as I wrote it.
+- No hype words, emoji or exclamation marks.
+- Do not say rare, vintage, genuine or new unless I did. No other brand names.
+- No payment, returns or contact details.
+
+[A02] All-in-one eBay UK listing
+Use it when: You want an eBay UK title, item specifics and description in one go.
+----------------------------------------
+Write an eBay UK listing in UK English using ONLY these facts.
+
+What it is: [ITEM]
+Brand: [BRAND OR "UNBRANDED"]
+Model, style or product number: [OR "NOT SURE"]
+Size on label: [SIZE OR "NOT APPLICABLE"]
+Measurements or dimensions (cm): [MEASUREMENTS]
+Colour: [COLOUR]
+Material: [MATERIAL OR "NOT SURE"]
+Condition: [E.G. NEW WITH TAGS / PRE-OWNED: GOOD]
+Flaws (where, what, how big): [FLAWS OR "NONE FOUND"]
+Tested (electricals only): [WHAT YOU TESTED, OR "NOT TESTED"]
+Included / not included: [LIST]
+Postage: [SERVICE]
+
+Give me:
+1. Two titles, 80 characters or fewer including spaces, with the count. Brand and item type first, then the details a buyer would search. Only true words, no padding.
+2. Item specifics as a two-column table. Leave any I have not given as [CHECK].
+3. A description under 200 words: what it is, measurements, condition with every flaw on its own line, what is included, postage.
+
+Rules:
+- Missing facts become [CHECK: what is missing]. Never guess.
+- Keep every flaw. Do not soften any.
+- No hype words, emoji or exclamation marks. No other brand names.
+- Do not say rare, vintage, genuine, new or fully working unless I did.
+- Nothing about returns or buyers' rights (I set those in eBay).
+
+[A03] All-in-one Depop listing
+Use it when: You want a Depop description (first line doing the job of a title) plus hashtags in one go.
+----------------------------------------
+Write a Depop listing in UK English using ONLY these facts.
+
+What it is: [ITEM]
+Brand: [BRAND OR "UNBRANDED"]
+Size on label: [SIZE]
+Measurements, laid flat (cm): [MEASUREMENTS]
+Colour: [COLOUR]
+Material: [MATERIAL OR "NOT SURE"]
+Fit or style (only if true): [E.G. BOXY, CROPPED, 90S STYLE]
+Era (only if you can back it up): [E.G. "1996 DATE ON LABEL" OR "UNKNOWN"]
+Condition: [CONDITION]
+Flaws (where, what, how big): [FLAWS OR "NONE FOUND"]
+
+Give me one description under 800 characters, with the count:
+1. First line: brand, item, colour, size and one honest style word. This acts as the title.
+2. Two short lines on fit and details.
+3. Measurements.
+4. Condition with every flaw.
+5. A last line of up to 5 relevant hashtags.
+
+Rules:
+- Missing facts become [CHECK: what is missing]. Never guess.
+- Era words (90s, y2k, vintage) only if my era line supports them. Otherwise use "style" or leave them out.
+- No hype, emoji strings or exclamation marks. No other brands in the text or hashtags.
+- No payment or contact details.
+
+[A04] All-in-one Etsy listing
+Use it when: You make or sell handmade, vintage or craft supply items and want a title, tags and description in one go.
+----------------------------------------
+Write an Etsy listing in UK English using ONLY these facts.
+
+What it is: [ITEM]
+Handmade, vintage or craft supply: [TYPE]
+Materials (all of them): [MATERIALS]
+Size and weight: [DIMENSIONS]
+Colours or options: [OPTIONS]
+Personalisation (if any): [WHAT CAN CHANGE, CHARACTER LIMITS, OR "NONE"]
+Made to order or ready to post, and dispatch time: [DETAILS]
+Care instructions: [CARE]
+Safety notes: [E.G. "NOT A TOY" OR "NONE"]
+Condition and flaws (vintage only): [DETAILS OR "NOT APPLICABLE"]
+
+Give me:
+1. Two titles under 140 characters, with the count. A clear, readable phrase first, not a keyword list.
+2. 13 tags, each 20 characters or fewer including spaces, with counts, then all 13 on one comma-separated line.
+3. A description: two clear opening lines, then details, personalisation, dispatch, care and safety.
+
+Rules:
+- Missing facts become [CHECK: what is missing]. Never guess.
+- Materials exactly as I wrote them. Do not upgrade "silver-plated" to "silver".
+- No health or wellbeing claims (calming, healing, hypoallergenic). No hype words or exclamation marks.
+- No other brands or characters. "Vintage" only if I gave an age of 20 years or more.
+
+[A05] All-in-one Amazon UK listing
+Use it when: You are a brand owner or seller of new stock creating an Amazon UK product listing.
+----------------------------------------
+Write an Amazon UK product listing in UK English using ONLY these facts.
+
+Brand: [BRAND]
+Product type: [PRODUCT]
+Key features (only ones I can prove): [FEATURES]
+Size, quantity or capacity: [DETAILS]
+Colour: [COLOUR]
+Materials: [MATERIALS]
+What is in the box: [CONTENTS]
+Care or use instructions: [DETAILS]
+Is this a media product (books, music, video)? [YES / NO]
+
+Give me:
+1. A title of 75 characters or fewer including spaces (the rule for non-media categories from 27 July 2026), with the count.
+2. An Item Highlights line of 125 characters or fewer, with the count, adding details not in the title.
+3. Up to 5 bullet points, each a short label and one or two plain sentences.
+4. A product description of 100 to 200 words.
+5. Backend search terms: lower case, spaces only, no words already used above, under 240 bytes.
+
+Rules:
+- Missing facts become [CHECK: what is missing]. Never guess.
+- Title: no ! $ ? _ { } ^ ¬ ¦ unless in the brand name, and no word more than twice (small words excepted).
+- No promotional or subjective words (best, sale, free delivery, guaranteed), no emoji.
+- No health, medical or eco claims. No other brand names anywhere.
+
+[A06] All-in-one TikTok Shop UK listing
+Use it when: You sell new stock or your own products on TikTok Shop UK and want a title, description and claims check in one go.
+----------------------------------------
+Write a TikTok Shop UK product listing in UK English using ONLY these facts.
+
+Brand (mine, or one I am authorised to sell): [BRAND]
+Product type: [PRODUCT]
+Material: [MATERIAL]
+Key features (only ones I can prove): [FEATURES]
+Size, quantity or capacity: [DETAILS]
+Colour or variant: [COLOUR]
+What is included: [CONTENTS]
+Care instructions: [CARE OR "NONE"]
+
+Give me:
+1. Three titles: brand, product type, material, key feature, then size, colour or quantity. At least 15 characters. Show the count.
+2. A description of at least 30 words: one opening line, 4 short feature lines, "What's included", "Size and specs", "Care".
+3. A list of any words I should double-check because they could count as a claim.
+
+Rules:
+- Missing facts become [CHECK: what is missing]. Never guess.
+- Titles: no symbols, emoji, promotions (sale, x% off), shop name, web address, or mention of TikTok or other platforms.
+- No claims that it cures, treats, prevents or relieves anything. No weight loss claims.
+- No "best", no comparisons with other brands, no fake urgency, no vague green claims.
+
+
+============================================================
 MODULE 01: THE LISTING BRIEF
 ============================================================
 
 [B01] Messy notes to Listing Brief
-Use it when: you have jotted down a few scrappy notes about an item and want them turned into a tidy brief.
+Use it when: You have jotted a few scrappy notes about an item and want a tidy brief.
 ----------------------------------------
-You are helping a UK second-hand seller organise facts about one item. Turn my notes below into a Listing Brief using exactly these headings:
-
-Platform(s), What it is, Brand / maker, Model or style, Category, Size (as on label), Measurements (cm), Colour, Material, Condition, Flaws, What is included, What is not included, Age or era, Postage, Price, Anything else.
+Turn my notes below into a Listing Brief for a UK second-hand seller, using these headings:
+Platform(s), What it is, Brand, Model or style, Size, Measurements (cm), Colour, Material, Condition, Flaws, Included, Not included, Age or era, Postage, Price.
 
 Rules:
-1. Use UK English spelling and vocabulary (colour, jumper, trousers, postage).
-2. Use ONLY facts that are in my notes. Do not add, assume or improve anything.
-3. If a heading has no information, write [CHECK: what I need to find out]. Be specific, e.g. [CHECK: measure pit to pit in cm].
-4. Keep my flaw descriptions exactly as serious as I wrote them. Do not soften or remove any flaw.
-5. Convert inches to cm only if I gave inches, and show both (e.g. 21 in / 53 cm).
-6. No sales language. This is a fact sheet, not an advert.
-7. At the end, list the 3 most important [CHECK] items a buyer in this category would ask about.
+- UK English.
+- Use ONLY facts in my notes. Do not add, assume or improve anything.
+- If a heading has no information, write [CHECK: what I need to find out], e.g. [CHECK: measure pit to pit in cm].
+- Keep every flaw exactly as serious as I wrote it.
+- If I gave inches, show both (e.g. 21 in / 53 cm).
+- No sales language. This is a fact sheet.
+- At the end, list the 3 most important [CHECK] items a buyer would ask about.
 
 My notes:
 [PASTE YOUR NOTES HERE]
 
 [B02] Voice note transcript to Listing Brief
-Use it when: you talked about the item into your phone's voice recorder (quicker than typing) and have the transcript.
+Use it when: You talked about the item into your phone (quicker than typing) and have the transcript.
 ----------------------------------------
-Below is a transcript of me talking about an item I am selling in the UK. It will be rambling, with "um", repeats and corrections. Turn it into a Listing Brief.
-
-Headings: Platform(s), What it is, Brand / maker, Model or style, Size, Measurements (cm), Colour, Material, Condition, Flaws, What is included, What is not included, Tested (how), Postage, Price, Anything else.
+Below is a transcript of me talking about an item I am selling in the UK. It will ramble. Turn it into a Listing Brief with these headings:
+What it is, Brand, Model or style, Size, Measurements (cm), Colour, Material, Condition, Flaws, Included, Not included, Tested (how), Postage, Price.
 
 Rules:
-1. UK English.
-2. Where I corrected myself ("no wait, it's a 14"), use the correction only.
-3. Use ONLY facts I actually said. Do not fill gaps with typical details for this type of item.
-4. If something is missing or unclear, write [CHECK: ...] and say what was unclear.
-5. Voice transcription often mishears brand names and numbers. If a brand, model number or measurement looks odd, keep it but add [CHECK: transcript said "X", confirm spelling].
-6. Keep every flaw I mentioned, at the same level of seriousness.
-7. No sales language.
+- UK English.
+- Where I corrected myself ("no wait, it's a 14"), use the correction only.
+- Use ONLY facts I said. Do not fill gaps with typical details.
+- Missing or unclear facts become [CHECK: ...].
+- Transcription often mishears brands and numbers. If one looks odd, keep it and add [CHECK: transcript said "X", confirm spelling].
+- Keep every flaw at the same level of seriousness. No sales language.
 
 Transcript:
 [PASTE TRANSCRIPT HERE]
 
 [B03] Photo description to Listing Brief
-Use it when: you want to describe what you can see in your photos (or on the item) and turn it into a brief. This prompt does not need the AI to see images, so it works in any free tool.
+Use it when: You want to describe what you can see, photo by photo, and turn it into a brief. The AI does not need to see images, so it works in any free tool.
 ----------------------------------------
-I am going to describe my item photo by photo, as if I am showing it to you. Build a UK Listing Brief from my descriptions only.
-
-Headings: What it is, Brand / maker, Model or style, Size, Measurements (cm), Colour, Material, Condition, Flaws (with location), Labels and markings (copy exact wording), What is included, Postage, Price.
+I will describe my item photo by photo. Build a UK Listing Brief from my descriptions only, with these headings:
+What it is, Brand, Model or style, Size, Measurements (cm), Colour, Material, Condition, Flaws (with location), Labels and markings (exact wording), Included, Postage, Price.
 
 Rules:
-1. UK English.
-2. Use only what I describe. Do not guess brand, age, material or value from the type of item.
-3. For each flaw, record where it is and how big, if I said so. If I did not give a size, add [CHECK: size of flaw].
-4. After the brief, give me a list of any extra photos a buyer would expect to see that I have not described (for example care label, base stamp, flaw close-up).
-5. No sales language.
+- UK English. No sales language.
+- Use only what I describe. Do not guess brand, age, material or value.
+- For each flaw, record where and how big. If I gave no size, add [CHECK: size of flaw].
+- After the brief, list extra photos a buyer would expect that I have not described (care label, base stamp, flaw close-up).
 
-My photo descriptions:
 Photo 1: [DESCRIBE]
 Photo 2: [DESCRIBE]
 Photo 3: [DESCRIBE]
@@ -66,64 +231,63 @@ Price: [PRICE]
 Postage: [POSTAGE]
 
 [B04] Gap finder: what a buyer will ask
-Use it when: you have a brief and want to catch the questions buyers will message you about, before they ask.
+Use it when: You have a brief and want to catch the questions buyers will message you about.
 ----------------------------------------
-Here is a Listing Brief for an item I am selling on [PLATFORM] in the UK. Act as a careful, fussy buyer in this category.
+Here is a Listing Brief for an item I am selling on [PLATFORM] in the UK. Act as a fussy buyer in this category.
 
-1. List up to 8 questions a serious buyer would ask before buying, most important first.
-2. For each, say whether my brief already answers it (Yes / No / Partly).
-3. For every No or Partly, tell me exactly what to check or measure, in plain words, and how to do it quickly.
-4. Do not write the listing. Do not invent answers.
-5. UK English, short lines, suitable for reading on a phone.
+1. List up to 8 questions a serious buyer would ask, most important first.
+2. For each, say whether my brief answers it: Yes, No or Partly.
+3. For every No or Partly, tell me what to check or measure and how, in plain words.
+
+Do not write the listing. Do not invent answers. UK English, short lines.
 
 My Listing Brief:
 [PASTE YOUR LISTING BRIEF HERE]
 
 [B05] Build my own category brief
-Use it when: you sell a lot of one thing (bikes, prams, golf clubs, perfume, board games) and want a brief template tailored to it.
+Use it when: You sell a lot of one thing (bikes, prams, golf clubs, board games) and want a brief template made for it.
 ----------------------------------------
-I sell second-hand [CATEGORY] in the UK on [PLATFORM(S)]. Create a reusable Listing Brief template for this category.
+I sell second-hand [CATEGORY] in the UK on [PLATFORM(S)]. Create a reusable Listing Brief template for this category, as a plain text block I can copy into my notes app.
 
 Include:
-1. The general fields: platform, what it is, brand, model, size or dimensions, colour, material, condition, flaws, what is included, postage, price, lowest I will accept (private).
-2. Up to 10 extra fields that buyers of this category specifically care about, with a short hint in brackets on how to find each fact (e.g. "frame size (printed on the seat tube)").
-3. A short "safety and legal" note listing anything I should check before selling this category in the UK, phrased as questions for me to check with the platform's help pages. Do not state rules as fact.
+1. The general fields: platform, what it is, brand, model, size or dimensions, colour, material, condition, flaws, included, postage, price, lowest I will accept (private).
+2. Up to 10 extra fields buyers of this category care about, each with a hint on where to find the fact, e.g. "frame size (printed on the seat tube)".
+3. A short "safety and legal" list of things I should check before selling this category in the UK, written as questions for me to check in the platform's help pages. Do not state rules as fact.
 
-Rules: UK English, plain words, no sales language, formatted as a plain text block I can copy into my notes app.
+UK English, plain words, no sales language.
 
 [B06] Label or box text to Listing Brief
-Use it when: you have a new or boxed item (or a clear product label) and want to pull the facts off it accurately.
+Use it when: You have a new or boxed item, or a clear product label, and want the facts copied off it accurately.
 ----------------------------------------
-Below is text I have copied from the box, label or manual of an item I am selling in the UK. Extract a Listing Brief from it.
-
-Headings: What it is, Brand, Model / product number, Specification (list), Colour, Material, Dimensions, What is in the box, Safety or age warnings (copied exactly), Condition, Flaws, Postage, Price.
+Below is text I copied from the box, label or manual of an item I am selling in the UK. Extract a Listing Brief with these headings:
+What it is, Brand, Model / product number, Specification, Colour, Material, Dimensions, In the box, Safety or age warnings, Condition, Flaws, Postage, Price.
 
 Rules:
-1. UK English.
-2. Copy technical specifications exactly as written. Do not round, convert or "tidy" numbers.
-3. Do not include marketing claims from the box (e.g. "best ever", "clinically proven") as facts. Leave them out and list them separately under "Box claims I have not included" so I can decide.
-4. Condition, flaws, postage and price are not on the box: write [CHECK: ...] for them unless I add them below.
-5. Copy any safety warnings or age guidance word for word.
+- UK English.
+- Copy specifications exactly. Do not round, convert or tidy numbers.
+- Copy safety warnings and age guidance word for word.
+- Leave marketing claims (e.g. "clinically proven") out of the brief. List them separately under "Box claims left out" so I can decide.
+- Condition, flaws, postage and price are not on the box: write [CHECK: ...] unless I give them below.
 
 Box or label text:
-[PASTE TEXT]
+[PASTE TEXT HERE]
 
 My extra details (condition, flaws, whether opened, postage, price):
 [ADD DETAILS]
 
 [B07] Brief tidy-up and consistency check
-Use it when: your brief is filled in and you want a final sanity check before you run the title and description prompts.
+Use it when: Your brief is filled in and you want a sanity check before running the title and description prompts.
 ----------------------------------------
 Check my Listing Brief for a UK [PLATFORM] listing. Do not rewrite it into a listing.
 
-Report back, in this order:
-1. Contradictions (e.g. condition "Excellent" but flaws listed that sound like "Good").
-2. Vague wording a buyer could dispute (e.g. "small mark" with no location or size). Suggest a clearer version using only my facts.
+Report, in this order:
+1. Contradictions (e.g. condition "Excellent" but flaws that sound like "Good").
+2. Vague wording a buyer could dispute (e.g. "small mark" with no location or size), with a clearer version using only my facts.
 3. Missing facts buyers in this category expect, as [CHECK: ...] lines.
-4. Anything that could be a misleading or risky claim (e.g. "rare", "genuine", "fully working", "vintage" without an era, health claims). Explain why in one line each.
-5. US spellings or sizes to change to UK ones.
+4. Risky claims ("rare", "genuine", "fully working", "vintage" without an era, health claims), one line each on why.
+5. US spellings or sizes to change.
 
-UK English. Short bullet points. Do not invent facts to fix problems. Ask me instead.
+UK English, short bullet points. Do not invent facts to fix problems. Ask me instead.
 
 My Listing Brief:
 [PASTE YOUR LISTING BRIEF HERE]
@@ -133,154 +297,129 @@ My Listing Brief:
 MODULE 02: TITLES
 ============================================================
 
-[T01] eBay UK title (80 characters)
-Use it when: you are listing on eBay UK and want a title that uses the space well without padding.
+[T01] eBay UK title
+Use it when: You are listing on eBay UK and want a title that uses the 80 characters well without padding.
 ----------------------------------------
-Write 3 eBay UK listing titles for the item in my Listing Brief below.
+Write 3 eBay UK titles for the item in my Listing Brief below.
 
-How to build them:
-- Put the words a UK buyer would search first: brand, then item type, then the most important details (model, size, colour, material).
-- Use this order unless the brief suggests a better one for this category: [FORMULA, OR WRITE "YOUR CHOICE"]
-- Aim for 70 to 80 characters. Never go over 80 characters including spaces.
-- After each title, show the exact character count.
+- Put the words a UK buyer would search first: brand, item type, then the most useful details (model, style, colour, material, size).
+- 80 characters or fewer including spaces. Show the count after each.
+- Use the space for true, searchable details from the brief. If you run out of true details, stop. Do not pad.
 
 Rules:
-1. UK English and UK sizes (e.g. "UK 8" for shoes, "trousers" not "pants").
-2. Use ONLY facts in my Listing Brief. If a key search word is missing (e.g. model number), write [CHECK: model number] in the title and tell me.
-3. No hype words (stunning, amazing, must have, wow, L@@K), no exclamation marks, no emoji, no capital letters for whole words.
-4. No misleading claims: do not use rare, vintage, genuine, new, limited edition, or a date unless the brief supports it.
-5. Do not mention any brand other than the item's actual brand.
-6. Do not repeat words.
+- UK English and UK sizes ("UK 8" for shoes, "trousers" not "pants").
+- Use ONLY facts in my brief. If a key search word is missing (e.g. model number), write [CHECK: model number] and tell me.
+- No hype words, exclamation marks, emoji or whole words in capitals.
+- No rare, vintage, genuine, new or limited edition unless the brief supports it. No other brand names. No repeated words.
 
 My Listing Brief:
 [PASTE YOUR LISTING BRIEF HERE]
 
 [T02] Vinted title
-Use it when: you are listing clothes, shoes, accessories or homeware on Vinted.
+Use it when: You are listing clothes, shoes, accessories or homeware on Vinted.
 ----------------------------------------
 Write 3 Vinted titles for the item in my Listing Brief below.
 
-How to build them:
-- Short and clear: brand, item type, colour, size, plus one style word buyers use if it is true (e.g. oversized, cropped, high waisted, wide leg).
-- Aim for about 40 to 60 characters so it is readable in the app. Keep under the limit shown on the Vinted listing form (check it when you list).
-- Show the character count after each.
+- Short and clear: brand, item type, colour, size, plus one style word buyers use if it is true (e.g. oversized, cropped, wide leg).
+- 60 characters or fewer, so it reads well in the app. Show the count after each.
 
 Rules:
-1. UK English and UK sizes.
-2. Use ONLY facts in my Listing Brief. Write [CHECK: ...] if something important is missing.
-3. No hype words, no emoji, no exclamation marks, no "bundle deal" or pricing words in the title.
-4. No misleading claims (rare, vintage, genuine, new) unless the brief supports them.
-5. No other brand names (no "Zara style", "not Nike").
+- UK English and UK sizes.
+- Use ONLY facts in my brief. Write [CHECK: ...] if something important is missing.
+- No hype words, emoji, exclamation marks, or price words ("bundle deal").
+- No rare, vintage, genuine or new unless the brief supports it. No other brand names.
 
 My Listing Brief:
 [PASTE YOUR LISTING BRIEF HERE]
 
 [T03] Depop opening line (acts as the title)
-Use it when: you are listing on Depop, where the first words of the description do the job of a title.
+Use it when: You are listing on Depop, where the first words of the description do the job of a title.
 ----------------------------------------
-Write 3 options for the opening line of a Depop listing for the item in my Listing Brief below. This line works as the title, so it must say what the item is straight away.
+Write 3 options for the opening line of a Depop listing for the item in my Listing Brief below. It works as the title, so it must say what the item is straight away.
 
-How to build it:
-- Start with brand and item type, then colour, size and one or two style words buyers really search for (e.g. y2k, 90s, cottagecore, grunge) ONLY if they honestly fit the item and my brief.
-- Keep each option to one short line, under about 60 characters.
-- Plain text, no hashtags in this line (hashtags go at the end of the description, see Module 04).
+- Brand and item type first, then colour, size and one or two style words buyers search (e.g. y2k, 90s, grunge) ONLY if they honestly fit my brief.
+- One line each, under about 60 characters. Show the count. No hashtags in this line.
 
 Rules:
-1. UK English and UK sizes.
-2. Use ONLY facts from my brief. Write [CHECK: ...] for missing key facts.
-3. An era word (90s, y2k, 70s) must be backed up by the brief. If the brief does not support it, do not use it and tell me.
-4. No hype words, no emoji spam, no exclamation marks.
-5. No other brand names.
+- UK English and UK sizes.
+- Use ONLY facts in my brief. Write [CHECK: ...] for missing key facts.
+- An era word (90s, y2k) must be backed by the brief. If not, use "90s style" or leave it out, and tell me.
+- No hype, emoji or exclamation marks. No other brand names.
 
 My Listing Brief:
 [PASTE YOUR LISTING BRIEF HERE]
 
-[T04] Etsy title (140 characters)
-Use it when: you are listing a handmade, vintage or craft supply item on Etsy.
+[T04] Etsy title
+Use it when: You are listing a handmade, vintage or craft supply item on Etsy.
 ----------------------------------------
 Write 3 Etsy titles for the item in my Listing Brief below.
 
-How to build them:
-- Start with a clear, readable phrase that says exactly what the item is, as a person would say it. Then add the most important details: main material, key feature, size, colour, and personalisation if offered.
-- Keep under 140 characters including spaces, and ideally under 15 words.
-- Do not stuff: each phrase should add a new detail, not repeat the same idea in different words.
-- Show the character count and word count after each.
+- Start with a clear phrase saying what the item is, as a person would say it. Then the key details: main material, key feature, size, colour, personalisation if offered.
+- Under 140 characters including spaces, ideally under 15 words. Show the character and word count.
+- Each phrase adds a new detail. Do not repeat the same idea in different words.
 
 Rules:
-1. UK English (personalised, colour, jewellery).
-2. Use ONLY facts in my Listing Brief. Write [CHECK: ...] for anything missing.
-3. No hype words, no "best", no "perfect gift" unless the brief states who it is designed for.
-4. "Vintage" only if the brief says the item is at least 20 years old and I can support that. Check Etsy's current vintage rules.
-5. No health or wellbeing claims (e.g. calming, healing, anxiety relief).
-6. No other brand names or trademarked characters.
+- UK English (personalised, colour, jewellery).
+- Use ONLY facts in my brief. Write [CHECK: ...] for anything missing.
+- No hype, no "best", no "perfect gift" unless the brief says who it is for.
+- "Vintage" only if the brief says at least 20 years old (check Etsy's current rule).
+- No health or wellbeing claims. No other brands or trademarked characters.
 
 My Listing Brief:
 [PASTE YOUR LISTING BRIEF HERE]
 
 [T05] Amazon UK title and Item Highlights
-Use it when: you are a brand or seller creating an Amazon UK product listing.
+Use it when: You are a brand owner or seller of new stock creating an Amazon UK product listing. Skip this if you only sell second-hand.
 ----------------------------------------
 Write an Amazon UK product title and an Item Highlights line for the product in my Listing Brief below.
 
 Title:
-- Order: Brand, product type, key feature, size or quantity, colour (unless my category style guide says otherwise).
-- 75 characters or fewer including spaces (the limit for all categories except media from 27 July 2026; I will check the current rule and my category style guide).
-- Capitalise the first letter of each word except short words (and, or, for, the, with, in, of).
-- Numbers as digits (2, not two). Units spelled clearly (cm, ml, kg).
-- Show the character count.
+- Brand, product type, key feature, size or quantity, colour (unless my category style guide says otherwise).
+- 75 characters or fewer including spaces (the rule for all categories except media from 27 July 2026). Show the count.
+- Capitalise each word except short ones (and, or, for, the, with). Numbers as digits.
 
-Item Highlights (if my category has this field):
-- Up to 125 characters. Extra useful details (material, use, size range) that did not fit in the title. No repetition of the title.
-- Show the character count.
+Item Highlights: up to 125 characters of useful details that did not fit in the title, no repeats. Show the count.
 
 Rules:
-1. UK English.
-2. Use ONLY facts in my brief. Write [CHECK: ...] for anything missing.
-3. No special characters ! $ ? _ { } ^ ¬ ¦ (unless part of the brand name) and no emoji.
-4. Do not use the same word more than twice (short words like "and", "with", "for" excepted).
-5. No promotional or subjective words (best, top quality, hot item, free delivery, sale, 100% guaranteed).
-6. No health, medical or environmental claims unless my brief gives the evidence and I confirm it is allowed.
-7. No other brands.
+- UK English. Use ONLY facts in my brief. Write [CHECK: ...] for anything missing.
+- No ! $ ? _ { } ^ ¬ ¦ unless in the brand name. No emoji. No word more than twice (small words excepted).
+- No promotional or subjective words (best, top quality, free delivery, sale).
+- No health, medical or eco claims unless the brief gives evidence. No other brands.
 
 My Listing Brief:
 [PASTE YOUR LISTING BRIEF HERE]
 
 [T06] TikTok Shop UK product title
-Use it when: you are listing a product in TikTok Shop UK.
+Use it when: You are listing a product in TikTok Shop UK. Skip this if you only sell second-hand on the resale apps.
 ----------------------------------------
 Write 3 TikTok Shop UK product titles for the product in my Listing Brief below.
 
-How to build them:
 - Brand, product type, material, the one or two features that matter most, then size, colour or quantity.
-- Clear enough to understand at a glance on a phone. At least 15 characters. Aim for 60 to 100 characters, and stay within the current TikTok Shop limit (I will check it in Seller Center).
-- Show the character count.
+- Clear at a glance on a phone. At least 15 characters, aim for 60 to 100. Show the count. I will check the current maximum in Seller Center.
 
 Rules:
-1. UK English.
-2. Use ONLY facts in my brief. Write [CHECK: ...] for anything missing.
-3. No hype or trend words (viral, best seller, must have), no emoji, no symbols or special characters, no exclamation marks, no capital letters for whole words.
-4. Do not mention TikTok or any other platform, my shop name or any web address.
-5. No claims that the product cures, treats, prevents or relieves anything, and no weight loss claims.
-6. No price, discount or urgency words (sale, 20% off, only 2 left, today only).
-7. No other brands or trademarked names.
+- UK English. Use ONLY facts in my brief. Write [CHECK: ...] for anything missing.
+- No hype or trend words (viral, best seller, must have), emoji, symbols, exclamation marks or whole words in capitals.
+- Do not mention TikTok or any other platform, my shop name or a web address.
+- No price, discount or urgency words (sale, 20% off, only 2 left).
+- No claims that it cures, treats, prevents or relieves anything, and no weight loss claims.
+- Use the brand only if it is mine or I am authorised to sell it. No other brands.
 
 My Listing Brief:
 [PASTE YOUR LISTING BRIEF HERE]
 
 [T07] Title tester: which version is clearest?
-Use it when: you have 2 to 5 title ideas and want an honest, buyer's-eye comparison.
+Use it when: You have 2 to 5 title ideas and want an honest, buyer's-eye comparison.
 ----------------------------------------
 I am choosing a title for a [PLATFORM] UK listing. Here are my options and my Listing Brief.
 
 For each title:
-1. Count the characters including spaces. Say if it is over [LIMIT] characters.
-2. Say what a UK buyer would most likely type to find this item (give 3 short example searches). Tick which searches each title matches.
-3. Flag anything not supported by the brief, any hype, any repeated words, any US spellings or sizes.
-4. Say what a buyer sees in the first 40 characters (roughly what shows on a phone before it cuts off). Is it clear what the item is?
+1. Count the characters including spaces. Say if it is over [LIMIT].
+2. Give 3 short searches a UK buyer would likely type for this item, and say which ones each title matches.
+3. Flag anything not in the brief, any hype, repeated words, or US spellings or sizes.
+4. Say whether the first 40 characters (roughly what shows on a phone) make it clear what the item is.
 
-Then recommend one and explain why in two lines. Do not invent new facts. If you suggest an improved version, use only facts from the brief.
-
-UK English.
+Then recommend one in two lines. If you suggest a better version, use only facts from the brief. UK English.
 
 Titles:
 [PASTE TITLE 1]
@@ -291,9 +430,9 @@ My Listing Brief:
 [PASTE YOUR LISTING BRIEF HERE]
 
 [T08] Title fixer: too long, too vague or too spammy
-Use it when: you already have a title (maybe from an old listing or a generic AI tool) and it needs fixing.
+Use it when: You already have a title (from an old listing or a generic AI tool) and it needs fixing.
 ----------------------------------------
-Fix this [PLATFORM] UK listing title. The limit is [LIMIT] characters (I will double-check the current limit in the platform's help pages).
+Fix this [PLATFORM] UK listing title. The limit is [LIMIT] characters.
 
 My current title:
 [PASTE TITLE]
@@ -301,12 +440,11 @@ My current title:
 My Listing Brief:
 [PASTE YOUR LISTING BRIEF HERE]
 
-Do this:
-1. List what is wrong with it: over the limit, hype words, repeated words, US spellings or sizes, unsupported claims, other brand names, wasted words.
-2. Write 2 fixed versions, each within the limit, with character counts.
-3. Only use facts from the brief. If the old title claims something the brief does not support, remove it and tell me what you removed and why.
+1. List what is wrong: over the limit, hype, repeated words, US spellings or sizes, unsupported claims, other brand names, wasted words.
+2. Write 2 fixed versions within the limit, with character counts.
+3. Use only facts from the brief. If the old title claims something the brief does not support, remove it and tell me what and why.
 
-UK English. No hype, no emoji, no exclamation marks.
+UK English. No hype, emoji or exclamation marks.
 
 
 ============================================================
@@ -314,146 +452,133 @@ MODULE 03: DESCRIPTIONS AND CONDITION
 ============================================================
 
 [D01] eBay UK description
-Use it when: you have a title and want a clear, complete eBay UK description.
+Use it when: You have a title and want a clear, complete eBay UK description.
 ----------------------------------------
 Write an eBay UK item description for the item in my Listing Brief below.
 
-Structure:
-1. One opening line: what it is (brand, item, key detail).
-2. Size and measurements (in cm, say "measured flat" for clothing).
-3. Condition: the grade, then every flaw as a separate line with location, size and the photo number if I gave one.
-4. Details: material, features, what is included, what is not included.
+Order:
+1. One opening line: brand, item, key detail.
+2. Size and measurements in cm ("measured flat" for clothing).
+3. Condition: the grade, then every flaw on its own line with location, size and photo number if given.
+4. Details: material, features, what is included and not included.
 5. Postage: only what is in my brief.
 
 Rules:
-1. UK English (colour, jumper, trousers, postage, parcel).
-2. Use ONLY facts from my Listing Brief. For anything important that is missing, write [CHECK: ...]. Never invent measurements, materials, dates or test results.
-3. Include every flaw from the brief. Do not soften, shorten or leave any out.
-4. No hype words (stunning, amazing, gorgeous, perfect, must have), no exclamation marks, no emoji.
-5. No misleading claims: do not say rare, vintage, genuine, fully working, new, or smoke-free unless the brief says so.
-6. Do not reveal my lowest acceptable price.
-7. Do not write anything about returns, refunds or buyers' rights. I will set those in eBay's own settings.
-8. Short lines, easy to read on a phone. Under 200 words.
+- UK English. Short lines. Under 200 words.
+- Use ONLY facts in my brief. Missing facts become [CHECK: ...]. Never invent measurements, materials, dates or test results.
+- Include every flaw. Do not soften or leave any out.
+- No hype words, exclamation marks or emoji.
+- No rare, vintage, genuine, fully working, new or smoke-free unless the brief says so.
+- Do not reveal my lowest price. Nothing about returns (I set those in eBay).
 
 My Listing Brief:
 [PASTE YOUR LISTING BRIEF HERE]
 
 [D02] Vinted description
-Use it when: you are listing on Vinted and want a short, friendly, accurate description.
+Use it when: You are listing on Vinted and want a short, friendly, accurate description.
 ----------------------------------------
 Write a Vinted description for the item in my Listing Brief below.
 
-Style: short, friendly and plain, like a considerate person selling from their own wardrobe. First person plural is fine ("we") or neutral wording. 50 to 120 words.
+Style: short, friendly and plain, like someone selling from their own wardrobe. Use "I" or neutral wording. 50 to 120 words.
 
-Include, in this order:
-1. What it is in one line.
-2. Size on the label and measurements in cm (measured flat).
+Order:
+1. What it is, in one line.
+2. Label size and measurements in cm (measured flat).
 3. Condition, then every flaw with location and size.
-4. Material and any useful details (fit, pockets, lining).
-5. One line inviting questions, e.g. "Happy to answer questions or send more photos."
+4. Material and useful details (fit, pockets, lining).
+5. One line inviting questions.
 
 Rules:
-1. UK English.
-2. Use ONLY facts from my Listing Brief. Write [CHECK: ...] for anything missing.
-3. Every flaw from the brief must be included, at the same level of seriousness.
-4. No hype words, no exclamation marks, no emoji strings.
-5. Do not mention payment, postage outside Vinted, or contact details. Everything stays in the app.
-6. No "no returns" or "no refunds" lines.
-7. No other brand names (no "Zara style", "similar to").
-8. Do not reveal my lowest price.
+- UK English. Use ONLY facts in my brief. Missing facts become [CHECK: ...].
+- Every flaw included, at the same level of seriousness.
+- No hype words, exclamation marks or emoji strings.
+- No payment, contact details or "no returns" lines. No other brand names.
+- Do not reveal my lowest price.
 
 My Listing Brief:
 [PASTE YOUR LISTING BRIEF HERE]
 
 [D03] Depop description
-Use it when: you are listing on Depop and want a description that works as both title and details.
+Use it when: You are listing on Depop and want a description that works as both title and details.
 ----------------------------------------
 Write a Depop description for the item in my Listing Brief below.
 
-Structure:
-1. First line: brand, item type, colour, size and one honest style word. This line acts as the title.
-2. Two or three short lines on fit and style, only from my brief.
+Order:
+1. First line: brand, item type, colour, size and one honest style word. This acts as the title.
+2. Two or three short lines on fit and style, from my brief only.
 3. Measurements in cm (measured flat).
 4. Condition with every flaw, location and size.
-5. A final line with up to 5 hashtags (Depop's current limit, which I will check in the app), using only relevant words that honestly describe the item.
+5. A last line of up to 5 relevant hashtags.
 
-Keep it within the Depop description limit (commonly quoted as 1,000 characters; I will check the current limit in the app). Aim for under 800 characters and show the character count.
+Keep it under 800 characters (Depop's limit is commonly quoted as 1,000; I will check the app). Show the count.
 
 Rules:
-1. UK English.
-2. Use ONLY facts from my Listing Brief. Write [CHECK: ...] for anything missing.
-3. Era words (y2k, 90s, vintage) only if the brief supports them. Otherwise use "style" (e.g. "90s style") or leave them out.
-4. No hype, no emoji spam, no exclamation marks.
-5. No other brand names in the text or hashtags.
-6. No off-app payment or contact details.
+- UK English. Use ONLY facts in my brief. Missing facts become [CHECK: ...].
+- Era words (y2k, 90s, vintage) only if the brief supports them. Otherwise "90s style" or leave them out.
+- No hype, emoji spam or exclamation marks. No other brands in the text or hashtags.
+- No payment or contact details.
 
 My Listing Brief:
 [PASTE YOUR LISTING BRIEF HERE]
 
 [D04] Etsy description (handmade or vintage)
-Use it when: you sell handmade or vintage items on Etsy and need a description that is warm but factual.
+Use it when: You sell handmade or vintage items on Etsy and need a description that is warm but factual.
 ----------------------------------------
 Write an Etsy listing description for the item in my Listing Brief below.
 
-Structure:
-1. Opening two lines: what it is and what makes it distinctive, from facts in the brief only. These lines show first, so make them clear.
-2. Details: materials (all of them), size and dimensions, colours, weight if relevant.
-3. Personalisation: what can be personalised, how to request it, any character limits. (Skip if not offered.)
-4. Making and dispatch: made to order or ready to post, and making time, from my brief only.
-5. Care instructions.
-6. Safety notes from my brief (e.g. "not a toy", candle safety).
-7. For vintage items: era (only as supported by the brief) and full condition with every flaw.
+Order:
+1. Two opening lines: what it is and what makes it distinctive, from the brief only.
+2. Details: every material, size and dimensions, colours, weight if relevant.
+3. Personalisation: what can change and how to request it (skip if not offered).
+4. Made to order or ready to post, and making time.
+5. Care instructions, then safety notes from my brief.
+6. Vintage items only: era (as supported by the brief) and every flaw.
 
 Rules:
-1. UK English (personalised, colour, jewellery, organise).
-2. Use ONLY facts in my brief. Write [CHECK: ...] for missing facts.
-3. Warm, plain tone. No hype words, no "perfect gift for everyone", no exclamation marks.
-4. No health, wellbeing or medical claims (e.g. calming, healing, detox, relieves anxiety, hypoallergenic) unless the brief includes supplier evidence and I confirm it.
-5. Materials must be exactly as the brief says. Do not upgrade "silver-plated" to "silver" or "cotton blend" to "cotton".
-6. Short paragraphs, readable on a phone.
+- UK English. Warm, plain tone. Short paragraphs.
+- Use ONLY facts in my brief. Missing facts become [CHECK: ...].
+- Materials exactly as written. Do not upgrade "silver-plated" to "silver" or "cotton blend" to "cotton".
+- No health, wellbeing or medical claims (calming, healing, detox, hypoallergenic) unless I give supplier evidence.
+- No hype, no "perfect gift for everyone", no exclamation marks.
 
 My Listing Brief:
 [PASTE YOUR LISTING BRIEF HERE]
 
 [D05] Amazon UK bullet points and description
-Use it when: you are a brand or seller writing Amazon UK product bullets ("About this item") and the product description.
+Use it when: You are a brand owner or seller of new stock writing Amazon UK bullets and a product description. Skip this if you only sell second-hand.
 ----------------------------------------
 Write Amazon UK bullet points and a product description for the product in my Listing Brief below.
 
-Bullet points:
-- Each bullet starts with a short capitalised label followed by a colon (e.g. "MATERIAL:"), then one or two plain sentences.
-- Cover, in order of what buyers need: what it is and size, material, key feature, how to use or care for it, what is included.
-- Up to 5 bullets. Keep each under about 250 characters (guidance is roughly 10 to 255), and I will check my category style guide in Seller Central for the current rule.
+Bullets:
+- Up to 5. Each starts with a short capitalised label and a colon (e.g. "MATERIAL:"), then one or two plain sentences.
+- Order: what it is and size, material, key feature, use or care, what is included.
+- Each under about 250 characters. I will check my category style guide.
 
-Product description:
-- 100 to 200 words, plain paragraphs, no HTML.
+Description: 100 to 200 words, plain paragraphs, no HTML.
 
 Rules:
-1. UK English.
-2. Use ONLY facts from my brief. Write [CHECK: ...] for missing facts.
-3. No promotional or subjective claims (best, number one, top rated, highest quality), no prices, no delivery or offer information, no references to reviews, and no refund or guarantee phrases (money back, 100% guaranteed).
-4. No health, medical, environmental or "eco" claims unless my brief includes the evidence and I confirm it is allowed in my category.
-5. No special characters or emoji. No other brands.
-6. Do not repeat the title word for word.
+- UK English. Use ONLY facts in my brief. Missing facts become [CHECK: ...].
+- No promotional or subjective claims (best, top rated), prices, delivery or offer details, reviews, or refund and guarantee phrases.
+- No health, medical or eco claims unless my brief gives the evidence.
+- No special characters, emoji or other brands. Do not repeat the title word for word.
 
 My Listing Brief:
 [PASTE YOUR LISTING BRIEF HERE]
 
 [D06] Condition grader
-Use it when: you are not sure which condition grade to choose, or which platform option matches.
+Use it when: You are not sure which condition grade to choose, or which platform option matches.
 ----------------------------------------
 Help me choose an honest condition grade for an item I am selling on [PLATFORM] in the UK.
 
-Use this scale: New with tags, New without tags, Excellent, Very good, Good, Fair.
-Rules for grading:
+Scale: New with tags, New without tags, Excellent, Very good, Good, Fair.
 - If the item sits between two grades, choose the lower one.
-- Base the grade only on the flaws and details I list. Do not assume flaws I have not mentioned, and do not ignore any I have.
+- Base the grade only on what I list. Do not assume or ignore any flaw.
 
 Then:
 1. Give the grade and a one-line reason.
-2. Tell me which option in [PLATFORM]'s condition list is the closest match, but remind me to read that platform's own definition before choosing, as the options change.
-3. Write a one or two line condition summary for the description, listing each flaw with location and size.
-4. List anything I should check or photograph to be sure of the grade.
+2. Name the closest option in [PLATFORM]'s condition list, and remind me to read the platform's own definition first.
+3. Write a one or two line condition summary listing each flaw with location and size.
+4. List anything I should check or photograph to be sure.
 
 UK English. No softening words (barely, hardly, tiny) unless I used them, and never without a size.
 
@@ -463,23 +588,18 @@ Tags attached? [YES / NO]
 Used or worn? [HOW OFTEN, IF KNOWN]
 
 [D07] Flaw disclosure rewriter
-Use it when: you have written your flaws in a hurry and want them clear, specific and protective.
+Use it when: You wrote your flaws in a hurry and want them clear, specific and protective.
 ----------------------------------------
-Rewrite the flaws below so they are clear and specific for a UK [PLATFORM] listing. The goal is that a buyer knows exactly what to expect and there are no surprises.
+Rewrite the flaws below so they are clear and specific for a UK [PLATFORM] listing. A buyer should know exactly what to expect.
 
-For each flaw, write one line with:
-- What it is (mark, pull, chip, scratch, fading, stain, fault)
-- Where it is (use left and right as the wearer or user sees it, and say so)
-- How big (in mm or cm)
-- How visible (e.g. "visible from arm's length", "only visible close up", only if I said so)
-- Which photo shows it, if I gave photo numbers
+For each flaw, one line with: what it is, where it is (left and right as worn or used, and say so), how big (mm or cm), how visible (only if I said), and the photo number if I gave one.
 
 Rules:
-1. UK English.
-2. Do not make any flaw sound smaller or less serious than I described it. Do not remove any flaw.
-3. If size, location or visibility is missing, write [CHECK: ...].
-4. Add one honest line of what I checked and found no problems with, only if I list it below.
-5. No hype or reassurance words (perfect otherwise, amazing condition apart from). Just facts.
+- UK English.
+- Do not make any flaw sound smaller than I described it. Do not remove any.
+- Missing size, location or visibility becomes [CHECK: ...].
+- Add one line of what I checked and found fine, only from my list below.
+- No reassurance words ("perfect otherwise"). Just facts.
 
 My flaws, as I wrote them:
 [PASTE FLAWS]
@@ -488,60 +608,55 @@ Things I checked and found fine:
 [E.G. NO HOLES, ZIP WORKS, NO ODOUR]
 
 [D08] Measurements block
-Use it when: you want a neat, consistent measurements section for clothing, bags or shoes, plus a reminder of what to measure.
+Use it when: You want a neat measurements section for clothing, bags or shoes, and a reminder of what to measure.
 ----------------------------------------
 I am listing [ITEM TYPE] on [PLATFORM] in the UK.
 
-Step 1: Tell me which measurements buyers most want for this type of item, and in one short line each, how to measure them flat with a tape measure. Keep it to the essentials (4 to 6 measurements).
+Step 1: Tell me the 4 to 6 measurements buyers most want for this item, with one short line each on how to measure it flat.
 
-Step 2: When I reply with my numbers, format them as a neat measurements block:
-- Heading: "Measurements (laid flat, in cm)"
+Step 2: When I reply with my numbers, format them as:
+- Heading: "Measurements (laid flat, in cm)", with the label size at the top
 - One measurement per line
-- If I give inches, convert to cm and round to the nearest 0.5 cm, showing inches in brackets
-- If I give a doubled figure, say "doubled"
-- Add the label size at the top
+- Inches converted to cm, rounded to the nearest 0.5 cm, inches in brackets
+- "Doubled" next to any doubled figure
 
-Rules: UK English. Never estimate or invent a measurement. If one is missing, write [CHECK: measure X]. Do not add fit advice unless I give it (e.g. "fits like a UK 10 on me").
+UK English. Never estimate or invent a measurement. If one is missing, write [CHECK: measure X]. No fit advice unless I give it.
 
 [D09] Bundle and job lot description
-Use it when: you are selling several items together (a bundle of kids' clothes, a box of books, a job lot of mugs).
+Use it when: You are selling several items together (kids' clothes, a box of books, a job lot of mugs).
 ----------------------------------------
-Write a [PLATFORM] UK listing description for a bundle or job lot. Use my list below.
+Write a [PLATFORM] UK description for a bundle or job lot from my list below.
 
-Structure:
-1. Opening line: what the bundle is, how many items, and the key shared details (e.g. "Bundle of 8 girls' tops, age 7 to 8 years").
-2. A numbered list: one line per item with brand, item, size and condition, plus any flaw with location and size.
-3. A line saying what the bundle does NOT include (only if I mention it).
-4. Total weight or parcel size if I give it.
+1. Opening line: what the bundle is, how many items, key shared details (e.g. "Bundle of 8 girls' tops, age 7 to 8 years").
+2. A numbered list: one line per item with brand, item, size, condition and any flaw with location and size.
+3. What the bundle does NOT include (only if I say).
+4. Parcel weight or size if I give it.
 
 Rules:
-1. UK English.
-2. Use ONLY facts in my list. If a line is missing brand, size or condition, write [CHECK: ...] on that line.
-3. Flaws must be listed against the right item. Do not merge them into one vague line like "some wear".
-4. Do not describe the bundle as better than its worst item. If items vary, say so: "Condition varies from Very good to Fair, see each item".
-5. No hype, no exclamation marks, no "bargain" or price talk.
-6. Do not reveal my lowest price.
+- UK English. Use ONLY facts in my list. A line missing brand, size or condition gets [CHECK: ...].
+- Flaws listed against the right item, never merged into "some wear".
+- If condition varies, say so: "Condition varies from Very good to Fair, see each item".
+- No hype, exclamation marks, "bargain" or price talk. Do not reveal my lowest price.
 
 My list:
 [ITEM 1: BRAND, ITEM, SIZE, CONDITION, FLAWS]
-[ITEM 2: ...]
-[ITEM 3: ...]
+[ITEM 2: BRAND, ITEM, SIZE, CONDITION, FLAWS]
+[ITEM 3: BRAND, ITEM, SIZE, CONDITION, FLAWS]
 Parcel weight or size: [IF KNOWN]
 
 [D10] De-hype and UK-ify an AI description
-Use it when: you have a description from a generic AI tool or an old listing that sounds American, gushing or over-promising.
+Use it when: You have a description from a generic AI tool, a platform's AI helper or an old listing that sounds American, gushing or over-promising.
 ----------------------------------------
 Rewrite this listing description for a UK [PLATFORM] buyer.
 
 Fix:
-1. US spelling and vocabulary to UK (color to colour, pants to trousers, sweater to jumper, sneakers to trainers, purse to handbag, zipper to zip, closet to wardrobe).
-2. US sizes to UK where the brief gives the UK size. If only a US size is given, keep it and label it "US size".
-3. Remove hype and filler (stunning, gorgeous, must have, elevate your wardrobe, timeless piece, you will love it, exclamation marks, emoji).
-4. Remove or flag any claim not supported by my Listing Brief (write [CHECK: ...] after it, or remove it and tell me).
-5. Keep every flaw, with location and size.
-6. Keep it short and readable on a phone.
+1. US spelling and words to UK (color to colour, pants to trousers, sweater to jumper, sneakers to trainers, zipper to zip).
+2. US sizes to UK where my brief gives the UK size. Otherwise keep it and label it "US size".
+3. Remove hype and filler (stunning, gorgeous, must have, timeless piece, exclamation marks, emoji).
+4. Remove or flag with [CHECK: ...] any claim not supported by my brief.
+5. Keep every flaw, with location and size. Keep it short.
 
-After the rewrite, list what you removed or flagged and why, in short bullet points.
+Then list what you removed or flagged and why, in short bullet points.
 
 Old description:
 [PASTE OLD DESCRIPTION]
@@ -555,81 +670,69 @@ MODULE 04: KEYWORDS, TAGS AND ITEM SPECIFICS
 ============================================================
 
 [K01] eBay UK item specifics
-Use it when: you are listing on eBay UK and want every relevant item specific filled in accurately.
+Use it when: You are listing on eBay UK and want every relevant item specific filled in accurately.
 ----------------------------------------
-I am listing on eBay UK in the category [CATEGORY, E.G. WOMEN'S JUMPERS AND CARDIGANS]. Below are the item specifics fields eBay shows me for this category, and my Listing Brief.
-
-Fill in each item specific using ONLY facts from my Listing Brief.
+I am listing on eBay UK in the category [CATEGORY]. Below are the item specifics fields eBay shows me, and my Listing Brief. Fill in each field using ONLY facts from the brief.
 
 Rules:
-1. UK English and UK sizes.
-2. If the brief does not give the answer, write [CHECK: ...] and tell me how to find it (e.g. "on the care label", "on the base", "in the settings menu").
-3. Never guess brand, material, model, year or country of manufacture.
-4. Use the simple, standard wording buyers filter by (e.g. "Grey", not "dove grey heather"; "Crew Neck", not "rounded neckline").
-5. Keep each value short (under 65 characters, and I will check the form's limit).
-6. Do not put other brand names, hype words or keywords that do not describe the item into any field.
-7. Output as a two-column table: Item specific | Value.
-8. After the table, list up to 3 extra item specifics that buyers in this category often filter by, if eBay allows custom ones, using only facts from the brief.
+- UK English and UK sizes.
+- If the brief does not give the answer, write [CHECK: ...] and say where to find it (care label, base, settings menu).
+- Never guess brand, material, model, year or country of manufacture.
+- Use the simple words buyers filter by ("Grey", not "dove grey heather").
+- Keep each value short (under 65 characters; I will check the form).
+- No other brand names, hype or keywords that do not describe the item.
+- Output a two-column table: Item specific | Value.
 
 eBay's item specific fields for my category:
-[PASTE THE FIELD NAMES FROM THE EBAY LISTING FORM]
+[PASTE THE FIELD NAMES FROM THE EBAY FORM]
 
 My Listing Brief:
 [PASTE YOUR LISTING BRIEF HERE]
 
 [K02] Etsy 13 tags
-Use it when: you are listing on Etsy and want 13 honest, varied tags within the 20-character limit.
+Use it when: You are listing on Etsy and want 13 honest, varied tags within the 20-character limit.
 ----------------------------------------
 Write 13 Etsy tags for the item in my Listing Brief below.
 
-How to build them:
-- Each tag up to 20 characters including spaces. Show the character count for each.
-- Use multi-word phrases a UK buyer would actually type (e.g. "silver stacking ring" not just "ring").
-- Cover different angles: what it is, material, style, colour, occasion or recipient (only if the brief supports it), and personalisation if offered.
-- Do not repeat the exact title phrase in every tag. Vary the wording.
-- Include UK spellings (personalised, jewellery, colour). If a US spelling is commonly searched too, you may use it in one tag at most.
+- Each tag 20 characters or fewer including spaces. Show the count for each.
+- Multi-word phrases a UK buyer would type ("silver stacking ring", not just "ring").
+- Cover different angles: what it is, material, style, colour, occasion or recipient (only if the brief supports it), personalisation if offered.
+- Vary the wording. UK spellings (personalised, jewellery); a US spelling in one tag at most.
 
 Rules:
-1. Use ONLY facts from my brief. Do not tag a material, style or use the item does not have.
-2. No other brand names, trademarked characters or celebrity names.
-3. No health or wellbeing words (healing, calming, anxiety).
-4. "Vintage" only if the brief supports it and meets Etsy's current vintage rules.
-5. No hype words (best, perfect, amazing).
-6. Output as a numbered list. Then show the 13 tags as one comma-separated line so I can paste them quickly.
+- Use ONLY facts from my brief. No material, style or use the item does not have.
+- No other brands, characters or celebrity names. No health or wellbeing words. No hype.
+- "Vintage" only if the brief supports it and it meets Etsy's current rule.
+- Output a numbered list, then all 13 on one comma-separated line.
 
 My Listing Brief:
 [PASTE YOUR LISTING BRIEF HERE]
 
 [K03] Depop hashtags
-Use it when: you are listing on Depop and want 5 relevant hashtags.
+Use it when: You are listing on Depop and want up to 5 relevant hashtags.
 ----------------------------------------
-Suggest 5 Depop hashtags for the item in my Listing Brief below, plus 3 spares.
+Suggest 5 Depop hashtags for the item in my Listing Brief below, plus 3 spares, each with a one-line reason.
 
 Rules:
-1. Depop allows up to 5 hashtags and asks for relevant words, brands and tags only. I will check the current limit in the app.
-2. Each hashtag must honestly describe the item: its type, brand (only its own brand), colour, material, fit or a style the item really has.
-3. Style or era tags (y2k, 90s, grunge, cottagecore, gorpcore) only if the item honestly fits them and my brief supports it. If you are not sure, leave them out and tell me.
-4. No other brand names, no trend tags that do not fit, no hashtags about price or "fast selling".
-5. Lower case, no spaces, UK spelling where it matters (e.g. #jumper).
-6. For each, give a one-line reason so I can decide.
+- Depop allows up to 5 and asks for relevant words, brands and tags only. I will check the current limit in the app.
+- Each hashtag honestly describes the item: type, its own brand, colour, material, fit or a style it really has.
+- Style or era tags (y2k, 90s, grunge, cottagecore) only if the brief supports them. If unsure, leave them out and tell me.
+- No other brands, trend tags that do not fit, or price tags.
+- Lower case, no spaces, UK spelling (e.g. #jumper).
 
 My Listing Brief:
 [PASTE YOUR LISTING BRIEF HERE]
 
 [K04] Vinted fields and search words
-Use it when: you are listing on Vinted and want every field filled in and the right search words in your title and description.
+Use it when: You are listing on Vinted and want every field filled in and the right search words in your title and description.
 ----------------------------------------
-I am listing on Vinted in the UK. Vinted uses structured fields rather than free tags, so help me get the fields and wording right.
+I am listing on Vinted in the UK. Vinted uses structured fields, not free tags.
 
-Step 1. From my Listing Brief, give me the value for each Vinted field: Category (suggest the most specific path, e.g. Women > Clothing > Jumpers and sweaters > Jumpers), Brand, Size, Condition, Colour (main colour, and a second colour only if clearly true), Material.
-Step 2. List 5 to 8 search words or short phrases UK buyers would type for this item. Tell me which already appear in my title or description, and suggest where the missing ones could go naturally (once each).
-Step 3. Flag any word in my current title or description that is not supported by the brief, or that is another brand.
+1. From my brief, give the value for each field: Category (the most specific path, e.g. Women > Clothing > Jumpers and sweaters > Jumpers), Brand, Size, Condition, Colour (a second colour only if clearly true), Material.
+2. List 5 to 8 search words UK buyers would type for this item. Say which are already in my title or description, and where the missing ones could go naturally, once each.
+3. Flag any word in my title or description that is not in the brief, or is another brand.
 
-Rules:
-1. UK English and UK sizes.
-2. Use ONLY facts in my brief. Write [CHECK: ...] if something is missing.
-3. Do not suggest repeating words or adding lists of keywords to the description.
-4. Category paths change in the app. Tell me to pick the closest match I can see.
+Rules: UK English and UK sizes. Use ONLY facts in my brief; missing facts become [CHECK: ...]. No repeated words or keyword lists. Category paths change, so tell me to pick the closest match I can see.
 
 My Listing Brief:
 [PASTE YOUR LISTING BRIEF HERE]
@@ -638,19 +741,17 @@ My current title and description (if written):
 [PASTE HERE]
 
 [K05] Amazon UK backend search terms
-Use it when: you are a brand or seller filling in the backend "search terms" field on Amazon UK.
+Use it when: You are a brand owner or seller filling in the backend search terms field on Amazon UK. Skip this if you only sell second-hand.
 ----------------------------------------
 Write backend search terms for my Amazon UK product listing.
 
 Rules:
-1. The field is commonly quoted as 250 bytes (not characters). For plain letters and spaces, 1 character is 1 byte, but accented letters and some symbols use more. Stay under 240 bytes to be safe and show the count. I will check the current limit in Seller Central.
-2. Separate words with spaces. No commas, no punctuation.
-3. Do not repeat any word already in my title, Item Highlights or bullets (listed below).
-4. Do not repeat words within the field. No plurals of words already used unless they are genuinely different searches.
-5. Include: synonyms, UK and US variants (e.g. jumper sweater), common misspellings buyers really make, and uses or occasions only if my brief supports them.
-6. Do NOT include: other brand names, ASINs, temporary words (new, sale, on offer), subjective words (best, amazing), or offensive terms.
-7. Use ONLY facts from my Listing Brief. No uses or features the product does not have.
-8. Lower case.
+- The field is commonly quoted as 250 bytes (not characters; accented letters use more). Stay under 240 bytes and show the count. I will check Seller Central.
+- Words separated by spaces. No commas or punctuation. Lower case.
+- No word already in my title, Item Highlights or bullets (below), and no repeats within the field.
+- Include synonyms, UK and US variants (e.g. jumper sweater), common misspellings, and uses only if my brief supports them.
+- No other brand names, ASINs, temporary words (new, sale), subjective words (best) or offensive terms.
+- Use ONLY facts from my brief. No materials, uses or features the product does not have.
 
 My title, Item Highlights and bullets:
 [PASTE THEM HERE]
@@ -659,17 +760,17 @@ My Listing Brief:
 [PASTE YOUR LISTING BRIEF HERE]
 
 [K06] Buyer search phrase finder (from what you see)
-Use it when: you want to know how buyers actually search for your item, using the suggestions the platform's own search bar shows you.
+Use it when: You want to know how buyers search for your item, using the suggestions the platform's own search bar shows you.
 ----------------------------------------
-I am selling [ITEM] on [PLATFORM] in the UK. I typed the start of a search into the platform's search bar and copied the suggestions it showed me. I also noted the titles of a few sold listings for similar items that I looked up myself.
+I am selling [ITEM] on [PLATFORM] in the UK. Below are the suggestions the platform's search bar showed me, and titles of a few sold listings I looked up myself.
 
-Using ONLY the suggestions and titles below:
-1. Group the search phrases into: what it is, brand and model, size, colour and material, style, condition.
-2. Tell me which phrases honestly describe MY item (using my Listing Brief). Ignore any that do not fit.
-3. Suggest where each fitting phrase should go: title, item specifics or fields, tags or hashtags, or description.
-4. Point out any US spellings or words, and give the UK version.
+Using ONLY these and my Listing Brief:
+1. Group the phrases: what it is, brand and model, size, colour and material, style, condition.
+2. Say which phrases honestly describe MY item. Ignore the rest.
+3. Say where each fitting phrase should go: title, fields, tags or hashtags, or description.
+4. Point out any US words and give the UK version.
 
-Rules: UK English. Do not invent search data or say how popular a phrase is. Do not suggest words that are not true of my item. No other brands.
+UK English. Do not invent search data or say how popular a phrase is. No other brands.
 
 Search bar suggestions I saw:
 [PASTE SUGGESTIONS]
@@ -681,145 +782,115 @@ My Listing Brief:
 [PASTE YOUR LISTING BRIEF HERE]
 
 [K07] Keyword stuffing checker
-Use it when: you want a quick check that your title, tags or hashtags are honest and will not look like spam.
+Use it when: You want a quick check that your title, tags, hashtags or search terms are honest and will not look like spam, on any platform.
 ----------------------------------------
 Check my [PLATFORM] UK listing for keyword stuffing and misleading search words.
 
-Check:
+Look for:
 1. Any brand, character or product name that is not the item's own (including "style", "like", "similar to", "not X", "dupe").
-2. Words repeated more than needed in the title, or repeated across title and backend fields where the platform advises against it.
-3. Style, era or trend words not supported by my Listing Brief (vintage, y2k, 90s, designer, luxury).
-4. Condition or authenticity words not supported by the brief (new, unworn, genuine, authentic, rare, limited).
-5. Tags, hashtags or item specifics that do not describe the item.
-6. Hidden lists of words in the description.
+2. Words repeated more than needed, in the title or across title and backend fields.
+3. Style, era or trend words the brief does not support (vintage, y2k, 90s, designer, luxury).
+4. Condition or authenticity words the brief does not support (new, unworn, genuine, rare).
+5. Tags, hashtags or specifics that describe other items, sizes or trends.
+6. Keyword lists or deliberate misspellings hidden in the description.
 
-For each problem: quote it, say why it is a risk in one line, and give an honest replacement using only facts from my brief (or say "remove").
-Then give a short verdict: "Ready to post" or "Fix first".
+For each problem: quote it, give the risk in one line, and an honest replacement from my brief (or "remove"). Then give a verdict: "Ready to post" or "Fix first". Accurate words buyers really search are fine: the aim is relevance, not fewer words.
 
 UK English. Do not invent facts.
 
-My listing (title, description, tags or hashtags, item specifics):
-[PASTE LISTING]
+My listing (title, description, tags or hashtags, specifics):
+[PASTE YOUR LISTING HERE]
 
 My Listing Brief:
 [PASTE YOUR LISTING BRIEF HERE]
 
-[K08] UK and US search word pairs for my category
-Use it when: you sell a category where UK and US words differ and want a reference list for your tags, specifics and backend fields.
-----------------------------------------
-I sell second-hand [CATEGORY] in the UK on [PLATFORM(S)]. Make me a reference table of search words for this category.
-
-Columns: UK word | US or other word buyers might also use | Notes (where UK and US meanings differ, and could confuse a buyer).
-
-Rules:
-1. Up to 20 rows, most useful first.
-2. Flag any word that means something different in the UK (e.g. vest, pants, purse, jumper dress) so I do not mislead a UK buyer.
-3. Suggest where each word should go: title (UK word only), tags, hashtags or backend fields (either), or nowhere.
-4. UK English. Do not include brand names.
-5. Do not claim how popular any word is. I will check the platform's own search suggestions.
-
 
 ============================================================
-05 PHOTOS
+MODULE 05: PHOTOS
 ============================================================
 
 [PH01] Shot list for my item
-Use it when: you have written the Listing Brief and want a numbered shot list before you pick up your phone.
+Use it when: You have written the Listing Brief and want a numbered shot list before you pick up your phone.
 ----------------------------------------
-You are an experienced UK marketplace seller helping me plan listing photos.
+Help me plan listing photos for this exact item on [PLATFORM]. Most photos allowed (check the app): [NUMBER OR "NOT SURE"]
 
-Here is my Listing Brief:
-[PASTE YOUR LISTING BRIEF HERE]
-
-I am listing on: [PLATFORM]
-Most photos this platform allows (check the app): [NUMBER OR "NOT SURE"]
-
-Write a numbered shot list for this exact item. For each shot give:
-1. What to photograph.
-2. The angle or distance.
-3. Why a buyer needs it (one short line).
+Write a numbered shot list. For each shot: what to photograph, the angle or distance, and why a buyer needs it (one short line).
 
 Rules:
-- Use UK English.
-- Base the list only on facts in my brief. If a shot depends on something the brief does not say (for example whether there is a box or a size label), write [CHECK: ...] instead of assuming.
-- Put the main (cover) photo first, then the back, then labels, then every flaw listed in my brief, then details.
-- Give every flaw in my brief its own shot.
-- If I have more shots than the platform allows, mark which ones to combine or drop, and never drop a flaw shot.
-- No filters, no editing that changes colour or hides wear. Say so at the end.
-- Keep it short enough to read on a phone.
+- UK English, short enough to read on a phone.
+- Order: cover photo (whole item), back, labels, then one shot for every flaw in my brief, then details.
+- Base it only on my brief. If a shot depends on something the brief does not say (e.g. whether there is a box), write [CHECK: ...].
+- If there are more shots than the platform allows, say which to combine or drop, but never drop a flaw shot.
+- No filters or edits that change colour or hide wear.
+
+My Listing Brief:
+[PASTE YOUR LISTING BRIEF HERE]
 
 [PH02] Flaw photo checklist
-Use it when: your item has any wear, marks or faults and you want to show them properly (this protects you as much as the buyer).
+Use it when: Your item has any wear, marks or faults and you want to show them properly. This protects you as much as the buyer.
 ----------------------------------------
 Help me photograph the flaws on my item honestly and clearly.
 
-Here is my Listing Brief:
+1. List every flaw in my brief (and any extras below) as a checklist.
+2. For each, tell me how to photograph it: distance, angle, light, and what to put next to it for scale (coin, ruler, tape measure).
+3. Suggest a short caption for each flaw photo using the same words as my brief.
+4. List places flaws often hide on this type of item that my brief does not mention, as [CHECK: ...] questions. Do not assume they are flawed.
+
+UK English. Plain, factual wording. Never describe a flaw as smaller than my brief says.
+
+My Listing Brief:
 [PASTE YOUR LISTING BRIEF HERE]
 
-Anything else I have noticed since writing the brief:
-[EXTRA FLAWS, OR "NONE"]
-
-Do the following:
-1. List every flaw mentioned above as a checklist.
-2. For each flaw, tell me how to photograph it so it is clearly visible: distance, angle, lighting, and what to put next to it for scale (a coin, a ruler or a tape measure).
-3. Suggest a short caption for each flaw photo that matches the wording in my brief exactly.
-4. List common places flaws hide on this type of item that my brief does not mention, as questions for me to check (for example "Have you checked the armpits for bobbling?"). Label these [CHECK: ...]. Do not assume they are flawed.
-
-Rules: UK English. Do not describe any flaw as smaller or less noticeable than my brief says. No reassuring words like "barely noticeable" unless my brief uses them. Plain, factual wording only.
+Extra flaws I have noticed since: [EXTRA FLAWS OR "NONE"]
 
 [PH03] Phone lighting and background plan
-Use it when: you are photographing at home with just a phone and want better, more accurate colour without buying kit.
+Use it when: You photograph at home with just a phone and want truer colour without buying kit.
 ----------------------------------------
-I photograph listings on my phone at home. Help me set up for this item.
+I photograph listings on my phone at home. Help me set up for the item in my brief.
 
-Here is my Listing Brief:
-[PASTE YOUR LISTING BRIEF HERE]
-
-My set-up:
-- Phone: [PHONE MODEL, OR "NOT SURE"]
-- Time I usually shoot: [E.G. WEEKDAY EVENINGS]
-- Space I have: [E.G. SMALL BEDROOM, WINDOW FACING NORTH]
-- Things I own that could be a background: [E.G. WHITE DUVET COVER, GREY WALL, WOODEN FLOOR]
+- When I usually shoot: [E.G. WEEKDAY EVENINGS]
+- Space and window: [E.G. SMALL BEDROOM, WINDOW FACING NORTH]
+- Possible backgrounds I own: [E.G. WHITE DUVET COVER, GREY WALL, WOODEN FLOOR]
 
 Give me:
-1. The best place and time to shoot, using the window light I have.
-2. Which of my backgrounds suits this item's colour and why.
-3. Five phone camera tips in plain English (focus, exposure, lens cleaning, avoiding zoom, avoiding flash glare).
-4. How to check the colour in the photo matches the real item before I post.
-5. What to do if I must shoot after dark, using only ordinary household lamps.
+1. The best place and time to shoot with my window light.
+2. Which background suits this item's colour, and why.
+3. Five phone tips (focus, exposure, clean lens, no zoom, no flash glare).
+4. How to check the colour on screen matches the real item.
+5. What to do if I must shoot after dark, with ordinary lamps.
 
-Rules: UK English, no jargon, short numbered steps. Do not recommend buying anything. Do not suggest any editing that changes the item's colour or hides wear.
+UK English, no jargon, short steps. Do not recommend buying anything or any edit that changes colour or hides wear.
+
+My Listing Brief:
+[PASTE YOUR LISTING BRIEF HERE]
 
 [PH04] Photo set audit
-Use it when: you have taken your photos and want a second pair of eyes to spot gaps before you post.
+Use it when: You have taken your photos and want a second pair of eyes to spot gaps before you post.
 ----------------------------------------
 Check my photo set against my Listing Brief before I post.
 
-Here is my Listing Brief:
-[PASTE YOUR LISTING BRIEF HERE]
-
-Here is a plain description of each photo I have taken, in order:
+My photos, in order (a plain description of each):
 1. [DESCRIBE PHOTO 1, E.G. "FRONT OF JUMPER, FLAT ON BED"]
 2. [DESCRIBE PHOTO 2]
 3. [ADD MORE LINES AS NEEDED]
 
-(If your AI tool accepts images, you can upload the photos instead. Only upload photos of the item, never anything showing addresses, faces or personal documents.)
+(If your AI tool accepts images you can upload the photos instead, but only photos of the item, never addresses, faces or documents.)
 
 Tell me:
-1. Missing shots: anything a buyer would expect for this item that is not in my set.
-2. Mismatches: anything in the photos that contradicts the brief (for example a flaw shown but not in the brief, or an item in shot that is not included in the sale).
-3. Order: the best order for these photos, with the cover photo first.
-4. Privacy: anything in the background I should crop out (post, family photos, house number, reflections).
+1. Missing shots a buyer would expect.
+2. Mismatches with the brief (a flaw shown but not in the brief, or something in shot that is not included).
+3. The best order. The cover should show the whole item in true colour on a plain background, filling the frame and clear as a small square thumbnail. Major flaws go early in the set.
+4. Privacy: anything to crop out (post, family photos, house numbers, reflections).
 
-Rules: UK English. Only comment on what I have described or shown. If you cannot tell something, write [CHECK: ...]. Be direct and brief.
+UK English. Only comment on what I describe or show. If you cannot tell, write [CHECK: ...].
+
+My Listing Brief:
+[PASTE YOUR LISTING BRIEF HERE]
 
 [PH05] Photo captions
-Use it when: your platform lets you add a caption or short text to each photo, or you want matching lines to use in the description.
+Use it when: Your platform lets you add a caption to each photo, or you want matching lines for the description.
 ----------------------------------------
 Write one short caption for each of my listing photos.
-
-Listing Brief:
-[PASTE YOUR LISTING BRIEF HERE]
 
 My photos, in order:
 1. [DESCRIBE PHOTO 1]
@@ -827,131 +898,118 @@ My photos, in order:
 3. [ADD MORE AS NEEDED]
 
 Rules:
-- UK English, 12 words or fewer per caption.
-- Plain and factual. Say what the photo shows, not how great it is.
-- Flaw captions must use the same wording as my brief and must not play the flaw down.
-- Only use facts from the brief. If a caption needs a fact I have not given, write [CHECK: ...].
-- No hype words (stunning, gorgeous, must-have, rare), no emojis, no exclamation marks.
+- UK English, 12 words or fewer each. Say what the photo shows, plainly.
+- Flaw captions use the same words as my brief and never play the flaw down.
+- Only facts from the brief. If a caption needs a fact I have not given, write [CHECK: ...].
+- No hype words, emoji or exclamation marks.
+
+My Listing Brief:
+[PASTE YOUR LISTING BRIEF HERE]
 
 [PH06] Alt text for listing photos
-Use it when: your platform or your own shop has an alt text box (a short written description of an image for people using screen readers). Etsy and most web shops have one.
+Use it when: Your platform or web shop has an alt text box (a short description of an image for people using screen readers). Etsy and most web shops have one.
 ----------------------------------------
 Write alt text for each of my product photos.
-
-Listing Brief:
-[PASTE YOUR LISTING BRIEF HERE]
 
 Photos, in order:
 1. [DESCRIBE PHOTO 1]
 2. [DESCRIBE PHOTO 2]
 3. [ADD MORE AS NEEDED]
 
-Character limit for alt text on my platform (check the help pages): [NUMBER OR "NOT SURE"]
-
 Rules:
-- UK English. Describe what is in the image plainly, as if to someone who cannot see it: item, colour, angle, and any flaw shown.
+- UK English. Describe plainly, for someone who cannot see it: item, colour, angle, any flaw shown.
 - Do not start with "Image of" or "Photo of".
-- Do not stuff keywords or repeat the title. Alt text is for people, not search.
-- Only use facts from my brief. If you need a detail I have not given (such as the exact colour), write [CHECK: ...].
-- If I have not given a limit, keep each one under 125 characters.
-
-[PH07] Is this edit OK?
-Use it when: you are tempted to use a background remover, a "magic eraser", an AI model or any AI photo tool, and want to check it will not misrepresent the item.
-----------------------------------------
-I want to edit a listing photo. Tell me whether the edit risks misrepresenting my item.
-
-Listing Brief:
-[PASTE YOUR LISTING BRIEF HERE]
-
-Platform: [PLATFORM]
-The original photo shows: [DESCRIBE THE ORIGINAL]
-The edit I want to make: [E.G. REPLACE MESSY BEDROOM BACKGROUND WITH PLAIN WHITE / REMOVE A HAIR / PUT JUMPER ON AI MODEL]
-The tool I would use: [TOOL NAME OR TYPE]
-
-Answer in three parts:
-1. **Risk:** low, medium or high that the edit changes how the item looks (colour, condition, size, shape, what is included). Explain in one or two lines.
-2. **Safer option:** a way to get a similar result without editing the item itself (for example reshooting on a plain sheet).
-3. **Platform rule:** remind me that I must check the current photo and AI rules in the [PLATFORM] help pages. Do not state specific rules as fact unless I have pasted them in below.
-
-Platform rule text I have copied from the help pages (optional):
-[PASTE RULE TEXT, OR "NONE"]
-
-Rules: UK English. Be honest, not reassuring. If the edit would hide or reduce any flaw in my brief, say plainly that I should not do it.
-
-[PH08] Choose my cover photo
-Use it when: you have several decent shots and want to pick the first one buyers see in search.
-----------------------------------------
-Help me choose the cover (first) photo for my listing.
-
-Listing Brief:
-[PASTE YOUR LISTING BRIEF HERE]
-
-Platform: [PLATFORM]
-My candidate photos:
-A. [DESCRIBE PHOTO A]
-B. [DESCRIBE PHOTO B]
-C. [DESCRIBE PHOTO C]
-
-Pick one and explain why in two lines. Judge on: the whole item is visible, colour looks true, background is plain, the item fills most of the frame, and it would still be clear as a small square thumbnail on a phone.
-Then say what one change would make the winning photo better when I reshoot.
-
-Rules: UK English. Do not suggest adding text, borders, stickers or badges to the photo (many platforms do not allow them). Do not suggest hiding flaws in the cover photo by angle alone if the flaw is major; say so if it is.
-
-
-============================================================
-06 PRICING
-============================================================
-
-[R01] Tidy my sold comps
-Use it when: you have copied a messy pile of sold listings into your notes and want them in a clean table before pricing.
-----------------------------------------
-I have copied some sold listings I found myself. Put them into a clean table so I can compare them with my item.
+- No keyword stuffing or repeating the title. Alt text is for people, not search.
+- Only facts from my brief. Missing details become [CHECK: ...].
+- Under [CHARACTER LIMIT, OR 125] characters each.
 
 My Listing Brief:
 [PASTE YOUR LISTING BRIEF HERE]
 
-Sold listings I copied (paste exactly as copied, messy is fine):
-[PASTE YOUR SOLD LISTINGS HERE]
-
-Make a table with these columns: Title (shortened), Sold price £, Postage £ (or "free" or [CHECK]), Total paid £, Condition, Size or model, Date sold (or [CHECK]), Match to my item (Good, Partial, Poor) and a one-line reason.
-
-Rules:
-- UK English, prices in pounds.
-- Only use numbers that appear in what I pasted. Never invent a price, date or condition. If a detail is missing, write [CHECK].
-- If something looks like an asking price rather than a sold price, flag it with [CHECK: sold or asking?].
-- Put Good matches first.
-- Below the table, list any comps I should drop and why, in one line each.
-
-[R02] Price from my sold comps
-Use it when: you have your tidied comps and want a list price, a realistic range and a floor.
+[PH07] Is this edit OK?
+Use it when: You are tempted to use a background remover, a "magic eraser", an AI model or any AI photo tool, and want to check it will not misrepresent the item.
 ----------------------------------------
-Suggest a price for my item using only the sold listings I have found.
-
-My Listing Brief (includes my price floor, the lowest I will accept):
-[PASTE YOUR LISTING BRIEF HERE]
+I want to edit a listing photo. Tell me whether the edit risks misrepresenting my item.
 
 Platform: [PLATFORM]
-Do buyers pay postage on top, or is it included in my price? [ON TOP / INCLUDED]
+The original photo shows: [DESCRIBE THE ORIGINAL]
+The edit I want: [E.G. PLAIN WHITE BACKGROUND / REMOVE A HAIR / PUT THE JUMPER ON AN AI MODEL]
+The tool: [TOOL NAME OR TYPE]
+Rule text I copied from the platform's help pages (optional): [PASTE OR "NONE"]
+
+Answer in three parts:
+1. Risk: low, medium or high that the edit changes how the item looks (colour, condition, size, shape, what is included), in one or two lines.
+2. A safer way to get a similar result without editing the item (e.g. reshoot on a plain sheet).
+3. A reminder to check the platform's current photo and AI rules. Do not state rules as fact unless I pasted them.
+
+UK English. Be honest, not reassuring. If the edit would hide or reduce any flaw in my brief, say plainly not to do it.
+
+My Listing Brief:
+[PASTE YOUR LISTING BRIEF HERE]
+
+
+============================================================
+MODULE 06: PRICING
+============================================================
+
+[R01] Tidy my sold comps
+Use it when: You have copied a messy pile of sold listings into your notes and want a clean table before pricing.
+----------------------------------------
+Put the sold listings I copied into a clean table so I can compare them with my item.
+
+Columns: Title (shortened), Sold £, Postage £ (or "free" or [CHECK]), Total £, Condition, Size or model, Date sold (or [CHECK]), Match to my item (Good, Partial, Poor) with a one-line reason.
+
+Rules:
+- UK English, pounds.
+- Only use numbers in what I pasted. Never invent a price, date or condition. Missing details become [CHECK].
+- If something looks like an asking price, flag it [CHECK: sold or asking?].
+- Good matches first. Below the table, list comps to drop and why.
+
+My Listing Brief:
+[PASTE YOUR LISTING BRIEF HERE]
+
+Sold listings I copied (messy is fine):
+[PASTE YOUR SOLD LISTINGS HERE]
+
+[R02] Price from my sold comps
+Use it when: You have your tidied comps and want a list price, a realistic range and a floor.
+----------------------------------------
+Suggest a price for my item using only the sold listings I found.
+
+Platform: [PLATFORM]
+Buyer pays postage on top, or included in my price? [ON TOP / INCLUDED]
+
+Give me:
+1. The sold range from Good matches only, lowest to highest, and the median.
+2. Whether my item is better, the same or worse than those matches, from my brief only.
+3. A list price, a likely accepted price, and my floor from the brief. If my floor is above what the comps support, say so.
+4. Two or three lines of reasoning I can save.
+
+Rules:
+- UK English, pounds, show the sums. Write ranges as "£10 to £14".
+- Use only the numbers I pasted, no outside price knowledge.
+- Fewer than three Good matches: say the evidence is thin and what to search for.
+- Say "based on these comps", never "this will sell for".
+
+My Listing Brief (includes my floor):
+[PASTE YOUR LISTING BRIEF HERE]
+
 My sold comps (ideally the table from R1):
 [PASTE COMPS HERE]
 
-Give me:
-1. The sold price range from the Good matches only (lowest to highest), and the middle (median) value.
-2. How my item compares: better, same or worse condition than the Good matches, based only on my brief.
-3. A suggested list price, a likely accepted price, and my floor from the brief. If my floor is above what the comps support, say so plainly.
-4. Two or three lines of reasoning I could save in my notes.
-
-Rules:
-- UK English, pounds, show your working in simple sums.
-- Use only the numbers I pasted. Do not use outside knowledge of prices.
-- If I have fewer than three Good matches, say the evidence is thin and tell me what to search for.
-- Do not promise the item will sell, or at what price. Say "based on these comps" not "this will sell for".
-- Write ranges as "£10 to £14", never with a dash.
-
 [R03] Adjust for condition and extras
-Use it when: your item is not quite like the comps (better or worse condition, missing box, extra accessories) and you want a fair adjustment.
+Use it when: Your item is not quite like the comps (better or worse condition, no box, extra accessories) and you want a fair adjustment.
 ----------------------------------------
-My item is different from the comps I found. Help me adjust the price fairly.
+My item differs from the comps I found. Help me adjust the price fairly.
+
+How my item differs (my own words):
+[E.G. "NO ORIGINAL BOX, BUT COMES WITH A SPARE CHARGER"]
+
+1. For each difference: up, down or no clear difference, with a one-line reason a buyer would recognise.
+2. If the comps show the effect (boxed sold higher than unboxed), use those numbers and show the sum. If not, say "the comps do not show this" and label your suggestion a judgement, not evidence.
+3. Give an adjusted list price and floor.
+
+UK English, pounds. Only numbers I pasted. Never guess a "collector's value". Never suggest describing the item as better than my brief.
 
 My Listing Brief:
 [PASTE YOUR LISTING BRIEF HERE]
@@ -959,954 +1017,768 @@ My Listing Brief:
 My closest sold comps:
 [PASTE COMPS HERE]
 
-How my item differs from these comps (in my own words):
-[E.G. "NO ORIGINAL BOX, BUT COMES WITH A SPARE CHARGER" / "MINE HAS A SMALL CHIP, THEIRS DID NOT"]
-
-Do the following:
-1. List each difference and whether it pushes the price up, down or makes no clear difference, with a one-line reason a buyer would recognise.
-2. If the comps themselves show the effect (for example boxed sold higher than unboxed), use those numbers and show the sum. If they do not, say "the comps do not show this" and give a cautious suggestion, clearly labelled as a judgement, not evidence.
-3. Give an adjusted list price and floor.
-
-Rules: UK English, pounds. Only use numbers I have pasted. Never guess a "collector's value". Do not tell me to describe the item as better than my brief says.
-
 [R04] Bundle pricing
-Use it when: you want to sell several items together, or a buyer asks for a bundle price.
+Use it when: You want to sell several items together, or a buyer asks for a bundle price.
 ----------------------------------------
 Help me price a bundle.
 
-Items in the bundle (one short Listing Brief or line each, with my individual list price and floor):
+Items (one line each, with my list price and floor):
 [PASTE ITEMS HERE]
-
 Platform: [PLATFORM]
-Postage for the bundle as one parcel: £[AMOUNT OR "NOT SURE"]
+Postage as one parcel: £[AMOUNT OR "NOT SURE"]
 Postage if sent separately (total): £[AMOUNT OR "NOT SURE"]
-Does the platform have its own bundle discount tool I have switched on? [YES, WITH % / NO / NOT SURE]
+Platform bundle discount switched on? [YES, WITH % / NO / NOT SURE]
 
 Give me:
-1. The total of individual list prices and the total of floors.
-2. The postage saving from sending one parcel (if I gave both figures).
-3. A suggested bundle price and the lowest bundle price I should accept, keeping every item at or above its floor in total.
-4. A one-line reason I can send the buyer, based on the postage saving and my time, without pressure.
+1. The total of list prices and the total of floors.
+2. The postage saving from one parcel, if I gave both figures.
+3. A bundle price and the lowest bundle price to accept, never below the total of my floors.
+4. One friendly line to send the buyer, based on the postage saving, with no pressure.
 
-Rules: UK English, pounds, show the sums. Use only my numbers. If postage is missing, write [CHECK: postage] and do the sum without it. Do not use pressure wording such as "today only" or "last chance".
+UK English, pounds, show the sums. Use only my numbers; missing postage becomes [CHECK: postage]. No "today only" or "last chance".
 
 [R05] Offer strategy
-Use it when: you want to decide in advance what offers to accept, counter or decline, so you are not deciding at 11pm with a lowballer waiting.
+Use it when: You want to decide in advance which offers to accept, counter or decline, so you are not deciding at 11pm with a lowballer waiting.
 ----------------------------------------
 Help me set an offer plan for this listing.
 
+Platform: [PLATFORM]
+List price: £[AMOUNT]
+My reasoning from comps (optional): [PASTE OR "NONE"]
+Can the app auto-accept or auto-decline offers? [YES / NO / NOT SURE]
+
+Give me:
+1. Accept straight away at or above: £...
+2. Counter if between £... and £..., and the counter price to send.
+3. Decline below: my floor.
+4. If auto settings exist, the levels to set, with a reminder to check how they work in the app.
+5. One short, polite line for each case.
+
+UK English, pounds. Never accept or counter below my floor. No fake scarcity or pressure ("someone else is interested") unless I say it is true.
+
 My Listing Brief (includes my floor):
 [PASTE YOUR LISTING BRIEF HERE]
-
-Platform: [PLATFORM]
-My list price: £[AMOUNT]
-My reasoning from comps (optional, e.g. from R2): [PASTE OR "NONE"]
-Does the platform let me set automatic accept or decline levels? [YES / NO / NOT SURE]
-
-Give me a simple plan:
-1. Accept straight away at or above: £...
-2. Counter-offer if between: £... and £..., with the counter price I should send.
-3. Politely decline below: £...
-4. If auto accept or decline is available, the levels I could set (and a reminder to check the settings in the app).
-5. One short, polite line for each case that I could send.
-
-Rules: UK English, pounds. Never go below my floor. Do not suggest fake scarcity or pressure ("someone else is interested", "ends tonight") unless I tell you it is true. Keep replies friendly and brief.
 
 [R06] Planned price drop schedule
-Use it when: an item has not sold and you want a calm plan for reducing it, rather than panic-dropping or leaving it forever.
+Use it when: An item has not sold and you want a calm plan for reducing it, rather than panic-dropping or leaving it forever.
 ----------------------------------------
-Make a price drop plan for an item that has not sold yet.
-
-My Listing Brief (includes my floor):
-[PASTE YOUR LISTING BRIEF HERE]
+Make a price drop plan for an item that has not sold.
 
 Platform: [PLATFORM]
 Current price: £[AMOUNT]
 Listed for: [NUMBER] days
-Views, likes or watchers so far (if the app shows them): [NUMBERS OR "NOT SURE"]
-My sold comps (optional): [PASTE OR "NONE"]
+Views, likes or watchers (if shown): [NUMBERS OR "NOT SURE"]
 
 Give me:
-1. First, a quick check of things other than price that could be holding it back (cover photo, title, missing measurements, postage cost). Base this only on my brief, and write [CHECK: ...] for anything you cannot see.
-2. A drop plan with dates in weeks from today, the price at each step, and the point where I stop at my floor.
-3. What to do if it still has not sold at the floor (bundle it, relist fresh with new photos, sell elsewhere, donate).
+1. First, anything other than price that could be holding it back (cover photo, title, missing measurements, postage), from my brief only. [CHECK: ...] for anything you cannot see.
+2. A drop plan in weeks from today, with the price at each step, stopping at my floor.
+3. What to do if it has not sold at the floor (bundle, relist with new photos, sell elsewhere, donate).
 
-Rules: UK English, pounds. Never go below my floor. Keep drops simple (round numbers). Do not tell me any step will make it sell. If my platform lets me send offers to people who liked or watched the item, mention it as an option to check in the app, not as a guarantee.
+UK English, pounds, round numbers. Never below my floor. Do not say any step will make it sell. If the app lets me send offers to people who liked it, mention that as an option to check.
+
+My Listing Brief (includes my floor):
+[PASTE YOUR LISTING BRIEF HERE]
 
 [R07] Fee and postage maths
-Use it when: you want to know what you actually keep after fees, postage and packaging, before you set a price or accept an offer.
+Use it when: You want to know what you actually keep after fees, postage and packaging, before you set a price or accept an offer.
 ----------------------------------------
-Work out what I keep from a sale. I will give you the current fees myself.
+Work out what I keep from a sale, using fees I copy from the platform myself.
 
 Platform: [PLATFORM]
 Sale price: £[AMOUNT]
-Postage the buyer pays: £[AMOUNT OR "NONE, INCLUDED IN PRICE"]
+Postage the buyer pays: £[AMOUNT OR "NONE, INCLUDED"]
 My actual postage cost: £[AMOUNT]
-Packaging cost: £[AMOUNT OR "0"]
-Fees I copied from the platform's current fee page today (paste exactly, e.g. percentage, fixed fee per order, whether it applies to postage too, payment processing):
+Packaging: £[AMOUNT OR "0"]
+Fees copied from the platform's fee page today (percentage, fixed fee, whether it applies to postage):
 [PASTE CURRENT FEE DETAILS HERE]
 What I paid for the item (optional): £[AMOUNT OR "NOT SURE"]
+Amount I want to keep: £[TARGET AMOUNT]
 
-Show me, as a simple table:
-1. Money in (sale plus postage paid by buyer).
-2. Each fee, with the sum shown.
-3. Postage and packaging out.
-4. What I keep.
-5. If I gave a cost price: what is left after that cost.
-Then tell me the lowest sale price at which I would still keep £[TARGET AMOUNT] after costs, using the same fees.
+Show a simple table: money in, each fee with its sum, postage and packaging out, what I keep, and what is left after cost if I gave one. Then the lowest sale price that still keeps my target amount.
 
 Rules:
-- UK English, pounds, round to the nearest penny.
-- Use ONLY the fee details I pasted. Do not use fees from your own knowledge, they may be out of date. If my fee details are unclear, write [CHECK: ...] and explain what is unclear.
-- This is a sum, not advice. Do not call the result "profit" unless I gave a cost price, and do not promise any outcome.
-- Remind me that fees and rules change, so I should check the platform's current fee page each time.
+- UK English, pounds, nearest penny.
+- Use ONLY the fees I pasted, never your own knowledge. Unclear fees become [CHECK: ...].
+- This is a sum, not advice. Only call it "profit" if I gave a cost price.
 
 [R08] Is it worth listing on its own?
-Use it when: you have a low-value item and are not sure whether to list it alone, bundle it, or let it go.
+Use it when: You have a low-value item and are not sure whether to list it alone, bundle it or let it go.
 ----------------------------------------
 Help me decide whether this item is worth listing on its own.
+
+Sold comps (optional): [PASTE OR "NONE"]
+What I keep at that price (from R7, optional): £[AMOUNT OR "NOT SURE"]
+Minutes it takes me to list, message and pack one item: [MINUTES]
+Similar items I could put with it: [LIST OR "NONE"]
+
+Compare in a short table: list alone, bundle, job lot, donate or recycle. For each: effort, money kept (from my numbers only, otherwise [CHECK]) and when it makes sense. Then a one-line recommendation.
+
+UK English, pounds. Only my numbers. Do not promise anything will sell. Practical, not preachy.
 
 My Listing Brief:
 [PASTE YOUR LISTING BRIEF HERE]
 
-Sold comps I found (optional): [PASTE OR "NONE"]
-What I keep from a sale at that price (from R7, optional): £[AMOUNT OR "NOT SURE"]
-Roughly how long listing, messaging and packing takes me per item: [MINUTES]
-Other similar items I have that could go with it: [LIST OR "NONE"]
-
-Compare four options in a short table: list alone, bundle with similar items, list as part of a job lot, or donate or recycle. For each, give: effort, likely money kept (only from my numbers, otherwise [CHECK]), and one line on when it makes sense.
-Then give a one-line recommendation.
-
-Rules: UK English, pounds. Only use my numbers. Do not promise anything will sell. Be practical, not preachy.
-
 
 ============================================================
-07 BUYER MESSAGES
+MODULE 07: BUYER MESSAGES
 ============================================================
 
 [M01] Reply to any buyer message
-Use it when: you have a message that does not fit the other prompts, or you just want a quick, polite reply.
+Use it when: You have a message that does not fit the other prompts, or just want a quick, polite reply.
 ----------------------------------------
-Help me reply to a buyer on [PLATFORM]. I have removed their name and personal details.
-
-My Listing Brief (for facts about the item):
-[PASTE YOUR LISTING BRIEF HERE]
+Help me reply to a buyer on [PLATFORM]. I have removed their personal details.
 
 I sell as a: [PRIVATE SELLER / BUSINESS]
 Buyer's message:
-[PASTE MESSAGE, WITH NAMES AND DETAILS REPLACED BY [BUYER]]
-
-What I want to say in my own words (rough is fine):
+[PASTE MESSAGE, WITH NAMES REPLACED BY [BUYER]]
+What I want to say, rough is fine:
 [E.G. "YES I CAN POST TOMORROW BUT NOT BEFORE"]
 
 Write one reply.
 
 Rules:
-- UK English, friendly and brief (under 60 words unless the situation needs more). No emojis unless I ask.
-- Only state facts from my brief or my notes. If the buyer asks something I have not answered, write [CHECK: ...] instead of guessing.
-- Keep everything on the platform. Never suggest paying, messaging or meeting off the platform.
-- Do not promise delivery dates I have not given.
-- Do not refuse any legal right or platform protection. If the message is about returns, refunds or a problem with the item, say so and suggest I use the specific prompt for it.
-- Do not mention feedback or reviews.
-
-[M02] "Is this still available?"
-Use it when: you get the classic question, and want a reply that answers it and gently moves things along.
-----------------------------------------
-A buyer on [PLATFORM] has asked if my item is still available. Write a short, friendly reply.
+- UK English, friendly, under 60 words. No emoji unless I ask.
+- Only facts from my brief or notes. If they ask something I have not answered, write [CHECK: ...].
+- Keep everything on the platform. Do not promise delivery dates I have not given.
+- If it is about returns, refunds or a problem with the item, say so and suggest the specific prompt.
+- Do not mention feedback.
 
 My Listing Brief:
 [PASTE YOUR LISTING BRIEF HERE]
 
-Is it still available? [YES / NO, SOLD / ON HOLD FOR SOMEONE ELSE]
-When I can post: [E.G. "NEXT WORKING DAY"]
-Anything useful to add: [E.G. "HAPPY TO SEND MORE PHOTOS" / "NONE"]
+[M02] "Is this still available?"
+Use it when: You get the classic question and want a reply that answers it and moves things along.
+----------------------------------------
+A buyer on [PLATFORM] asked if my item is still available. Write a short, friendly reply.
 
-Rules:
-- UK English, under 40 words, one clear sentence answering the question first.
-- If available, add one useful fact (posting time or one key detail from the brief) and an easy next step using the platform's tools (buy now, make an offer).
-- No pressure or fake urgency ("lots of interest", "going fast") unless I have told you it is true.
-- Only use facts from my brief.
+Still available? [YES / NO, SOLD / ON HOLD]
+When I can post: [E.G. "NEXT WORKING DAY"]
+Anything useful to add: [E.G. "HAPPY TO SEND MORE PHOTOS" OR "NONE"]
+
+Rules: UK English, under 40 words, answer the question in the first sentence. If available, add one useful fact and an easy next step using the platform's tools (buy, make an offer). No fake urgency ("lots of interest") unless I say it is true. Only facts from my brief.
+
+My Listing Brief:
+[PASTE YOUR LISTING BRIEF HERE]
 
 [M03] Lowball offer
-Use it when: someone offers far below your price and you want to stay polite without giving the item away.
+Use it when: Someone offers far below your price and you want to stay polite without giving the item away.
 ----------------------------------------
-A buyer on [PLATFORM] has made an offer much lower than my price. Help me reply.
+A buyer on [PLATFORM] offered much less than my price. Help me reply.
+
+List price: £[AMOUNT]
+Their offer: £[AMOUNT]
+What I want to do: [COUNTER AT £... / DECLINE POLITELY / ASK WHAT THEY HAD IN MIND]
+A true reason for my price (optional): [E.G. "SOLD COMPS AROUND £25", "HEAVY TO POST"]
+
+Write a friendly counter and a polite decline, each under 50 words.
+
+Rules: UK English, warm and calm, never sarcastic or lecturing. Never below my floor. Only reasons I gave, no invented buyers or deadlines. Any counter goes through the platform's offer button.
 
 My Listing Brief (includes my floor):
 [PASTE YOUR LISTING BRIEF HERE]
 
-My list price: £[AMOUNT]
-Their offer: £[AMOUNT]
-What I want to do: [COUNTER AT £... / DECLINE POLITELY / ASK WHAT THEY HAD IN MIND]
-Any true reason that supports my price (optional): [E.G. "SOLD COMPS AROUND £25", "HEAVY TO POST"]
-
-Write two versions: one friendly counter-offer and one polite decline. Each under 50 words.
-
-Rules:
-- UK English, warm and calm. Never sarcastic, never lecture the buyer about value.
-- Never go below my floor.
-- Only give reasons I have supplied. Do not invent other buyers or deadlines.
-- Suggest using the platform's offer button for any counter, so the deal stays on the platform.
-
 [M04] Bundle request
-Use it when: a buyer wants several of your items and asks for a deal.
+Use it when: A buyer wants several of your items and asks for a deal.
 ----------------------------------------
-A buyer on [PLATFORM] wants to buy several of my items together. Help me reply with a bundle price.
+A buyer on [PLATFORM] wants several of my items together. Help me reply with a bundle price.
 
 The items (title, list price and floor for each):
 [PASTE ITEMS HERE]
-
 Postage as one parcel: £[AMOUNT OR "NOT SURE"]
-Bundle price I am happy with (or ask the AI to use prompt R4 first): £[AMOUNT]
+Bundle price I am happy with (or work it out with R4 first): £[AMOUNT]
 How the platform handles bundles: [E.G. "BUYER ADDS ITEMS TO A BUNDLE AND I SEND AN OFFER" / "NOT SURE"]
 
-Write a reply under 60 words that:
-1. Confirms which items (by short name).
-2. Gives the bundle price and says whether postage is included.
-3. Tells them how to buy using the platform's bundle or offer tool.
+Write a reply under 60 words that confirms the items, gives the price and whether postage is included, and says how to buy with the platform's bundle or offer tool.
 
-Rules: UK English, friendly. Keep it on the platform. Never go below the total of my floors. If the platform process is "NOT SURE", write [CHECK: how bundles work on this app] rather than guessing.
+Rules: UK English, friendly, on the platform. Never below the total of my floors. If the process is "NOT SURE", write [CHECK: how bundles work on this app].
 
 [M05] Postage questions
-Use it when: a buyer asks about postage cost, speed, tracking, collection or sending abroad.
+Use it when: A buyer asks about postage cost, speed, tracking, collection or sending abroad.
 ----------------------------------------
-A buyer on [PLATFORM] has asked about postage. Help me reply.
+A buyer on [PLATFORM] asked about postage. Help me reply in under 60 words.
 
-My Listing Brief (includes postage details):
-[PASTE YOUR LISTING BRIEF HERE]
-
-Buyer's question (personal details removed):
+Their question (personal details removed):
 [PASTE QUESTION]
 
 My postage facts:
-- Service I use: [E.G. "TRACKED 48"]
+- Service: [E.G. "TRACKED 48"]
 - Cost to buyer: £[AMOUNT OR "SET BY THE APP"]
-- How soon I post after payment: [E.G. "NEXT WORKING DAY"]
-- Do I post outside the UK? [YES / NO]
-- Do I allow collection? [YES, AND HOW THE PLATFORM HANDLES IT / NO]
+- How soon I post: [E.G. "NEXT WORKING DAY"]
+- Post outside the UK? [YES / NO]
+- Collection? [YES, AND HOW THE PLATFORM HANDLES IT / NO]
 
-Write a reply under 60 words.
-
-Rules:
-- UK English. Only give postage facts I have listed. If the answer is not in my facts, write [CHECK: ...].
-- Never promise a delivery date. Say when I will post it and the service's usual time, "usually" not "guaranteed".
-- If the buyer asks for collection, only offer it if I said yes, and keep payment on the platform.
-- Do not suggest undervaluing, mislabelling or marking anything as a gift on customs forms.
+Rules: UK English. Only these facts; anything else becomes [CHECK: ...]. Never promise a delivery date: say when I post and the service's usual time ("usually", not "guaranteed"). Collection only if I said yes, with payment on the platform. Never suggest undervaluing or marking anything as a gift on customs forms.
 
 [M06] Delay: late dispatch or parcel stuck in transit
-Use it when: you are going to post late, or the tracking has stalled and the buyer is asking where their parcel is.
+Use it when: You are going to post late, or tracking has stalled and the buyer is asking where their parcel is.
 ----------------------------------------
 Help me update a buyer on [PLATFORM] about a delay.
 
-Type of delay: [I WILL POST LATE / PARCEL STUCK IN TRANSIT / TRACKING SAYS DELIVERED BUT BUYER HAS NOT GOT IT]
-Facts:
-- Date of sale: [DATE]
-- Date posted (if posted): [DATE OR "NOT YET"]
-- Service and whether tracked: [E.G. "TRACKED 48, YES"]
-- What tracking shows now: [PASTE STATUS, NO TRACKING NUMBER NEEDED]
-- What I can do next: [E.G. "POST TOMORROW MORNING" / "OPEN A CARRIER ENQUIRY"]
-Buyer's message (personal details removed): [PASTE OR "NONE, I AM MESSAGING FIRST"]
+Type of delay: [I WILL POST LATE / STUCK IN TRANSIT / TRACKING SAYS DELIVERED BUT BUYER HAS NOT GOT IT]
+Date of sale: [DATE]
+Date posted: [DATE OR "NOT YET"]
+Service, tracked or not: [E.G. "TRACKED 48, YES"]
+What tracking shows now: [STATUS, NO TRACKING NUMBER NEEDED]
+What I will do next: [E.G. "POST TOMORROW MORNING" / "OPEN A CARRIER ENQUIRY"]
+Buyer's message (details removed): [PASTE OR "NONE, I AM MESSAGING FIRST"]
 
-Write a reply under 80 words that:
-1. Says sorry once, plainly, without over-explaining.
-2. Gives the facts (what has happened, what I am doing next and when).
-3. Tells the buyer they are still covered by the platform's buyer protection, without quoting specific time limits.
+Write a reply under 80 words: sorry once, plainly; the facts and what I am doing next; and that their purchase is still covered by the platform's buyer protection (no specific time limits).
 
-Rules: UK English. Do not blame the buyer. Do not promise a delivery date. Do not suggest cancelling outside the platform or refunding by another method. If a fact is missing, write [CHECK: ...].
+UK English. Do not blame the buyer. Do not promise a delivery date. No cancelling or refunding outside the platform. Missing facts become [CHECK: ...].
 
 [M07] Return request
-Use it when: a buyer asks to return an item, for any reason.
+Use it when: A buyer asks to return an item, for any reason.
 ----------------------------------------
-A buyer on [PLATFORM] has asked to return an item. Help me work out my position and reply.
+A buyer on [PLATFORM] asked to return an item. Help me work out my position and reply.
 
-I sell as a: [PRIVATE SELLER / TRADER (BUSINESS)]
-My listing's return policy: [E.G. "NO RETURNS" / "30 DAY RETURNS, BUYER PAYS POSTAGE"]
-Platform return or buyer protection rules I have checked today (paste from help pages, or "NOT CHECKED"):
-[PASTE RULE TEXT]
-My Listing Brief (what I described):
-[PASTE YOUR LISTING BRIEF HERE]
+I sell as a: [PRIVATE SELLER / TRADER]
+My listing's return policy: [E.G. "NO RETURNS" / "30 DAY RETURNS"]
+Platform rules I checked today (paste, or "NOT CHECKED"): [PASTE RULE TEXT]
 Date delivered: [DATE]
-Buyer's reason (personal details removed):
-[PASTE MESSAGE]
+Buyer's reason (details removed): [PASTE MESSAGE]
 
-Do two things.
+Part 1, my position, in short bullets:
+- Is this change of mind, or a claim that it is faulty, damaged or not as described?
+- If I am a trader: remind me of the 14-day right to cancel most online orders and the short-term right to reject faulty goods, which "no returns" cannot remove. Exceptions only as [CHECK: ...].
+- If I am a private seller: change-of-mind returns are up to me, but "not as described", faulty or damaged claims may be covered by platform protection whatever my policy says.
+- Platform rules only from the text I pasted. If I pasted nothing, tell me to check the help pages first.
+- One line saying this is not legal advice.
 
-Part 1, my position (short bullet points):
-- Is the reason change of mind, or a claim that the item is faulty, damaged or not as described?
-- If I am a trader: remind me that UK buyers generally have a 14-day right to cancel most online purchases, plus the short-term right to reject faulty goods, and that "no returns" cannot remove these. Flag any exceptions only as [CHECK: ...].
-- If I am a private seller: explain that change-of-mind returns are up to me and my listing policy, but claims of "not as described", faulty or damaged may be covered by platform buyer protection whatever my policy says.
-- Base anything about platform rules only on the text I pasted. If I pasted nothing, tell me to check the platform's help pages before replying.
+Part 2: a polite reply under 80 words, using the platform's own return or refund process. Never tell the buyer they have no rights, argue about their reason, or refund off the platform.
 
-Part 2, a reply to the buyer (under 80 words): polite, clear on next steps, and using the platform's own return or refund process.
-
-Rules: UK English. This is not legal advice, say so in one line at the end of Part 1. Never tell the buyer they have no rights. Never suggest refunding off the platform. Do not argue about the buyer's reason in the reply.
+My Listing Brief:
+[PASTE YOUR LISTING BRIEF HERE]
 
 [M08] "Item not as described"
-Use it when: a buyer says the item is different from the listing, faulty, or has a flaw you did not mention.
+Use it when: A buyer says the item is different from the listing, faulty, or has a flaw you did not mention.
 ----------------------------------------
 A buyer on [PLATFORM] says my item is not as described. Help me respond fairly.
 
 I sell as a: [PRIVATE SELLER / TRADER]
-My original listing text (title and description):
+My original listing (title and description):
 [PASTE LISTING TEXT]
-What my photos showed: [DESCRIBE, E.G. "FLAW ON LEFT CUFF SHOWN IN PHOTO 4"]
-Buyer's complaint (personal details removed), and any photos they describe:
+What my photos showed: [E.G. "FLAW ON LEFT CUFF IN PHOTO 4"]
+Buyer's complaint (details removed), and what their photos show:
 [PASTE MESSAGE]
-Platform rules I have checked today (optional): [PASTE OR "NOT CHECKED"]
 
-Do three things:
-1. Compare the complaint with my listing, point by point, and say honestly whether the listing covered it, did not cover it, or it is unclear. Do not take my side automatically.
-2. Suggest fair options: ask for photos, return for a full refund through the platform, a partial refund through the platform if the buyer wants to keep it, or let the platform decide. Say which fits best.
+1. Compare the complaint with my listing, point by point: covered, not covered or unclear. Do not take my side automatically.
+2. Suggest fair options (ask for photos, return for a full refund through the platform, partial refund through the platform, or let the platform decide) and say which fits best.
 3. Write a calm reply under 90 words.
 
-Rules: UK English. If the listing did not mention the problem, say so plainly. Never accuse the buyer of lying, even if I suspect it; if I suspect a swapped or damaged return, tell me to keep records and use the platform's process. Never refund or pay outside the platform. Never ask the buyer to change or remove feedback as part of any deal. Not legal advice.
+UK English. If the listing did not mention the problem, say so plainly. Never accuse the buyer of lying; if I suspect a swapped or damaged return, tell me to keep records and use the platform's process. Never refund off the platform or link a refund to feedback. Not legal advice.
 
 [M09] Damaged in the post
-Use it when: the buyer says the item arrived broken, crushed or wet.
+Use it when: The buyer says the item arrived broken, crushed or wet.
 ----------------------------------------
 A buyer on [PLATFORM] says the item arrived damaged. Help me handle it.
 
 Item and how I packed it: [E.G. "GLASS VASE, BUBBLE WRAP, DOUBLE-WALLED BOX"]
-Postage service: [E.G. "PLATFORM LABEL" / "MY OWN TRACKED SERVICE, COMPENSATION UP TO £..."]
-Buyer's message and what they say their photos show (personal details removed):
+Postage: [E.G. "PLATFORM LABEL" / "MY OWN TRACKED SERVICE"]
+Buyer's message and what their photos show (details removed):
 [PASTE MESSAGE]
-Platform rules I have checked today (optional): [PASTE OR "NOT CHECKED"]
 
 Give me:
-1. A short checklist of what to ask the buyer for (photos of the item, the packaging and the label) and what to keep myself (proof of postage, photos of packing if I took any).
-2. Who is likely to handle the claim: the platform (for example if I used a platform label) or me with the carrier. Base this on what I told you, and if unsure write [CHECK: ...] and tell me to check the platform's help pages.
-3. A calm reply to the buyer under 80 words that asks for photos and explains the next step through the platform.
+1. What to ask the buyer for (photos of item, packaging and label) and what to keep myself (proof of postage, packing photos).
+2. Who likely handles the claim: the platform (e.g. if I used its label) or me with the carrier. If unsure, write [CHECK: ...] and tell me to check the help pages.
+3. A calm reply under 80 words asking for photos and explaining the next step through the platform.
 
-Rules: UK English. Do not blame the buyer or the carrier in the reply. Do not refuse a refund in the reply. Do not suggest settling off the platform. Not legal advice.
+UK English. Do not blame the buyer or the carrier, refuse a refund, or settle off the platform. Not legal advice.
 
 [M10] Asking for feedback, without pressure
-Use it when: a sale has gone smoothly and you want to send a thank-you that mentions feedback, fairly.
+Use it when: A sale has gone smoothly and you want to send a thank-you that mentions feedback, fairly.
 ----------------------------------------
 Write a short thank-you message to a buyer on [PLATFORM] after delivery.
 
 Item: [SHORT NAME]
-Anything nice and true to mention: [E.G. "HOPE IT FITS WELL" / "NONE"]
-Should the message mention feedback? [YES, ONE NEUTRAL LINE / NO]
+Anything nice and true to mention: [E.G. "HOPE IT FITS WELL" OR "NONE"]
+Mention feedback? [YES, ONE NEUTRAL LINE / NO]
 
 Rules:
-- UK English, under 40 words, warm and simple.
-- If feedback is mentioned, one neutral line only, such as inviting them to leave feedback if they have a moment. Never ask for "positive" or "5 star" feedback.
-- Never offer or hint at any discount, refund, freebie or reward in exchange for feedback or a review. That is against platform rules (eBay's feedback policy, for example) and UK law on fake and incentivised reviews.
-- Never ask the buyer to contact me first "before leaving feedback" in a way that suggests they should not leave honest feedback.
-- No emojis unless I ask.
+- UK English, under 40 words, no emoji unless I ask.
+- Feedback, if mentioned, in one neutral line. Never ask for "positive" or "5 star".
+- Never offer or hint at a discount, refund or reward for feedback or a review. That is against platform rules and UK law on fake and incentivised reviews.
+- Nothing that discourages honest feedback.
 
 [M11] Difficult or abusive buyer
-Use it when: a buyer is rude, threatening, demanding things not in the listing, or threatening bad feedback to get a discount.
+Use it when: A buyer is rude, threatening, demanding things not in the listing, or threatening bad feedback to get a discount.
 ----------------------------------------
 A buyer on [PLATFORM] is being difficult. Help me respond calmly and protect myself.
 
-What has happened (personal details removed):
+What happened (details removed):
 [DESCRIBE OR PASTE MESSAGES]
-What the listing actually said about the relevant point: [PASTE OR "NOT RELEVANT"]
+What the listing said on this point: [PASTE OR "NOT RELEVANT"]
 Has a sale happened? [YES / NO]
 
 Give me:
-1. A one-line read of the situation: is this a genuine problem said rudely, a demand for something not in the listing, a threat linked to feedback, or abuse?
-2. What to do: reply, reply once then stop, or do not reply. Include using the platform's report and block tools where relevant, and keeping all messages on the platform as a record.
-3. If a reply is sensible, one calm reply under 60 words.
+1. A one-line read: a genuine problem said rudely, a demand for something not in the listing, a threat linked to feedback, or abuse?
+2. What to do: reply, reply once then stop, or do not reply; use the platform's report and block tools; keep all messages on the platform as a record.
+3. If a reply makes sense, one calm reply under 60 words.
 
 Rules:
-- UK English. Calm, neutral, never sarcastic. Never insult or threaten the buyer back.
-- If the buyer has a genuine complaint about the item, the reply must still offer the platform's proper route (return or refund process). Do not refuse legal rights because the buyer is rude.
-- If the buyer is threatening negative feedback to get something not in the listing, tell me that platforms generally treat this as not allowed (eBay calls it feedback extortion) and to report it through the platform. Do not tell me to give in to it.
-- If there are threats to my safety, tell me to stop replying, report it to the platform, and contact the police if I feel at risk.
-- Never suggest sharing personal details or moving off the platform.
+- UK English. Calm and neutral. Never insult or threaten back.
+- A genuine complaint still gets the platform's proper return or refund route, however rude the buyer.
+- Threatening negative feedback to get something not in the listing is generally not allowed by platforms: tell me to report it, not give in.
+- Threats to my safety: stop replying, report to the platform, and contact the police if I feel at risk.
 
 [M12] Suspicious request or off-platform payment
-Use it when: a buyer asks to pay another way, wants your email or phone number, asks you to post to a different address, or something just feels off.
+Use it when: A buyer asks to pay another way, wants your email or number, asks you to post to a different address, or something just feels off.
 ----------------------------------------
-A buyer on [PLATFORM] has sent a request that may be risky. Help me spot the risk and reply.
+A buyer on [PLATFORM] sent a request that may be risky. Help me spot the risk and reply.
 
-The request (personal details removed):
+The request (details removed):
 [PASTE MESSAGE]
 
 Give me:
-1. A plain list of warning signs in the message (for example: paying outside the app, a link to click, "my courier will collect", asking for my email or phone, posting to a different address from the one in the order, overpaying and asking for money back).
-2. What to do: reply, decline, report through the platform, or ignore.
+1. The warning signs (e.g. paying outside the app, a link to click, "my courier will collect", asking for my email or phone, a different delivery address, overpaying and asking for money back).
+2. What to do: reply, decline, report or ignore.
 3. A short, polite reply that keeps everything on the platform.
 
-Rules: UK English. Do not help me arrange payment, contact or delivery outside the platform. Do not tell me to click any link in the message. Remind me that platform protection generally only covers sales paid for through the platform, and to check the platform's help pages on scams.
+UK English. Do not help arrange payment, contact or delivery outside the platform. Do not tell me to click any link. Remind me that platform protection generally only covers sales paid through the platform.
 
 
 ============================================================
-08 VIDEO AND TIKTOK SHOP
+MODULE 08: VIDEO AND TIKTOK SHOP
 ============================================================
 
 [V01] Faceless product video script (15 to 30 seconds)
-Use it when: you want a short, honest video of one item without showing your face or using your own voice.
+Use it when: You want a short, honest video of one item without showing your face or using your own voice.
 ----------------------------------------
-You are helping a UK seller make a short faceless product video for an item they are selling. Write in UK English.
+Write a short faceless product video script in UK English for the item in my Listing Brief.
 
-Here is my Listing Brief:
-[PASTE YOUR LISTING BRIEF]
-
-Platform the video is for: [TIKTOK / INSTAGRAM / TIKTOK SHOP / OTHER]
+Platform: [TIKTOK / INSTAGRAM / TIKTOK SHOP / OTHER]
 Length: [15 / 20 / 30] seconds
-Voice: [TEXT-TO-SPEECH VOICEOVER / ON-SCREEN TEXT ONLY]
+Voice: [TEXT-TO-SPEECH / ON-SCREEN TEXT ONLY]
 
-Write a video script as a table with these columns: Seconds, What we see (hands-only or item-only shot), On-screen text (maximum 8 words), Voiceover line (if any).
+Table columns: Seconds, What we see (hands or item only), On-screen text (8 words or fewer), Voiceover line.
 
 Rules:
-- Only use facts from the Listing Brief. If something I would need is missing, write [CHECK: what is missing] instead of guessing.
-- No faces, no people, no reflections. Shots must be possible with a phone, a plain background and my hands.
-- Show the flaws listed in the brief on screen, clearly, in at least one shot.
-- No hype words (amazing, stunning, must-have, jaw-dropping), no "best", no invented comparisons, no health or medical claims, no fake urgency.
-- Open with a plain hook in the first 2 seconds that says what the item is.
-- End with a calm call to action that fits the platform (for example "Link in the listing" or "Details in the description"). Do not mention other platforms or ask buyers to pay outside the platform.
-- After the table, give me a one-line caption and a list of any [CHECK: ...] items.
+- Only facts from the brief. Missing facts become [CHECK: ...].
+- No faces, people or reflections. Every shot possible with a phone, a plain background and my hands.
+- Show every flaw in the brief clearly in at least one shot.
+- First 2 seconds say plainly what the item is. End with a calm line such as "Details in the listing".
+- No hype, "best", comparisons, health claims, fake urgency or other platform names.
+- After the table, a one-line caption and the list of [CHECK] items.
+
+My Listing Brief:
+[PASTE YOUR LISTING BRIEF HERE]
 
 [V02] Hands-only shot list and showcase ideas
-Use it when: you know what the item is but not how to film it without a face or a model.
+Use it when: You know what the item is but not how to film it without a face or a model.
 ----------------------------------------
-You are a UK product videographer who only films hands and products, never faces. Write in UK English.
+I film products with my hands only, never faces. Give me 8 short shot ideas I can film in under 20 minutes for the item in my Listing Brief. UK English.
 
-Here is my Listing Brief:
-[PASTE YOUR LISTING BRIEF]
+My kit: [PHONE ONLY / PHONE AND TRIPOD]
+Where I can film: [E.G. KITCHEN TABLE BY A WINDOW, WHITE SHEET]
 
-My kit: [PHONE ONLY / PHONE AND TRIPOD / PHONE, TRIPOD AND RING LIGHT]
-Where I can film: [E.G. KITCHEN TABLE BY A WINDOW, WHITE BEDSHEET, BLANK WALL]
-
-Give me 8 short shot ideas I can film in under 20 minutes. For each shot give: shot name, how to set it up (one or two lines), what it proves to the buyer (size, texture, how it works, condition), and roughly how many seconds to film.
+For each shot: name, how to set it up (one or two lines), what it proves to the buyer (size, texture, how it works, condition) and roughly how many seconds.
 
 Rules:
-- No faces, no people wearing the item from the neck up, no mirrors that could show me. Hands, flat lays, item on a surface, or item on a plain hanger or mannequin only.
-- Include at least one shot that shows scale (next to a common object or tape measure) and at least one clear flaw shot if the brief lists flaws.
-- Only use facts from the brief. Where a shot depends on something not in the brief (for example the item lights up), write [CHECK: ...].
-- Keep the colour true: tell me to use daylight or one consistent light and no colour filters.
-- No props that could be mistaken as included with the item unless the brief says they are included.
+- Hands, flat lays, item on a surface, hanger or mannequin only. No mirrors.
+- At least one scale shot (common object or tape measure) and one clear flaw shot if the brief lists flaws.
+- Only facts from the brief. A shot that depends on something not in the brief gets [CHECK: ...].
+- Daylight or one steady light, no colour filters.
+- No props that could look included unless the brief says they are.
+
+My Listing Brief:
+[PASTE YOUR LISTING BRIEF HERE]
 
 [V03] Caption, on-screen text and hashtags for a product video
-Use it when: you have filmed the video and need the words to go with it.
+Use it when: You have filmed the video and need the words to go with it.
 ----------------------------------------
-Write in UK English for a UK audience.
+Write the words for my product video in UK English.
 
-Here is my Listing Brief:
-[PASTE YOUR LISTING BRIEF]
-
-Here is a short description of my video, shot by shot:
-[DESCRIBE YOUR SHOTS, E.G. "1. FLAT LAY 2. CLOSE-UP OF LABEL 3. FLAW UNDER ARM"]
-
+My shots, in order: [E.G. "1. FLAT LAY 2. CLOSE-UP OF LABEL 3. FLAW UNDER ARM"]
 Platform: [TIKTOK / INSTAGRAM / TIKTOK SHOP]
 
 Give me:
-1. On-screen text for each shot (maximum 8 words each, plain and readable on a phone).
-2. One caption under 150 characters that says what the item is, the size or key spec, and the condition in plain words.
-3. 3 to 5 relevant hashtags (item type, brand if genuine, category). No trending hashtags that have nothing to do with the item, no platform names, no hashtags that suggest a brand the item is not.
+1. On-screen text for each shot, 8 words or fewer, readable on a phone.
+2. One caption under 150 characters: what it is, size or key spec, and condition in plain words.
+3. 3 to 5 relevant hashtags (item type, its own brand, category).
 
-Rules: only use facts from the brief; write [CHECK: ...] for anything missing; no hype, no "best", no health claims, no fake urgency, no emojis unless I ask for them.
+Rules: only facts from my brief; [CHECK: ...] for anything missing; no hype, "best", health claims, fake urgency or emoji; no trending hashtags unrelated to the item, no platform names, no other brands.
 
-[V04] TikTok Shop UK product title
-Use it when: you are adding a product to TikTok Shop UK and want a clear, compliant title.
-----------------------------------------
-You are a UK e-commerce copywriter who knows TikTok Shop UK's product listing guidelines. Write in UK English.
-
-Here is my Listing Brief:
-[PASTE YOUR LISTING BRIEF]
-
-Write 3 product title options for TikTok Shop UK.
-
-Rules:
-- Structure: brand (if I own or am authorised to sell it) + product type + key feature or material + size, quantity or capacity + colour or variant.
-- Keep each title clear and readable, roughly 60 to 120 characters, and tell me the character count for each. [CHECK: the current maximum title length in TikTok Shop Seller Center]
-- Do NOT include: promotional wording (sale, x% off, free postage, limited offer), my shop name or URL, the word TikTok, other marketplace names, symbols or special characters (such as ! * ~ | and similar), emojis, or ALL CAPS words.
-- Do NOT include health, medical or results claims, "best", "number one" or comparisons with other brands.
-- Only use facts from the brief. If a key fact is missing (size, material, quantity), put [CHECK: ...] in its place.
-- After the titles, list any words I should double-check because they could be a claim.
+My Listing Brief:
+[PASTE YOUR LISTING BRIEF HERE]
 
 [V05] TikTok Shop UK product description
-Use it when: you need a TikTok Shop product description that is clear, scannable on a phone and free of risky claims.
+Use it when: You need a TikTok Shop product description that is clear, scannable on a phone and free of risky claims.
 ----------------------------------------
-You are a UK e-commerce copywriter who knows TikTok Shop UK's content rules. Write in UK English.
+Write a TikTok Shop UK product description in UK English for the product in my Listing Brief.
 
-Here is my Listing Brief:
-[PASTE YOUR LISTING BRIEF]
-
-Write a TikTok Shop UK product description with:
-1. An opening line (one sentence) that says what the product is and who it is for.
-2. 4 to 6 short feature lines, each starting with the feature, then the plain benefit. One fact per line.
-3. A "What's included" line.
-4. A "Size and specs" section (dimensions, weight, capacity, materials) using only facts in the brief.
-5. A "Care" line if the brief gives care instructions.
+1. One opening sentence: what it is and who it is for.
+2. 4 to 6 short feature lines: the feature, then the plain benefit. One fact per line.
+3. "What's included", then "Size and specs" (dimensions, weight, capacity, materials), then "Care" if the brief gives it.
 
 Rules:
-- At least 30 words, and keep it concise (aim for under 500 characters for the main text if possible).
-- Only use facts from the brief. Write [CHECK: ...] where anything is missing. Never invent materials, certifications, dimensions or safety standards.
-- No health or medical claims (cure, heal, treat, prevent, relieve, detox, anti-bacterial unless certified and I say so), no "clinically proven", no "best", no comparisons with named brands, no guarantees, no fake urgency, no mention of other platforms or payment outside TikTok Shop.
-- Avoid vague green claims ("eco-friendly", "sustainable") unless the brief gives a specific, checkable fact (for example "made from FSC-certified bamboo" with the certificate details).
-- Plain, friendly UK tone. No hype words, no emojis unless I ask.
-- After the description, list every phrase you think could count as a claim so I can check it.
+- At least 30 words, aim for under 500 characters.
+- Only facts from the brief. Missing facts become [CHECK: ...]. Never invent materials, certifications, dimensions or safety standards.
+- No health or medical claims (cure, treat, prevent, relieve, detox, antibacterial), "clinically proven", "best", brand comparisons, guarantees or fake urgency.
+- No vague green claims ("eco-friendly") without a specific, checkable fact.
+- No other platforms or payment outside TikTok Shop. No emoji unless I ask.
+- Then list every phrase that could count as a claim, so I can check it.
+
+My Listing Brief:
+[PASTE YOUR LISTING BRIEF HERE]
 
 [V06] TikTok Shop claims check and safe rewrite
-Use it when: you have written (or been sent) product copy or a video script and want to catch risky claims before TikTok Shop or a buyer does.
+Use it when: You have product copy or a video script and want to catch risky claims before TikTok Shop or a buyer does.
 ----------------------------------------
-You are a careful UK compliance reviewer for TikTok Shop UK product listings and short videos. Write in UK English.
+Check this TikTok Shop UK copy or video script line by line. UK English.
 
-Here is the copy or script to check:
-[PASTE TITLE, DESCRIPTION, CAPTION OR VIDEO SCRIPT]
-
-Here is my Listing Brief (the facts I can back up):
-[PASTE YOUR LISTING BRIEF]
-
-Go through the copy line by line. Make a table with: Original wording, Why it might be a problem, Safer rewrite.
+Table columns: Original wording, Why it might be a problem, Safer rewrite.
 
 Flag anything that:
-- makes or implies a health or medical claim (cure, heal, treat, prevent, relieve, detox, boosts immunity, pain relief, anti-ageing results);
-- makes a result or performance claim not supported by the brief;
-- uses "best", "number one", "better than", or compares with a named brand;
-- uses fake urgency or scarcity, or a discount that is not real;
-- uses vague green or safety claims (eco-friendly, non-toxic, 100% safe, chemical-free) without a specific fact in the brief;
-- mentions TikTok or another platform in a product title, or points buyers to pay or order elsewhere;
-- uses symbols, promo wording or a shop URL in the product title;
-- states a fact that is not in the brief (mark these [CHECK: ...]).
+- makes or implies a health or medical claim (cure, heal, treat, prevent, relieve, detox, pain relief, anti-ageing results);
+- makes a result or performance claim the brief does not support;
+- uses "best", "number one", "better than" or compares with a named brand;
+- uses fake urgency or a discount that is not real;
+- makes vague green or safety claims (eco-friendly, non-toxic, 100% safe) without a fact in the brief;
+- mentions TikTok or another platform in a title, or sends buyers elsewhere to pay;
+- states a fact not in the brief (mark [CHECK: ...]).
 
-Then give me the full cleaned-up version. Only use facts from the brief. Do not add new claims while rewriting. This is a helpful check, not legal advice.
+Then give the full cleaned-up version, adding no new claims. This is a check, not legal advice.
+
+Copy or script to check:
+[PASTE TITLE, DESCRIPTION, CAPTION OR SCRIPT]
+
+My Listing Brief:
+[PASTE YOUR LISTING BRIEF HERE]
 
 [V07] Live-selling run-sheet
-Use it when: you are planning a TikTok Shop LIVE (or any live selling session) and want a calm, honest plan to follow, without showing your face.
+Use it when: You are planning a TikTok Shop LIVE, or any live selling session, and want a calm, honest plan without showing your face.
 ----------------------------------------
-You are helping a UK seller plan a faceless live selling session (hands and products only, voice or on-screen text). Write in UK English.
+Plan a faceless live selling session (hands and products only, voice or on-screen text). UK English.
 
-Session length: [30 / 45 / 60] minutes
+Length: [30 / 45 / 60] minutes
 Platform: [TIKTOK SHOP LIVE / OTHER]
-Products (paste a short Listing Brief for each, or name, price, key facts and flaws):
+Products (short brief for each: name, price, key facts, flaws):
 [PASTE PRODUCTS]
-Any real offer I am running (only if genuine): [E.G. "BUY 2 GET FREE POSTAGE" OR "NONE"]
+A real offer I am running (only if genuine): [E.G. "BUY 2 GET FREE POSTAGE" OR "NONE"]
 
-Create a run-sheet as a table with: Time, Segment, What is on camera (hands-only or product-only), What I say or show on screen, Notes.
-
-Include:
-- A 2-minute welcome that says what we are showing today and how to buy (through the platform's own checkout only).
-- One segment per product: show it, give the key facts, show flaws or limits honestly, show size or scale, say the price.
-- A "questions" slot every 10 to 15 minutes.
-- A 2-minute wrap-up.
+Run-sheet table: Time, Segment, On camera, What I say or show, Notes. Include a 2-minute welcome (what we are showing and how to buy through the platform's checkout), one segment per product (facts, flaws, scale, price), a questions slot every 10 to 15 minutes, and a 2-minute wrap-up.
 
 Also give me:
-- 6 short, honest answers to common live questions (size, postage time, returns, "is it genuine", "can you do cheaper", "can I pay another way"). Returns answers must respect UK consumer rights and the platform's return policy. The payment answer must say we only take payment through the platform.
-- A list of things NOT to say on the live: health or medical claims, "best", fake countdowns or fake stock levels, invented discounts, other platform names, asking viewers to pay or message off the platform.
+- 6 short honest answers to common questions (size, postage time, returns, "is it genuine", "can you do cheaper", "can I pay another way"). Returns answers respect UK consumer rights and the platform's policy. Payment only through the platform.
+- A "do not say" list: health claims, "best", fake countdowns or stock levels, invented discounts, other platform names, paying or messaging off the platform.
 
-Only use facts from what I pasted. Write [CHECK: ...] for anything missing.
-
-[V08] Turn one listing into a week of short videos
-Use it when: you want a few different short videos for the same item or product without repeating yourself or stretching the truth.
-----------------------------------------
-Write in UK English.
-
-Here is my Listing Brief:
-[PASTE YOUR LISTING BRIEF]
-
-Give me 5 different faceless short video ideas for this item, each 10 to 20 seconds. Use these angles:
-1. "What you get" (unboxing or laying out contents).
-2. "Size check" (next to everyday objects or a tape measure).
-3. "Details close-up" (label, stitching, material, texture, ports, fixings).
-4. "Honest condition" (shows any flaws in the brief and explains them calmly).
-5. "How it is packed" (folded or wrapped, into the parcel).
-
-For each idea give: a hook line (maximum 8 words), 3 to 4 shots (hands or item only), one line of on-screen text per shot, and a caption under 150 characters.
-
-Rules: only facts from the brief; [CHECK: ...] for anything missing; no hype, no "best", no health claims, no fake urgency, no faces, no trending audio suggestions I would need rights for (tell me to use the platform's commercial-use music library if I add music).
+Only use facts I pasted. [CHECK: ...] for anything missing.
 
 
 ============================================================
-09 RULE CHECKER
+MODULE 09: RULE CHECKER
 ============================================================
 
 [C01] Accuracy check: listing against brief
-Use it when: every time, on every platform, before you post.
+Use it when: Every time, on every platform, before you post.
 ----------------------------------------
-Check my listing for accuracy against my Listing Brief. You are a careful proofreader, not a copywriter. Do not rewrite the listing unless I ask.
+Check my listing for accuracy against my Listing Brief. You are a careful proofreader, not a copywriter. Do not rewrite unless I ask.
 
-My Listing Brief (the facts):
+Report, as a short list:
+1. Added facts: anything in the listing NOT in the brief (a material, size, year, "original box", "never worn").
+2. Changed facts: anything that differs from the brief.
+3. Missing or softened flaws: every flaw in the brief must appear, worded no more mildly.
+4. Missing essentials that are in the brief (measurements, what is included, postage).
+5. Misleading wording, even if technically true ("like new" for an item with wear).
+6. American spellings or US sizes.
+
+Label each point Must fix, Should fix or Fine, then a verdict: "Ready to post" or "Fix first". UK English. If unsure, write [CHECK: ...].
+
+My Listing Brief:
 [PASTE YOUR LISTING BRIEF HERE]
 
-My listing (title, description, item specifics or tags, condition, price and postage):
+My listing (title, description, specifics or tags, condition, price, postage):
 [PASTE YOUR LISTING HERE]
-
-Check and report, as a short list:
-1. Added facts: anything in the listing that is NOT in the brief (for example a material, a size, a year, "original box", "never worn"). These are invented until I confirm them.
-2. Changed facts: anything that differs from the brief (size, colour, measurements, condition, what is included, price, postage).
-3. Missing flaws: every flaw in the brief must appear in the listing, worded no more mildly than in the brief. List any that are missing or softened.
-4. Missing essentials: anything a buyer would need that is in the brief but not the listing (measurements, what is included, postage).
-5. Misleading wording: anything that could give a false impression, even if technically true (for example "like new" for an item with wear in the brief).
-6. UK English: any American spellings or sizes (for example "color", "pants" for trousers, US sizes without the UK size).
-
-Label each point Must fix, Should fix or Fine. Finish with a one-line verdict: "Ready to post" or "Fix first".
-
-Rules: UK English. Only compare what I have pasted. If you are unsure, write [CHECK: ...]. Do not add new selling points.
 
 [C02] eBay UK pre-post check
-Use it when: you are about to post on eBay UK.
+Use it when: You are about to post on eBay UK.
 ----------------------------------------
-Check my eBay UK listing before I post. Report problems, do not rewrite unless I ask.
-
-My Listing Brief:
-[PASTE YOUR LISTING BRIEF HERE]
-
-My listing (title, item specifics, condition, description, photos described in a line each, price, postage, returns):
-[PASTE YOUR LISTING HERE]
+Check my eBay UK listing before I post. Report problems, do not rewrite.
 
 I sell as a: [PRIVATE SELLER / BUSINESS SELLER]
+eBay rule text I copied today (optional): [PASTE OR "NONE"]
 
-Current rule text I copied from eBay's help pages today (optional but best):
-[PASTE CURRENT RULE TEXT OR "NONE"]
+Check (pasted rule text wins if different):
+- Title 80 characters or fewer including spaces. Show the count.
+- Plain words: no shouting capitals, "L@@K", hype or keyword lists.
+- No other brand's name, and no "style", "inspired by" or "dupe" next to one. Nothing suggesting a replica.
+- Specifics and condition match the brief; every flaw is described.
+- Photos of the actual item, no added text, borders or watermarks.
+- No contact details or dealing outside eBay.
+- Business seller: nothing implying buyers have no rights.
 
-Check against these points (our summary at the time of writing, September 2026; where my pasted rule text differs, follow the pasted text):
-- Title is 80 characters or fewer, including spaces. Count it and show the count.
-- Title is plain words that describe the item: no ALL CAPS shouting, no "L@@K", no hype, no unrelated brand names, no keyword lists.
-- No brand comparisons or lookalike wording ("style", "like", "inspired by", "dupe") next to a brand the item is not made by. eBay's rules say "dupe" with a brand name is not allowed and comparisons with other products are not allowed.
-- Nothing suggests counterfeit, replica or fake items.
-- Item specifics match the brief and are not stuffed with extra keywords.
-- Condition chosen matches the brief, and the description describes every flaw.
-- Photos: of the actual item, no stock photos for used items, no added text, borders or watermarks.
-- No request to pay, message or buy outside eBay, and no contact details (email, phone, social handles, websites).
-- Returns wording: if I am a business seller, it must not say or imply buyers have no rights (for example "no returns, no refunds under any circumstances").
+Label issues Must fix, Should fix or Fine, then a verdict. UK English. If a rule may have changed, write [CHECK: eBay help pages].
 
-Output: a numbered list of issues labelled Must fix, Should fix or Fine, then the title character count, then a one-line verdict.
+My Listing Brief:
+[PASTE YOUR LISTING BRIEF HERE]
 
-Rules: UK English. Only judge what I pasted. If a rule is unclear or may have changed, write [CHECK: eBay help pages] rather than stating it as fact. This is a checklist, not legal advice.
+My listing (title, specifics, condition, description, photos in a line each, price, postage, returns):
+[PASTE YOUR LISTING HERE]
 
 [C03] Vinted pre-post check
-Use it when: you are about to post on Vinted.
+Use it when: You are about to post on Vinted.
 ----------------------------------------
-Check my Vinted listing before I post. Report problems, do not rewrite unless I ask.
+Check my Vinted listing before I post. Report problems, do not rewrite.
+
+Selling my own things, or trading as a business? [OWN THINGS / BUSINESS]
+Vinted rule text I copied today (optional): [PASTE OR "NONE"]
+
+Check (pasted rule text wins if different):
+- Brand field and title show the real brand only. Nothing suggesting a replica.
+- Condition matches the brief; every flaw is described.
+- Photos: my own, current condition, whole item first, labels on branded items, every defect. No stock, found-online or watermarked images, no collages.
+- UK size (or clearly labelled), with measurements where useful.
+- No contact details or paying or messaging outside Vinted.
+- If BUSINESS: remind me Vinted says traders should use Vinted Pro, whose sellers must accept returns within 14 days of receipt.
+
+Label issues Must fix, Should fix or Fine, then a verdict. UK English. If unsure, write [CHECK: Vinted help pages].
 
 My Listing Brief:
 [PASTE YOUR LISTING BRIEF HERE]
 
-My listing (title, description, category, brand, size, condition, colour, material, photos described in a line each, price):
+My listing (title, description, fields, photos in a line each, price):
 [PASTE YOUR LISTING HERE]
-
-Am I selling my own second-hand things, or trading as a business? [OWN THINGS / BUSINESS]
-
-Current rule text I copied from Vinted's help pages or catalogue rules today (optional but best):
-[PASTE CURRENT RULE TEXT OR "NONE"]
-
-Check against these points (our summary at the time of writing, September 2026; where my pasted rule text differs, follow the pasted text):
-- The brand field and title show the real brand. No other brand names used to attract searches.
-- Nothing suggests replica, fake or counterfeit items.
-- Condition chosen matches the brief, and every flaw is described.
-- Photos: my own photos of this item in its current condition, whole item in the first photo, labels shown for branded items, every defect shown, no stock, watermarked or found-online images, no collages.
-- Size is given in UK sizing (or clearly labelled if it is a European or US size), with measurements where useful.
-- No request to pay or message outside Vinted, and no contact details.
-- If I said BUSINESS: remind me that Vinted says traders should use Vinted Pro, and that Pro sellers must accept returns within 14 days of receipt. Tell me to check the current Vinted Pro terms.
-
-Output: numbered issues labelled Must fix, Should fix or Fine, then a one-line verdict.
-
-Rules: UK English. Only judge what I pasted. If unsure about a rule, write [CHECK: Vinted help pages]. This is a checklist, not legal advice.
 
 [C04] Depop pre-post check
-Use it when: you are about to post on Depop.
+Use it when: You are about to post on Depop.
 ----------------------------------------
-Check my Depop listing before I post. Report problems, do not rewrite unless I ask.
+Check my Depop listing before I post. Report problems, do not rewrite.
+
+Depop rule text I copied today (optional): [PASTE OR "NONE"]
+
+Check (pasted rule text wins if different):
+- The first line says clearly what the item is. Short, clear description with measurements and signs of wear.
+- 5 hashtags or fewer, each relevant. Show the count. Flag unrelated brands or trend words.
+- No other brand names, "dupe", "replica" or "inspired by [BRAND]".
+- Every flaw in the brief described in plain words.
+- Photos of the actual item, within the app's limit (8 when we checked).
+- UK size or clearly labelled, with measurements.
+- No contact details, social handles or paying outside Depop.
+
+Label issues Must fix, Should fix or Fine, then a verdict. UK English. If unsure, write [CHECK: Depop help pages].
 
 My Listing Brief:
 [PASTE YOUR LISTING BRIEF HERE]
 
-My listing (description including any hashtags, category, brand, size, condition, colour, photos described in a line each, price, postage):
+My listing (description with hashtags, fields, photos in a line each, price):
 [PASTE YOUR LISTING HERE]
-
-Current rule text I copied from Depop's help pages today (optional but best):
-[PASTE CURRENT RULE TEXT OR "NONE"]
-
-Check against these points (our summary at the time of writing, September 2026; where my pasted rule text differs, follow the pasted text):
-- The first line clearly says what the item is. Depop advises short, clear descriptions with measurements and signs of wear.
-- Hashtags: no more than 5, and each one relevant to this item (its brand, style or type). Flag unrelated brands or trend words used only to get views.
-- No other brand names used to attract searches, no "dupe", "replica", "inspired by [BRAND]" or similar.
-- Every flaw in the brief is described and photographed.
-- Photos: of the actual item, up to the app's current limit (8 at the time of writing).
-- Size in UK sizing or clearly labelled, with measurements.
-- No request to pay or message outside Depop, and no contact details or social handles.
-
-Output: numbered issues labelled Must fix, Should fix or Fine, a count of hashtags, then a one-line verdict.
-
-Rules: UK English. Only judge what I pasted. If unsure about a rule, write [CHECK: Depop help pages]. This is a checklist, not legal advice.
 
 [C05] Etsy pre-post check
-Use it when: you are about to post a handmade, vintage or craft supply listing on Etsy.
+Use it when: You are about to post a handmade, vintage or craft supply listing on Etsy.
 ----------------------------------------
-Check my Etsy listing before I post. Report problems, do not rewrite unless I ask.
+Check my Etsy listing before I post. Report problems, do not rewrite.
+
+Did I use AI in making the item, its design or the photos? [NO / YES, HOW]
+Etsy rule text I copied today (optional): [PASTE OR "NONE"]
+
+Check (pasted rule text wins if different):
+- Title 140 characters or fewer, a clear description. Show the count.
+- 13 tags or fewer, each 20 characters or fewer. Count each. Flag repeats and tags that do not fit.
+- Item type (handmade, vintage, craft supply) fits the brief. Vintage with no age: [CHECK: Etsy's vintage rule].
+- If AI was used, remind me Etsy expects it to be disclosed (Creativity Standards).
+- Photos show what the buyer receives; mockups must not mislead.
+- No brands, characters or crests I have no right to use.
+- Materials, eco and health claims backed by the brief. Returns wording keeps UK buyers' rights (see C11).
+
+Label issues Must fix, Should fix or Fine, then a verdict. UK English. If unsure, write [CHECK: Etsy help pages].
 
 My Listing Brief:
 [PASTE YOUR LISTING BRIEF HERE]
 
-My listing (title, the 13 tags, description, category, what type of item it is: handmade, vintage or craft supply, materials, photos described in a line each, price, postage, returns):
+My listing (title, tags, description, item type, materials, photos in a line each, price, returns):
 [PASTE YOUR LISTING HERE]
-
-Did I use AI in making the item or its design? [NO / YES, HOW]
-Did I use AI to create or heavily edit the photos? [NO / YES, HOW]
-
-Current rule text I copied from Etsy's help pages or policies today (optional but best):
-[PASTE CURRENT RULE TEXT OR "NONE"]
-
-Check against these points (our summary at the time of writing, September 2026; where my pasted rule text differs, follow the pasted text):
-- Title is 140 characters or fewer. Count it. It reads as a clear description, not a list of repeated keywords.
-- 13 tags or fewer, each 20 characters or fewer. Count each. Flag repeated tags or tags that do not describe this item.
-- The item type (handmade, vintage, craft supply) fits the brief. Vintage on Etsy has an age requirement, so flag it as [CHECK: Etsy's current vintage rule] if the brief does not give an age.
-- If AI was used for the item or design, remind me that Etsy's rules expect this to be disclosed, and to check the current Creativity Standards for how.
-- Photos show what the buyer will actually receive. If photos are mockups or AI-assisted, flag that the listing must not mislead and to check Etsy's current rules.
-- No other brand names, characters or logos I do not have the right to use (for example a football club crest or a cartoon character on a handmade item).
-- Materials and any eco or health claims are backed by the brief.
-- Returns wording does not remove UK buyers' legal rights (see C11).
-
-Output: numbered issues labelled Must fix, Should fix or Fine, the title character count, tag count and any tag over 20 characters, then a one-line verdict.
-
-Rules: UK English. Only judge what I pasted. If unsure about a rule, write [CHECK: Etsy help pages]. This is a checklist, not legal advice.
 
 [C06] Amazon UK pre-post check
-Use it when: you are about to publish or update a product listing on Amazon UK.
+Use it when: You are about to publish or update an Amazon UK product listing. Skip this if you only sell second-hand.
 ----------------------------------------
-Check my Amazon UK product listing before I publish. Report problems, do not rewrite unless I ask.
+Check my Amazon UK product listing before I publish. Report problems, do not rewrite.
 
-My Listing Brief (product facts):
+Media product (books, music, video)? [YES / NO]
+Seller Central rule text I copied today (optional): [PASTE OR "NONE"]
+
+Check (pasted rule text wins if different):
+- Title 75 characters or fewer including spaces for non-media (from 27 July 2026). Show the count. Media: [CHECK: current limit].
+- Item Highlights 125 characters or fewer.
+- Title: no ! $ ? _ { } ^ ¬ ¦ unless in the brand, no word more than twice (small words excepted).
+- No promotional phrases, emoji, or refund and guarantee claims.
+- Nothing claimed that is not in the brief (materials, sizes, compatibility, certifications).
+- Search terms: no title words, competitor brands or irrelevant words. [CHECK: byte limit.]
+- Main image: plain white background, product only.
+- Flag any health, safety or eco claim for C8.
+
+Label issues Must fix, Should fix or Fine, then a verdict. UK English. If unsure, write [CHECK: Seller Central help].
+
+My Listing Brief:
 [PASTE YOUR LISTING BRIEF HERE]
 
-My listing (title, Item Highlights if used, bullet points, description, backend search terms, main image described in a line, other images):
+My listing (title, Item Highlights, bullets, description, search terms, images in a line each):
 [PASTE YOUR LISTING HERE]
-
-Is this a media product (books, music, video)? [YES / NO]
-
-Current rule text I copied from Seller Central today (optional but best):
-[PASTE CURRENT RULE TEXT OR "NONE"]
-
-Check against these points (our summary at the time of writing, September 2026; where my pasted rule text differs, follow the pasted text):
-- Title length: from 27 July 2026, Amazon announced titles of 75 characters or fewer including spaces for all categories except media. Count it and show the count. (Media titles have a longer limit, [CHECK: current limit].)
-- Item Highlights (if used): 125 characters or fewer.
-- Title: no special characters such as ! $ ? _ { } ^ ¬ ¦ unless part of the brand name. The same word no more than twice (little words like "and", "for", "the" do not count).
-- Title and bullets: no promotional phrases ("best seller", "free delivery", "sale", "guaranteed", "top quality"), no emojis, no refund or guarantee claims.
-- Nothing claimed that is not in the brief (materials, sizes, compatibility, certifications).
-- Backend search terms: do not repeat title words, no competitor brand names, not stuffed with irrelevant words. [CHECK: current byte limit in Seller Central.]
-- Main image: my description suggests a plain white background, product only, no text, logos or extra items not included.
-- Any health, safety or eco claim is flagged for C8.
-
-Output: numbered issues labelled Must fix, Should fix or Fine, the title character count, repeated-word check, then a one-line verdict.
-
-Rules: UK English. Only judge what I pasted. If unsure about a rule, write [CHECK: Seller Central help]. This is a checklist, not legal advice.
 
 [C07] TikTok Shop UK pre-post check
-Use it when: you are about to publish a product on TikTok Shop UK, or post a video that shows it.
+Use it when: You are about to publish a product on TikTok Shop UK, or a video that shows it. Skip this if you only sell second-hand on the resale apps.
 ----------------------------------------
-Check my TikTok Shop UK product listing (and video script, if I include it) before I publish. Report problems, do not rewrite unless I ask.
+Check my TikTok Shop UK listing (and video script, if included) before I publish. Report problems, do not rewrite.
 
-My Listing Brief (product facts):
+Seller Center rule text I copied today (optional): [PASTE OR "NONE"]
+
+Check (pasted rule text wins if different):
+- Title at least 15 characters, accurate. No promotions, seller name, web address, platform names or symbols.
+- No claim anywhere that it cures, treats, prevents or relieves any condition. No weight loss claims or before and after images.
+- Images: square, front of product first, colour, no text or watermarks beyond product branding.
+- Realistic AI images or video labelled, and not changing how the product looks.
+- Nothing claimed that is not in the brief. No fake urgency or invented reviews.
+- The product is allowed: [CHECK: prohibited and restricted products lists].
+
+Label issues Must fix, Should fix or Fine, then a verdict. UK English. If unsure, write [CHECK: Seller Center].
+
+My Listing Brief:
 [PASTE YOUR LISTING BRIEF HERE]
 
-My product title, description, images described in a line each, and video script or captions (if any):
+My title, description, images in a line each, and any video script:
 [PASTE YOUR LISTING HERE]
-
-Current rule text I copied from TikTok Shop Seller University today (optional but best):
-[PASTE CURRENT RULE TEXT OR "NONE"]
-
-Check against these points (our summary at the time of writing, September 2026; where my pasted rule text differs, follow the pasted text):
-- Title: at least 15 characters, accurate and concise (product type, material, key features, quantity, size). No promotions ("x% off"), no seller name or URL, no mention of TikTok or other platforms, no symbols or special characters.
-- No claims anywhere (title, description, images or video) that the product cures, treats, prevents or relieves any disease or condition.
-- No weight loss claims without diet and exercise, no before and after weight images, no "easy", "guaranteed" or "permanent" weight loss.
-- Images: square, the main image shows the front of the product, colour only, no text or watermarks other than product branding.
-- AI content: realistic AI images or video are labelled, and AI does not make the product look different from reality (texture, features, size).
-- Nothing claimed that is not in the brief. No fake urgency ("only 2 left" when untrue), no invented reviews or customer numbers.
-- The product itself is allowed. [CHECK: TikTok Shop UK's current prohibited and restricted products list.]
-
-Output: numbered issues labelled Must fix, Should fix or Fine, the title character count, then a one-line verdict.
-
-Rules: UK English. Only judge what I pasted. If unsure about a rule, write [CHECK: TikTok Shop Seller University]. This is a checklist, not legal advice.
 
 [C08] Risky claims scan
-Use it when: your listing includes any claim about health, safety, the environment, quality, origin or popularity, on any platform.
+Use it when: Your listing claims anything about health, safety, the environment, quality, origin or popularity, on any platform.
 ----------------------------------------
-Scan my listing for risky claims. List them, explain the risk in one line each, and suggest a safer, accurate alternative that uses only facts from my brief.
+Scan my listing for risky claims. For each: quote it, name the type, rate it Must fix or Should fix, and suggest an accurate alternative from my brief.
+
+Platform: [PLATFORM]
+Evidence I hold (certificate, test report, care label, receipt): [LIST OR "NONE"]
+
+Types:
+1. Health: cures, heals, relieves, soothes, detox, hypoallergenic, antibacterial, "safe for babies".
+2. Environmental: eco-friendly, sustainable, biodegradable, plastic-free, natural, non-toxic. UK green claims must be clear, specific and backed by evidence.
+3. Authenticity and origin: genuine, authentic, handmade (if not by me), vintage (no age), "made in [COUNTRY]", designer.
+4. Quality and safety: waterproof, unbreakable, tested, certified, CE or UKCA, BPA-free.
+5. Popularity and urgency: best seller, "only 1 left" (if untrue), selling fast.
+6. Condition: like new, perfect, flawless, mint (if the brief lists wear).
+
+If my evidence supports a claim, it can stay, worded specifically ("100% cotton, per care label", not "natural"). UK English. Do not invent evidence or approve a claim because it is common. Not legal advice.
 
 My Listing Brief:
 [PASTE YOUR LISTING BRIEF HERE]
 
 My listing:
 [PASTE YOUR LISTING HERE]
-
-Platform: [PLATFORM]
-Evidence I actually hold (for example a certificate, a test report, a care label, a receipt): [LIST OR "NONE"]
-
-Look for these types of claim:
-1. Health and medical: cures, treats, prevents, heals, relieves, soothes a condition, boosts immunity, detox, weight loss, "hypoallergenic", "antibacterial", "safe for babies".
-2. Environmental: eco-friendly, sustainable, green, biodegradable, compostable, plastic-free, carbon neutral, "natural", "non-toxic". In the UK, environmental claims should be truthful, clear, specific and backed by evidence. Vague terms like "eco-friendly" are risky on their own.
-3. Authenticity and origin: genuine, authentic, 100% real, original, handmade (if not made by the seller), vintage (without an age), "made in [COUNTRY]", "designer".
-4. Quality and safety: waterproof, unbreakable, "tested", "certified", "CE marked", "UKCA", "BPA-free", "fire resistant".
-5. Popularity and urgency: best seller, most popular, "everyone loves it", "only 1 left" (if untrue), "selling fast", "price going up".
-6. Condition: "like new", "perfect", "flawless", "as new", "mint" (if the brief lists any wear).
-
-For each claim found: quote it, name the type, rate it Must fix or Should fix, and suggest a replacement. If I have listed evidence that supports a claim, say it can stay, but tell me to keep the evidence and word it specifically (for example "Cotton, 100%, per care label" rather than "natural").
-
-Rules: UK English. Do not invent evidence. Do not suggest a claim is fine just because it is common. This is a checklist, not legal advice.
 
 [C09] Brands, authenticity and trademark wording
-Use it when: your item is branded, looks similar to a brand, or you are tempted to write "genuine", "authentic", "style", "inspired by" or "dupe".
+Use it when: Your item is branded, looks like a brand, or you are tempted to write "genuine", "authentic", "style", "inspired by" or "dupe".
 ----------------------------------------
-Check the brand and authenticity wording in my listing.
+Check the brand and authenticity wording in my [PLATFORM] listing.
 
-My Listing Brief (including how I know the brand, for example label, receipt, serial number, where I bought it):
+1. List every brand, designer, character, team or trademark name in it.
+2. For each, say whether the brief shows the item is made or licensed by that brand. If not: Must fix.
+3. Flag "style", "inspired by", "dupe", "replica", "1:1" or "same as [BRAND]". Counterfeits are illegal and banned on every major platform, and using another brand's name for searches is against most platforms' rules. Suggest describing the item by its own features.
+4. "Genuine" or "authentic": if the brief gives proof (receipt, bought from the brand), state the proof plainly. If not, remove the word and rely on clear photos of labels.
+5. Handmade items with a character, crest or logo: I may need the rights holder's permission [CHECK: the platform's intellectual property rules].
+
+UK English. Never help a replica appear genuine. If the brief suggests it may be fake, tell me plainly not to list it as that brand. Not legal advice.
+
+My Listing Brief (including how I know the brand):
 [PASTE YOUR LISTING BRIEF HERE]
 
 My listing:
 [PASTE YOUR LISTING HERE]
 
-Platform: [PLATFORM]
-
-Do the following:
-1. List every brand, designer, character, team or trademark name in the listing.
-2. For each, say whether the brief shows the item is actually made by or officially licensed by that brand. If not, flag it Must fix.
-3. Flag any "style", "inspired by", "look-alike", "dupe", "replica", "copy", "1:1", "mirror quality" or "same as [BRAND]" wording. Explain that selling counterfeit or replica items is not allowed on any major platform and is illegal, and that using another brand's name to attract searches is against most platforms' rules even for a non-branded item. Suggest describing the item by its own features instead (for example "black quilted crossbody bag with chain strap").
-4. For "genuine" or "authentic": if the brief gives proof (receipt, authenticity card, serial number, bought from the brand), suggest stating the proof plainly instead ("bought from [SHOP] in [YEAR], receipt included"). If the brief gives no proof, suggest removing the word and relying on clear photos of labels and marks.
-5. If the item is handmade and uses a character, team crest or logo, flag that I may need permission from the rights holder. [CHECK: the platform's intellectual property rules.]
-
-Rules: UK English. Never help word a listing so that a replica or counterfeit item appears genuine. If the brief suggests the item may be fake, tell me plainly not to list it as that brand. This is a checklist, not legal advice.
-
-[C10] Keyword stuffing check
-Use it when: your title, tags or description feel crammed, or you have pasted in a list of search words.
-----------------------------------------
-Check my listing for keyword stuffing and fix it with me.
-
-My Listing Brief:
-[PASTE YOUR LISTING BRIEF HERE]
-
-My listing (title, tags, hashtags, item specifics or search terms, description):
-[PASTE YOUR LISTING HERE]
-
-Platform: [PLATFORM]
-
-Flag any of these, quoting the words:
-1. Words repeated in the title more than needed.
-2. Brand names, character names or product types that do not describe this item.
-3. Lists of search words at the end of the description ("keywords: dress gown frock party wedding summer...").
-4. Tags or hashtags that describe other items, trends or sizes this item is not.
-5. Misspellings added on purpose to catch searches.
-6. Size, colour or condition words that contradict the brief (for example "S M L" for a single size).
-
-Then suggest a cleaner version of the title and tags that uses only accurate words from the brief, within the platform's limits.
-Platform limits I have checked today (optional): [PASTE OR "NONE"]
-
-Rules: UK English. Only use facts from the brief. If you do not know the platform's current limit, write [CHECK: current limit]. Accurate words buyers actually search for are fine; the aim is relevance, not fewer words.
-
 [C11] UK consumer law wording check
-Use it when: your listing or shop has returns, refunds or guarantee wording, or you are not sure whether you are selling as a private seller or a business.
+Use it when: Your listing or shop has returns, refunds or guarantee wording, or you are not sure whether you are a private seller or a business.
 ----------------------------------------
-Check the returns, refunds and guarantee wording in my listing or shop policy against UK consumer law basics. This is a practical check, not legal advice.
+Check my returns, refunds and guarantee wording against UK consumer law basics. A practical check, not legal advice.
 
 I sell as a: [PRIVATE SELLER CLEARING MY OWN THINGS / I BUY TO RESELL / I MAKE ITEMS TO SELL / NOT SURE]
 Platform: [PLATFORM]
-My returns, refunds or guarantee wording:
+My wording:
 [PASTE WORDING]
-My listing (for context):
-[PASTE YOUR LISTING HERE]
 
-Do the following:
-1. Seller status: if I said "I buy to resell" or "I make items to sell", explain that I am likely to be treated as a trader under consumer law, even on a personal account, and should check gov.uk guidance. If "NOT SURE", list the kind of factors HMRC and consumer law look at (such as buying to resell, regularity, profit motive) and tell me to check gov.uk. Do not decide for me.
-2. If I am a trader, flag any wording that tries to remove or limit buyers' legal rights, such as "no refunds", "no returns under any circumstances", "sold as seen" or "buyer pays all return costs even if faulty". Explain in plain words that UK buyers from traders generally have:
-   - a right to goods that are of satisfactory quality, fit for purpose and as described;
-   - a short-term right to reject faulty goods, generally within 30 days;
-   - for most online orders, a right to cancel within 14 days of delivery, with some exceptions (for example personalised or made-to-order items).
-3. If I am a private seller, explain that the item must still be as described, that a "no returns" policy covers change of mind only, and that platform buyer protection can still apply if the item is not as described, faulty or damaged.
-4. Flag any guarantee or warranty I offer that is vague ("guaranteed quality"), and suggest a clear version or removing it.
+1. Status: buying to resell or making to sell means I am likely a trader, even on a personal account. If NOT SURE, list the factors looked at (buying to resell, how often, profit motive) and tell me to check gov.uk. Do not decide for me.
+2. Trader: flag wording that limits buyers' rights ("no refunds", "sold as seen", "buyer pays return costs even if faulty"). Buyers from traders generally have goods of satisfactory quality, fit for purpose and as described; a short-term right to reject faulty goods, generally within 30 days; and for most online orders a 14-day right to cancel, with exceptions such as personalised items.
+3. Private seller: the item must still be as described, "no returns" covers change of mind only, and platform protection can still apply.
+4. Flag vague guarantees ("guaranteed quality").
 5. Suggest fair, clear replacement wording for my status.
 
-Rules: UK English. Never suggest wording that denies legal rights. Mark this clearly as not legal advice, and tell me to check gov.uk, Citizens Advice and the platform's current help pages.
+UK English. Never suggest wording that denies legal rights. Tell me to check gov.uk, Citizens Advice and the platform's help pages.
 
 
 ============================================================
-10 BATCH WORKFLOW
+MODULE 10: BATCH WORKFLOW
 ============================================================
 
 [W01] Build your reusable "shop style" instruction
-Use it when: you are fed up of re-explaining your shop to the AI every time. Do this once, save the result, and paste it at the start of every session.
+Use it when: You are fed up of re-explaining your shop to the AI. Do this once, save the result, and paste it at the start of every session.
 ----------------------------------------
-Help me write a short, reusable "shop style instruction" I can paste at the start of any AI chat before I list items. Write in UK English.
+Write me a short, reusable "shop style instruction" to paste at the start of any AI chat before I list items. UK English, no more than 12 numbered lines, starting "You are my listing assistant for a UK shop."
 
-Here are my answers:
-- Platforms I sell on: [E.G. VINTED AND EBAY UK]
-- What I mostly sell: [E.G. WOMEN'S CLOTHING SIZES 8 TO 18, SOME HOMEWARE]
-- Am I a private seller or a business? [PRIVATE / BUSINESS]
-- My tone: [E.G. FRIENDLY AND PLAIN, NO EMOJIS / A FEW EMOJIS OK ON DEPOP]
-- How I describe condition: [E.G. NEW WITH TAGS / NEW WITHOUT TAGS / VERY GOOD / GOOD / SATISFACTORY]
+My answers:
+- Platforms: [E.G. VINTED AND EBAY UK]
+- What I mostly sell: [E.G. WOMEN'S CLOTHING, SIZES 8 TO 18]
+- Private seller or business: [PRIVATE / BUSINESS]
+- Tone: [E.G. FRIENDLY AND PLAIN, NO EMOJI]
+- Condition words I use: [E.G. NEW WITH TAGS / VERY GOOD / GOOD / SATISFACTORY]
 - How I measure: [E.G. PIT TO PIT AND LENGTH IN CM, LAID FLAT]
-- My postage: [E.G. POSTED WITHIN 2 WORKING DAYS, SMOKE-FREE HOME, PET-FREE HOME, ONLY IF TRUE]
-- My returns line: [E.G. "PRIVATE SELLER: I DON'T ACCEPT RETURNS FOR CHANGE OF MIND, BUT YOU'RE COVERED IF THE ITEM ISN'T AS DESCRIBED" OR THE BUSINESS RETURNS POLICY]
-- Words or things I never want: [E.G. "STUNNING", "RARE" UNLESS IT IS, EMOJIS IN TITLES]
-- Anything else: [E.G. ALWAYS LIST FLAWS FIRST IN THE CONDITION SECTION]
+- Postage line: [E.G. "POSTED WITHIN 2 WORKING DAYS"; ADD SMOKE-FREE OR PET-FREE ONLY IF TRUE]
+- Words I never want: [E.G. "STUNNING", "RARE" UNLESS IT IS]
 
-Turn this into a numbered instruction of no more than 15 lines that starts with "You are my listing assistant for a UK shop." It must include these fixed rules:
-- Use UK English spelling, UK sizes and £.
-- Only use facts I give you in each Listing Brief. Never invent brand, size, material, measurements, age, condition or included items.
-- Where something is missing, write [CHECK: what is missing] instead of guessing.
-- Respect each platform's title and description limits. For eBay UK, keep titles to 80 characters or fewer.
-- No hype words, no keyword stuffing, no misleading claims, no health or medical claims, no fake urgency, no mentions of other platforms in a listing, and never suggest payment outside the platform.
-- Always state flaws clearly.
-Keep it short enough to fit in a phone note.
+It must include these fixed rules: UK English, UK sizes and £. Only facts from each Listing Brief; never invent brand, size, material, measurements, age, condition or contents. Missing facts become [CHECK: what is missing]. eBay UK titles 80 characters or fewer. State flaws clearly. No hype, keyword stuffing, misleading or health claims, fake urgency, other platform names, or payment outside the platform.
 
 [W02] Start a batch session (list up to 10 items in one chat)
-Use it when: you have a pile of items photographed and noted, and want to list them in one sitting.
+Use it when: You have a pile of items photographed and noted, and want to list them in one sitting.
 ----------------------------------------
 [PASTE YOUR SHOP STYLE INSTRUCTION FROM W1]
 
 We are going to list [NUMBER, UP TO 10] items in this chat. Platform for this batch: [EBAY UK / VINTED / DEPOP / ETSY].
 
 How this works:
-- I will paste one Listing Brief at a time, each starting with "ITEM [NUMBER]".
-- For each item, reply with: Title, Description, Condition line, [ITEM SPECIFICS FOR EBAY / TAGS FOR ETSY / HASHTAGS FOR DEPOP / NOTHING EXTRA FOR VINTED], and a list of any [CHECK: ...] items.
-- Keep the same layout for every item so I can copy quickly on my phone.
-- Do not carry facts from one item to another. Each item uses only its own brief.
-- Do not add a price unless I include one in the brief.
-- When I type "DONE", stop and wait for my next instruction.
+- I will paste one Listing Brief at a time, each starting "ITEM [NUMBER]".
+- For each, reply with: Title, Description, Condition line, [ITEM SPECIFICS FOR EBAY / TAGS FOR ETSY / HASHTAGS FOR DEPOP / FIELDS FOR VINTED], and a list of [CHECK: ...] items.
+- Same layout every time so I can copy quickly on my phone.
+- Never carry facts from one item to another.
+- No price unless the brief includes one.
+- When I type "DONE", stop and wait.
 
-Reply with "Ready for ITEM 1" and nothing else.
+Reply "Ready for ITEM 1" and nothing else.
 
 [W03] Turn messy notes for 10 items into Listing Briefs in one go
-Use it when: you have scribbled quick notes for a stack of items and want them turned into proper briefs before you start W2.
+Use it when: You have quick notes for a stack of items and want proper briefs before you start W2.
 ----------------------------------------
-Write in UK English.
+Turn my rough notes for [NUMBER] items into Listing Briefs. UK English.
 
-Below are my rough notes for [NUMBER] items, one line or short paragraph each. Turn each one into a Listing Brief using exactly these headings:
-Item number | What it is | Brand | Size | Measurements | Colour | Material | Condition and flaws | What's included | Platform | Postage | Price floor
+Headings for each: Item number | What it is | Brand | Size | Measurements | Colour | Material | Condition and flaws | Included | Platform | Postage | Price floor
 
 Rules:
-- Only use what is in my notes. Do not guess brand, size, material, age or value.
-- Where a heading has no information, write [CHECK: ...] with a short prompt of what I need to find (for example [CHECK: look at care label for material]).
-- If a note mentions a flaw, it must appear in "Condition and flaws".
-- Keep each brief to one short block so I can check it on my phone.
-- At the end, give me one combined "to find" list grouped by item, so I can check everything in one trip to the pile.
+- Only what is in my notes. Do not guess brand, size, material, age or value.
+- Empty headings get [CHECK: ...] with what to find (e.g. [CHECK: care label for material]).
+- Every flaw mentioned goes in "Condition and flaws".
+- One short block per item. At the end, one combined "to find" list grouped by item, so I can check everything in one trip to the pile.
 
 My notes:
-[PASTE YOUR NOTES]
+[PASTE YOUR NOTES HERE]
 
 [W04] Batch output as a table or CSV for bulk upload tools
-Use it when: you have finished a batch and want it in a spreadsheet, or in a CSV to import into a bulk listing or cross-listing tool.
+Use it when: You have finished a batch and want it in a spreadsheet, or a CSV to import into a bulk listing or cross-listing tool.
 ----------------------------------------
-Take all the items we have written in this chat and put them into one table.
+Put all the items we have written in this chat into one table.
 
-Columns (in this order): [PASTE THE COLUMN HEADERS YOUR TOOL OR SPREADSHEET USES, OR USE: SKU, Title, Description, Condition, Brand, Size, Colour, Material, Category, Price, Quantity, Postage]
+Columns, in this order: [PASTE YOUR TOOL'S COLUMN HEADERS, OR USE: SKU, Title, Description, Condition, Brand, Size, Colour, Material, Category, Price, Quantity, Postage]
 
 Rules:
-- One row per item. Use the exact facts already agreed in this chat. Do not add or change anything.
-- Leave a cell as [CHECK] if the fact is missing. Do not guess.
-- If I ask for CSV: output plain CSV in a single code block, comma-separated, with every cell wrapped in double quotes. Replace any line breaks inside descriptions with a space. Replace any double quote inside a cell with two double quotes.
-- Use UK English and £ with no currency symbol in the Price column (numbers only, for example 12.50).
-- After the table or CSV, list any rows that still contain [CHECK].
+- One row per item. Use the facts already agreed in this chat. Do not add or change anything.
+- Missing facts: [CHECK]. Do not guess.
+- For CSV: one code block, comma-separated, every cell in double quotes, line breaks inside cells replaced with a space, any double quote inside a cell doubled.
+- Price column: numbers only, e.g. 12.50.
+- Afterwards, list any rows that still contain [CHECK].
 
 Output format: [TABLE / CSV]
 
 [W05] Batch accuracy check before you post
-Use it when: you have a batch of listings ready and want a second pair of eyes to spot invented details, missing flaws and rule problems.
+Use it when: You have a batch of listings ready and want a second pair of eyes to spot invented details, missing flaws and rule problems.
 ----------------------------------------
-Act as a careful UK listings checker. Write in UK English.
+Act as a careful UK listings checker. For each item, compare the listing with its brief and report:
+1. Any detail NOT in the brief (possible invention).
+2. Any flaw in the brief that is missing or softened.
+3. Title length problems (eBay UK over 80 characters; other platforms [CHECK: current limit]).
+4. Hype, keyword stuffing, misleading or health claims, fake urgency or other platform names.
+5. American spellings or US sizes.
 
-Below are my Listing Briefs (the facts) and then the listings written from them. For each item, compare the listing with its brief and report:
-1. Any detail in the listing that is NOT in the brief (possible invention).
-2. Any flaw in the brief that is missing or softened in the listing.
-3. Title length problems (eBay UK: over 80 characters; other platforms: [CHECK: the platform's current limit]).
-4. Hype words, keyword stuffing (the same word repeated, lists of unrelated brands), misleading claims, health claims, fake urgency or other platform names.
-5. American spellings or US sizes where a UK one is needed.
-
-Give one short row per item: Item number | Problems found | Suggested fix. If an item is fine, write "No problems found".
-Do not rewrite whole listings unless I ask.
+One short row per item: Item number | Problems found | Suggested fix. If fine, write "No problems found". Do not rewrite whole listings. UK English.
 
 BRIEFS:
 [PASTE BRIEFS]
@@ -1915,67 +1787,61 @@ LISTINGS:
 [PASTE LISTINGS]
 
 [W06] Weekly listing routine planner
-Use it when: you want a realistic weekly plan that fits your evenings and weekends, so listing does not pile up.
+Use it when: You want a realistic weekly plan that fits your evenings and weekends, so listing does not pile up.
 ----------------------------------------
-Help me plan a weekly listing routine. Write in UK English. Be realistic, not motivational.
+Help me plan a weekly listing routine. UK English. Realistic, not motivational.
 
-My situation:
 - Time I have: [E.G. MONDAY AND WEDNESDAY EVENINGS 1 HOUR, SATURDAY MORNING 2 HOURS]
-- Roughly how many items I want to list each week: [NUMBER]
+- Items I want to list each week: [NUMBER]
 - Platforms: [LIST]
-- Where I get stock: [E.G. OWN WARDROBE, CAR BOOTS, CHARITY SHOPS, MY OWN HANDMADE ITEMS]
-- What slows me down most: [E.G. PHOTOS, MEASURING, WRITING, POSTING PARCELS]
-- Post office or drop-off times near me: [E.G. LOCKER AVAILABLE 24 HOURS]
+- What slows me down most: [E.G. PHOTOS, MEASURING, WRITING, POSTING]
+- Drop-off options near me: [E.G. LOCKER, 24 HOURS]
 
 Give me:
-1. A day-by-day plan in a table: Day, Time, Task, Roughly how many items, Tools or prompts to use (refer to prompt IDs like W2, W4, R prompts for pricing, M prompts for messages).
-2. Batch tasks together (all photos in one go, all measuring in one go, all writing in one AI session).
+1. A day-by-day table: Day, Time, Task, Roughly how many items, Prompts to use (by ID, e.g. W2, W5, R prompts, M prompts).
+2. Batch similar tasks: all photos in one go, all measuring in one go, all writing in one AI session.
 3. A 10-minute daily check for messages and dispatch.
-4. A weekly 20-minute review: what sold, what has had no interest for a while, what to refresh or reprice.
-Keep it simple enough to follow on a phone. Do not promise any sales results.
+4. A weekly 20-minute review: what sold, what has had no interest, what to refresh or reprice.
+
+Simple enough to follow on a phone. Do not promise any sales results.
 
 [W07] Repurpose one listing across platforms
-Use it when: you have written a good listing for one platform and want versions for others without starting again.
+Use it when: You have a good listing for one platform and want versions for others without starting again.
 ----------------------------------------
 [PASTE YOUR SHOP STYLE INSTRUCTION FROM W1, IF YOU HAVE ONE]
 
-Here is my Listing Brief:
-[PASTE YOUR LISTING BRIEF]
-
-Here is the listing I already wrote for [PLATFORM]:
+Here is the listing I wrote for [PLATFORM]:
 [PASTE THE LISTING]
 
-Rewrite it for: [LIST TARGET PLATFORMS, E.G. VINTED, DEPOP, ETSY]
+Rewrite it for: [TARGET PLATFORMS, E.G. VINTED, DEPOP]
 
-For each platform, give me what that platform needs:
-- eBay UK: title of 80 characters or fewer, description, item specifics list.
-- Vinted: short plain title, description with measurements and condition.
-- Depop: description that starts with the key details, plus up to 5 relevant hashtags.
-- Etsy: title (plain and readable, most important words first), description, and up to 13 tags of 20 characters or fewer. Only for handmade, vintage (20 years or older) or craft supplies items.
-- Amazon UK: title of 75 characters or fewer for most categories (Amazon's rule from 27 July 2026; media categories differ), an Item Highlights line of 125 characters or fewer, no banned symbols (! $ ? _ { } ^ ¬ ¦ unless part of the brand), no word more than twice, up to 5 bullet points, description.
-- TikTok Shop UK: title with no symbols, promo words or platform names, and a short description of at least 30 words.
+Give each platform what it needs:
+- eBay UK: title of 80 characters or fewer, description, item specifics.
+- Vinted: short plain title, description with measurements and condition, field values.
+- Depop: description starting with the key details, up to 5 relevant hashtags.
+- Etsy (handmade, vintage of 20 years or more, or craft supplies only): readable title under 140 characters, description, 13 tags of 20 characters or fewer.
 
 Rules:
-- Only use facts from the brief. The facts must be the same on every platform. Change the format and tone, not the facts.
-- Write [CHECK: ...] for anything a platform needs that is not in the brief.
-- Do not mention any other platform inside a listing, and never suggest buying or paying elsewhere.
-- No hype, no keyword stuffing, no misleading or health claims.
-- Tell me if the item looks unsuitable for a platform (for example, not handmade or vintage for Etsy, or a used item for a new-only listing) instead of forcing it.
+- Same facts on every platform, from the brief only. Change format and tone, not facts.
+- Missing facts become [CHECK: ...].
+- No other platform named inside a listing. No hype, stuffing or misleading claims.
+- Tell me if the item does not suit a platform instead of forcing it.
+
+My Listing Brief:
+[PASTE YOUR LISTING BRIEF HERE]
 
 [W08] Refresh a batch of quiet listings
-Use it when: some listings have had little interest for a couple of weeks and you want to improve them honestly, without keyword stuffing or fake price tricks.
+Use it when: Some listings have had little interest for a couple of weeks and you want to improve them honestly, without stuffing or fake price tricks.
 ----------------------------------------
-Write in UK English.
+Below are [NUMBER] listings that have had little interest. For each I have added the Listing Brief, current title and description, days listed, and any views, likes or watchers.
 
-Below are [NUMBER] listings that have had little interest. For each one I have added the Listing Brief, the current title and description, how long it has been listed, and any views, likes or watchers I can see.
+[FOR EACH ITEM PASTE: BRIEF / TITLE / DESCRIPTION / DAYS LISTED / VIEWS, LIKES OR WATCHERS]
 
-[FOR EACH ITEM PASTE: BRIEF / CURRENT TITLE / CURRENT DESCRIPTION / DAYS LISTED / VIEWS, LIKES OR WATCHERS]
+For each item suggest:
+1. A clearer title using words buyers search, most important first, within the platform's limit.
+2. The top 1 or 2 description fixes (missing measurements, unclear condition, missing brand or size).
+3. Photo fixes (daylight, plain background, label or flaw close-up).
+4. Whether a price check is worth doing, and what sold listings I should search for (describe the search, do not invent prices).
 
-For each item, suggest:
-1. A clearer title (using words a buyer would actually search for, most important first, within the platform's limit).
-2. The top 1 or 2 fixes to the description (missing measurements, unclear condition, missing brand or size).
-3. Photo fixes to try (for example daylight, plain background, label close-up, flaw close-up).
-4. Whether a price check is worth doing, and what sold listings I should look up myself to compare (describe the search, do not invent prices).
-
-Rules: only use facts from the brief; [CHECK: ...] for missing facts; no keyword stuffing, no "rare" or "vintage" unless the brief supports it, no fake discounts, no misleading claims. Do not promise it will sell.
+UK English. Only facts from the brief; [CHECK: ...] for gaps. No stuffing, no "rare" or "vintage" unless the brief supports it, no fake discounts. Do not promise it will sell.
 

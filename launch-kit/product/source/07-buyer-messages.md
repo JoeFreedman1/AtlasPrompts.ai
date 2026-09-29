@@ -50,7 +50,7 @@ Rules:
 My Listing Brief:
 [PASTE YOUR LISTING BRIEF HERE]
 ```
-**What good output looks like,** for "Hi, is it from a smoke free home? Can you post Saturday?" with notes "yes smoke free, I post Mondays and Thursdays":
+**What good output looks like** for "Hi, is it from a smoke free home? Can you post Saturday?" with notes "yes smoke free, I post Mondays and Thursdays":
 
 > "Hi, thanks for asking. Yes, it comes from a smoke-free home. I post on Mondays and Thursdays, so if you buy before Monday it will go out then."
 
@@ -94,7 +94,7 @@ Rules: UK English, warm and calm, never sarcastic or lecturing. Never below my f
 My Listing Brief (includes my floor):
 [PASTE YOUR LISTING BRIEF HERE]
 ```
-**What good output looks like,** for a Le Creuset casserole, list £65, floor £48, offer £20:
+**What good output looks like** for a Le Creuset casserole, list £65, floor £48, offer £20:
 
 > - **Counter:** "Thanks for the offer. £20 is a bit too low for me, as similar ones have sold for more. I could do £55, and I will send it through the offer button."
 > - **Decline:** "Thanks for your interest, but I cannot go that low on this one. You are welcome to make another offer."
@@ -143,7 +143,7 @@ My postage facts:
 
 Rules: UK English. Only these facts; anything else becomes [CHECK: ...]. Never promise a delivery date: say when I post and the service's usual time ("usually", not "guaranteed"). Collection only if I said yes, with payment on the platform. Never suggest undervaluing or marking anything as a gift on customs forms.
 ```
-**What good output looks like,** for "Could you send it first class? I need it for Friday.":
+**What good output looks like** for "Could you send it first class? I need it for Friday.":
 
 > "Hi, I post with Tracked 48 as standard, the next working day after purchase. I cannot promise Friday delivery, sorry. [CHECK: can you offer a faster service, and at what cost?]"
 
@@ -199,7 +199,7 @@ Part 2: a polite reply under 80 words, using the platform's own return or refund
 My Listing Brief:
 [PASTE YOUR LISTING BRIEF HERE]
 ```
-**What good output looks like,** for a private seller on Vinted, no returns, and "It's lovely but doesn't fit, can I send it back?":
+**What good output looks like** for a private seller on Vinted, no returns, and "It's lovely but doesn't fit, can I send it back?":
 
 > **Part 1:** change of mind, not a fault, so accepting it is your choice. Not legal advice: check Vinted's current help pages.
 >
@@ -227,7 +227,7 @@ Buyer's complaint (details removed), and what their photos show:
 
 UK English. If the listing did not mention the problem, say so plainly. Never accuse the buyer of lying; if I suspect a swapped or damaged return, tell me to keep records and use the platform's process. Never refund off the platform or link a refund to feedback. Not legal advice.
 ```
-**What good output looks like,** for the Next jumper: listing said "light bobbling under both arms", buyer says "there is a hole on the back":
+**What good output looks like** for the Next jumper: listing said "light bobbling under both arms", buyer says "there is a hole on the back":
 
 > 1. **Bobbling:** covered. **Hole on the back:** not mentioned anywhere. Likely a fair claim.
 > 3. "Hi, I am sorry about that. I did not spot a hole when I listed it, so thank you for telling me. I am happy to accept a return for a full refund through the app, or offer a partial refund if you would prefer to keep it. Just let me know which suits."
@@ -253,7 +253,7 @@ Give me:
 
 UK English. Do not blame the buyer or the carrier, refuse a refund, or settle off the platform. Not legal advice.
 ```
-**What good output looks like,** for a Denby mug set in bubble wrap and a single-wall box, sent with the seller's own tracked service:
+**What good output looks like** for a Denby mug set in bubble wrap and a single-wall box, sent with the seller's own tracked service:
 
 > 2. **Claim:** your own service, so you would usually claim from the carrier yourself while the platform handles the buyer's request. [CHECK: the carrier's claim rules and time limit.]
 > 3. "Hi, I am really sorry it arrived damaged. Could you send photos of the mugs and of the box and packaging, including the outside? That helps me sort it out with the carrier. I will make sure it is put right through the app."
@@ -302,7 +302,7 @@ Rules:
 - Threatening negative feedback to get something not in the listing is generally not allowed by platforms: tell me to report it, not give in.
 - Threats to my safety: stop replying, report to the platform, and contact the police if I feel at risk.
 ```
-**What good output looks like,** for "Refund me £10 or I'll leave negative feedback", after delivery, item as described:
+**What good output looks like** for "Refund me £10 or I'll leave negative feedback", after delivery, item as described:
 
 > 1. **Read:** a threat linked to feedback. **Do:** reply once, then report it through the platform.
 > 3. "Hi, I am sorry you are not happy. The item was sent as described and photographed. If there is a problem with it, please open a request through the app and it will be looked at properly."
@@ -326,7 +326,7 @@ Give me:
 
 UK English. Do not help arrange payment, contact or delivery outside the platform. Do not tell me to click any link. Remind me that platform protection generally only covers sales paid through the platform.
 ```
-**What good output looks like,** for "Can I pay you by bank transfer so we avoid fees? Send me your number.":
+**What good output looks like** for "Can I pay you by bank transfer so we avoid fees? Send me your number.":
 
 > 1. **Warning signs:** paying outside the app, asking for your number. **Do:** decline politely, report if they push.
 > 3. "Hi, thanks, but I only sell through the app so we are both covered. You are welcome to buy or make an offer here."

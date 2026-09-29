@@ -57,7 +57,7 @@ eBay's item specific fields for my category:
 My Listing Brief:
 [PASTE YOUR LISTING BRIEF HERE]
 ```
-**What good output looks like,** for the Next jumper:
+**What good output looks like** for the Next jumper:
 
 > | Item specific | Value |
 > |---|---|
@@ -89,7 +89,7 @@ Rules:
 My Listing Brief:
 [PASTE YOUR LISTING BRIEF HERE]
 ```
-**What good output looks like,** for a handmade hammered sterling silver stacking ring:
+**What good output looks like** for a handmade hammered sterling silver stacking ring:
 
 > silver stacking ring (20), hammered silver ring (20), sterling silver band (20), thin silver ring (16), minimalist ring (15), handmade silver ring (20), textured ring (13), dainty silver ring (18), everyday ring (13), 925 silver ring (15), simple stacking band (20), hand forged ring (16), womens silver ring (18)
 
@@ -113,7 +113,7 @@ Rules:
 My Listing Brief:
 [PASTE YOUR LISTING BRIEF HERE]
 ```
-**What good output looks like,** for the brown suede Topshop jacket, 90s style:
+**What good output looks like** for the brown suede Topshop jacket, 90s style:
 
 > #suedejacket (what it is), #topshop (its own brand), #brownsuede (colour and material), #90sstyle (style, era not claimed), #croppedjacket (the fit). Spares: #buttonfront, #womensjacket, #suede
 
@@ -138,7 +138,7 @@ My Listing Brief:
 My current title and description (if written):
 [PASTE HERE]
 ```
-**What good output looks like,** for black Levi's 501 jeans, W30 L32:
+**What good output looks like** for black Levi's 501 jeans, W30 L32:
 
 > - **Fields:** Category: Jeans > Straight fit [CHECK: men's or women's, from the label]. Brand: Levi's. Size: W30 L32. Condition: Good. Colour: Black. Material: Cotton.
 > - **Search words:** levis 501, black jeans, straight leg jeans (all in title). Faded black jeans: could go in the description as "faded to a washed charcoal".
@@ -166,7 +166,7 @@ My title, Item Highlights and bullets:
 My Listing Brief:
 [PASTE YOUR LISTING BRIEF HERE]
 ```
-**What good output looks like,** for the "Hartwell Home" linen napkins:
+**What good output looks like** for the "Hartwell Home" linen napkins:
 
 > serviettes dinner fabric reusable washable dining kitchen flax natural textured square hemmed table setting (106 bytes)
 >
@@ -225,7 +225,7 @@ My listing (title, description, tags or hashtags, specifics):
 My Listing Brief:
 [PASTE YOUR LISTING BRIEF HERE]
 ```
-**What good output looks like,** for a Vinted listing of an unbranded floral midi dress, size 12:
+**What good output looks like** for a Vinted listing of an unbranded floral midi dress, size 12:
 
 > | Problem | Risk | Replacement |
 > |---|---|---|

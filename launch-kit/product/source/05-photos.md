@@ -42,7 +42,7 @@ Rules:
 My Listing Brief:
 [PASTE YOUR LISTING BRIEF HERE]
 ```
-**What good output looks like,** for Clarks black leather Chelsea boots, UK 6, light creasing across the toes, small scuff on the left heel:
+**What good output looks like** for Clarks black leather Chelsea boots, UK 6, light creasing across the toes, small scuff on the left heel:
 
 > 1. **Cover:** pair side on, plain floor, phone at boot height.
 > 2. **Front:** both toes to camera. Shows the creasing honestly.
@@ -72,7 +72,7 @@ My Listing Brief:
 
 Extra flaws I have noticed since: [EXTRA FLAWS OR "NONE"]
 ```
-**What good output looks like,** for the Next jumper with light bobbling under both arms:
+**What good output looks like** for the Next jumper with light bobbling under both arms:
 
 > - **How to shoot it:** lay it flat, lift one arm out, shoot from about 20 cm in window light from the side (side light shows bobbling better). Ruler along the patch.
 > - **Caption:** "Light bobbling under both arms, shown close up."
@@ -130,7 +130,7 @@ UK English. Only comment on what I describe or show. If you cannot tell, write [
 My Listing Brief:
 [PASTE YOUR LISTING BRIEF HERE]
 ```
-**What good output looks like,** for a Tefal kettle with limescale inside and a small chip on the lid:
+**What good output looks like** for a Tefal kettle with limescale inside and a small chip on the lid:
 
 > - **Missing:** the base plate and plug, and the inside showing the limescale (it is in your brief, so show it).
 > - **Mismatch:** photo 3 has two mugs beside the kettle. Retake without them.
@@ -208,7 +208,7 @@ UK English. Be honest, not reassuring. If the edit would hide or reduce any flaw
 My Listing Brief:
 [PASTE YOUR LISTING BRIEF HERE]
 ```
-**What good output looks like,** for a cream Zara linen shirt with a faint mark on the left cuff, edited onto an AI model:
+**What good output looks like** for a cream Zara linen shirt with a faint mark on the left cuff, edited onto an AI model:
 
 > 1. **Risk: high.** An AI model image generates a new version of the shirt. Fit, colour and creases may change and the cuff mark may disappear.
 > 2. **Safer:** hang it on a door against a plain wall in daylight, add the cuff close-up, and give chest and length measurements for fit.

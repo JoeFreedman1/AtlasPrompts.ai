@@ -36,7 +36,7 @@ My Listing Brief:
 Sold listings I copied (messy is fine):
 [PASTE YOUR SOLD LISTINGS HERE]
 ```
-**What good output looks like,** for the Next jumper (invented figures):
+**What good output looks like** for the Next jumper (invented figures):
 
 > | Title | Sold £ | Postage £ | Total £ | Condition | Match |
 > |---|---|---|---|---|---|
@@ -75,7 +75,7 @@ My Listing Brief (includes my floor):
 My sold comps (ideally the table from R1):
 [PASTE COMPS HERE]
 ```
-**What good output looks like,** for Clarks black leather Chelsea boots, UK 6, floor £18 (invented figures):
+**What good output looks like** for Clarks black leather Chelsea boots, UK 6, floor £18 (invented figures):
 
 > 1. **Good matches sold for** £20 to £32. Median £25.
 > 2. **Condition:** similar to most. The heel scuff puts you slightly below the two best.
@@ -106,7 +106,7 @@ My Listing Brief:
 My closest sold comps:
 [PASTE COMPS HERE]
 ```
-**What good output looks like,** for a turquoise Switch Lite, light screen scratches, no box, with a case (invented figures):
+**What good output looks like** for a turquoise Switch Lite, light screen scratches, no box, with a case (invented figures):
 
 > 1. **No box:** down. Boxed comps sold at £95 and £100, unboxed at £82 and £85: about £12 to £15 less.
 > 2. **Screen scratches:** down. The comps do not show this. Judgement: price towards the lower end of unboxed.
@@ -138,7 +138,7 @@ Give me:
 
 UK English, pounds, show the sums. Use only my numbers; missing postage becomes [CHECK: postage]. No "today only" or "last chance".
 ```
-**What good output looks like,** for three Frugi tops, age 4 to 5 (£8, £8, £7 list; £6, £6, £5 floor), invented figures:
+**What good output looks like** for three Frugi tops, age 4 to 5 (£8, £8, £7 list; £6, £6, £5 floor), invented figures:
 
 > 1. **List total** £23. **Floor total** £17.
 > 2. **Postage saving:** £8.40 separately against £3.20 as one parcel, so £5.20.
@@ -171,7 +171,7 @@ UK English, pounds. Never accept or counter below my floor. No fake scarcity or 
 My Listing Brief (includes my floor):
 [PASTE YOUR LISTING BRIEF HERE]
 ```
-**What good output looks like,** for a Le Creuset casserole, list £65, floor £48:
+**What good output looks like** for a Le Creuset casserole, list £65, floor £48:
 
 > 1. **Accept** at £58 or more.
 > 2. **Counter** offers from £48 to £57 at £56.
@@ -203,7 +203,7 @@ UK English, pounds, round numbers. Never below my floor. Do not say any step wil
 My Listing Brief (includes my floor):
 [PASTE YOUR LISTING BRIEF HERE]
 ```
-**What good output looks like,** for a cream Zara linen shirt, size S, listed 21 days at £14, 2 likes, floor £8:
+**What good output looks like** for a cream Zara linen shirt, size S, listed 21 days at £14, 2 likes, floor £8:
 
 > 1. **First:** no chest measurement in your brief [CHECK: add pit to pit and length]. Check the cover photo is not crumpled.
 > 2. **Week 1:** fix those, keep £14. **Week 2:** £12, and send an offer to the likers if the app allows. **Week 4:** £10. **Week 6:** £8, stop.
@@ -235,7 +235,7 @@ Rules:
 - Use ONLY the fees I pasted, never your own knowledge. Unclear fees become [CHECK: ...].
 - This is a sum, not advice. Only call it "profit" if I gave a cost price.
 ```
-**What good output looks like,** for a sale at £15, buyer pays £3.50 postage, real postage £3.20, packaging £0.30, and fees invented for this example (10% of the total including postage, plus £0.30 per order):
+**What good output looks like** for a sale at £15, buyer pays £3.50 postage, real postage £3.20, packaging £0.30, and fees invented for this example (10% of the total including postage, plus £0.30 per order):
 
 > | Line | Sum | £ |
 > |---|---|---|
