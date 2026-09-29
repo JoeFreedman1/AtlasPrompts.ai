@@ -96,6 +96,10 @@ def main():
         except UnicodeDecodeError:
             continue
         cust = rel.startswith(CUSTOMER_FACING)
+        if path.endswith(".html"):
+            # ignore CSS and scripts so "color" and "center" in code are not flagged
+            text = re.sub(r"<(style|script)[^>]*>.*?</\1>", lambda m: "\n" * m.group(0).count("\n"), text, flags=re.S | re.I)
+            text = re.sub(r"\s(style|class)=\"[^\"]*\"", "", text)
         for n, line in enumerate(text.split("\n"), 1):
             where = "%s:%d" % (rel, n)
             if "—" in line or "–" in line:
@@ -108,17 +112,22 @@ def main():
                     errors.append("%s  real-looking email address: %s" % (where, em))
             if cust:
                 low = line.lower()
+                negated = re.search(r"\b(never|no|not|avoid|avoids|banned|ban|don't|do not|without|must not|nothing|mustn't)\b", low)
+                costy = re.search(r"\b(budget|spend|spent|ads?|plan|fee|fees|subscription|excluding vat|cap|capped|minimum|daily|allowed)\b", low)
                 for pat in INCOME:
                     if re.search(pat, low):
+                        if negated or (pat.startswith("£") and costy):
+                            continue
                         errors.append("%s  possible income claim: /%s/" % (where, pat))
                 for pat in HYPE:
                     if re.search(pat, low) and "banned" not in low and "avoid" not in low:
                         warnings.append("%s  hype word: /%s/" % (where, pat))
                 for pat in FAKE:
-                    if re.search(pat, line):
+                    if re.search(pat, line) and not negated:
                         errors.append("%s  possible fake review or invented social proof: /%s/" % (where, pat))
+                low_us = re.sub(r"seller cent(er|re)|pexels[^\n]*|search[^\n]*\"", "", low)
                 for pat, uk in US.items():
-                    if re.search(pat, low) and "americanism" not in low and "us " not in low:
+                    if re.search(pat, low_us) and "americanism" not in low and "us " not in low:
                         warnings.append("%s  American spelling? use '%s'" % (where, uk))
     for w in warnings:
         print("WARNING ", w)

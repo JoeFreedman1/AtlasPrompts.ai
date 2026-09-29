@@ -309,9 +309,10 @@ function postCard(slot,r){
  <p class="muted">${esc(r.notes)}</p></div>`}
 
 function pinCard(r){const p=D.pins[r.item];if(!p)return `<div class="card"><b>Pin</b> ${esc(r.item)} <span class="muted">(not found)</span></div>`;
+ const site=(D.state.site||'').replace(/\/$/,'');const link=(site&&p.link.startsWith('/')?site:'')+p.link;
  return `<div class="card"><div class="row"><span class="pill">${esc(p.id)}</span><span class="muted">Pinterest &middot; ${esc(r.time)} &middot; board: ${esc(p.board)}</span></div>
- <h3 style="margin:6px 0">${esc(p.title)}</h3><p>${esc(p.description)}</p><p class="muted">Link: ${esc(p.link)}</p>
- <div class="copies">${copyBtn('title',p.title)}${copyBtn('description',p.description)}${copyBtn('link',p.link)}</div>
+ <h3 style="margin:6px 0">${esc(p.title)}</h3><p>${esc(p.description)}</p><p class="muted">Link: ${esc(link)}${site?'':' (add your site address in front: set "Sales page address" in STATE.md)'}</p>
+ <div class="copies">${copyBtn('title',p.title)}${copyBtn('description',p.description)}${copyBtn('link',link)}</div>
  <details><summary>Design</summary><pre>${esc(p.design)}</pre></details></div>`}
 
 function otherCard(r){let t=r.notes;if(r.slot==='Blog'){const b=D.blog[r.item];t=`Publish ${esc(r.item)}: <b>${esc(b?b.title:'')}</b><br><span class="muted">${esc(b?b.file:'')}</span><br>${esc(r.notes)}`}else t=esc(t);
