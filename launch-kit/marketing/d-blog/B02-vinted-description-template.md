@@ -24,19 +24,19 @@ Measured flat: [measurement 1] cm, [measurement 2] cm, [measurement 3] cm.
 Happy to answer questions or send more photos.
 ```
 
-Delete any line that does not apply, but never delete the flaws line if there is a flaw.
+Delete any line that does not apply, except the flaws line if there is a flaw.
 
 ## What to put in a Vinted description (and why)
 
-Buyers on Vinted mostly read on their phones, scrolling quickly. Each line in the template answers a question they would otherwise message you about.
+Each line in the template answers a question a buyer would otherwise message you about.
 
 ### 1. What it is
 
-One line: brand, item type, colour, label size. It sounds obvious, but it confirms the buyer is looking at what they searched for, especially if your photos are close-ups.
+Brand, item type, colour, label size. It confirms the buyer has found what they searched for.
 
 ### 2. Measurements beat sizes
 
-A size 12 from one high street shop is not a size 12 from another, and older or washed items often come up smaller. Lay the item flat, do up the buttons or zip, smooth it without stretching, and measure in centimetres. Say "measured flat" so nobody doubles a figure by mistake.
+Sizes vary between shops, and older or washed items often come up smaller. Lay the item flat, do up the buttons or zip, smooth it without stretching, and measure in cm. Say "measured flat" so nobody doubles a figure by mistake.
 
 | Item | Measurements buyers want |
 |---|---|
@@ -44,20 +44,20 @@ A size 12 from one high street shop is not a size 12 from another, and older or 
 | Dresses | Pit to pit, waist, length |
 | Jeans and trousers | Waist (flat), inside leg, rise, leg opening |
 | Skirts | Waist, hips, length |
-| Shoes | UK size on the label, insole length if you can measure it |
+| Shoes | UK size, insole length |
 | Bags | Height, width, depth, strap drop |
 
 ### 3. Condition, with every flaw
 
-This is the line that prevents disputes. "Good condition" is an opinion. "Light bobbling under both arms, see photo 5" is a fact. For each flaw, give the location, the type and the size. If you are torn between two condition options, pick the lower one. For more wording ideas, see our [condition description examples](/blog/ebay-condition-description-examples.html) (written for eBay, but the flaw wording works on Vinted too).
+This line prevents disputes. "Good condition" is an opinion. "Light bobbling under both arms, see photo 5" is a fact. Give each flaw's location, type and size, and if you are torn between two condition options, pick the lower one. Our [condition description examples](/blog/ebay-condition-description-examples.html) are written for eBay, but the wording works on Vinted too.
 
 ### 4. Material and details
 
-Copy the material from the care label rather than guessing ("60% cotton, 40% polyester", not "cotton"). Add only details a buyer would care about: lined, stretchy, pockets, zip or buttons, adjustable straps.
+Copy the material from the care label ("60% cotton, 40% polyester", not "cotton"). Add details buyers care about: lined, stretchy, pockets, fastening.
 
 ### 5. An invitation to ask
 
-"Happy to answer questions or send more photos" is friendly, short and useful. It also sets a calm tone for any messages that follow. Our [Vinted message templates](/blog/vinted-message-templates.html) cover the replies.
+"Happy to answer questions or send more photos" is friendly and sets a calm tone. Our [Vinted message templates](/blog/vinted-message-templates.html) cover the replies.
 
 ## Worked examples
 
@@ -87,39 +87,27 @@ All items below are invented examples.
 >
 > Happy to answer questions or send more photos.
 
-**Kids' coat**
-
-> Navy padded coat from Next, age 7 to 8 years.
->
-> Measured flat: pit to pit 42 cm, length 55 cm, sleeve 46 cm.
->
-> Good condition. Light pilling on both cuffs. Small pale mark on the left pocket (as worn), about 5 mm, photo 5. Zip works smoothly. Hood detaches.
->
-> Happy to answer questions or send more photos.
-
 ## Vinted description ideas that actually help
 
-- **Say how it fits, only if you know.** "Fits like a UK 10 on me" is helpful. Guessing is not.
-- **Say what you checked.** "No odour noticed" or "all buttons present" reassures without overpromising.
-- **Say what you did not check.** "Not checked for odour" is honest.
-- **Point to photos.** "See photo 5" helps buyers find a flaw and shows you disclosed it.
-- **Say "smoke-free" or "pet-free" only if it is true.**
+- **Say how it fits, only if you know.** "Fits like a UK 10 on me" helps. Guessing does not.
+- **Say what you checked, and what you did not.** "All buttons present" and "not checked for odour" are both honest.
+- **Point to photos.** "See photo 5" shows you disclosed the flaw.
 - **Keep other brands out.** "Zara style" or "similar to Arket" is keyword spam and can break Vinted's rules.
 
 ## What to leave out
 
-- **"No returns."** Vinted runs its own Buyer Protection and has its own rules for items that are not as described. A "no returns" line does not override them and can put buyers off.
+- **"No returns."** Vinted's own Buyer Protection covers items that are significantly not as described. A "no returns" line does not override it and can put buyers off.
 - **Payment or contact details.** Keep everything in the app.
-- **Hype.** "Gorgeous", "must have" and "perfect for any occasion" take up space and buyers skim past them.
+- **Hype.** Buyers skim past "gorgeous" and "must have".
 - **Your lowest price.** Save that for offers. Our guide on [how to respond to lowball offers on Vinted](/blog/how-to-respond-to-lowball-offers-vinted.html) covers it.
 
 ## Fill in the fields as well
 
-The description is only half the listing. Vinted's listing form asks for category, brand, size, condition, colour and material. Buyers filter by those, so fill in every one that applies, and make sure your condition choice matches what the description says. Vinted's own photo advice is also worth reading in its help pages: at the time of writing it allows up to 20 photos per listing and asks you to show the whole item first and photograph any defects.
+Vinted's listing form asks for category, brand, size, condition, colour and material. Buyers filter by those, so fill in every one that applies, and match your condition choice to the description. Vinted's help pages also cover photos: at the time of writing, up to 20 per listing, whole item first, and any defects shown.
 
 ## A copy-paste AI prompt for Vinted descriptions
 
-If you would rather let a free AI tool do the typing, give it your notes and tell it not to invent anything. This is adapted from the Vinted prompt in our kit:
+To let a free AI tool do the typing, give it your notes and tell it not to invent anything. Adapted from the Vinted prompt in our kit:
 
 ```text
 Write a Vinted description for the item below. Short, friendly and plain, 50 to 120 words, UK English.
@@ -132,20 +120,20 @@ My notes:
 [BRAND, ITEM, SIZE, MEASUREMENTS, CONDITION, FLAWS, MATERIAL, DETAILS]
 ```
 
-Then read it next to your photos and fix every [CHECK]. Once it is written, the next question is usually price: see [how to price items on Vinted in the UK](/blog/how-to-price-items-on-vinted-uk.html).
+Read it next to your photos and fix every [CHECK]. Next comes price: see [how to price items on Vinted in the UK](/blog/how-to-price-items-on-vinted-uk.html).
 
-If you would like this template, 9 more free prompts and a pre-post checklist on one page, download **The UK Listing Cheat Sheet**. [Get the free cheat sheet](/#free-cheat-sheet).
+For 10 free prompts, a character-limit table and a pre-post checklist on one page, download **The UK Listing Cheat Sheet**. [Get the free cheat sheet](/#free-cheat-sheet).
 
 ## FAQ
 
 **How long should a Vinted description be?**
-Long enough to cover size, measurements, condition, flaws and material. For most clothes that is 50 to 120 words. We could not confirm an official maximum, so check the listing form if you are writing a long bundle description.
+Long enough to cover size, measurements, condition, flaws and material: for most clothes, 50 to 120 words. We could not confirm an official maximum, so check the form for long bundle descriptions.
 
 **Should I use hashtags in a Vinted description?**
-Vinted relies on its own fields (brand, size, colour and so on) for filters. A few honest descriptive words in the text are fine. Lists of unrelated tags are not.
+Vinted's filters use its own fields (brand, size, colour). A few honest descriptive words are fine. Lists of unrelated tags are not.
 
 **Can I copy my eBay description to Vinted?**
-Yes, but trim it. Vinted descriptions read best when short and friendly, and anything about postage options or returns should match how Vinted works.
+Yes, but trim it. Short and friendly reads best, and anything about postage or returns should match how Vinted works.
 
 **The Well Listed Kit** takes the same item facts and writes Vinted, eBay and Depop versions, plus polite buyer replies. [See what is in the kit](/#buy).
 

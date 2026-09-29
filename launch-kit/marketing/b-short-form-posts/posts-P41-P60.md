@@ -497,7 +497,7 @@ Save this for the week ahead. Our free UK Listing Cheat Sheet is in the bio.
 
 ### Hashtags
 ```text
-#vintedtips #howtorespondtolowballoffers #resellertok #vintedsellinguk #resellercommunityuk
+#vintedtips #vintedsellertips #resellertok #vintedsellinguk #resellercommunityuk
 ```
 
 ### Visuals
@@ -768,7 +768,7 @@ Vertical video. Background: stock footage from Pexels "folded grey sweater" or "
 - **Length:** 30 to 35 seconds
 - **Call to action:** Soft (free cheat sheet)
 
-**Hook (first 2 seconds):** "Weigh the parcel, not the item. Postage lessons most new sellers learn the hard way."
+**Hook (first 2 seconds):** "Weigh the parcel, not the item. Postage lessons new sellers tend to learn the hard way."
 
 ### Script
 1. (0 to 3s) VO: "Weigh the parcel, not the item. Postage lessons new sellers tend to learn the hard way." | On screen: "Weigh the parcel, not the item"
@@ -817,10 +817,10 @@ Stock footage only, hands or objects, no faces (Pexels or Canva free searches): 
 - **Length:** 8 slides
 - **Call to action:** Soft (save this)
 
-**Hook (first 2 seconds):** "The first 'not as described' claim teaches most sellers the same five lessons. Here they are, early."
+**Hook (first 2 seconds):** "The first 'not as described' claim tends to teach the same five lessons. Here they are, early."
 
 ### Script
-1. Slide 1: "The first 'not as described' claim teaches most sellers the same five lessons. Here they are, early."
+1. Slide 1: "The first 'not as described' claim tends to teach the same five lessons. Here they are, early."
 2. Slide 2: "1. 'Good condition' is not a description. Buyers compare the parcel with your exact words."
 3. Slide 3: "2. A flaw in the text but not in the photos is still a surprise. Show it, and say which photo."
 4. Slide 4: "3. Measurements beat sizes. A size 12 from one brand is not a size 12 from another. Pit to pit in cm settles it."
@@ -841,7 +841,7 @@ Save this before your first claim
 
 ### Caption
 ```text
-The first "not as described" claim teaches most sellers the same five lessons. Here they are before you need them.
+The first "not as described" claim tends to teach the same five lessons. Here they are before you need them.
 
 1. Buyers compare the parcel with your exact words, so be specific.
 2. Put every flaw in the text and in a photo, and say which photo.

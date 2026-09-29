@@ -5,8 +5,8 @@ Listing one item with AI is quick. Listing ten items one at a time, starting a n
 The order we suggest:
 
 1. **W1** Write your shop style instruction once. Save it in your phone's notes.
-2. **W2** Start a batch session and paste your style instruction.
-3. **W3** Feed it up to 10 Listing Briefs.
+2. **W3** Turn your rough notes for the whole pile into Listing Briefs in one go.
+3. **W2** Start a batch session, paste your style instruction, then feed it up to 10 briefs.
 4. **W4** Get the batch back as a table or CSV.
 5. **W5** Run a quick accuracy check over the whole batch.
 6. **W6 to W8** Plan the week, repurpose across platforms, and refresh listings that have gone quiet.
@@ -145,8 +145,8 @@ My notes:
 Invented notes: "1. m&s cardi cream 14 bobbly cuffs. 2. hunter wellies green uk5 scuffed toe. 3. le creuset mug blue chip base"
 
 > **Item 1** | Cardigan | M&S | 14 | [CHECK: pit to pit and length in cm] | Cream | [CHECK: care label] | Bobbling on cuffs | Cardigan only | [CHECK: platform] | [CHECK: postage] | [CHECK: price floor]
-> **Item 2** | Wellington boots | Hunter | UK 5 | [CHECK: insole length] | Green | Rubber [CHECK: confirm] | Scuffs on toe | Boots only | [CHECK] | [CHECK] | [CHECK]
-> **Item 3** | Mug | Le Creuset | [CHECK: capacity] | [CHECK: height] | Blue | Stoneware [CHECK: confirm on base] | Chip on base | Mug only | [CHECK] | [CHECK] | [CHECK]
+> **Item 2** | Wellington boots | Hunter | UK 5 | [CHECK: insole length] | Green | [CHECK: material, look inside the boot] | Scuffs on toe | Boots only | [CHECK] | [CHECK] | [CHECK]
+> **Item 3** | Mug | Le Creuset | [CHECK: capacity] | [CHECK: height] | Blue | [CHECK: material, look on the base] | Chip on base | Mug only | [CHECK] | [CHECK] | [CHECK]
 >
 > **To find:** Item 1: measurements, material. Item 2: insole length, material. Item 3: capacity, height, material. All: platform, postage, price floor.
 
@@ -183,10 +183,10 @@ Invented example, CSV of two items:
 ```text
 "SKU","Title","Description","Condition","Brand","Size","Colour","Material","Category","Price","Quantity","Postage"
 "WL-014","Joules Womens Navy Quilted Gilet Size 12 Zip Front Pockets Pre-Owned","Navy quilted gilet from Joules in women's size 12. Full zip front and two zip pockets. Light pilling on the inside collar (see photos).","Pre-owned, good","Joules","12","Blue","[CHECK]","Coats and jackets","18.00","1","Royal Mail 2nd Class"
-"WL-015","Hunter Original Tall Wellington Boots Green UK 5 Womens","Green Hunter tall wellington boots in UK 5. Scuffs on both toes (see photos).","Pre-owned, good","Hunter","5","Green","Rubber","Boots","25.00","1","[CHECK]"
+"WL-015","Hunter Wellington Boots Green UK 5","Green Hunter wellington boots in UK 5. Scuffs on the toes (see photos).","Pre-owned, good","Hunter","5","Green","[CHECK]","Boots","25.00","1","[CHECK]"
 ```
 
-Rows with [CHECK]: WL-014 (Material), WL-015 (Postage).
+Rows with [CHECK]: WL-014 (Material), WL-015 (Material, Postage).
 
 **Check before you post:**
 - Every bulk tool has its own template. Download your tool's template and use its exact column headers, then paste those into the prompt.
@@ -228,7 +228,7 @@ Invented example:
 | Item | Problems found | Suggested fix |
 |---|---|---|
 | 1 | Listing says "100% wool" but brief says "wool blend" | Change to "wool blend" |
-| 2 | Brief lists scuffed toes, listing does not mention them | Add "Scuffs on both toes (see photos)" to condition |
+| 2 | Brief lists scuffed toes, listing does not mention them | Add "Scuffs on the toes (see photos)" to condition |
 | 3 | Title is 86 characters | Remove "Great" and "Look" to get under 80 |
 | 4 | "Color" (US spelling) | Change to "colour" |
 | 5 | No problems found | None |

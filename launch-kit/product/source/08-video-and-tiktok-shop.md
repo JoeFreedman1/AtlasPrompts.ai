@@ -53,7 +53,7 @@ Rules:
 - Only use facts from the Listing Brief. If something I would need is missing, write [CHECK: what is missing] instead of guessing.
 - No faces, no people, no reflections. Shots must be possible with a phone, a plain background and my hands.
 - Show the flaws listed in the brief on screen, clearly, in at least one shot.
-- No hype words (amazing, stunning, must-have, insane), no "best", no invented comparisons, no health or medical claims, no fake urgency.
+- No hype words (amazing, stunning, must-have, jaw-dropping), no "best", no invented comparisons, no health or medical claims, no fake urgency.
 - Open with a plain hook in the first 2 seconds that says what the item is.
 - End with a calm call to action that fits the platform (for example "Link in the listing" or "Details in the description"). Do not mention other platforms or ask buyers to pay outside the platform.
 - After the table, give me a one-line caption and a list of any [CHECK: ...] items.
@@ -190,7 +190,7 @@ Write 3 product title options for TikTok Shop UK.
 Rules:
 - Structure: brand (if I own or am authorised to sell it) + product type + key feature or material + size, quantity or capacity + colour or variant.
 - Keep each title clear and readable, roughly 60 to 120 characters, and tell me the character count for each. [CHECK: the current maximum title length in TikTok Shop Seller Center]
-- Do NOT include: promotional wording (sale, x% off, free postage, limited offer), my shop name or URL, the word TikTok, other marketplace names, symbols or special characters (! * ~ | ★ and so on), emojis, or ALL CAPS words.
+- Do NOT include: promotional wording (sale, x% off, free postage, limited offer), my shop name or URL, the word TikTok, other marketplace names, symbols or special characters (such as ! * ~ | and similar), emojis, or ALL CAPS words.
 - Do NOT include health, medical or results claims, "best", "number one" or comparisons with other brands.
 - Only use facts from the brief. If a key fact is missing (size, material, quantity), put [CHECK: ...] in its place.
 - After the titles, list any words I should double-check because they could be a claim.

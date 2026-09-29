@@ -34,7 +34,7 @@ A misleading photo is also a fast route to an "item not as described" claim, whi
 
 ## Quick reference: shot lists by category
 
-Use this as a starting point. Prompt P1 tailors it to your exact item.
+Use this as a starting point. Prompt PH1 tailors it to your exact item.
 
 | Category | Must-have shots | Nice to have |
 |---|---|---|
@@ -48,7 +48,7 @@ Use this as a starting point. Prompt P1 tailors it to your exact item.
 
 ---
 
-### P1 Shot list for my item
+### PH1 Shot list for my item
 **Use it when:** you have written the Listing Brief and want a numbered shot list before you pick up your phone.
 **Paste this:**
 ```text
@@ -96,7 +96,7 @@ Rules:
 
 ---
 
-### P2 Flaw photo checklist
+### PH2 Flaw photo checklist
 **Use it when:** your item has any wear, marks or faults and you want to show them properly (this protects you as much as the buyer).
 **Paste this:**
 ```text
@@ -139,7 +139,7 @@ Rules: UK English. Do not describe any flaw as smaller or less noticeable than m
 
 ---
 
-### P3 Phone lighting and background plan
+### PH3 Phone lighting and background plan
 **Use it when:** you are photographing at home with just a phone and want better, more accurate colour without buying kit.
 **Paste this:**
 ```text
@@ -178,7 +178,7 @@ Rules: UK English, no jargon, short numbered steps. Do not recommend buying anyt
 
 ---
 
-### P4 Photo set audit
+### PH4 Photo set audit
 **Use it when:** you have taken your photos and want a second pair of eyes to spot gaps before you post.
 **Paste this:**
 ```text
@@ -217,7 +217,7 @@ Rules: UK English. Only comment on what I have described or shown. If you cannot
 
 ---
 
-### P5 Photo captions
+### PH5 Photo captions
 **Use it when:** your platform lets you add a caption or short text to each photo, or you want matching lines to use in the description.
 **Paste this:**
 ```text
@@ -254,7 +254,7 @@ Rules:
 
 ---
 
-### P6 Alt text for listing photos
+### PH6 Alt text for listing photos
 **Use it when:** your platform or your own shop has an alt text box (a short written description of an image for people using screen readers). Etsy and most web shops have one.
 **Paste this:**
 ```text
@@ -291,7 +291,7 @@ Rules:
 
 ---
 
-### P7 Is this edit OK?
+### PH7 Is this edit OK?
 **Use it when:** you are tempted to use a background remover, a "magic eraser", an AI model or any AI photo tool, and want to check it will not misrepresent the item.
 **Paste this:**
 ```text
@@ -330,7 +330,7 @@ Rules: UK English. Be honest, not reassuring. If the edit would hide or reduce a
 
 ---
 
-### P8 Choose my cover photo
+### PH8 Choose my cover photo
 **Use it when:** you have several decent shots and want to pick the first one buyers see in search.
 **Paste this:**
 ```text

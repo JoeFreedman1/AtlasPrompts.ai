@@ -85,6 +85,7 @@ def extract_prompts(mods):
                 um = re.match(r"^\*\*Use it when:?\*\*:?\s*(.*)$", ln.strip())
                 if um and not use:
                     use = um.group(1).strip()
+                    use = use[:1].upper() + use[1:]
                 if body is None and re.match(r"^\s*```", ln):
                     k = j + 1
                     buf = []
@@ -165,16 +166,19 @@ main{max-width:820px;margin:0 auto;padding:12px 16px 60px}
 .copy{background:var(--green);color:#fff;border:none;border-radius:8px;padding:9px 14px;font:600 .9rem Inter;cursor:pointer}
 .copy.done{background:var(--ink)}
 .count{font-size:.85rem;color:var(--muted)}
+.card pre{max-height:9.5em;overflow:hidden;position:relative;margin-bottom:8px}
+.card.open pre{max-height:none}
+.more{background:none;border:1px solid var(--kraft);border-radius:8px;padding:8px 12px;font:600 .85rem Inter;color:var(--ink);margin-left:6px;cursor:pointer}
 """
     buttons = '<button class="on" data-m="">All</button>' + "".join(
-        '<button data-m="%s">%s</button>' % (html.escape(m, quote=True), html.escape(re.sub(r"^\d+[.:]?\s*", "", m))) for m in modules_list)
+        '<button data-m="%s">%s</button>' % (html.escape(m, quote=True), html.escape(re.sub(r"^(Module\s+)?\d+[.:]?\s*", "", m))) for m in modules_list)
     js = """
 const P=%s;let mod="";const q=document.getElementById('q'),list=document.getElementById('list'),cnt=document.getElementById('cnt');
 function esc(s){return s.replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]))}
 function render(){const t=q.value.toLowerCase().trim();const f=P.filter(p=>(!mod||p.module===mod)&&(!t||(p.id+' '+p.name+' '+p.use+' '+p.prompt).toLowerCase().includes(t)));
 cnt.textContent=f.length+' prompt'+(f.length==1?'':'s');
-list.innerHTML=f.map((p,i)=>`<div class="card"><div class="mod">${esc(p.module)}</div><h3><span class="id">${p.id}</span>${esc(p.name)}</h3>${p.use?`<p class="use">${esc(p.use)}</p>`:''}<pre><code>${esc(p.prompt)}</code></pre><button class="copy" data-i="${P.indexOf(p)}">Copy prompt</button></div>`).join('');}
-list.addEventListener('click',e=>{const b=e.target.closest('.copy');if(!b)return;const txt=P[+b.dataset.i].prompt;
+list.innerHTML=f.map((p,i)=>`<div class="card"><div class="mod">${esc(p.module)}</div><h3><span class="id">${p.id}</span>${esc(p.name)}</h3>${p.use?`<p class="use">${esc(p.use)}</p>`:''}<pre><code>${esc(p.prompt)}</code></pre><button class="copy" data-i="${P.indexOf(p)}">Copy prompt</button><button class="more">Show full prompt</button></div>`).join('');}
+list.addEventListener('click',e=>{const m=e.target.closest('.more');if(m){const c=m.closest('.card');c.classList.toggle('open');m.textContent=c.classList.contains('open')?'Show less':'Show full prompt';return}const b=e.target.closest('.copy');if(!b)return;const txt=P[+b.dataset.i].prompt;
 const ok=()=>{b.textContent='Copied';b.classList.add('done');setTimeout(()=>{b.textContent='Copy prompt';b.classList.remove('done')},1500)};
 if(navigator.clipboard&&window.isSecureContext){navigator.clipboard.writeText(txt).then(ok,()=>fallback(txt,ok))}else fallback(txt,ok)});
 function fallback(txt,ok){const a=document.createElement('textarea');a.value=txt;document.body.appendChild(a);a.select();try{document.execCommand('copy');ok()}catch(e){alert('Press and hold the prompt text to copy it.')}a.remove()}

@@ -24,7 +24,7 @@ Generic AI output is bad because the input is bad. Every prompt in the kit start
 **Check before you post:** 2 to 4 bullet points.
 ```
 
-IDs: B = brief, T = titles, D = descriptions and condition, K = keywords, tags and item specifics, P = photos, R = pricing, M = buyer messages, V = video and TikTok Shop, C = rule checker, W = workflow and batch.
+IDs: B = brief, T = titles, D = descriptions and condition, K = keywords, tags and item specifics, PH = photos, R = pricing, M = buyer messages, V = video and TikTok Shop, C = rule checker, W = workflow and batch.
 
 ## Quality bar
 - Around 70 to 80 prompts in total, each genuinely different and useful. Quality over quantity.

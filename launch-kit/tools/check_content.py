@@ -66,7 +66,7 @@ def owner_terms():
     return {t for t in terms if t}
 
 
-EMAIL_OK = re.compile(r"(example\.|\[|placeholder|yourbrand|hello@well|support@well|@welllisted|@well-listed|noreply@anthropic)", re.I)
+EMAIL_OK = re.compile(r"(example\.|\[|placeholder|yourbrand|hello@well|support@well|@welllisted|welllisted@|@well-listed|noreply@anthropic)", re.I)
 
 
 def files(targets):

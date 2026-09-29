@@ -1,0 +1,38 @@
+THE WELL LISTED KIT: READ ME FIRST
+
+Thank you for buying the kit. Here is what is in this folder and where to start.
+
+1. prompt-library.html
+   Open this on your phone or computer (it works without internet once downloaded).
+   Search for what you need (for example "lowball" or "eBay title"), fill in the
+   [SQUARE BRACKETS], press "Copy prompt" and paste it into a free AI chat tool
+   such as ChatGPT, Claude, Gemini or Microsoft Copilot.
+   On iPhone: save the file to the Files app, then tap it to open.
+   On Android: open it from your Downloads folder with Chrome.
+
+2. Well-Listed-Kit.pdf
+   The full guide. Start with "Quick start" in Module 00. You do not need to read
+   it all: dip into the module you need.
+
+3. all-prompts.txt
+   Every prompt as plain text, handy for copying into your notes app.
+
+4. templates folder
+   - listing-brief-template.txt / .csv : the fill-in Listing Brief
+   - stock-and-pricing-tracker.csv : opens in Google Sheets, Excel or Numbers
+   - message-snippets.txt : quick replies for common buyer messages
+   - photo-shot-lists.md : what to photograph for each type of item
+
+Three rules that make every prompt work better:
+- Give the AI facts, not hopes: fill in the Listing Brief first.
+- Never paste a buyer's name, address or order details into an AI tool.
+- Read every result before you post it. You are the seller; the AI is the typist.
+
+Platform rules change often. Check the platform's own help pages if in doubt.
+Not affiliated with or endorsed by eBay, Vinted, Depop, Etsy, Amazon or TikTok.
+Nothing in this kit is legal, tax or financial advice.
+
+Questions or problems with your download: use the contact option on your Gumroad receipt.
+Refunds: 30 days, no questions asked, through your Gumroad receipt.
+
+Licence: for your own use in your own selling. Please do not share or resell the files.
