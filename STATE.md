@@ -49,5 +49,6 @@ Updated by every session. Newest log entries at the top of the log. The dashboar
 - Check the facts marked "NOT VERIFIED" in `launch-kit/research/platform-rules-uk.md` and `launch-kit/research/tools-and-fees.md` that matter most before launch: Gumroad fees and VAT handling (the money maths in `launch-kit/MONEY.md` assumes 10% + $0.50 plus card processing, VAT added on top), the MailerLite free plan limit, and the HMRC rules used in posts P28 and P31.
 
 ## Log
+- 2026-09-29: Final pass. Product critiqued twice (now 90 prompts, 141-page PDF, two-digit prompt IDs), all files synced to the final product, every file checked (0 problems in check_content.py, no dashes), site, kit and dashboard rebuilt. Ready for the owner's LAUNCH.md.
 - 2026-09-29: Quality check of blog, community, affiliate, tools and operating docs (see `launch-kit/qc/QC-blog-community-docs.md`). Launch steps now total 119 minutes; day 15 price switch steps added to ROUTINE.md and OPERATOR.md; ads confirmed as Meta first from day 15.
 - 2026-09-29: Overnight build session. Everything in launch-kit/ created. Pull request opened for review, not merged.

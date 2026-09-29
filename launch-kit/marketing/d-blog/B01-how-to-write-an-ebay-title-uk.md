@@ -44,7 +44,7 @@ Long titles get cut off on a phone, so the first few words must say what the ite
 
 ### Use the space, but do not pad it
 
-Aim for 70 to 80 characters of real details: neckline, sleeve length, fit, capacity, what is included. If you run out of true details, stop. An accurate 64-character title beats a padded 80-character one.
+Fill the space with real details, not padding: neckline, sleeve length, fit, capacity, what is included. If you run out of true details, stop. An accurate 64-character title beats a padded 80-character one.
 
 ### Leave flaws out of the title
 
@@ -96,7 +96,7 @@ With a free AI tool such as ChatGPT, Claude, Gemini or Copilot, give it facts an
 Write 3 eBay UK listing titles for the item below.
 
 - Put the words a UK buyer would search first: brand, then item type, then model, size, colour, material.
-- Aim for 70 to 80 characters. Never go over 80 including spaces. Show the character count after each.
+- Use only true details from my notes. Do not pad to fill space. Never go over 80 characters including spaces. Show the character count after each.
 - UK English and UK sizes ("UK 8" for shoes, "trousers" not "pants").
 - Use ONLY the facts below. If a key word is missing, write [CHECK: what is missing].
 - No hype words, no exclamation marks, no emoji, no capitals for whole words.

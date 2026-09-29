@@ -2,7 +2,7 @@
 
 Seven plain emails for everyone who signs up for the free cheat sheet. Each one teaches one useful thing with a prompt the reader can use the same day, then mentions the kit in one light line. This sequence runs forever, so it never mentions the launch price. Where a price is needed it says [CURRENT_PRICE].
 
-Note: these emails are called W1 to W7. The kit also has prompts called W1 to W8 (batch workflow, Module 10). They are not related; the emails never refer to those prompt IDs.
+Note: these emails are called W1 to W7. The kit also has prompts called W01 to W08 (batch workflow, Module 10). They are not related; the emails never refer to those prompt IDs.
 
 ---
 
@@ -144,7 +144,7 @@ Add the answers to your brief, not just the listing, so every platform gets them
 
 The Well Listed team
 
-P.S. This is a shortened version of prompt B4 from The Well Listed Kit, which also has extra brief lines for clothing, electronics, books, homeware, toys and handmade: [GUMROAD_PRODUCT_LINK]
+P.S. This is a shortened version of prompt B04 from The Well Listed Kit, which also has extra brief lines for clothing, children's clothing, electronics, books, homeware, toys and handmade: [GUMROAD_PRODUCT_LINK]
 ~~~
 
 ---
@@ -191,7 +191,7 @@ Then fill every [CHECK] with a real measurement.
 
 The Well Listed team
 
-P.S. This is based on prompt D7 in The Well Listed Kit. The kit also has a condition grader that matches your grade to each platform's options: [GUMROAD_PRODUCT_LINK]
+P.S. This is based on prompt D07 in The Well Listed Kit. The kit also has a condition grader that matches your grade to each platform's options: [GUMROAD_PRODUCT_LINK]
 ~~~
 
 ---
@@ -307,7 +307,7 @@ My Listing Brief: [PASTE]
 
 Now, the kit, since you have been getting these emails for a week and a bit.
 
-The Well Listed Kit is 13 short modules and 92 prompts: all-in-one starter prompts for each platform, briefs, titles, descriptions and condition, keywords and item specifics, photos, pricing, buyer messages, video and TikTok Shop, a pre-post rule checker and a batch workflow. Plus fill-in templates (including 22 ready buyer replies), six worked examples, a platform cheatsheet, a PDF, and a prompt library with copy buttons that works on your phone. It works with the free versions of ChatGPT, Claude, Gemini or Copilot. It is [CURRENT_PRICE], one-off, no subscription, with a 30-day no-questions refund.
+The Well Listed Kit is 13 short modules and 90 prompts: all-in-one starter prompts for each platform, briefs, titles, descriptions and condition, keywords and item specifics, photos, pricing, buyer messages, video and TikTok Shop, a pre-post rule checker and a batch workflow. Plus fill-in templates (including 22 ready buyer replies), six worked examples, a platform cheatsheet, a PDF, and a prompt library with copy buttons that works on your phone. It works with the free versions of ChatGPT, Claude, Gemini or Copilot. It is [CURRENT_PRICE], one-off, no subscription, with a 30-day no-questions refund.
 
 It is not for you if:
 - You want a promise of more sales. We cannot make one, and nobody honestly can.

@@ -102,7 +102,7 @@ def main():
             text = re.sub(r"\s(style|class)=\"[^\"]*\"", "", text)
         for n, line in enumerate(text.split("\n"), 1):
             where = "%s:%d" % (rel, n)
-            if "—" in line or "–" in line:
+            if "\u2014" in line or "\u2013" in line:
                 errors.append("%s  dash (em or en) found" % where)
             for t in ident:
                 if re.search(r"\b%s\b" % re.escape(t), line, re.I):

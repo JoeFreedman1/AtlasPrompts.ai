@@ -45,7 +45,7 @@ Invented example: *Barbour men's wax jacket, Bedale, olive green, size 40, cord 
 ```text
 Write 3 eBay UK listing titles for the item in my brief below.
 - Brand first, then item type, then model, size, colour, material.
-- Aim for 70 to 80 characters. Never over 80 including spaces. Show the count after each.
+- Use only true details from my brief. Do not pad to fill space. Never over 80 including spaces. Show the count after each.
 - UK English and UK sizes.
 - Use ONLY facts in my brief. Write [CHECK: ...] if a key word is missing.
 - No hype words, exclamation marks, emoji or whole words in capitals.

@@ -65,7 +65,7 @@ Example item. eBay's title limit is 80 characters at the time of writing: check 
 
 ### Visuals
 - Open on a phone notes app mock-up (build it in Canva: white note on Cream background) showing the scrappy notes in a system-style font. No real notes app account visible.
-- Screen-record a laptop browser with a free AI chat tool. Type the prompt (rules from Kit prompt T1: "Aim for 70 to 80 characters. Never go over 80 characters including spaces. After each title, show the exact character count."). Crop to the chat pane only. Blur the sidebar history, account name and avatar.
+- Screen-record a laptop browser with a free AI chat tool. Type the prompt (rules from Kit prompt T01: "80 characters or fewer including spaces. Show the count after each. Use the space for true, searchable details from the brief. If you run out of true details, stop. Do not pad."). Crop to the chat pane only. Blur the sidebar history, account name and avatar.
 - Zoom (CapCut keyframe) onto the finished title and put a Label Yellow highlighter box over "(76)".
 - Final title shown on a parcel-label card: cream card, kraft `#C9A27E` border, dashed cut line, title in Ink, count in Sold Green.
 - Cutaway stock (1 to 2 seconds behind slide 6): Pexels search "black puffer jacket flat lay" (item only, no person). Blur any visible logo if the stock clip shows a different brand from the example.
@@ -112,7 +112,7 @@ You fill in the checks yourself. No invented cashmere, no surprise "vintage".
 
 Save this, and copy the template from slide 4 into your notes app.
 
-The Well Listed Kit has brief templates for six categories and prompts that turn messy notes or a voice note into a brief. £12 at launch. The free cheat sheet is in our bio too.
+The Well Listed Kit has brief templates for seven categories and prompts that turn messy notes or a voice note into a brief. £12 at launch. The free cheat sheet is in our bio too.
 ```
 
 ### Hashtags
@@ -293,7 +293,7 @@ No scraping tools needed. Ten minutes of looking gives better matches anyway. Ex
 
 ### Visuals
 - Screen-record a mock "sold comps" note (build in a plain text editor or Canva, invented listings only, never a screenshot of someone's real listing).
-- Screen-record the AI chat running Kit prompt R2 ("Suggest a price for my item using only the sold listings I have found... Use only the numbers I pasted. Do not use outside knowledge of prices."). Crop to chat, blur history and account.
+- Screen-record the AI chat running Kit prompt R02 ("Suggest a price for my item using only the sold listings I found... Use only the numbers I pasted, no outside price knowledge."). Crop to chat, blur history and account.
 - Show the result table with a Label Yellow box over "Median £25".
 - Slide 5: price ladder graphic in Canva: Floor £18 (Returns Red), Median £25 (Ink), List £28 (Sold Green). Small grey line "Example figures only".
 - B-roll: Pexels "black leather chelsea boots" (no feet, no person).
@@ -354,7 +354,7 @@ More free prompts in the UK Listing Cheat Sheet. Link in bio.
 - Build a generic chat mock-up in Canva (grey and Ink bubbles, no app logo, no usernames, buyer shown as "[BUYER]").
 - Bubble 1 (buyer, grey): "would you take £25". Let it sit for a beat with a small "..." typing indicator.
 - Slide 3: three option cards, "Ignore" and "Snap" struck through in Returns Red, "Cave" struck through too.
-- Short screen recording of an AI chat producing the reply from Kit prompt R5 wording ("Never go below my floor. Do not suggest fake scarcity or pressure"). Crop and blur account details.
+- Short screen recording of an AI chat producing the reply from Kit prompt R05 wording ("Never accept or counter below my floor. No fake scarcity or pressure"). Crop and blur account details.
 - Final reply bubble in Ink with a Sold Green tick.
 - B-roll: Pexels "cast iron casserole dish" (item only).
 
@@ -1005,7 +1005,7 @@ Two fixes:
 1. Say "UK English and UK sizes" in every prompt (jumper, trousers, trainers, postage).
 2. Give it a Listing Brief and say "use only these facts. Write [CHECK] if something is missing."
 
-The Well Listed Kit has these rules built into every prompt, plus brief templates for six categories. £12 at launch. Example item in the video.
+The Well Listed Kit has these rules built into every prompt, plus brief templates for seven categories. £12 at launch. Example item in the video.
 ```
 
 ### Hashtags
@@ -1076,7 +1076,7 @@ Example figures. Free bundle prompt in the UK Listing Cheat Sheet: link in bio.
 - Slide 2: Ink bubble "No sorry." with a Returns Red cross.
 - Slides 3 and 4: simple sum cards in JetBrains Mono, totals in Label Yellow. Small grey "Example figures only".
 - Slide 5: reply bubble in Ink with a Sold Green tick.
-- Background photo slides 3 to 4: Pexels "children's clothes folded stack" (item only). Use the source in Kit prompt R4 (bundle pricing) for the figures.
+- Background photo slides 3 to 4: Pexels "children's clothes folded stack" (item only). Use the source in Kit prompt R04 (bundle pricing) for the figures.
 
 ---
 

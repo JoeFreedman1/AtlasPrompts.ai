@@ -620,9 +620,9 @@ Screen recording on a laptop: a free AI chat tool (cropped, account name, avatar
 
 ### Script
 1. (0 to 3s) VO: "The Well Listed Kit, opened file by file. No sales promises, just what is in it." | On screen: "What's inside, file by file"
-2. (3 to 9s) VO: "The guide. A PDF that starts with the Listing Brief: the facts you give AI before it writes anything." | On screen: "1. The guide (PDF)"
+2. (3 to 9s) VO: "The guide. A PDF with 90 prompts. It starts with one all-in-one prompt per platform, then the Listing Brief: the facts you give AI first." | On screen: "1. The guide (PDF): 90 prompts"
 3. (9 to 16s) VO: "Then modules for titles, descriptions and condition, tags, photos, pricing, buyer messages, video and TikTok Shop, and a rule checker." | On screen: "Titles. Descriptions. Tags. Photos. Pricing. Messages."
-4. (16 to 22s) VO: "Every prompt shows an example output for an invented item, and a short list of things to check before you post." | On screen: "Example output + checks, every prompt"
+4. (16 to 22s) VO: "Most prompts show an example output for an invented item, and every one has a short list of things to check before you post." | On screen: "Examples + checks"
 5. (22 to 28s) VO: "The prompt library. Searchable, with copy buttons, and it works offline. There is a plain text version too." | On screen: "2. Prompt library (copy and paste)"
 6. (28 to 34s) VO: "Templates. A Listing Brief, a stock and pricing tracker, message snippets and photo shot lists." | On screen: "3. Templates and trackers"
 7. (34 to 40s) VO: "It works with the free versions of ChatGPT, Claude, Gemini or Copilot. It will not make anything sell. It helps you write clear, accurate listings faster." | On screen: "Free AI tools. Clear, accurate listings."
@@ -630,9 +630,9 @@ Screen recording on a laptop: a free AI chat tool (cropped, account name, avatar
 
 ### On-screen text
 What's inside, file by file
-1. The guide (PDF)
+1. The guide (PDF): 90 prompts
 Titles. Descriptions. Tags. Photos. Pricing. Messages. Video. Rule checker.
-Example output + checks, every prompt
+Examples + checks
 2. Prompt library (copy and paste)
 3. Templates and trackers
 Works with free AI tools
@@ -643,11 +643,11 @@ No promises of sales. Clearer listings, faster.
 ```text
 The Well Listed Kit, opened file by file.
 
-The guide (PDF): starts with the Listing Brief method, then modules for titles, descriptions and condition, tags and item specifics, photos, pricing, buyer messages, video and TikTok Shop, a rule checker, batch listing, worked examples and a platform cheat sheet.
+The guide (PDF): 90 prompts. It starts with an all-in-one prompt for each platform and the Listing Brief method, then modules for titles, descriptions and condition, tags and item specifics, photos, pricing, buyer messages, video and TikTok Shop, a rule checker (including product safety and label details for makers), batch listing, six worked examples and a platform cheat sheet.
 
 The prompt library: searchable, copy buttons, works offline. Plus a plain text file of every prompt.
 
-Templates: Listing Brief, stock and pricing tracker, message snippets, photo shot lists.
+Templates: Listing Brief, stock and pricing tracker, 22 ready buyer replies, photo shot lists for 10 categories.
 
 It is written for UK sellers on eBay, Vinted, Depop, Etsy, Amazon and TikTok Shop, and works in the free versions of ChatGPT, Claude, Gemini or Copilot. It will not make anything sell. It helps you write clear, accurate listings faster.
 
@@ -660,7 +660,7 @@ It is written for UK sellers on eBay, Vinted, Depop, Etsy, Amazon and TikTok Sho
 ```
 
 ### Visuals
-Price line: this post is scheduled for day 7 of the launch window. If it is published or reposted after the launch price ends, change the last slide, VO and caption to "£19" only. Record only once the real built files exist (product/dist/Well-Listed-Kit.pdf, prompt-library.html, all-prompts.txt and product/templates/). Screen record a laptop: open the PDF and scroll slowly through the contents page and one module page (the Listing Brief template); open prompt-library.html and use the search box (type "lowball"), then click a copy button; open all-prompts.txt briefly; open the stock-and-pricing-tracker.csv in Google Sheets or Excel. If any file name or module has changed, show and say what is actually in the build, not this script. Crop tightly to the document, blur the desktop, file path bar, account names, dock and browser tabs. Label Yellow #F2C84B highlighter box on each part as it is named. Intro and end cards: parcel label card, "The Well Listed Kit" in Archivo 800 Ink #1F2A44 on Cream #FAF6EF, Sold Green #1E7F55 tick after "Kit". Optional stock (Pexels): "laptop on desk with parcel", "packing parcels table" (hands only). No marketplace logos, no fake reviews, no sales figures, no countdown timers.
+Price line: this post is scheduled for day 7 of the launch window. If it is published or reposted after the launch price ends, change the last slide, VO and caption to "£19" only. Record only once the real built files exist (product/dist/Well-Listed-Kit.pdf, prompt-library.html, all-prompts.txt and product/templates/). Screen record a laptop: open the PDF and scroll slowly through the contents page, the quick start and one module page (the Listing Brief template); open prompt-library.html and use the search box (type "lowball"), then click a copy button; open all-prompts.txt briefly; open the stock-and-pricing-tracker.csv in Google Sheets or Excel. If any file name or module has changed, show and say what is actually in the build, not this script. Crop tightly to the document, blur the desktop, file path bar, account names, dock and browser tabs. Label Yellow #F2C84B highlighter box on each part as it is named. Intro and end cards: parcel label card, "The Well Listed Kit" in Archivo 800 Ink #1F2A44 on Cream #FAF6EF, Sold Green #1E7F55 tick after "Kit". Optional stock (Pexels): "laptop on desk with parcel", "packing parcels table" (hands only). No marketplace logos, no fake reviews, no sales figures, no countdown timers.
 
 ## P54: Things nobody tells you when you start selling on Vinted
 

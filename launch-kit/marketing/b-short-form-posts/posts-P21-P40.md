@@ -395,7 +395,7 @@ We call it the Listing Brief method, and every prompt in The Well Listed Kit is 
 ```
 
 ### Visuals
-Screen recording of a free AI chat tool on a laptop, cropped to the chat. First run: prompt "Write an eBay listing: bosch drill 18v, 1 battery, charger, case, used, works". Highlight any invented wording in Returns Red (if the tool does not invent anything on the day, show a mock-up clearly labelled "example of a typical guess"; do not fake a real tool's output). Second run: the B1 prompt from Module 01 with the same notes; zoom on the [CHECK] lines and highlight them in Label Yellow. B-roll: Pexels search "cordless drill on workbench" (no people; blur any brand logo). Blur account name, profile picture and chat history sidebar.
+Screen recording of a free AI chat tool on a laptop, cropped to the chat. First run: prompt "Write an eBay listing: bosch drill 18v, 1 battery, charger, case, used, works". Highlight any invented wording in Returns Red (if the tool does not invent anything on the day, show a mock-up clearly labelled "example of a typical guess"; do not fake a real tool's output). Second run: the B01 prompt from Module 01 with the same notes; zoom on the [CHECK] lines and highlight them in Label Yellow. B-roll: Pexels search "cordless drill on workbench" (no people; blur any brand logo). Blur account name, profile picture and chat history sidebar.
 
 ---
 

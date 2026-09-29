@@ -64,7 +64,7 @@ Reviewed 29 September 2026 against QUALITY-CHECKLIST.md, WRITING-RULES.md, BRAND
 - **The guarantee is the same everywhere:** 30 days from purchase, full refund through Gumroad, no questions, on top of legal rights.
 - **Platform facts on the pages match the research sheet** (eBay 80 characters secondary, Amazon 75 from 27 July 2026, Depop 5 hashtags and 8 photos, Vinted 20 photos), with "check the current rule" lines.
 - **Placeholders are unchanged:** [GUMROAD_PRODUCT_LINK], [BRAND_EMAIL], [LEGAL NAME AND ADDRESS], [LEGAL NAME], [DATE], [EMAIL_FORM_ACTION_URL], [LAUNCH END DATE], [SALES_PAGE_URL], [CHEAT_SHEET_LINK], [CURRENT_PRICE], [FOOTER_ADDRESS].
-- **No em or en dashes** (and no &mdash; or &ndash;) in any reviewed file. The HTML tags balance in all four pages.
+- **No em or en dashes** (and no the em dash HTML code or the en dash HTML code) in any reviewed file. The HTML tags balance in all four pages.
 - **Etsy and TikTok Shop are correctly not used as sales channels** (the Etsy AI prompt-bundle rule, and TikTok Shop UK not supporting digital downloads).
 
 ## Still for the owner (cannot be fixed in copy)

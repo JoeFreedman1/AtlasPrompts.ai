@@ -8,7 +8,7 @@ Three places the kit can legitimately be sold, with copy ready to paste:
 
 Keep prices consistent everywhere the full kit is sold. Never quote sales, downloads, ratings or reviews, because we have none yet, and never add testimonials. Rules and fees below were not verified on the providers' own pages this session (see `research/tools-and-fees.md`), so check each one before publishing.
 
-Facts about the kit used below (checked against `product/` on 29 September 2026): 92 prompts across modules 00 to 10 (IDs A, B, T, D, K, PH, R, M, V, C, W; recount with `grep -cE "^### [A-Z]{1,2}[0-9]+ " launch-kit/product/source/*.md`), 13 guide modules (00 to 12), six worked examples, 5 template files (including 22 ready buyer replies and photo shot lists for 9 categories), delivered as a PDF guide, an offline HTML prompt library and a plain text file of all prompts, in one zip.
+Facts about the kit used below (checked against `product/` on 29 September 2026): 90 prompts across modules 00 to 10 (IDs A, B, T, D, K, PH, R, M, V, C, W; recount with `grep -cE "^### [A-Z]{1,2}[0-9]+ " launch-kit/product/source/*.md`), 13 guide modules (00 to 12), six worked examples, 5 template files (including 22 ready buyer replies and photo shot lists for 10 categories), delivered as a PDF guide, an offline HTML prompt library and a plain text file of all prompts, in one zip.
 
 ---
 
@@ -63,7 +63,7 @@ Describing use with marketplace names ("ebay", "vinted") is fine. Never suggest 
 ### Summary (short text shown near the buy button)
 
 ```text
-92 AI prompts, fill-in templates and checklists for UK sellers on eBay, Vinted, Depop, Amazon, Etsy and TikTok Shop. Works with free ChatGPT, Claude, Gemini or Copilot. PDF guide, offline prompt library and spreadsheet templates. Instant download. 30-day refund.
+90 AI prompts, fill-in templates and checklists for UK sellers on eBay, Vinted, Depop, Amazon, Etsy and TikTok Shop. Works with free ChatGPT, Claude, Gemini or Copilot. PDF guide, offline prompt library and spreadsheet templates. Instant download. 30-day refund.
 ```
 
 ### "You'll get" bullet list (if the layout asks for one)
@@ -71,7 +71,7 @@ Describing use with marketplace names ("ebay", "vinted") is fine. Never suggest 
 ```text
 PDF guide (13 modules)
 Offline prompt library with copy buttons (HTML, works on your phone)
-All 92 prompts in one text file
+All 90 prompts in one text file
 5 templates: Listing Brief (text and spreadsheet), stock and pricing tracker, 22 ready buyer replies, photo shot lists
 30-day refund, no questions asked
 ```
@@ -91,7 +91,7 @@ Every prompt in the kit starts from a Listing Brief: a short fill-in block of fa
 
 WHAT'S INSIDE
 00 Start here: your first listing in 5 minutes with an all-in-one prompt for each platform, choosing a free AI tool, privacy, golden rules
-01 Listing Brief: the master brief plus extra lines for clothing, electronics, books and media, homeware, toys and collectables, and handmade
+01 Listing Brief: the master brief plus extra lines for clothing, children's clothing, electronics, books and media, homeware, toys and collectables, and handmade
 02 Titles: for eBay UK, Vinted, Depop, Etsy, Amazon UK and TikTok Shop UK, with title formulas and a title fixer
 03 Descriptions and condition: an honest condition scale, flaw wording, measurements, bundles
 04 Keywords, tags and item specifics: eBay item specifics, Etsy tags, Depop hashtags, Vinted fields, Amazon search terms, and a keyword stuffing check
@@ -99,12 +99,12 @@ WHAT'S INSIDE
 06 Pricing: price from sold listings you look up yourself, bundles, offers, price drops, fee and postage maths
 07 Buyer messages: "is this still available?", lowball offers, bundles, delays, returns, "not as described", damage in the post, feedback and difficult buyers
 08 Video and TikTok Shop: faceless product video scripts, TikTok Shop descriptions and claims check, a live-selling run-sheet
-09 Rule checker: pre-post checks for each platform, risky claims, brand and authenticity wording, UK consumer law basics
+09 Rule checker: pre-post checks for each platform, risky claims, brand and authenticity wording, UK consumer law basics, and product safety and label details for makers
 10 Batch workflow: list up to 10 items in one chat, spreadsheet output for bulk tools, a weekly routine
 11 Worked examples: six full before and after examples
 12 Platform cheatsheet: limits and rules for each platform, with sources and a "last checked" date
 
-92 prompts in total, each with "use it when", the prompt to paste, usually an example of good output, and what to check before you post.
+90 prompts in total, each with "use it when", the prompt to paste, usually an example of good output, and what to check before you post.
 
 FORMATS
 PDF guide to read and keep
@@ -227,14 +227,14 @@ reselling, ebay seller, vinted seller, ai prompts, chatgpt prompts, listing temp
 ```text
 Paste in your item's details and get a UK-ready listing, a price check and polite buyer replies, using the free AI tools you already have.
 
-The Well Listed Kit is a downloadable pack of 92 AI prompts, fill-in templates and checklists for UK sellers on eBay, Vinted, Depop, Amazon, Etsy and TikTok Shop. It works with free ChatGPT, Claude, Gemini or Copilot. Nothing to install, no subscription.
+The Well Listed Kit is a downloadable pack of 90 AI prompts, fill-in templates and checklists for UK sellers on eBay, Vinted, Depop, Amazon, Etsy and TikTok Shop. It works with free ChatGPT, Claude, Gemini or Copilot. Nothing to install, no subscription.
 
 Every prompt starts from a Listing Brief: a short list of facts about your item. The AI is told to use only those facts and to flag anything missing with [CHECK: ...] rather than guessing, so you get UK English, the right length for each platform, and no invented details or hype.
 
 Inside:
 - A PDF guide in 13 modules: Listing Brief, titles, descriptions and condition, keywords and item specifics, photos, pricing from sold listings, buyer messages, video and TikTok Shop, a rule checker, batch listing, worked examples and a platform cheatsheet
 - An offline prompt library with search and copy buttons, made for your phone
-- All 92 prompts in one text file
+- All 90 prompts in one text file
 - Templates: Listing Brief (text and spreadsheet), stock and pricing tracker, 22 ready buyer replies, photo shot lists
 
 What it will not do: list for you automatically, or promise more sales. It helps you write clear, complete, honest listings faster.
@@ -292,7 +292,7 @@ The Well Listed Guide to UK Listings shows you how to use free AI chat tools (Ch
 At its heart is the Listing Brief method: before the AI writes anything, you give it a short list of facts about your item. The prompts in this book tell the AI to use only those facts, respect each platform's limits, write in UK English, and flag anything missing instead of guessing.
 
 Inside you will find:
-- The Listing Brief, with extra lines for clothing, electronics, books and media, homeware, toys and collectables, and handmade items
+- The Listing Brief, with extra lines for clothing, children's clothing, electronics, books and media, homeware, toys and collectables, and handmade items
 - Title prompts and formulas for eBay UK, Vinted, Depop, Etsy, Amazon UK and TikTok Shop UK
 - Description prompts, an honest condition grading scale and flaw wording that helps avoid "not as described" disputes
 - Item specifics, tags, hashtags and search terms without keyword stuffing
