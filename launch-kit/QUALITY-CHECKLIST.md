@@ -19,7 +19,8 @@ Every new piece of content, from any session or subagent, passes this before it 
 - [ ] Platform facts match `research/platform-rules-uk.md`, with "check the current rule" where it is not verified.
 - [ ] Nothing encourages breaking platform rules (keyword stuffing, off-platform payment, misleading photos, replica or "inspired by" wording, review manipulation).
 - [ ] No implied affiliation with eBay, Vinted, Depop, Etsy, Amazon, TikTok or OpenAI. No marketplace logos.
-- [ ] Legal and tax topics say "general information, not legal or tax advice".
+- [ ] Legal topics say "general information, not legal advice".
+- [ ] No tax rules, thresholds or HMRC figures anywhere: tax questions only point to gov.uk or an accountant.
 - [ ] Affiliate and creator content is disclosed (#ad or "affiliate link").
 
 **Craft**

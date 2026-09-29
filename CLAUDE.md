@@ -35,7 +35,9 @@ Well Listed sells **The Well Listed Kit**, a £19 digital download (launch price
 7. Everything customer-facing passes the quality check: `launch-kit/QUALITY-CHECKLIST.md` plus `python3 launch-kit/tools/check_content.py` with zero problems.
 8. Work on a branch, commit after each meaningful step, open pull requests, and never merge unless the owner asks.
 9. Where tasks are independent (posts, articles, emails, ads), subagents may work in parallel, and every subagent's output goes through the quality check.
-10. Facts that change (fees, character limits, rules) must come from `launch-kit/research/platform-rules-uk.md` or `launch-kit/research/tools-and-fees.md`, and be phrased with "check the current rule" where not verified. Web research was limited overnight (search budget ran out, many sites blocked); many facts there are marked NOT VERIFIED.
+10. **No tax rules anywhere.** Never state tax rules, thresholds or HMRC figures in content, the product or docs. Tax questions point to gov.uk (search "running a limited company" or "selling online tax") or an accountant. Gumroad handles UK and EU VAT on its sales.
+11. **The brand trades through its own private limited company** (owner's decision). Legal notices show the company name, number and registered office, never the owner's name or home address.
+12. Facts that change (fees, character limits, rules) must come from `launch-kit/research/platform-rules-uk.md` or `launch-kit/research/tools-and-fees.md`, and be phrased with "check the current rule" where not verified. Web research was limited overnight (search budget ran out, many sites blocked); many facts there are marked NOT VERIFIED.
 
 ## What has been built (all in `launch-kit/` unless stated)
 | What | Where |

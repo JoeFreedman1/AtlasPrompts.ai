@@ -306,49 +306,46 @@ CapCut, 9:16, Cream background. The BEFORE title types on in grey with a live ch
 
 ---
 
-## P28: Myth: private sellers must accept every return
+## P28: Myth: you need a lightbox and a proper camera for good listing photos
 
-- **Format:** Myth (carousel, 8 slides)
-- **Best on:** Instagram carousel, TikTok photo mode, Facebook
-- **Length:** 8 slides
-- **Call to action:** Soft (save / free cheat sheet)
+- **Format:** Myth (slideshow with voiceover)
+- **Best on:** TikTok, Instagram Reels, YouTube Shorts
+- **Length:** 25 to 30 seconds
+- **Call to action:** Soft (free cheat sheet)
 
-**Hook (first 2 seconds):** "Selling your old coat on Vinted? You're not a shop, and the returns rules know it."
+**Hook (first 2 seconds):** "No lightbox. No camera. A phone, a window and a white duvet cover."
 
 ### Script
-1. Slide 1 (hook, Myth stamp): "Selling your old coat on Vinted? You're not a shop, and the returns rules know it."
-2. Slide 2: "Myth: every seller has to accept returns. Truth: it depends on whether you're a private seller or a trader."
-3. Slide 3 (Private sellers): "Private seller (selling your own things): the 14-day 'change of mind' right to cancel applies when a business sells online. It does not apply to a private sale, so you can say 'no returns'."
-4. Slide 4 (the catch): "But 'no returns' doesn't cover everything. The item still has to be as described. If it isn't, the buyer can use the platform's buyer protection or claim process."
-5. Slide 5 (Traders): "Trader (buying to resell, making things to sell, or selling as a business): UK consumers generally get 14 days from delivery to cancel most online purchases, plus rights if goods are faulty or not as described. On Vinted, traders sell through Vinted Pro, where returns within 14 days apply."
-6. Slide 6 (worked example): "Example. Private seller, no returns, coat listed as 'no marks'. Buyer finds a stain on the lining. That's a not-as-described problem, not change of mind. Honest listing = the best protection."
-7. Slide 7: "How to protect yourself: describe every flaw, photograph it, state your policy once, calmly. This is general information, not legal or tax advice."
-8. Slide 8 (parcel label): "Check the current rules on gov.uk and in your platform's help pages. Save this."
+1. (0 to 2s) VO: "No lightbox. No camera. A phone, a window and a white duvet cover." | On screen: "Phone. Window. Duvet cover."
+2. (2 to 6s) VO: "The myth: good listing photos need a lightbox and a proper camera. Buyers mostly see your photos on a phone screen." | On screen: "Myth: you need a lightbox and a camera"
+3. (6 to 11s) VO: "One. Daylight. Shoot near a window in the day, light from the side, flash off." | On screen: "1. Window light, flash off"
+4. (11 to 16s) VO: "Two. A plain background you already own. A duvet cover, a door, a clear bit of floor. Nothing in shot that looks included." | On screen: "2. Plain background you own"
+5. (16 to 21s) VO: "Three. Clean the lens, tap to focus, and step closer instead of zooming." | On screen: "3. Clean lens, tap focus, no zoom"
+6. (21 to 26s) VO: "Four. A shot list. Our example, a Joules cardigan: front, back, label, care label, cuff close-up, the bobbling under one arm." | On screen: "4. A shot list, flaws included"
+7. (26 to 30s) VO: "True colour, every flaw shown. That's the job. Free cheat sheet, link in bio." | On screen: "True colour. Every flaw shown."
 
 ### On-screen text
-You're not a shop. The rules know it.
-Private seller or trader?
-Private: no legal "change of mind" right
-But: it must be as described
-Trader: 14 days to cancel, plus faulty-goods rights
-Example: stain not in the listing = not as described
-Describe every flaw. Photograph it.
-General information, not tax or legal advice
+Phone. Window. Duvet cover.
+Myth: you need a lightbox and a camera
+1. Window light, flash off
+2. Plain background you own
+3. Clean lens, tap focus, no zoom
+4. A shot list, flaws included
+Example item
+True colour. Every flaw shown.
 
 ### Caption
 ```text
-Do private sellers have to accept every return? No, but "no returns" is not a free pass either. The 14-day right to cancel online purchases is a consumer rule for traders, so if you are selling your own unwanted things, you can say no to change-of-mind returns. The item still has to match its description, and platforms run their own buyer protection for items that are significantly not as described. If you are buying to resell or selling as a business, you are likely a trader, and your buyers have more rights (on Vinted that means Vinted Pro, where 14-day returns apply). The safest policy is an honest listing with every flaw photographed. This is general information, not tax or legal advice: check gov.uk and your platform's current help pages.
+No lightbox, no camera: a phone, a window and a white duvet cover will do. Buyers mostly look at listing photos on a phone, and what they want is the real item in true colour with every flaw visible. Our four basics: shoot in daylight near a window with the flash off, use a plain background you already own (and keep anything that might look included out of shot), clean the lens and tap to focus instead of zooming, and work from a shot list so you never forget the label or the flaw. For our invented example, a Joules cardigan, that means front, back, brand label, care label, cuff close-up and the bobbling under one arm. Module 05 of The Well Listed Kit writes a shot list for your exact item. Free UK Listing Cheat Sheet, link in bio.
 ```
 
 ### Hashtags
 ```text
-#vintedsellertips #ebayseller #resellercommunityuk #vintedsellinguk #ukseller
+#vintedtips #listingphotos #resellercommunityuk #ebaysellertips #resellinguk
 ```
 
 ### Visuals
-Canva carousel, 1080 x 1350. Slide 1: parcel-label card over Pexels stock "coat on hanger wooden rail" (no people). Slides 3 and 5 as a two-column comparison: left column "Private seller" with a kraft tape strip header, right column "Trader" with an Ink header; keep 12 words or fewer of large text per slide and put the detail in smaller Inter underneath. Slide 6: a mock listing card in grey ("Wool coat, size 12, no marks") with a Returns Red circle around "no marks" and a small inset photo of a stain (stage it with a coffee drop on a scrap of fabric, never a buyer's photo). Slide 7: the disclaimer "This is general information, not tax or legal advice" in Ink on a Label Yellow band (Ink text, never white). Slide 8: parcel label with "gov.uk" and "platform help pages" in plain text. No platform logos.
-
-Fact notes for the scheduler (not for the post): private vs trader distinction and the 14-day cancellation right come from the Consumer Contracts Regulations 2013 (applies to traders); Vinted Pro 14-day returns is VERIFIED in `research/platform-rules-uk.md`. The UK law points are marked NOT VERIFIED this session because gov.uk could not be opened; recheck https://www.gov.uk/accepting-returns-and-giving-refunds before posting.
+CapCut slideshow, 9:16, Cream #FAF6EF background, Archivo 800 Ink #1F2A44 text, 12 words or fewer per slide. Hook slide: parcel-label card over Pexels stock "phone photographing clothes flat lay" or "white bed sheet flat lay" (hands only at most, no face, no reflections in mirrors or windows). Slide 2: a lightbox and a camera (Pexels "product photography lightbox") with a Returns Red strike through it. Slides 3 to 5: stock clips of "window light on white fabric" and "hand wiping phone camera lens" (no people's faces), with a Label Yellow highlight box round each numbered tip. Slide 6: a simple checklist graphic of the six cardigan shots with Sold Green ticks, and a small "Example item" tag; any cardigan footage must be stock or a plain item with no brand logo visible. End card: parcel label reading "True colour. Every flaw shown." Do not show any platform logo or app screen.
 
 ---
 
@@ -440,49 +437,46 @@ Slideshow in CapCut, 9:16. Hook slide: Pexels stock "cardboard boxes in attic" o
 
 ---
 
-## P31: Myth: HMRC now taxes every Vinted sale
+## P31: Myth: one description template works for every item
 
-- **Format:** Myth (carousel, 8 slides)
-- **Best on:** Instagram carousel, TikTok photo mode, Facebook
-- **Length:** 8 slides
+- **Format:** Myth (slideshow with voiceover)
+- **Best on:** TikTok, Instagram Reels, YouTube Shorts
+- **Length:** 25 to 30 seconds
 - **Call to action:** Soft (save / free cheat sheet)
 
-**Hook (first 2 seconds):** "Reported to HMRC is not the same as taxed by HMRC."
+**Hook (first 2 seconds):** "The template asked for size and fabric. The item was a Pyrex dish."
 
 ### Script
-1. Slide 1 (hook, parcel label): "Reported to HMRC is not the same as taxed by HMRC."
-2. Slide 2 (Myth stamp): "Myth: 'HMRC now takes tax on every Vinted sale.' Truth: there's a reporting rule, not a new tax."
-3. Slide 3 (what changed): "Since 1 January 2024, selling platforms (Vinted, eBay, Etsy and others) collect sellers' details and report what sellers received from sales to HMRC. First reports went in by 31 January 2025."
-4. Slide 4 (who gets reported): "A platform doesn't have to report you if, in a calendar year, you make fewer than 30 sales AND receive less than about £1,700 (2,000 euros) in total. Make 30 sales, or go over that amount, and your details will usually be reported."
-5. Slide 5 (reported is not taxed): "Being reported doesn't mean you owe tax. Clearing out your own unwanted things is usually not trading, and usually not taxed."
-6. Slide 6 (when tax can come in): "Buying things to resell, or making things to sell? That can be trading. There's a £1,000 trading allowance each tax year (6 April to 5 April), counted on money in before costs. Above that, you'll usually need to register for Self Assessment."
-7. Slide 7 (worked example): "Example. 40 sales of your own old clothes, each for less than you paid: likely reported, likely no tax. 40 sales of charity-shop finds bought to resell: could be trading. Keep records either way."
-8. Slide 8: "This is general information, not legal or tax advice. Thresholds can change: check your own situation on gov.uk. Save this."
+1. (0 to 2s) VO: "The template asked for size and fabric. The item was a Pyrex dish." | On screen: "Size? Fabric? It's a Pyrex dish."
+2. (2 to 6s) VO: "The myth: one description template works for everything. The truth: every category has its own questions." | On screen: "Myth: one template fits every item"
+3. (6 to 10s) VO: "Clothing: measurements laid flat, fabric from the care label, tags on or off." | On screen: "Clothing: measurements, fabric, tags"
+4. (10 to 15s) VO: "Electronics: the exact model number, what you tested and how, and what you didn't test." | On screen: "Electronics: model, tested how, not tested"
+5. (15 to 20s) VO: "Homeware: the maker's mark copied exactly, dimensions, and every chip or hairline crack." | On screen: "Homeware: mark, size, chips"
+6. (20 to 24s) VO: "Books: the edition from the copyright page. Toys: pieces counted, box or no box." | On screen: "Books: edition. Toys: pieces counted."
+7. (24 to 28s) VO: "Keep one master brief, add the extras for the category. Save this. Free cheat sheet, link in bio." | On screen: "One master brief, plus category extras"
 
 ### On-screen text
-Reported is not taxed
-Myth: tax on every sale. Truth: a reporting rule
-Since 1 Jan 2024, platforms report to HMRC
-Not reported: under 30 sales AND under about £1,700
-Your own unwanted things: usually not trading
-Trading allowance: £1,000 a tax year, before costs
-Example: clearing out vs buying to resell
-General information, not tax or legal advice
+Size? Fabric? It's a Pyrex dish.
+Myth: one template fits every item
+Clothing: measurements, fabric, tags
+Electronics: model, tested how, not tested
+Homeware: mark, size, chips
+Books: edition. Toys: pieces counted.
+Example item
+One master brief, plus category extras
 
 ### Caption
 ```text
-No, HMRC does not tax every Vinted sale. Since 1 January 2024, selling platforms have to collect sellers' details and report what they received from sales to HMRC. A platform does not have to report you if you make fewer than 30 sales and receive less than about £1,700 (2,000 euros) in a calendar year. But being reported is not the same as owing tax. Selling your own unwanted things is usually not trading. Buying items to resell, or making things to sell, can be, and there is a £1,000 trading allowance each tax year (counted on sales before costs) before you usually need to register for Self Assessment. Keep simple records of what you sold and what you paid. This is general information, not legal or tax advice, and thresholds can change: check your situation on gov.uk. Save this and share it with the friend who is worried.
+The template asked for size and fabric. The item was a Pyrex dish. One description template for every item sounds efficient, until a buyer asks the one thing it never covered. Every category has its own questions. Clothing buyers want measurements laid flat, the fabric from the care label and whether the tags are on. Electronics buyers want the exact model number, what you tested and how, and what you did not test. Homeware buyers want the maker's mark, dimensions and every chip or hairline crack. Books need the edition from the copyright page; toys need the pieces counted. Our invented example: a jumper template used on a dish never asks about chips. We keep one master Listing Brief and add a short list of extras per category (Module 01 of The Well Listed Kit has seven). Free UK Listing Cheat Sheet, link in bio.
 ```
 
 ### Hashtags
 ```text
-#vintedsellinguk #ebayuk #resellercommunityuk #ukseller #vintedtips
+#resellinguk #ebaysellertips #vintedtips #listingtips #resellercommunityuk
 ```
 
 ### Visuals
-Canva carousel, 1080 x 1350, Cream background, Ink text. Slide 1: parcel-label card with "Reported" in Sold Green and "taxed" in Returns Red. Slide 4: a simple two-box graphic "under 30 sales" AND "under about £1,700", joined by a big Label Yellow "AND" (Ink text). Slide 7: two side-by-side cards with kraft tape strips: "Clearing out" (a stock photo, Pexels search "clothes rail wardrobe clear out", no people) and "Buying to resell" (Pexels "charity shop rail" or "second hand clothes shop rail", no recognisable faces; if a person is in shot, crop or blur). Slide 8: disclaimer on a Label Yellow band with Ink text. Do not use the HMRC crest, gov.uk logo or any platform logo; write "gov.uk" in plain text only.
-
-Fact notes for the scheduler (not for the post): reporting start date, 31 January 2025 first report, 30 sales / 2,000 euros threshold, £1,000 trading allowance and badges of trade are in `research/platform-rules-uk.md` (UK law section), which marks them NOT VERIFIED this session because gov.uk could not be opened. These are long-standing published HMRC positions, but open https://www.gov.uk/government/publications/reporting-rules-for-digital-platforms and https://www.gov.uk/guidance/tax-free-allowances-on-property-and-trading-income and confirm the figures before scheduling. The trading allowance and thresholds can change at a Budget.
+CapCut slideshow, 9:16, Cream #FAF6EF background, Ink #1F2A44 text, Archivo 800, 12 words or fewer per slide. Slide 1: parcel-label card with "size" and "fabric" in grey with a Returns Red strike, over Pexels stock "vintage glass baking dish" (no brand logo visible; blur it if there is one). Slide 2: Returns Red "MYTH" rubber-stamp graphic. Slides 3 to 6: one category per slide, each as a parcel-label card with a kraft tape strip header naming the category and three Sold Green ticks; optional small stock photo per slide from Pexels ("folded jumper", "old laptop on desk", "vintage glass dish", "stack of old books", no people, no brand logos). Between slides 1 and 2, a quick insert: a mock template card in grey with the fields "Size" and "Fabric" filled with "n/a", and a Label Yellow highlight box over the empty space where "Chips or cracks" should be, tagged "Example item". End slide: parcel label with the master brief and a small stack of category "extras" cards. AI text-to-speech voiceover only (never a voice clone). No platform logos.
 
 ---
 

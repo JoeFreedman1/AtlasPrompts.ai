@@ -115,8 +115,7 @@ Limits, fees and the rules that matter most when you write a listing, one table 
 We have not verified the detail here. Please read the official pages yourself.
 
 - **Selling as a business?** Read GOV.UK on accepting returns and giving refunds: https://www.gov.uk/accepting-returns-and-giving-refunds
-- **Platform reporting to HMRC.** Being reported does not by itself mean tax is due: https://www.gov.uk/government/publications/reporting-rules-for-digital-platforms
-- **Trading allowance and tax:** https://www.gov.uk/guidance/tax-free-allowances-on-property-and-trading-income
+- **Tax:** tax rules for online selling are explained on gov.uk. Search "selling online tax" on gov.uk, or ask an accountant. This kit does not cover tax.
 - **Making and selling your own products?** Product safety and labelling rules depend on the product (candles, toys, cosmetics, electricals, children's clothing and items that touch food all have their own). If you post to Northern Ireland or the EU, check whether the EU General Product Safety Regulation (GPSR) applies to you. Search GOV.UK for "product safety for businesses", and use C11 to gather your details.
 
 **Last checked: September 2026. Rules change: always check the current rule in the platform's help pages before you list.**

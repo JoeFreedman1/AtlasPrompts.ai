@@ -6,7 +6,7 @@ Three places the kit can legitimately be sold, with copy ready to paste:
 2. **Payhip** (backup storefront, only if Gumroad is down, closes the account or changes terms)
 3. **Amazon KDP** (a separate, text-only Kindle ebook: "The Well Listed Guide to UK Listings")
 
-Keep prices consistent everywhere the full kit is sold. Never quote sales, downloads, ratings or reviews, because we have none yet, and never add testimonials. Rules and fees below were not verified on the providers' own pages this session (see `research/tools-and-fees.md`), so check each one before publishing.
+Keep prices consistent everywhere the full kit is sold. Never quote sales, downloads, ratings or reviews, because we have none yet, and never add testimonials. The Gumroad fees, merchant of record status and minimum payout in section 1 have been verified by the owner. Other rules and fees below (Gumroad Discover, Payhip, Amazon KDP) were not verified on the providers' own pages this session (see `research/tools-and-fees.md`), so check each of those before publishing.
 
 Facts about the kit used below (checked against `product/` on 29 September 2026): 90 prompts across modules 00 to 10 (IDs A, B, T, D, K, PH, R, M, V, C, W; recount with `grep -cE "^### [A-Z]{1,2}[0-9]+ " launch-kit/product/source/*.md`), 13 guide modules (00 to 12), six worked examples, 5 template files (including 22 ready buyer replies and photo shot lists for 10 categories), delivered as a PDF guide, an offline HTML prompt library and a plain text file of all prompts, in one zip.
 
@@ -24,6 +24,8 @@ If either rule changes, check the platform's current help pages in full before d
 ## 1. Gumroad product page
 
 Set the account currency to GBP before creating the product. Gumroad is our primary checkout (see `ASSUMPTIONS.md` point 5).
+
+**Gumroad costs and payouts (verified by the owner):** Gumroad charges 10% plus $0.50 per direct sale, plus card processing of about 2.9% plus $0.30. Gumroad is the merchant of record and handles UK and EU VAT. The minimum payout is $100.
 
 ### Title
 

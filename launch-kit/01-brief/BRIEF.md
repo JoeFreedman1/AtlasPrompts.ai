@@ -19,7 +19,7 @@ They are mostly on mobile, mostly on TikTok, Instagram, Facebook groups and Redd
 ## Why now
 - Selling second-hand is mainstream in the UK. Vinted and eBay are part of everyday life and TikTok Shop has opened a new selling channel.
 - Free AI chat tools are now good enough to do most of the writing, but most sellers do not know how to brief them, so the gap is know-how, not software.
-- Rule changes (eBay UK removing selling fees for private sellers on most categories, HMRC's digital platform reporting rules, Amazon tightening title rules) mean sellers need copy that is accurate and compliant, not just fast. (Rule details are checked and sourced in `research/platform-rules-uk.md`.)
+- Rule changes (eBay UK removing selling fees for private sellers on most categories, Amazon tightening title rules) mean sellers need copy that is accurate and compliant, not just fast. (Rule details are checked and sourced in `research/platform-rules-uk.md`.)
 
 ## The one-sentence pitch
 **"Paste in your item's details and get a UK-ready listing, a price check and polite buyer replies, using the free AI tools you already have."**

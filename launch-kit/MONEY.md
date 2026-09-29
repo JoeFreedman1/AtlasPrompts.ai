@@ -1,6 +1,6 @@
 # MONEY.md: the numbers, with no hype
 
-Everything here is planning maths, not a forecast or a promise. Fee figures come from `research/tools-and-fees.md`. Some could not be checked on the live pricing pages overnight (the sites blocked automated access), so **check Gumroad's pricing page before launch** and tell the next session if anything differs. An exchange rate of £1 = $1.34 is assumed for the dollar parts of fees.
+Everything here is planning maths, not a forecast or a promise. Fee figures come from `research/tools-and-fees.md`. **The Gumroad figures (fees, merchant of record and VAT, $100 minimum payout) have been checked by the owner.** Other figures marked "check" still need checking. An exchange rate of £1 = $1.34 is assumed for the dollar parts of fees and the payout minimum.
 
 ## 1. Price
 
@@ -11,7 +11,7 @@ Everything here is planning maths, not a forecast or a promise. Fee figures come
 | Later test | £24 | Only after 30 sales at £19 with refunds under 5% (see GROWTH.md) |
 
 **Why these numbers**
-- **Competitors:** generic prompt packs on Etsy and Gumroad sell for a few pounds and compete on "hundreds of prompts". Listing apps and cross-listers charge monthly subscriptions (roughly £5 to £80 a month, see `research/competitors.md`). We sit between: a one-off payment for a tidy, UK-specific, tested system with no subscription.
+- **Competitors:** generic prompt packs on Etsy and Gumroad sell for a few pounds and compete on "hundreds of prompts". Listing apps and cross-listers charge monthly subscriptions (roughly £5 to £80 a month, see `research/competitors.md`). We sit between: a one-off payment for a tidy, UK-specific system with worked examples and no subscription.
 - **£19 is an impulse buy for our buyer.** It is less than many sellers spend on a roll of labels and a pack of mailing bags, and it is a single payment.
 - **£12 at launch** gives early buyers a real reason to buy now (a genuine, time-limited launch price that really does end on day 14, which keeps it within the rules on fake urgency) and helps get the first sales and first honest feedback.
 - **Never fake it:** the launch price must actually end when we say it ends. No countdown timers that reset.
@@ -29,16 +29,21 @@ Everything here is planning maths, not a forecast or a promise. Fee figures come
 | Canva free, CapCut free, free AI chat tools | £0 | Yes |
 | Domain name, e.g. `well-listed.co.uk` | About £5 to £15 for the first year (varies by registrar and offers) | Optional, recommended in week 1 or 2 |
 | ICO data protection fee | £0 if exempt (processing only for your own marketing, accounts and records is usually exempt). If not exempt, the lowest tier is around £52 a year: check with the ICO self-assessment | Check |
-| Limited company (only if you want your name off the legal notices, see ASSUMPTIONS.md) | Companies House online incorporation fee (reported as £100 since May 2024, up from £12, with a further change proposed for 2026: check the current fee on gov.uk), plus a registered office service if you want your home address hidden (varies, often around £20 to £60 a year) | Optional |
-| **Total to launch** | **£0** (or about £10 with a domain) | |
+| Limited company (the brand trades through its own company, see ASSUMPTIONS.md point 12) | Companies House online incorporation fee: reported as £100 (check the current fee on gov.uk before you apply) | Yes |
+| Registered office and director service address service (keeps your home address off the public register) | Varies by provider, often around £20 to £60 a year (check) | Yes |
+| Business bank account for the company | £0 with several UK business accounts (some charge monthly fees: compare) | Yes |
+| **Total to launch** | **about £120 to £160** (about £130 to £170 with a domain) | |
+
+**Note on the original £50 budget:** without a company, launch cost is £0 to £10. Trading through a limited company is the owner's choice to keep the business separate from their name, and it takes start-up costs over £50. Everything else stays free.
 
 ### Fees per sale (Gumroad direct sale, card payment)
 | Fee | Rate |
 |---|---|
 | Gumroad fee | 10% of the price plus $0.50 (about £0.37) |
 | Card processing | about 2.9% plus $0.30 (about £0.22) |
-| VAT | Gumroad is the merchant of record: it charges and pays VAT for you. We have assumed it **adds VAT on top** of your price at checkout. If you set prices to include VAT instead, you keep less (see the second table) |
-| Gumroad Discover (sales found through Gumroad's marketplace) | 30% instead of 10%. These are extra sales you would not otherwise get |
+| VAT | Gumroad is the merchant of record: it charges, collects and pays UK and EU VAT on each sale. You do not need to register for VAT for Gumroad sales. The tables below assume Gumroad **adds VAT on top** of your price at checkout; if your Gumroad settings show prices including VAT instead, you keep less (see the line under the table) |
+| Gumroad Discover (sales found through Gumroad's marketplace) | Reported as 30% instead of 10% (check on Gumroad). These are extra sales you would not otherwise get |
+| Payouts | Gumroad pays out only once your balance reaches **$100** (about £75). See "Your first payout" below |
 
 ### Ongoing costs
 | Item | Cost |
@@ -46,6 +51,8 @@ Everything here is planning maths, not a forecast or a promise. Fee figures come
 | Paid ads (optional test from day 15, on Meta first because TikTok's minimum daily budget may be above £5) | £5 a day, capped at £70 per fortnight (see STOP-KEEP-SCALE.md and `marketing/f-paid-ads/test-plan.md`) |
 | Email tool once over the free subscriber limit | MailerLite's paid plans start at roughly £9 to £10 a month (check) |
 | Domain renewal | About £10 to £15 a year |
+| Registered office and service address | Yearly renewal of the service above (check your provider's price) |
+| Company running costs | Companies House charges a yearly fee for the confirmation statement, and the company must file accounts and returns. gov.uk explains what is needed (search "running a limited company"). Many small companies use an accountant; prices vary. Check current fees on gov.uk |
 
 ## 3. Profit per sale
 
@@ -60,16 +67,27 @@ If VAT is **included** in the price instead (UK buyer, 20% VAT): about **£7.86*
 
 There is no cost of goods: it is a digital download. Your time is the real cost.
 
-**Tax:** income from this is taxable. If your total trading income in a tax year is over the £1,000 trading allowance, you need to register for Self Assessment. This is general information, not tax advice.
+**Tax:** the company's profits are taxable. We do not set out tax rules here: gov.uk explains the company's tax duties (search "running a limited company" on gov.uk), or ask an accountant.
+
+### Your first payout
+Gumroad pays out once the balance reaches $100 (about £75 at £1 = $1.34). Money kept per sale is roughly $13.20 at £12 and $21.40 at £19, so:
+| Price of the sales | Sales before the first payout |
+|---|---|
+| All at the £12 launch price | about **8 sales** |
+| All at the £19 full price | about **5 sales** |
+| A mix (for example 4 at £12, then 3 at £19) | about **7 sales** |
+
+Refunds come out of the balance, so allow one or two more. In the "bad" scenario below, the first payout may not arrive until month 2 or 3, so plan any spending (ads, company fees) from money you already have, not from expected payouts.
 
 ## 4. Sales needed to break even
 
 | Scenario | Costs to cover | Sales needed |
 |---|---|---|
-| No domain, no ads | £0 | 0 (profit from the first sale) |
-| Domain (£10) | £10 | 2 sales at £12, or 1 at £19 |
-| Domain plus a full 14-day ad test (£70) | £80 | 9 sales at £12, or 6 at £19 |
-| Domain, ad test and limited company (about £100 plus an address service of about £20 to £60) | about £200 to £240 | about 13 to 16 sales at £19 |
+| Company and address service (the minimum set-up) | about £120 to £160 | 13 to 17 at £12, or 8 to 11 at £19 |
+| Plus a domain | about £130 to £170 | 14 to 18 at £12, or 9 to 11 at £19 |
+| Plus a full 14-day ad test (£70) | about £200 to £240 | 13 to 16 at £19 |
+
+Yearly company running costs (confirmation statement, any accountant) come on top: add them once you know them.
 
 ## 5. 30, 60 and 90 day scenarios
 

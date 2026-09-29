@@ -35,10 +35,10 @@ Post IDs P01 to P60 are used everywhere (calendar, dashboard, ROUTINE.md). The f
 | P25 | Myth | "Longer descriptions always sell better" | 03 Descriptions |
 | P26 | Myth | "Using AI for listings gets you banned" | 09 Rule checker |
 | P27 | Myth | "Stuff every keyword into the title" | 02 Titles |
-| P28 | Myth | "Private sellers must accept every return" (private vs trader, platform protection) | 07 Messages |
+| P28 | Myth | "You need a lightbox and a proper camera for good listing photos" (phone, daylight, plain background, shot list) | 05 Photos |
 | P29 | Myth | "ChatGPT makes things up so it is useless for listings" | 01 Brief |
 | P30 | Myth | "Price high and wait for offers" | 06 Pricing |
-| P31 | Myth | "HMRC now taxes every Vinted sale" (reporting vs tax, not advice) | 12 Cheat sheet |
+| P31 | Myth | "One description template works for every item" (category extras in the Listing Brief) | 01 Brief |
 | P32 | Myth | "More hashtags means more views on Vinted and Depop" | 04 Tags |
 | P33 | Myth | "You need paid software to list faster" | 00 Start here |
 | P34 | Listicle | 5 words that make a listing look like spam | 03 Descriptions |

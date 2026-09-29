@@ -2,7 +2,7 @@
 
 These are the rules the daily operator (OPERATOR.md) uses. They are **our own planning thresholds**, chosen to protect a small budget. They are not industry statistics or promises. Change them in the weekly review once you have 4 weeks of your own numbers.
 
-**Money per sale after fees** (see MONEY.md for the maths, assuming Gumroad fees of 10% + $0.50 plus card processing of about 2.9% + $0.30, and VAT added on top by Gumroad):
+**Money per sale after fees** (see MONEY.md for the maths: Gumroad fees of 10% + $0.50 plus card processing of about 2.9% + $0.30, checked by the owner, with VAT handled and added on top by Gumroad):
 - At £12 launch price: about **£9.86** kept per sale.
 - At £19 full price: about **£15.95** kept per sale.
 These are the most you could pay to get one sale and still break even. Anything below is profit.

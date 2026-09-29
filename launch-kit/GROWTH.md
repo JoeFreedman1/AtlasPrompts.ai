@@ -13,7 +13,7 @@ Deep versions of the kit for single categories where the rules and buyer questio
 - **How to choose which pack first:** the category buyers mention most in replies, comments and refund notes.
 
 ### Product 3: "The Well Listed Seller Sheet" (£12)
-A ready-made Google Sheets template: stock log, cost and sale tracker, fees and postage calculator per platform (the seller types in today's fee rates, so it never goes out of date silently), a "what sold, where, how fast" summary, and a tax-year totals tab to make Self Assessment easier (with a clear note that it is not tax advice).
+A ready-made Google Sheets template: stock log, cost and sale tracker, fees and postage calculator per platform (the seller types in today's fee rates, so it never goes out of date silently), a "what sold, where, how fast" summary, and a yearly totals tab (it states no tax rules; a note points to gov.uk and suggests an accountant).
 - **Why:** the number one thing sellers do after listing properly is try to work out whether they are making anything. The tracker in the kit is a starter; this is the full version.
 - Delivered as a "make a copy" link to a Google Sheet owned by the brand account, plus an Excel version.
 

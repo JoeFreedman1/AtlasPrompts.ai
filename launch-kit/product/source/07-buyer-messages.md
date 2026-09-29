@@ -10,7 +10,7 @@ For everyday replies you can copy without an AI tool, use **templates/message-sn
 
 ## Returns: private sellers and traders are different
 
-**Which are you?** Clearing out your own things: usually a private seller. Buying items to resell for profit, or making items to sell: likely to be a trader in law, even on a personal account. Platform reporting to HMRC is a separate question. If unsure, read the guidance on gov.uk.
+**Which are you?** Clearing out your own things: usually a private seller. Buying items to resell for profit, or making items to sell: likely to be a trader in law, even on a personal account. If unsure, read the guidance on gov.uk. This is general information, not legal advice.
 
 | | Private seller | Trader (business seller) |
 |---|---|---|

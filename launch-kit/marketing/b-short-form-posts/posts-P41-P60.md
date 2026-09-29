@@ -996,7 +996,7 @@ Somewhere around listing 50, the notes app stops coping. Set these up before you
 2. A stock and pricing tracker: item code, storage spot, cost, where it is listed, price, floor and date sold.
 3. Message snippets for the questions you answer every week.
 4. One photo spot with the same light, the same background and a shot list.
-5. Half an hour reading gov.uk's guidance on selling online and tax, so you know your position. We cannot give tax advice, but gov.uk is the place to start.
+5. Half an hour reading gov.uk's guidance on selling online, so you know where you stand. We do not give tax or legal advice: search "selling online tax" on gov.uk, or ask an accountant.
 
 None of this needs paid software. A spreadsheet and a notes app will do.
 

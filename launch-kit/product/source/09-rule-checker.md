@@ -374,4 +374,4 @@ The private seller and trader table is in Module 07.
 - **Green claims:** the Competition and Markets Authority's Green Claims Code says claims should be truthful and accurate, clear and unambiguous, not leave out important information, make fair comparisons, consider the full life cycle, and be substantiated.
 - **Fake or incentivised reviews** are against platform rules and, for businesses, banned under the Digital Markets, Competition and Consumers Act 2024.
 
-**Tax is separate:** platforms report some sellers' sales to HMRC. That is not the same as being a trader under consumer law, and it does not by itself mean you owe tax. Check gov.uk if unsure.
+**Tax is a separate subject** that this kit does not cover. Tax rules for online selling are explained on gov.uk. Search "selling online tax" on gov.uk, or ask an accountant.

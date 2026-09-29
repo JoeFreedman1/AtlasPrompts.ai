@@ -31,6 +31,9 @@ INCOME = [
     r"£\s?\d[\d,]*\s?(a|per|/)\s?(day|week|month)", r"\bearn(ed|ing|s)? (up to )?£", r"sell (\d+x|twice|double) (as )?(fast|more)",
     r"more sales guaranteed", r"\bincrease (your )?sales by \d+",
 ]
+# Tax rules must never be stated in customer-facing content (owner's rule): point to gov.uk instead
+TAX = [r"trading allowance", r"self assessment", r"badges of trade", r"£1,000 .*(tax|trading|allowance)", r"£1,700",
+       r"30 sales", r"hmrc (will|must|reports?|taxes)", r"tax year", r"register for (self assessment|tax)"]
 HYPE = [r"\bhustle\b", r"\bgrind\b", r"\bguru\b", r"game[- ]changer", r"\bunlock\b", r"revolutionary",
         r"\bskyrocket", r"\binsane\b", r"crush it", r"\bexplode\b", r"secret (trick|formula|method)"]
 FAKE = [r"★★★★★", r"\"[^\"]{10,120}\"\s*(\n|\s)*[-~]\s*[A-Z][a-z]+ [A-Z]\.", r"\b\d+[,\d]* (happy )?(customers|sellers) (love|trust|use)",
@@ -119,6 +122,9 @@ def main():
                         if negated or (pat.startswith("£") and costy):
                             continue
                         errors.append("%s  possible income claim: /%s/" % (where, pat))
+                for pat in TAX:
+                    if re.search(pat, low):
+                        errors.append("%s  tax rule stated (point to gov.uk instead): /%s/" % (where, pat))
                 for pat in HYPE:
                     if re.search(pat, low) and "banned" not in low and "avoid" not in low:
                         warnings.append("%s  hype word: /%s/" % (where, pat))

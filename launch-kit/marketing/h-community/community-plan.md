@@ -31,7 +31,7 @@ Sources: `research/where-buyers-hang-out.md` (communities and what we could and 
 |---|---|---|---|
 | r/Flipping | Sourcing, pricing research, eBay and cross-listing workflows. US-leaning with UK members. | A secondary source (Reddit Radar guide) says direct promotion is against the rules; tools may be mentioned only when directly relevant to a question; hauls go in the weekly haul thread. | No product links. Answer in full in the comment. |
 | r/EtsySellers | Etsy SEO, fees, listing copy, policy changes. | A secondary source (Redship) says promotion is confined to a weekly thread. | Only in the weekly promotion thread, plainly, with the price. Remember the kit itself cannot be sold on Etsy (see `i-marketplace-listings/listings.md`). |
-| r/eBayUK | UK eBay: private seller fees, returns, disputes, postage, HMRC reporting. | Rules not verified. Treat as no promotion. | Only to eBay's own help pages or gov.uk when that answers the question. |
+| r/eBayUK | UK eBay: private seller fees, returns, disputes, postage, item not as described claims. | Rules not verified. Treat as no promotion. | Only to eBay's own help pages or gov.uk when that answers the question. |
 | r/vinted (and any UK Vinted subreddit) | Lowball offers, disputes, "is this worth listing?" | Rules not verified. Treat as no promotion. | Only to Vinted Help pages when that answers the question. |
 | r/Depop | Fees, shipping, buyer behaviour, listing tips. | Rules not verified. Treat as no promotion. | Only to Depop Help pages. |
 | r/Etsy | Buyer and seller mix. | Reddit reportedly "soft-banned" Etsy links in 2014 after seller spam (EcommerceBytes). Assume links are unwelcome. | No links. |
