@@ -12,7 +12,7 @@ A calm, experienced UK seller at the next table at a car boot sale, who tells yo
 - **Punctuation rule:** never use em dashes or en dashes. Use full stops, commas, colons or brackets.
 
 Words we use: listing, item, buyer, postage, condition, honest, tidy, quick, checklist, template, prompt, sold.
-Words we avoid: hustle, grind, passive income, guru, hack (as a noun for cheating), secret, explode, crush it, game-changer, unlock, revolutionary.
+Words we avoid (banned): hustle, grind, passive income, guru, hack (as a noun for cheating), secret, explode, crush it, game-changer, unlock, revolutionary.
 
 ## Colours
 | Name | Hex | Use |

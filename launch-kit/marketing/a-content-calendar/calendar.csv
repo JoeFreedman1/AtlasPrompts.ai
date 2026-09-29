@@ -1,0 +1,109 @@
+day,slot,time,platforms,item,notes
+1,A,07:30,TikTok; Instagram Reels; YouTube Shorts,P01,Same video on all three. Upload natively to each app (no watermarks).
+1,B,19:30,Instagram carousel; TikTok photo mode (or second video),P18,Carousel version if the post has slides; otherwise post as a second TikTok video.
+1,Pin,12:00,Pinterest,PIN01,Schedule in Pinterest's free scheduler.
+1,Blog,anytime,Website blog,B01,"Publish the article, then make 1 extra pin linking to it."
+1,Email,10:00,Email (MailerLite),,Turn on welcome sequence (W1 to W7 run automatically)
+2,A,07:30,TikTok; Instagram Reels; YouTube Shorts,P13,Same video on all three. Upload natively to each app (no watermarks).
+2,B,19:30,Instagram carousel; TikTok photo mode (or second video),P38,Carousel version if the post has slides; otherwise post as a second TikTok video.
+2,Pin,12:00,Pinterest,PIN02,Schedule in Pinterest's free scheduler.
+3,A,07:30,TikTok; Instagram Reels; YouTube Shorts,P02,Same video on all three. Upload natively to each app (no watermarks).
+3,B,19:30,Instagram carousel; TikTok photo mode (or second video),P15,Carousel version if the post has slides; otherwise post as a second TikTok video.
+3,Pin,12:00,Pinterest,PIN03,Schedule in Pinterest's free scheduler.
+3,Blog,anytime,Website blog,B02,"Publish the article, then make 1 extra pin linking to it."
+4,A,07:30,TikTok; Instagram Reels; YouTube Shorts,P34,Same video on all three. Upload natively to each app (no watermarks).
+4,B,19:30,Instagram carousel; TikTok photo mode (or second video),P06,Carousel version if the post has slides; otherwise post as a second TikTok video.
+4,Pin,12:00,Pinterest,PIN04,Schedule in Pinterest's free scheduler.
+5,A,07:30,TikTok; Instagram Reels; YouTube Shorts,P14,Same video on all three. Upload natively to each app (no watermarks).
+5,B,19:30,Instagram carousel; TikTok photo mode (or second video),P29,Carousel version if the post has slides; otherwise post as a second TikTok video.
+5,Pin,12:00,Pinterest,PIN05,Schedule in Pinterest's free scheduler.
+6,A,07:30,TikTok; Instagram Reels; YouTube Shorts,P03,Same video on all three. Upload natively to each app (no watermarks).
+6,B,19:30,Instagram carousel; TikTok photo mode (or second video),P41,Carousel version if the post has slides; otherwise post as a second TikTok video.
+6,Pin,12:00,Pinterest,PIN06,Schedule in Pinterest's free scheduler.
+6,Blog,anytime,Website blog,B03,"Publish the article, then make 1 extra pin linking to it."
+7,A,07:30,TikTok; Instagram Reels; YouTube Shorts,P53,Same video on all three. Upload natively to each app (no watermarks).
+7,B,19:30,Instagram carousel; TikTok photo mode (or second video),P55,Carousel version if the post has slides; otherwise post as a second TikTok video.
+7,Pin,12:00,Pinterest,PIN07,Schedule in Pinterest's free scheduler.
+7,Email,10:00,Email (MailerLite),,Send launch email L1 to everyone subscribed so far
+7,Review,20:00,All,,Weekly 1-hour review (ROUTINE.md)
+8,A,07:30,TikTok; Instagram Reels; YouTube Shorts,P05,Same video on all three. Upload natively to each app (no watermarks).
+8,B,19:30,Instagram carousel; TikTok photo mode (or second video),P24,Carousel version if the post has slides; otherwise post as a second TikTok video.
+8,Pin,12:00,Pinterest,PIN08,Schedule in Pinterest's free scheduler.
+9,A,07:30,TikTok; Instagram Reels; YouTube Shorts,P27,Same video on all three. Upload natively to each app (no watermarks).
+9,B,19:30,Instagram carousel; TikTok photo mode (or second video),P35,Carousel version if the post has slides; otherwise post as a second TikTok video.
+9,Pin,12:00,Pinterest,PIN09,Schedule in Pinterest's free scheduler.
+9,Blog,anytime,Website blog,B04,"Publish the article, then make 1 extra pin linking to it."
+10,A,07:30,TikTok; Instagram Reels; YouTube Shorts,P07,Same video on all three. Upload natively to each app (no watermarks).
+10,B,19:30,Instagram carousel; TikTok photo mode (or second video),P17,Carousel version if the post has slides; otherwise post as a second TikTok video.
+10,Pin,12:00,Pinterest,PIN10,Schedule in Pinterest's free scheduler.
+11,A,07:30,TikTok; Instagram Reels; YouTube Shorts,P46,Same video on all three. Upload natively to each app (no watermarks).
+11,B,19:30,Instagram carousel; TikTok photo mode (or second video),P36,Carousel version if the post has slides; otherwise post as a second TikTok video.
+11,Pin,12:00,Pinterest,PIN11,Schedule in Pinterest's free scheduler.
+12,A,07:30,TikTok; Instagram Reels; YouTube Shorts,P08,Same video on all three. Upload natively to each app (no watermarks).
+12,B,19:30,Instagram carousel; TikTok photo mode (or second video),P54,Carousel version if the post has slides; otherwise post as a second TikTok video.
+12,Pin,12:00,Pinterest,PIN12,Schedule in Pinterest's free scheduler.
+12,Blog,anytime,Website blog,B05,"Publish the article, then make 1 extra pin linking to it."
+12,Email,10:00,Email (MailerLite),,Send launch email L2 (launch price ends in 48 hours)
+13,A,07:30,TikTok; Instagram Reels; YouTube Shorts,P19,Same video on all three. Upload natively to each app (no watermarks).
+13,B,19:30,Instagram carousel; TikTok photo mode (or second video),P44,Carousel version if the post has slides; otherwise post as a second TikTok video.
+13,Pin,12:00,Pinterest,PIN13,Schedule in Pinterest's free scheduler.
+14,A,07:30,TikTok; Instagram Reels; YouTube Shorts,P09,Same video on all three. Upload natively to each app (no watermarks).
+14,B,19:30,Instagram carousel; TikTok photo mode (or second video),P30,Carousel version if the post has slides; otherwise post as a second TikTok video.
+14,Pin,12:00,Pinterest,PIN14,Schedule in Pinterest's free scheduler.
+14,Email,10:00,Email (MailerLite),,Send launch email L3 (launch price ends tonight); switch price to £19 at midnight
+14,Review,20:00,All,,Weekly 1-hour review (ROUTINE.md)
+15,A,07:30,TikTok; Instagram Reels; YouTube Shorts,P16,Same video on all three. Upload natively to each app (no watermarks).
+15,B,19:30,Instagram carousel; TikTok photo mode (or second video),P04,Carousel version if the post has slides; otherwise post as a second TikTok video.
+15,Pin,12:00,Pinterest,PIN15,Schedule in Pinterest's free scheduler.
+15,Blog,anytime,Website blog,B06,"Publish the article, then make 1 extra pin linking to it."
+16,A,07:30,TikTok; Instagram Reels; YouTube Shorts,P25,Same video on all three. Upload natively to each app (no watermarks).
+16,B,19:30,Instagram carousel; TikTok photo mode (or second video),P42,Carousel version if the post has slides; otherwise post as a second TikTok video.
+16,Pin,12:00,Pinterest,PIN16,Schedule in Pinterest's free scheduler.
+17,A,07:30,TikTok; Instagram Reels; YouTube Shorts,P10,Same video on all three. Upload natively to each app (no watermarks).
+17,B,19:30,Instagram carousel; TikTok photo mode (or second video),P47,Carousel version if the post has slides; otherwise post as a second TikTok video.
+17,Pin,12:00,Pinterest,PIN17,Schedule in Pinterest's free scheduler.
+18,A,07:30,TikTok; Instagram Reels; YouTube Shorts,P22,Same video on all three. Upload natively to each app (no watermarks).
+18,B,19:30,Instagram carousel; TikTok photo mode (or second video),P28,Carousel version if the post has slides; otherwise post as a second TikTok video.
+18,Pin,12:00,Pinterest,PIN18,Schedule in Pinterest's free scheduler.
+18,Blog,anytime,Website blog,B07,"Publish the article, then make 1 extra pin linking to it."
+19,A,07:30,TikTok; Instagram Reels; YouTube Shorts,P37,Same video on all three. Upload natively to each app (no watermarks).
+19,B,19:30,Instagram carousel; TikTok photo mode (or second video),P21,Carousel version if the post has slides; otherwise post as a second TikTok video.
+19,Pin,12:00,Pinterest,PIN19,Schedule in Pinterest's free scheduler.
+20,A,07:30,TikTok; Instagram Reels; YouTube Shorts,P11,Same video on all three. Upload natively to each app (no watermarks).
+20,B,19:30,Instagram carousel; TikTok photo mode (or second video),P26,Carousel version if the post has slides; otherwise post as a second TikTok video.
+20,Pin,12:00,Pinterest,PIN20,Schedule in Pinterest's free scheduler.
+21,A,07:30,TikTok; Instagram Reels; YouTube Shorts,P48,Same video on all three. Upload natively to each app (no watermarks).
+21,B,19:30,Instagram carousel; TikTok photo mode (or second video),P58,Carousel version if the post has slides; otherwise post as a second TikTok video.
+21,Pin,12:00,Pinterest,PIN21,Schedule in Pinterest's free scheduler.
+21,Blog,anytime,Website blog,B08,"Publish the article, then make 1 extra pin linking to it."
+21,Review,20:00,All,,Weekly 1-hour review (ROUTINE.md)
+22,A,07:30,TikTok; Instagram Reels; YouTube Shorts,P23,Same video on all three. Upload natively to each app (no watermarks).
+22,B,19:30,Instagram carousel; TikTok photo mode (or second video),P43,Carousel version if the post has slides; otherwise post as a second TikTok video.
+22,Pin,12:00,Pinterest,PIN22,Schedule in Pinterest's free scheduler.
+23,A,07:30,TikTok; Instagram Reels; YouTube Shorts,P12,Same video on all three. Upload natively to each app (no watermarks).
+23,B,19:30,Instagram carousel; TikTok photo mode (or second video),P59,Carousel version if the post has slides; otherwise post as a second TikTok video.
+23,Pin,12:00,Pinterest,PIN23,Schedule in Pinterest's free scheduler.
+24,A,07:30,TikTok; Instagram Reels; YouTube Shorts,P32,Same video on all three. Upload natively to each app (no watermarks).
+24,B,19:30,Instagram carousel; TikTok photo mode (or second video),P20,Carousel version if the post has slides; otherwise post as a second TikTok video.
+24,Pin,12:00,Pinterest,PIN24,Schedule in Pinterest's free scheduler.
+24,Blog,anytime,Website blog,B09,"Publish the article, then make 1 extra pin linking to it."
+25,A,07:30,TikTok; Instagram Reels; YouTube Shorts,P49,Same video on all three. Upload natively to each app (no watermarks).
+25,B,19:30,Instagram carousel; TikTok photo mode (or second video),P56,Carousel version if the post has slides; otherwise post as a second TikTok video.
+25,Pin,12:00,Pinterest,PIN25,Schedule in Pinterest's free scheduler.
+26,A,07:30,TikTok; Instagram Reels; YouTube Shorts,P39,Same video on all three. Upload natively to each app (no watermarks).
+26,B,19:30,Instagram carousel; TikTok photo mode (or second video),P52,Carousel version if the post has slides; otherwise post as a second TikTok video.
+26,Pin,12:00,Pinterest,PIN26,Schedule in Pinterest's free scheduler.
+27,A,07:30,TikTok; Instagram Reels; YouTube Shorts,P31,Same video on all three. Upload natively to each app (no watermarks).
+27,B,19:30,Instagram carousel; TikTok photo mode (or second video),P57,Carousel version if the post has slides; otherwise post as a second TikTok video.
+27,Pin,12:00,Pinterest,PIN27,Schedule in Pinterest's free scheduler.
+27,Blog,anytime,Website blog,B10,"Publish the article, then make 1 extra pin linking to it."
+28,A,07:30,TikTok; Instagram Reels; YouTube Shorts,P51,Same video on all three. Upload natively to each app (no watermarks).
+28,B,19:30,Instagram carousel; TikTok photo mode (or second video),P45,Carousel version if the post has slides; otherwise post as a second TikTok video.
+28,Pin,12:00,Pinterest,PIN28,Schedule in Pinterest's free scheduler.
+28,Review,20:00,All,,Weekly 1-hour review (ROUTINE.md)
+29,A,07:30,TikTok; Instagram Reels; YouTube Shorts,P50,Same video on all three. Upload natively to each app (no watermarks).
+29,B,19:30,Instagram carousel; TikTok photo mode (or second video),P40,Carousel version if the post has slides; otherwise post as a second TikTok video.
+29,Pin,12:00,Pinterest,PIN29,Schedule in Pinterest's free scheduler.
+30,A,07:30,TikTok; Instagram Reels; YouTube Shorts,P60,Same video on all three. Upload natively to each app (no watermarks).
+30,B,19:30,Instagram carousel; TikTok photo mode (or second video),P33,Carousel version if the post has slides; otherwise post as a second TikTok video.
+30,Pin,12:00,Pinterest,PIN30,Schedule in Pinterest's free scheduler.
