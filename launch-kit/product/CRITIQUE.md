@@ -133,3 +133,110 @@ All 10 fixed in `product/source/`, `product/templates/` and `product/READ-ME-FIR
 8. Every module heading is "# Module NN: Name"; photo prompts are PH everywhere; every "Use it when" line starts with a capital; every prompt heading is "### ID Name".
 9. "Which prompt do I need?" table in 00; "Skip this if you only sell second-hand" notes on Module 08 and on T5, T6, D5, K5, C6 and C7; worked examples labelled resale or maker.
 10. D2 uses "I"; T1 no longer asks for 70 to 80 characters; R5's auto-decline line explains itself; "left money on the table", "Short videos sell things" and the M7 "resells well on here" reply are gone.
+
+## Round 2
+
+Reviewer brief: a second paying customer. A small UK maker selling handmade homeware (candle holders, ceramics) on Etsy, with a few lines on Amazon UK and TikTok Shop, who also clears the family's outgrown kids' clothes on Vinted. Impatient, on a phone, allergic to padding. Round 1 points were checked first and not repeated unless still broken. The A1 to A6 prompts and ten others (T4, D4, D9, K2, R7, M7, C5, C11, W4, V5) were run in our heads against free ChatGPT.
+
+Baseline before fixes: 13 modules, 89 prompts, PDF guide 136 A4 pages (as built by `build.py`).
+
+The 10 weaknesses, most serious first.
+
+### 1. Searching the library by ID finds nothing, so every cross-reference is a dead end on a phone
+
+Evidence:
+- `build.py` pads IDs to two digits, so the library badges and `all-prompts.txt` say A01, M07, PH04, while the guide, the "Which prompt do I need?" table and READ-ME-FIRST.txt say A1, M7, PH4.
+- The library search matches the padded ID. Tested with the build's own data: searching "A1" (the example READ-ME-FIRST.txt tells buyers to type) returns 0 prompts. "M7", "T1", "C5", "PH4", "K2", "D9", "B1" also return 0. "W2" returns W03 and W06 but not W02. "R7" returns R08.
+- So "use M8", "see R7", "then C5" in the guide all lead to an empty screen in the one tool a phone user actually opens.
+- The numbering also has holes left by round 1: V1, V2, V3, V5, V6, V7 (no V4) and C1 to C9, then C11 (no C10). A buyer assumes something is missing.
+
+Fix: use the same two-digit IDs everywhere in the source (headings and every reference) and in READ-ME-FIRST.txt, so the PDF, the library badge, the search and the text file all agree. Close the gaps (V05 to V07 become V04 to V06; C11 becomes C10).
+
+### 2. The Etsy all-in-one prompt invites the returns wording a maker must not use, and legal points appear without the disclaimer
+
+Evidence:
+- A4 (Etsy) has no rule about returns, unlike A1 and A2. Free ChatGPT very often adds "Due to the handmade nature of our products, we do not accept returns" to an Etsy description. A maker selling what they make is likely to be a trader, and that line tries to remove rights a trader cannot remove (our own C11 flags it as Must fix).
+- `templates/listing-brief-template.csv` EXAMPLE-003 says "Business seller: returns within 14 days per shop policy", which presents the trader cancellation right as a shop choice.
+- Legal statements sit at the point of use with no "not legal advice" line: the "Sold as seen" paragraph in `03`, golden rule 7 and the closing line of `00`, and example 5's "a reference price must be a genuine price we have actually charged" in `11`.
+
+Fix: A4 gets a "no returns, refund or guarantee wording" rule and a pointer to C10 (was C11). The CSV example is corrected. Add a short "not legal advice" line where the law is summarised in 00, 03 and 11.
+
+### 3. Product safety and labelling for makers is left as a vague "check"
+
+Evidence:
+- D4's check list: "Scented products sold in the UK may need specific safety and allergen labelling. Check with your supplier and official guidance." V6 and C7 say much the same. `photo-shot-lists.md`: "check safety rules for children's toys".
+- Nothing helps a maker gather what they would need either way: the maker name and address on the product or packaging, a product or batch reference, the exact warning text from the supplier's documents (for example a fragrance supplier's label wording for candles), whether an item could be mistaken for a toy, and whether they post to Northern Ireland or the EU (where the EU General Product Safety Regulation may apply; Etsy's form may ask for these details).
+- A4's only safety input is "Safety notes: [E.G. NOT A TOY OR NONE]", so the AI can only echo it.
+
+Fix: a new maker prompt, C11 "Product safety and label details (makers)", which turns the seller's own supplier documents into a copy-exact safety block and a list of questions to check on GOV.UK. It states no rule as fact and says it is not legal advice. HANDMADE EXTRAS in 01 gain the matching lines; A4, D4, V05 and the photo shot list point to C11.
+
+### 4. Etsy AI disclosure and "handmade" wording are inconsistent
+
+Evidence:
+- Only C5 asks "Did I use AI in making the item, its design or the photos?". A4, T4, D4 and K2 never ask, so the listing a maker actually posts never gets a disclosure line.
+- Module 05's table says Etsy has "specific rules on disclosing AI use" without saying what they are. Module 12 omits the "Designed by" point in our research. Nothing says whether AI-written listing text needs disclosing (our research found no such rule), which is the question a maker using this kit is most likely to ask.
+- A4 asks "Handmade, vintage or craft supply" but never "who made it and how". The AI then writes "handmade" and "hand-poured" freely. A maker who designs and uses a production partner for part of the work cannot say "handmade by me".
+- A4 allows "vintage" only for an age of 20 years or more but has no age line to fill in.
+
+Fix: A4 and D4 gain "Who made it and how" and "AI used in the design, pattern or photos?" lines, with a rule to use hand words only for steps the seller does by hand and to write a plain disclosure sentence if AI was used. A4 gains an age line. 05 and 12 say what our research found, and that we found no rule on AI-written listing text (check the Creativity Standards).
+
+### 5. Kids' clothes on Vinted are not covered
+
+Evidence:
+- A1's size line is "Size on label: [SIZE]". Children's labels give an age range and often a height in cm; there is no prompt, extras block or example for them.
+- D9 (bundles) mentions "girls' tops, age 7 to 8 years" once, but its example is paperback books. Vinted bundles are how most families clear kids' clothes.
+- Nothing warns about name tapes, names written in labels and school logos in photos, which identify a child. The photo shot lists do not mention them.
+- No safety questions for children's items (cords and drawstrings on hoodies, nightwear labels, used car seats or other safety items), even as "check the current rule".
+- No mention that kids' shoe sizes run from infant sizes up to 13 and then restart at adult 1, a common listing error.
+
+Fix: a CHILDREN'S CLOTHING EXTRAS block in 01; A1's size line accepts age and height; D9 gets a kids' bundle example and a line on labelling each item's age size; privacy and safety lines in the shot lists and PH1; a "Kids' clothes or a bundle" row in the "Which prompt do I need?" table.
+
+### 6. The all-in-one prompts fail their own tests
+
+Evidence:
+- A1 asks for "50 to 120 words", but its own example description is 47 words.
+- A1's example says "no holes or marks that I can see", which is not in the facts it was given. The same invented reassurance appears in D1's example ("No holes, stains or pulls that I can see") and D2's ("No rips or holes").
+- A1 has no line for what the seller checked, so a true "no holes" has nowhere to go.
+- A5 asks "Is this a media product? [YES / NO]", then only gives the non-media title rule. A YES leaves the AI guessing a limit.
+- A6 has no rule against sending buyers elsewhere to pay, which A1 to A3 all have.
+
+Fix: A1 gains a "What I checked and found fine" line, and the example uses it and reaches 50 words or more. The D1 and D2 example briefs state what was checked. A5 turns a media YES into [CHECK: title limit for media]. A6 gains the payment rule.
+
+### 7. Worked examples still break their prompts' rules
+
+Evidence:
+- Example 3's Etsy title (T4) is 17 words and says "Tealight Holder" and "Candle Holders" in one title. T4 says "ideally under 15 words" and "Do not repeat the same idea in different words".
+- Example 3's tags include "housewarming gift", "pottery gift", "rustic home decor" and "table centrepiece". None is in the brief, and K2 allows occasion or recipient words "only if the brief supports it".
+- D4's example turns "soy wax candle" into "soy wax blend" and "handmade" into "hand-poured", in a prompt whose rule is "Materials exactly as written".
+- Example 6's description is labelled V5 but ignores V5's format (one block, no feature lines, no list of claims to check).
+- Example 4 labels its Depop fields "(K3)", which is the hashtag prompt.
+
+Fix: rewrite the example 3 title and tags from the brief, correct D4's example, give example 6 the V04 (was V5) shape, and relabel example 4's fields.
+
+### 8. The templates contradict the guide and do not calculate anything
+
+Evidence:
+- `stock-and-pricing-tracker.csv` EXAMPLE-003 gives a cost of £8.60 for "materials, firing and packaging". Module 11 itemises these as £3.20 + £2.00 + £1.40 = £6.60.
+- `listing-brief-template.csv` EXAMPLE-003 puts "New" in the "Age or era" column, gives sizes with no units ("About 8 tall, 7 wide") and uses "Handmade (own shop)" as the brand.
+- `listing-brief-template.txt` example has "Material: [not on label, leave blank]" and "Small bobbling" for the same Next jumper that has a 60% acrylic, 40% wool label and "light bobbling" everywhere else.
+- The tracker's Profit column holds typed numbers, so it does not recalculate in Google Sheets when the seller changes a figure.
+
+Fix: correct the figures and columns, make the jumper consistent, and give the example Profit cells a formula that Google Sheets, Excel and Numbers work out on opening, with a note to copy it down.
+
+### 9. Makers have no route through the kit
+
+Evidence:
+- "Which prompt do I need?" in 00 is written for resellers: "Check a listing: C1, then C2 to C4 for eBay, Vinted or Depop" leaves out C5 Etsy. There is no row for Etsy tags, safety details, AI disclosure or pricing your own makes.
+- R7 (fee and postage maths) only asks "What I paid for the item". A maker's cost is materials, packaging and, if they choose, time. Example 3 in Module 11 does that sum by hand.
+- The only navigation note is "Only sell second-hand? You can skip...". There is no matching line for makers.
+
+Fix: add maker rows (Etsy listing, tags, checks, safety, pricing a make) and a "Make and sell your own products?" line to 00. R7 accepts making costs.
+
+### 10. Instructions a non-technical seller cannot follow on a phone
+
+Evidence:
+- READ-ME-FIRST.txt says the tracker "opens in Google Sheets, Excel or Numbers" but gives no steps. On a phone, tapping a .csv usually shows a read-only preview.
+- W4 asks for "CSV" output, then says "open the CSV in a spreadsheet app before uploading". It never says how to turn text in a chat into a file. There is no "paste the table into Google Sheets" route.
+- The library search box does not say that IDs are two digits (fixed by 1), and READ-ME-FIRST.txt does not say to start from the A prompts on the library's first screen.
+
+Fix: plain steps in READ-ME-FIRST.txt (computer and phone) for opening the CSV templates in Google Sheets. W4 gains a phone-friendly route (paste into Google Sheets, then split text to columns, or ask for a table) and a line on saving a CSV.
