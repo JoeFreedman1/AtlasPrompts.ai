@@ -99,7 +99,8 @@ My notes:
 ```text
 Put all the items we have written in this chat into one table.
 
-Columns, in this order: [PASTE YOUR TOOL'S COLUMN HEADERS, OR USE: SKU, Title, Description, Condition, Brand, Size, Colour, Material, Category, Price, Quantity, Postage]
+Columns, in this order: [PASTE YOUR TOOL'S COLUMN HEADERS, OR WRITE "DEFAULT"]
+(DEFAULT means: SKU, Title, Description, Condition, Brand, Size, Colour, Material, Category, Price, Quantity, Postage.)
 
 Rules:
 - One row per item. Use the facts already agreed in this chat. Do not add or change anything.

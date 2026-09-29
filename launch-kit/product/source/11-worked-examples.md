@@ -43,7 +43,7 @@ Examples 1, 2 and 4 are second-hand resale. Examples 3, 5 and 6 are for makers a
 >
 > Posted within 2 working days. Happy to answer any questions.
 
-**Fields (K4):** Category: Women > Jumpers and sweaters. Brand: White Stuff. Size: UK 14. Condition: Very good. Colour: Beige. Material: Cotton, Wool.
+**Fields (K4):** Category: Women > Jumpers [CHECK: pick the closest category you see]. Brand: White Stuff. Size: UK 14. Condition: Very good. Colour: Beige. Material: Cotton, Wool.
 
 **Price reasoning (R1, R2), invented comps:** size 12 cream, very good, £14. Size 14 grey with bobbling, good, £11. Size 16 oatmeal, very good, £15. Size 14 with no flaws, excellent, £18. The closest matches sold between £11 and £15. Ours has light bobbling, so it sits in the middle, not at the top. Vinted does not charge private sellers a selling fee (the buyer pays a Buyer Protection fee at checkout; check the current price list). List at **£14**, accept offers down to the **£10** floor. The "8 quid" in the notes was a guess, so we checked comps before setting a price.
 
@@ -75,7 +75,7 @@ Examples 1, 2 and 4 are second-hand resale. Examples 3, 5 and 6 are for makers a
 
 The notes said "works fine", but the loose stick means we list exactly what was tested rather than "fully working".
 
-**Title (T1):** Sony PS4 Slim 500GB Console Jet Black CUH-2216A Controller and Cables Tested (77)
+**Title (T1):** Sony PS4 Slim 500GB Console Jet Black CUH-2216A Controller and Cables Tested (76)
 
 **Description (D1):**
 

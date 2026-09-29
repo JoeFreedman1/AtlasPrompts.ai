@@ -126,7 +126,7 @@ My Listing Brief:
 ```text
 I am listing on Vinted in the UK. Vinted uses structured fields, not free tags.
 
-1. From my brief, give the value for each field: Category (the most specific path, e.g. Women > Clothing > Jumpers and sweaters > Jumpers), Brand, Size, Condition, Colour (a second colour only if clearly true), Material.
+1. From my brief, give the value for each field: Category (the most specific path you can see, e.g. Women > Clothing > Jumpers), Brand, Size, Condition, Colour (a second colour only if clearly true), Material.
 2. List 5 to 8 search words UK buyers would type for this item. Say which are already in my title or description, and where the missing ones could go naturally, once each.
 3. Flag any word in my title or description that is not in the brief, or is another brand.
 
@@ -168,7 +168,7 @@ My Listing Brief:
 ```
 **What good output looks like** for the "Hartwell Home" linen napkins:
 
-> serviettes dinner fabric reusable washable dining kitchen flax natural textured square hemmed table setting (106 bytes)
+> serviettes dinner fabric reusable washable dining kitchen flax natural textured square hemmed table setting (107 bytes)
 >
 > Left out: "napkins", "linen", "sage" and "green" (in the title) and "tablecloth" (a different product).
 

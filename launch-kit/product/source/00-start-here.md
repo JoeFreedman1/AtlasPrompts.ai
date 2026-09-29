@@ -39,7 +39,7 @@ Rules:
 - Do not say rare, vintage, genuine or new unless I did. No other brand names.
 - No payment, returns or contact details.
 ```
-**What good output looks like:**
+**What good output looks like** for a grey Next jumper, size 12, measured 51, 63 and 58 cm, 60% acrylic and 40% wool, Good, light bobbling under both arms:
 
 > - **Title:** Next grey wool-blend jumper, size 12 (36)
 > - **Description:** Grey wool-blend jumper from Next, size 12. Measured flat: pit to pit 51 cm, length 63 cm, sleeve 58 cm. Good condition: light bobbling under both arms, no holes or marks that I can see. 60% acrylic, 40% wool. Happy to answer questions or send more photos.
@@ -56,7 +56,7 @@ Write an eBay UK listing in UK English using ONLY these facts.
 
 What it is: [ITEM]
 Brand: [BRAND OR "UNBRANDED"]
-Model, style or product number: [OR "NOT SURE"]
+Model, style or product number: [MODEL OR "NOT SURE"]
 Size on label: [SIZE OR "NOT APPLICABLE"]
 Measurements or dimensions (cm): [MEASUREMENTS]
 Colour: [COLOUR]

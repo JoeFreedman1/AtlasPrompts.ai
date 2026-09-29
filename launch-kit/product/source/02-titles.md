@@ -61,8 +61,8 @@ My Listing Brief:
 ```
 **What good output looks like** for a brief that says: Next, women's jumper, crew neck, grey, 60% acrylic and 40% wool, size 12, light bobbling under both arms:
 
-> 1. Next Womens Grey Wool Blend Crew Neck Jumper Size 12 (51)
-> 2. Next Grey Crew Neck Jumper Womens Size 12 Acrylic Wool Blend (61)
+> 1. Next Womens Grey Wool Blend Crew Neck Jumper Size 12 (52)
+> 2. Next Grey Crew Neck Jumper Womens Size 12 Acrylic Wool Blend (60)
 > 3. Next Womens Jumper Grey Crew Neck Wool Blend UK Size 12 (55)
 
 Every word is in the brief. It does not reach 80 characters because there are no more true details to add, and that is fine. The bobbling goes in the description.
@@ -180,7 +180,7 @@ My Listing Brief:
 **What good output looks like** for an invented "Hartwell Home" set of 4 linen napkins, 45 cm square, sage green, 100% linen, machine washable at 40 degrees, hemmed edges:
 
 > - **Title:** Hartwell Home Linen Napkins Set of 4, 45 x 45 cm, Sage Green (60)
-> - **Item Highlights:** 100% linen, machine washable at 40 degrees, hemmed edges (54)
+> - **Item Highlights:** 100% linen, machine washable at 40 degrees, hemmed edges (56)
 
 **Check before you post:**
 - Check your category's style guide in Seller Central. Title rules differ by category.
@@ -269,7 +269,7 @@ UK English. No hype, emoji or exclamation marks.
 **What good output looks like** for "STUNNING!!! Vintage RARE Mulberry Style Leather Purse Bag Bag Brown L@@K" on an unbranded brown leather shoulder bag with a top zip and two handles:
 
 > - **Wrong:** capitals and exclamation marks, "Stunning" and "L@@K" are hype, "Vintage" and "Rare" are not in the brief, "Mulberry Style" names another brand, "Bag" is repeated, "Purse" is a US word here.
-> - **Fixed:** Brown Leather Shoulder Handbag, Top Zip, Two Handles, Unbranded (64)
+> - **Fixed:** Brown Leather Shoulder Handbag, Top Zip, Two Handles, Unbranded (63)
 
 **Check before you post:**
 - If the item has no brand label, do not guess one. "Unbranded" is honest.

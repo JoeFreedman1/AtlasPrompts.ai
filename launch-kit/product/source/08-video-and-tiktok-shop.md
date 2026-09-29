@@ -52,7 +52,7 @@ My Listing Brief:
 
 > | Seconds | What we see | On-screen text | Voiceover |
 > |---|---|---|---|
-> | 0 to 5 | Jumper flat on a cream sheet, tape across the chest | Grey Next jumper, size 12. Pit to pit 51 cm | "Grey Next wool-blend jumper, size 12. Fifty-one centimetres pit to pit." |
+> | 0 to 5 | Jumper flat on a cream sheet, tape across the chest | Size 12. Pit to pit 51 cm | "Grey Next wool-blend jumper, size 12. Fifty-one centimetres pit to pit." |
 > | 10 to 15 | Close-up under the left arm in daylight | Bobbling under both arms | "Light bobbling under both arms. Shown here." |
 > | 15 to 20 | Jumper folded into a mailer | Details in the listing | "Full details and photos in the listing." |
 
