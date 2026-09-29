@@ -115,7 +115,7 @@ My Listing Brief:
 
 For a grey Next wool-blend jumper, size 12, light bobbling under the arms:
 
-> 1. Next Womens Grey Wool Blend Crew Neck Jumper Size 12 Long Sleeve Knit Pullover (79)
+> 1. Next Womens Grey Wool Blend Crew Neck Jumper Size 12 Long Sleeve Knit Pullover (78)
 > 2. Next Grey Wool Blend Jumper Womens UK 12 Crew Neck Knitted Pullover Long Sleeve (79)
 > 3. Next Womens Wool Blend Jumper Grey Size 12 Crew Neck Soft Knit Casual Pullover (78)
 
@@ -152,7 +152,7 @@ My Listing Brief:
 
 For a pair of black Levi's 501 jeans, W30 L32, faded at the knees:
 
-> 1. Levi's 501 Black Straight Leg Jeans W30 L32 (42)
+> 1. Levi's 501 Black Straight Leg Jeans W30 L32 (43)
 > 2. Levi's 501 Jeans Black W30 L32 Button Fly (41)
 > 3. Black Levi's 501 Straight Jeans W30 L32 (39)
 
@@ -186,9 +186,9 @@ My Listing Brief:
 
 For a brown suede Topshop jacket, size 10, tag style suggests late 1990s (not confirmed):
 
-> 1. Topshop brown suede jacket, size 10, 90s style (42)
-> 2. Brown suede Topshop jacket UK 10, button front (44)
-> 3. Topshop suede jacket in brown, size 10, boxy fit (44)
+> 1. Topshop brown suede jacket, size 10, 90s style (46)
+> 2. Brown suede Topshop jacket UK 10, button front (46)
+> 3. Topshop suede jacket in brown, size 10, boxy fit (48)
 
 Note: "90s style" is used rather than "90s", because the era is not confirmed. If you can confirm it, change it.
 
@@ -224,7 +224,7 @@ My Listing Brief:
 
 For a handmade sterling silver stacking ring, hammered finish, sizes J to Q:
 
-> 1. Hammered Sterling Silver Stacking Ring, Handmade Thin Band, UK Sizes J to Q (74 characters, 13 words)
+> 1. Hammered Sterling Silver Stacking Ring, Handmade Thin Band, UK Sizes J to Q (75 characters, 13 words)
 > 2. Sterling Silver Stacking Ring with Hammered Finish, Handmade Thin Band (70 characters, 10 words)
 > 3. Handmade Hammered Silver Ring, Thin Sterling Stacking Band, Minimalist (70 characters, 9 words)
 
@@ -266,8 +266,8 @@ My Listing Brief:
 
 For a set of 4 invented "Hartwell Home" linen napkins, 45 cm square, sage green:
 
-> **Title:** Hartwell Home Linen Napkins Set of 4, 45 x 45 cm, Sage Green (61)
-> **Item Highlights:** 100% linen, machine washable at 40 degrees, hemmed edges, for everyday dining or occasions (98)
+> **Title:** Hartwell Home Linen Napkins Set of 4, 45 x 45 cm, Sage Green (60)
+> **Item Highlights:** 100% linen, machine washable at 40 degrees, hemmed edges, for everyday dining or occasions (90)
 
 **Check before you post:**
 - Check the style guide for your exact category in Seller Central. Title rules differ between categories.
@@ -301,7 +301,7 @@ My Listing Brief:
 
 For an invented "Brookfield" stainless steel insulated water bottle, 750 ml, matte black:
 
-> 1. Brookfield Stainless Steel Insulated Water Bottle 750ml, Leakproof Lid, Matte Black (82)
+> 1. Brookfield Stainless Steel Insulated Water Bottle 750ml, Leakproof Lid, Matte Black (83)
 > 2. Brookfield 750ml Insulated Water Bottle, Double Wall Stainless Steel, Black (75)
 > 3. Brookfield Water Bottle 750ml, Stainless Steel, Insulated, Matte Black Finish (77)
 
@@ -378,7 +378,7 @@ For the old eBay title "STUNNING!!! Vintage RARE Mulberry Style Leather Purse Ba
 
 > **What is wrong:** Capitals and exclamation marks. "Stunning" and "L@@K" are hype. "Vintage" and "rare" are not supported by the brief. "Mulberry Style" names another brand, which is not allowed. "Bag" is repeated. "Purse" is a US word for a handbag.
 > **Fixed:**
-> 1. Brown Leather Handbag Womens Shoulder Bag Top Zip Two Handles Medium Size (73)
+> 1. Womens Brown Leather Handbag, Shoulder Strap, Top Zip, Two Handles, Medium (74)
 > 2. Womens Brown Leather Shoulder Handbag with Top Zip, Twin Handles, Medium (72)
 > **Removed:** "Mulberry Style" (another brand's name, a keyword and trademark risk), "Vintage" and "Rare" (not in the brief).
 

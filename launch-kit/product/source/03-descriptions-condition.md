@@ -192,9 +192,9 @@ Structure:
 2. Two or three short lines on fit and style, only from my brief.
 3. Measurements in cm (measured flat).
 4. Condition with every flaw, location and size.
-5. A final line with up to 5 hashtags, using only words that honestly describe the item (check the current hashtag limit in the Depop app).
+5. A final line with up to 5 hashtags (Depop's current limit, which I will check in the app), using only relevant words that honestly describe the item.
 
-Keep it within the Depop description limit (check the current limit in the app; aim for under 800 characters to be safe) and show the character count.
+Keep it within the Depop description limit (commonly quoted as 1,000 characters; I will check the current limit in the app). Aim for under 800 characters and show the character count.
 
 Rules:
 1. UK English.
@@ -221,7 +221,7 @@ For a brown suede Topshop jacket, size 10:
 >
 > #suedejacket #brownsuede #topshop #90sstyle #croppedjacket
 >
-> (398 characters)
+> (380 characters)
 
 **Check before you post:**
 - Hashtags must describe the item. Tagging a brand the item is not is keyword spam.
@@ -284,9 +284,9 @@ For a handmade soy wax candle in a 200 ml amber glass jar, fig scent:
 Write Amazon UK bullet points and a product description for the product in my Listing Brief below.
 
 Bullet points:
-- 5 bullets. Each starts with a short capitalised label followed by a colon (e.g. "MATERIAL:"), then one or two plain sentences.
+- Each bullet starts with a short capitalised label followed by a colon (e.g. "MATERIAL:"), then one or two plain sentences.
 - Cover, in order of what buyers need: what it is and size, material, key feature, how to use or care for it, what is included.
-- Keep each bullet under about 250 characters, and check my category style guide in Seller Central for the current limit.
+- Up to 5 bullets. Keep each under about 250 characters (guidance is roughly 10 to 255), and I will check my category style guide in Seller Central for the current rule.
 
 Product description:
 - 100 to 200 words, plain paragraphs, no HTML.
@@ -294,7 +294,7 @@ Product description:
 Rules:
 1. UK English.
 2. Use ONLY facts from my brief. Write [CHECK: ...] for missing facts.
-3. No promotional or subjective claims (best, number one, top rated, highest quality), no prices, no delivery or offer information, no references to reviews.
+3. No promotional or subjective claims (best, number one, top rated, highest quality), no prices, no delivery or offer information, no references to reviews, and no refund or guarantee phrases (money back, 100% guaranteed).
 4. No health, medical, environmental or "eco" claims unless my brief includes the evidence and I confirm it is allowed in my category.
 5. No special characters or emoji. No other brands.
 6. Do not repeat the title word for word.

@@ -1,0 +1,50 @@
+THE WELL LISTED KIT: LISTING BRIEF
+Copy this into your phone's notes. Fill in what you know. Leave a line blank if you do not know it, and the AI will mark it [CHECK: ...] instead of guessing.
+
+SKU or item number:
+What it is (item type):
+Brand (only if you can see it on a label or mark):
+Model, style or product name:
+Size (as on the label, UK size):
+Measurements (in cm, laid flat, and how you measured):
+Colour:
+Material (from the care label or product spec):
+Age or era (only if you can back it up):
+Condition (new with tags / new without tags / very good / good / satisfactory):
+Flaws (every mark, hole, scratch, bobble, fade, missing part, with where it is):
+Tested? (for electrics and games: what you tested and the result):
+What's included:
+What's NOT included:
+Platform(s):
+Seller type (private / business):
+Postage (service and how soon you post):
+Returns (your policy, which must respect buyers' legal rights):
+Price I'd like:
+Lowest price I'll accept (price floor):
+Anything else a buyer would want to know:
+
+RULES TO PASTE WITH IT
+Use UK English. Only use facts from this brief. Write [CHECK: what is missing] for anything not here. Respect the platform's limits. No hype words, no keyword stuffing, no misleading or health claims, no fake urgency, no payment off the platform.
+
+EXAMPLE (invented item)
+SKU or item number: WL-001
+What it is (item type): Jumper, crew neck
+Brand: Next
+Model, style or product name: Wool-blend jumper
+Size: UK 12
+Measurements: Pit to pit 51 cm, length 62 cm, laid flat
+Colour: Grey
+Material: [not on label, leave blank]
+Age or era:
+Condition: Good
+Flaws: Small bobbling under both arms
+Tested?: Not applicable
+What's included: Jumper only
+What's NOT included:
+Platform(s): Vinted
+Seller type: Private
+Postage: Vinted standard options, posted within 2 working days
+Returns: Private seller, no returns for change of mind; covered if not as described
+Price I'd like: £9
+Lowest price I'll accept: £6
+Anything else: Smoke-free home
