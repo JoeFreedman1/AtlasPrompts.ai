@@ -38,13 +38,9 @@ For a private seller on Vinted and eBay UK:
 
 > You are my listing assistant for a UK shop.
 > 1. I am a private seller on Vinted and eBay UK, mainly women's clothing, UK sizes 8 to 18.
-> 2. Use UK English, UK sizes and £.
-> 3. Only use facts from the Listing Brief I give you. If something is missing, write [CHECK: what is missing].
-> 4. eBay UK titles: 80 characters or fewer, most important words first. Vinted titles: short and plain.
-> 5. Tone: friendly and plain. No emoji. Never "stunning", "gorgeous" or "rare" unless I say so.
-> 6. Measurements: pit to pit and length in cm, laid flat. State flaws clearly and calmly.
-> 7. Postage line: "Posted within 2 working days."
-> 8. No keyword stuffing, misleading or health claims, fake urgency, other platform names or off-platform payment.
+> 2. Use UK English, UK sizes and £. Only use facts from the Listing Brief I give you; write [CHECK: what is missing] for gaps.
+> 3. eBay UK titles: 80 characters or fewer. Vinted titles: short and plain.
+> ...
 
 **Check before you post:**
 - Only include "smoke-free" or "pet-free" if it is true for every item.
@@ -98,15 +94,6 @@ Rules:
 My notes:
 [PASTE YOUR NOTES HERE]
 ```
-**What good output looks like:**
-
-For "1. m&s cardi cream 14 bobbly cuffs. 2. hunter wellies green uk5 scuffed toe.":
-
-> **Item 1** | Cardigan | M&S | 14 | [CHECK: pit to pit and length in cm] | Cream | [CHECK: care label] | Bobbling on cuffs | Cardigan only | [CHECK] | [CHECK] | [CHECK]
-> **Item 2** | Wellington boots | Hunter | UK 5 | [CHECK: insole length] | Green | [CHECK: look inside the boot] | Scuffs on toe | Boots only | [CHECK] | [CHECK] | [CHECK]
->
-> **To find:** Item 1: measurements, material. Item 2: insole length, material. All: platform, postage, floor.
-
 **Check before you post:**
 - Check the brand label on every item. Never list an item as a brand you cannot confirm.
 
@@ -190,18 +177,6 @@ Give me:
 
 Simple enough to follow on a phone. Do not promise any sales results.
 ```
-**What good output looks like:**
-
-For two weekday evenings and Saturday morning, about 15 items a week on Vinted and eBay:
-
-> | Day | Time | Task | Items | Prompts |
-> |---|---|---|---|---|
-> | Saturday | 9:00 to 10:00 | Photograph and measure in daylight | 15 | PH1, shot lists |
-> | Saturday | 10:00 to 11:00 | Notes into briefs, list the first 5 | 5 | W3, W2 |
-> | Monday | 19:30 to 20:30 | List the next 5, batch check | 5 | W2, W5 |
-> | Wednesday | 19:30 to 20:30 | List the last 5, weekly review | 5 | W2, W8, R6 |
-> | Every day | 10 minutes | Messages, pack and post | | M prompts |
-
 **Check before you post:**
 - The dispatch times in your listings match the plan you can actually keep. The stock tracker template makes the weekly review quick.
 
@@ -237,8 +212,6 @@ For Amazon UK or TikTok Shop UK, use A5 or A6 in Module 00 with the same facts.
 
 For a Levi's denim jacket, size M, mid-wash, small fade at the left cuff, care label dated 1996, first written for eBay UK:
 
-> **Vinted.** Title: Vintage Levi's denim jacket, size M, mid-wash. Description: Levi's denim jacket in a mid-wash, size M, care label dated 1996. Small fade at the left cuff (see photos). Pit to pit 56 cm, length 62 cm, laid flat.
->
 > **Depop.** Vintage 1996 Levi's denim jacket, size M, mid-wash. Small fade at the left cuff (see photos). Pit to pit 56 cm, length 62 cm. #vintagelevis #denimjacket #90svintage #levisjacket #midwash
 
 **Check before you post:**
@@ -260,15 +233,6 @@ For each item suggest:
 
 UK English. Only facts from the brief; [CHECK: ...] for gaps. No stuffing, no "rare" or "vintage" unless the brief supports it, no fake discounts. Do not promise it will sell.
 ```
-**What good output looks like:**
-
-For "Blue top size 10", 21 days, 14 views, brief: Whistles silk-blend blouse, cornflower blue, UK 10, no flaws:
-
-> **New title:** Whistles Silk Blend Blouse Cornflower Blue UK 10
-> **Description:** brand and fabric in the first line; add pit to pit and length [CHECK: measure].
-> **Photos:** daylight flat lay, plus close-ups of the Whistles label and fabric label.
-> **Price check:** search sold "Whistles silk blouse size 10" on the same platform, in similar condition.
-
 **Check before you post:**
 - A price drop must be real. Never raise a price just to "drop" it later, and check the platform's rules on relisting duplicates.
 

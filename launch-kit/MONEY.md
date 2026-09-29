@@ -6,7 +6,7 @@ Everything here is planning maths, not a forecast or a promise. Fee figures come
 
 | | Price | When |
 |---|---|---|
-| **Launch price** | **£12** | Days 1 to 14 |
+| **Launch price** | **£12** | Days 1 to 14 (ends 11:59pm on day 14, the "launch price end date" in STATE.md) |
 | **Full price** | **£19** | From day 15 |
 | Later test | £24 | Only after 30 sales at £19 with refunds under 5% (see GROWTH.md) |
 
@@ -29,7 +29,7 @@ Everything here is planning maths, not a forecast or a promise. Fee figures come
 | Canva free, CapCut free, free AI chat tools | £0 | Yes |
 | Domain name, e.g. `well-listed.co.uk` | About £5 to £15 for the first year (varies by registrar and offers) | Optional, recommended in week 1 or 2 |
 | ICO data protection fee | £0 if exempt (processing only for your own marketing, accounts and records is usually exempt). If not exempt, the lowest tier is around £52 a year: check with the ICO self-assessment | Check |
-| Limited company (only if you want your name off the legal notices, see ASSUMPTIONS.md) | Companies House online fee (was £50 from May 2024, a further rise was reported for 2026: check), plus a registered office service if you want your home address hidden (varies, often around £20 to £60 a year) | Optional |
+| Limited company (only if you want your name off the legal notices, see ASSUMPTIONS.md) | Companies House online incorporation fee (reported as £100 since May 2024, up from £12, with a further change proposed for 2026: check the current fee on gov.uk), plus a registered office service if you want your home address hidden (varies, often around £20 to £60 a year) | Optional |
 | **Total to launch** | **£0** (or about £10 with a domain) | |
 
 ### Fees per sale (Gumroad direct sale, card payment)
@@ -43,7 +43,7 @@ Everything here is planning maths, not a forecast or a promise. Fee figures come
 ### Ongoing costs
 | Item | Cost |
 |---|---|
-| Paid ads (optional test from day 15) | £5 a day, capped at £70 per fortnight (see STOP-KEEP-SCALE.md) |
+| Paid ads (optional test from day 15, on Meta first because TikTok's minimum daily budget may be above £5) | £5 a day, capped at £70 per fortnight (see STOP-KEEP-SCALE.md and `marketing/f-paid-ads/test-plan.md`) |
 | Email tool once over the free subscriber limit | MailerLite's paid plans start at roughly £9 to £10 a month (check) |
 | Domain renewal | About £10 to £15 a year |
 
@@ -69,7 +69,7 @@ There is no cost of goods: it is a digital download. Your time is the real cost.
 | No domain, no ads | £0 | 0 (profit from the first sale) |
 | Domain (£10) | £10 | 2 sales at £12, or 1 at £19 |
 | Domain plus a full 14-day ad test (£70) | £80 | 9 sales at £12, or 6 at £19 |
-| Domain, ad test and limited company (about £50 to £100 plus address service) | about £160 to £230 | about 11 to 15 sales at £19 |
+| Domain, ad test and limited company (about £100 plus an address service of about £20 to £60) | about £200 to £240 | about 13 to 16 sales at £19 |
 
 ## 5. 30, 60 and 90 day scenarios
 
@@ -83,7 +83,7 @@ There is no cost of goods: it is a digital download. Your time is the real cost.
 
 What moves you from bad to okay: posting every day for the full 30 days, repeating what works (the stop, keep, scale rules), and building the email list. What moves you from okay to good is usually one repeatable winning format plus word of mouth from real buyers.
 
-If you run the £5 a day ad test from day 15, subtract up to £70 per fortnight, and only keep going if the ad rules say KEEP or SCALE.
+If you run the £5 a day ad test (from day 15, Meta first), subtract up to £70 per fortnight, and only keep going if the ad rules say KEEP or SCALE.
 
 ## 6. The 5 numbers to check every day
 

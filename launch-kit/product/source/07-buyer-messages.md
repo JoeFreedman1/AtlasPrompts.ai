@@ -1,22 +1,14 @@
 # Module 07: Buyer messages
 
-Messages eat evenings: "Is this still available?", the £3 offer on a £20 coat, the parcel stuck in a depot, the return you are not sure you have to accept. These prompts help you reply quickly, politely and correctly, on three rules:
+Messages eat evenings: "Is this still available?", the £3 offer on a £20 coat, the parcel stuck in a depot. These prompts reply quickly and correctly on three rules: **polite, brief and factual** (the platform's support team may read the thread later), **stay on the platform**, and **respect the buyer's rights**, with no pressure about feedback.
 
-1. **Polite, brief and factual.** You are writing for the buyer and, if it ever gets that far, for the platform's support team reading the thread later.
-2. **Stay on the platform.** Every message and payment goes through the app.
-3. **Respect the buyer's rights.** Never refuse a legal right or platform protection, and never pressure anyone about feedback.
-
-For everyday replies you can copy without an AI tool, use **templates/message-snippets.txt**.
-
-This is practical guidance, not legal advice. For a serious dispute, check the platform's help pages, gov.uk or Citizens Advice.
+For everyday replies you can copy without an AI tool, use **templates/message-snippets.txt** (22 ready replies). This is practical guidance, not legal advice: for a serious dispute, check the platform's help pages, gov.uk or Citizens Advice.
 
 **Privacy:** before pasting a buyer's message into an AI tool, remove their name, username, address, phone, email and order number, and replace them with [BUYER] or [ORDER]. Add the name back in the app if you want to.
 
-**Never move payment off the platform.** Bank transfer, PayPal "friends and family", or "message me on WhatsApp": the answer is no. It removes both sides' protection and it is how many scams start. eBay's rules, for example, do not allow offers to buy or sell outside eBay. Check the current rule in the platform's help pages.
+**Never move payment off the platform.** Bank transfer, PayPal "friends and family" or "message me on WhatsApp": the answer is no. It removes both sides' protection and it is how many scams start.
 
 ## Returns: private sellers and traders are different
-
-Most sellers get this wrong in one direction or the other. Check the current details on gov.uk or Citizens Advice.
 
 **Which are you?** Clearing out your own things: usually a private seller. Buying items to resell for profit, or making items to sell: likely to be a trader in law, even on a personal account. Platform reporting to HMRC is a separate question. If unsure, read the guidance on gov.uk.
 
@@ -64,9 +56,6 @@ For "Hi, is it from a smoke free home? Can you post Saturday?" with notes "yes s
 
 > "Hi, thanks for asking. Yes, it comes from a smoke-free home. I post on Mondays and Thursdays, so if you buy before Monday it will go out then."
 
-**Check before you post:**
-- Names, addresses and order numbers were removed before pasting.
-
 ### M2 "Is this still available?"
 **Use it when:** You get the classic question and want a reply that answers it and moves things along.
 **Paste this:**
@@ -87,7 +76,7 @@ My Listing Brief:
 > "Hi, yes it is still available. It is a UK 6 and I can post the next working day after purchase. Happy to send extra photos if useful."
 
 **Check before you post:**
-- It really is still available on every platform you cross-list on.
+- It really is still available everywhere you cross-list.
 
 ### M3 Lowball offer
 **Use it when:** Someone offers far below your price and you want to stay polite without giving the item away.
@@ -220,7 +209,8 @@ My Listing Brief:
 
 For a private seller on Vinted, no returns, and "It's lovely but doesn't fit, can I send it back?":
 
-> **Part 1:** change of mind, not a fault. As a private seller, accepting it is your choice. If they had said it was not as described, Buyer Protection could apply. Not legal advice: check Vinted's current help pages.
+> **Part 1:** change of mind, not a fault, so accepting it is your choice. Not legal advice: check Vinted's current help pages.
+>
 > **Part 2:** "Hi, sorry it did not fit. As I sell privately I do not accept returns for fit, which is why I listed the measurements. If there is anything wrong with the item itself, please let me know and I will help."
 
 **Check before you post:**
@@ -250,7 +240,6 @@ UK English. If the listing did not mention the problem, say so plainly. Never ac
 For the Next jumper: listing said "light bobbling under both arms", buyer says "there is a hole on the back":
 
 > 1. **Bobbling:** covered. **Hole on the back:** not mentioned anywhere. Likely a fair claim.
-> 2. **Best fit:** a return for a full refund through the platform, or a partial refund if they would rather keep it.
 > 3. "Hi, I am sorry about that. I did not spot a hole when I listed it, so thank you for telling me. I am happy to accept a return for a full refund through the app, or offer a partial refund if you would prefer to keep it. Just let me know which suits."
 
 **Check before you post:**
@@ -300,10 +289,6 @@ Rules:
 - Never offer or hint at a discount, refund or reward for feedback or a review. That is against platform rules and UK law on fake and incentivised reviews.
 - Nothing that discourages honest feedback.
 ```
-**What good output looks like:**
-
-> "Hi, thanks for buying the Clarks boots. I hope they fit well. If you have a moment, feedback is always appreciated. Any questions, just message me here."
-
 **Check before you post:**
 - It is sent once, and nothing is linked to feedback.
 
@@ -333,8 +318,7 @@ Rules:
 
 For "Refund me £10 or I'll leave negative feedback", after delivery, item as described:
 
-> 1. **Read:** a threat linked to feedback, for something not in the listing.
-> 2. **Do:** reply once, then report it through the platform. Keep everything in the app.
+> 1. **Read:** a threat linked to feedback. **Do:** reply once, then report it through the platform.
 > 3. "Hi, I am sorry you are not happy. The item was sent as described and photographed. If there is a problem with it, please open a request through the app and it will be looked at properly."
 
 **Check before you post:**
@@ -360,8 +344,7 @@ UK English. Do not help arrange payment, contact or delivery outside the platfor
 
 For "Can I pay you by bank transfer so we avoid fees? Send me your number.":
 
-> 1. **Warning signs:** paying outside the app, asking for your number before a sale.
-> 2. **Do:** decline politely. Report if they push.
+> 1. **Warning signs:** paying outside the app, asking for your number. **Do:** decline politely, report if they push.
 > 3. "Hi, thanks, but I only sell through the app so we are both covered. You are welcome to buy or make an offer here."
 
 **Check before you post:**

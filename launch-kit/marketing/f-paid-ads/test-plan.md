@@ -18,7 +18,12 @@ Everything here is planning, not a forecast. Ads can lose money, and a brand-new
 4. **Check the minimum daily budget** in Ads Manager when you create the campaign. We could not verify the current UK minimums overnight (see `research/tools-and-fees.md`). What we found:
    - **Meta:** commonly reported as a low daily minimum (around £1 a day for some goals, higher for others). £5 a day should be allowed, but check.
    - **TikTok:** historically quoted as around $50 a day per campaign and $20 a day per ad group (with local currency equivalents). If that is still true, **a £5 a day test is not possible in TikTok Ads Manager.** If Ads Manager will not accept £5, do not raise the budget. Either test Meta only, or use TikTok's in-app **Promote** feature on an existing organic post (it has its own, lower minimum: check in the app) and treat it as the TikTok test.
-5. **Read and accept** each platform's advertising policies yourself. Our ads are written to follow them, but you are the advertiser.
+5. **Read and accept** each platform's advertising policies yourself. Our ads are written to follow them, but you are the advertiser. The policy points that matter most for this Kit (check the current wording, as policies change):
+   - **Meta, personal attributes:** ad text must not assert or imply things about the viewer (for example their finances, stress or job). Talk about the listing, not the person. See rule 2 in `ads.md`.
+   - **Meta and TikTok, money-making framing:** both restrict ads that promote income opportunities or "side income". Our ads never claim or imply earnings.
+   - **Meta and TikTok, before and after:** our before and after is text only, labelled "Example item", with no outcome shown.
+   - **TikTok, misleading and exaggerated claims:** no "best", no guarantees, no implied TikTok partnership.
+   - **Meta special ad category:** choose "none". The Kit is not housing, credit, employment, or social issues.
 
 ---
 
@@ -34,7 +39,7 @@ Do **not** start ads until all of these are true:
 **Recommended start:**
 
 - **Day 15 onwards (full price £19):** the main test. Kit ads and cheat sheet ads are both allowed.
-- **Earlier (days 1 to 14) is allowed only for cheat sheet ads**, which drive to the free sign-up. Do not run kit ads at the £12 launch price: at about £9.86 kept per sale, there is very little room to pay for ads, and the launch price ending would make the ad wrong halfway through the test.
+- **Not before day 15.** The ad budget cap in STATE.md is £0 until then, and the profile needs 14 days of posts first (see the checklist above). Never run kit ads at the £12 launch price: at about £9.86 kept per sale, there is very little room to pay for ads, and the launch price ending would make the ad wrong halfway through the test.
 
 ---
 
@@ -57,7 +62,7 @@ Ads Manager has three levels. Think of it as a box, inside a box, inside a box.
 | **Ad set** (TikTok: **ad group**) | Who sees it, where, and the money | One ad set only. Budget **£5 a day** (daily budget, not lifetime). Location: **United Kingdom**. Age: **18 and over** (no upper limit). Gender: all. Detailed targeting and interests: **none** (broad). Language: English. Placements: automatic (Meta: Advantage+ placements). Optimise for: **Landing page views** (if not offered, choose **Link clicks**). Name it `UK 18+ broad` |
 | **Ad** | The thing people see | **3 or 4 ads** inside the one ad set, each named with its ID from `ads.md`, e.g. `A12 time kit` |
 
-**Why broad targeting?** With £5 a day, narrow interests make ads more expensive and give the platform too little room to find people. Leave it broad and let the ad itself (UK sellers, eBay, Vinted) attract the right people. Never target by anything personal (financial situation, health and so on): the platforms do not allow it for most ads and it is not what we want.
+**Why broad targeting?** With £5 a day, narrow interests make ads more expensive and give the platform too little room to find people. Leave it broad and let the ad itself (UK sellers, eBay, Vinted) attract the right people. Never target by anything personal (financial situation, health and so on): the platforms do not allow it for most ads and it is not what we want. Do not use a "sellers who need extra income" style interest or lookalike either.
 
 ### How to split £5 a day across 3 or 4 ads
 
@@ -128,7 +133,7 @@ Each ad must have **at least £5 spent and 1,000 impressions** before you judge 
 
 **Stop everything** if £70 has been spent (14 days at £5) with zero sales: pause ads, and fix the offer and organic content first. Ads amplify something that already works; they rarely fix something that does not.
 
-**Hard cap:** never spend more than the "ad budget cap" written in STATE.md without the owner changing it. Starting cap: £5 a day, £70 per fortnight.
+**Hard cap:** never spend more than the "ad budget cap" written in STATE.md without the owner changing it. Starting cap: £0 until day 15, then £5 a day, £70 per fortnight, on one platform at a time (Meta first).
 
 For reference, money kept per sale after fees (from `MONEY.md`): about **£9.86 at £12** and about **£15.95 at £19**. The SCALE thresholds (£6 and £8) leave room for profit under those.
 
@@ -178,3 +183,5 @@ Column names change from time to time. If you cannot find one, search for it ins
 - Running kit ads at the £12 launch price.
 - Letting the budget run past £70 without the owner's say-so.
 - Boosting a post that contains anything the ad rules in `ads.md` forbid (income talk, fake screens, logos).
+- Boosting (Promote or Spark Ads) an organic post that says "£12 at launch" once the launch price has ended.
+- Calling the prompts "tested" or "proven" in ad text without evidence on file.

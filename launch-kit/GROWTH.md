@@ -28,7 +28,7 @@ For the Etsy, Amazon and TikTok Shop sellers who sell **their own products** (no
 
 ## 2. How to raise prices
 
-1. **Day 15:** launch price £12 moves to £19, as announced. It must actually happen on the date we said.
+1. **Day 15:** launch price £12 moves to £19, as announced (the £12 price ends at 11:59pm on day 14). It must actually happen on the date we said. Steps: `ROUTINE.md`, "Day 15".
 2. **After 30 sales at £19** with refunds under 5% and no pattern of "not worth it" feedback, raise to **£24** for new buyers. Keep it there for at least 30 days before judging.
 3. **Judge by money kept per 100 checkout page views**, not by number of sales. Example: 3 sales per 100 views at £19 keeps about £48; 2.5 sales per 100 views at £24 keeps about £51, which is better even though fewer people bought.
 4. **Add value before adding price:** each price rise should come with a real improvement (a new module, category pack included, updated platform rules). Tell existing buyers about updates for free: it builds goodwill and honest word of mouth.
@@ -42,7 +42,7 @@ Start with the programme in `marketing/g-affiliates/`. Scaling means more good-f
 **Stage 1 (weeks 2 to 6): 10 hand-picked creators.**
 - Find them by using the hashtags in `research/keywords-hashtags.md` and watching, not scraping: UK reseller TikTokers and YouTubers with engaged comments (people asking real questions), roughly 1,000 to 50,000 followers.
 - Send the outreach messages in `marketing/g-affiliates/outreach.md`, **personalised, at most 5 a day, one follow-up at most**.
-- Offer: free kit, 30% commission through Gumroad's affiliate feature (40% for a dedicated piece agreed in advance, as in `marketing/g-affiliates/programme.md`), and a creator-only discount code for their audience.
+- Offer: free kit and 30% commission through Gumroad's affiliate feature (40% for a dedicated piece agreed in advance, as in `marketing/g-affiliates/programme.md`). Optionally, a small, genuine creator discount code set up in Gumroad (no fake "was" prices); if you add one, add it to `programme.md` first so the rules cover it.
 
 **Stage 2 (weeks 6 to 12): make it easy to say yes.**
 - A public "Become an affiliate" section on the sales page with a simple sign-up (Gumroad affiliate link request, or a form).
@@ -79,7 +79,7 @@ Paid ads amplify something that already works. Only increase spend when **all** 
 | When | Focus |
 |---|---|
 | Weeks 1 to 2 | Launch, daily posting, launch emails, first sales and feedback |
-| Weeks 3 to 4 | Full price, £5 a day ad test, first 5 creator outreach messages, first category pack written |
+| Weeks 3 to 4 | Full price from day 15, optional £5 a day ad test on Meta, first 5 creator outreach messages, first category pack written |
 | Month 2 | Category packs live as Gumroad upsells, 10 creators contacted, blog articles 11 to 20 (from buyer questions) |
 | Month 3 | Seller Sheet, price test at £24 if the rules allow, affiliate page public, partner outreach |
 | Month 4 and later | Shop Kit for brands and makers, bundle, ads beyond £5 a day only if the rules above are met |

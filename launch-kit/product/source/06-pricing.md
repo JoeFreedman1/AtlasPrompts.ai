@@ -12,11 +12,7 @@ AI chat tools do not know what your item sold for last week. Ask "what is this w
 
 Do not use scraping tools, bots or browser add-ons that harvest listings. Most platforms' terms forbid it, and ten minutes of looking gives better comps because you can see which items really match.
 
-| Good comp | Weak comp |
-|---|---|
-| Same brand, model or style, similar size | "Similar" items from another brand, or a different size |
-| Similar condition | New with tags against your well-worn item |
-| Sold in the last few months, with postage noted | Sold two years ago, or an unsold asking price |
+**A good comp** is the same brand and model or style, a similar size and condition, sold in the last few months, with postage noted. "Similar" items from another brand, new-with-tags items against your worn one, and unsold asking prices are weak comps.
 
 ---
 
@@ -44,13 +40,12 @@ Sold listings I copied (messy is fine):
 
 For the Next jumper (invented figures):
 
-> | Title | Sold £ | Postage £ | Total £ | Condition | Size | Match |
-> |---|---|---|---|---|---|---|
-> | Next grey wool blend jumper | 12.00 | 2.99 | 14.99 | Good | 12 | Good: same style and size |
-> | Next grey crew neck knit | 10.50 | free | 10.50 | Good | 14 | Partial: one size up |
-> | Next wool mix jumper grey NWT | 22.00 | 3.20 | 25.20 | New with tags | 12 | Poor: new, yours is worn |
+> | Title | Sold £ | Postage £ | Total £ | Condition | Match |
+> |---|---|---|---|---|---|
+> | Next grey wool blend jumper, 12 | 12.00 | 2.99 | 14.99 | Good | Good: same style and size |
+> | Next wool mix jumper grey NWT, 12 | 22.00 | 3.20 | 25.20 | New with tags | Poor: new, yours is worn |
 >
-> **Drop:** the NWT one. Not comparable with a worn jumper.
+> **Drop:** the NWT one.
 
 **Check before you post:**
 - You have at least three Good matches before moving on to R2.
@@ -290,17 +285,5 @@ UK English, pounds. Only my numbers. Do not promise anything will sell. Practica
 My Listing Brief:
 [PASTE YOUR LISTING BRIEF HERE]
 ```
-**What good output looks like:**
-
-For a paperback thriller, comps £2 to £3, about £0.60 kept, 15 minutes per item (invented figures):
-
-> | Option | Effort | Kept | When |
-> |---|---|---|---|
-> | Alone | 15 min | about £0.60 | Rarely |
-> | Bundle of 5, same author | 20 min | [CHECK: find bundle comps] | When you have a set |
-> | Donate | 5 min | £0 | When time matters more |
->
-> **Recommendation:** hold it for a same-author bundle.
-
 **Check before you post:**
 - Bundle and job lot listings still list every item accurately.

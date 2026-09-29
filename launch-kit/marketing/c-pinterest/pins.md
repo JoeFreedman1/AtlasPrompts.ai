@@ -57,7 +57,7 @@ Notes for every pin:
 - **Description:** A simple way to describe flaws in any eBay, Vinted or Depop listing: what the flaw is, where it is, how big it is, and which photo shows it. Swap vague words like "minor wear" for clear, specific condition notes buyers can trust.
 - **Board:** Listing Templates and Prompts
 - **Link:** /blog/ebay-condition-description-examples.html
-- **Design:** 1000 x 1500, split layout. Top: "minor wear" in grey with a Returns Red strike-through, labelled "Before". Bottom: "Small pale mark on left cuff, about 5mm, see photo 6" in Ink with a Sold Green tick, labelled "After". Headline: "Describe flaws like this". "Example" label.
+- **Design:** 1000 x 1500, split layout. Top: "minor wear" in grey with a Returns Red strike-through, labelled "Before". Bottom: "Pulled thread on the hem, about 2 cm, see photo 6" in Ink with a Sold Green tick, labelled "After". Headline: "Describe flaws like this". "Example" label.
 
 ## PIN07: eBay Item Specifics UK Guide
 
@@ -89,7 +89,7 @@ Notes for every pin:
 - **Description:** AI tools guess when you leave gaps. Give ChatGPT a short list of facts about your item and tell it to write [CHECK] where anything is missing instead of guessing. A simple fix for accurate, honest eBay and Vinted listings in UK English.
 - **Board:** Listing Templates and Prompts
 - **Link:** /blog/chatgpt-prompts-for-ebay-listings.html
-- **Design:** 1000 x 1500, split. Top: an AI-written line "100% cashmere" struck through in Returns Red, labelled "Guessed". Bottom: "[CHECK: material from label]" in Ink with a Sold Green tick. Headline on parcel-label card: "Stop AI guessing".
+- **Design:** 1000 x 1500, split. Top: an AI-written line "100% cashmere" struck through in Returns Red, labelled "Guessed". Bottom: "[CHECK: material from label]" in Ink with a Sold Green tick. Headline on parcel-label card: "Stop AI guessing". "Example" label.
 
 ## PIN11: ChatGPT Etsy Listing Prompt
 
@@ -102,7 +102,7 @@ Notes for every pin:
 ## PIN12: Etsy Tags Planner: Fill All 13 Without Repeats
 
 - **Title:** Etsy Tags Planner: How to Fill All 13 Tags Without Repeats
-- **Description:** A simple Etsy tags planner: group your 13 tags by what it is, style, material, who it is for and occasion, so you use every slot without repeating your title. Use phrases buyers type. Check the current tag limit in Etsy's help pages.
+- **Description:** Plan your 13 Etsy tags in five groups: what it is, style, material, who it is for and occasion, so you use every slot without repeating your title. Use phrases buyers type. Check the current tag limit in Etsy's help pages.
 - **Board:** Listing Templates and Prompts
 - **Link:** /blog/chatgpt-etsy-listing-prompt.html
 - **Design:** 1000 x 1500, Cream background. Headline: "Fill all 13 Etsy tags". A 13-slot grid, colour-coded by group (Ink, Kraft, Sold Green, Label Yellow). Example tags for a candle holder, "Example" label. Small limit line at the bottom.
@@ -118,7 +118,7 @@ Notes for every pin:
 ## PIN14: Sold Comps Pricing Worksheet
 
 - **Title:** Sold Comps Pricing Worksheet for eBay and Vinted Sellers
-- **Description:** A simple sold comps worksheet: note five to ten matching sold listings, their condition and what was included, drop the odd ones out, then set a price range. Keeps pricing on eBay and Vinted calm and consistent. Printable reseller organisation idea.
+- **Description:** Price from evidence, not memory. On this sold comps worksheet, note five to ten matching sold listings, their condition and what was included, drop the odd ones out, then set a price range. Keeps pricing on eBay and Vinted calm and consistent. Printable reseller organisation idea.
 - **Board:** Reseller Organisation
 - **Link:** /blog/how-to-price-items-on-vinted-uk.html
 - **Design:** 1000 x 1500, Cream background. Headline: "Sold comps worksheet". A printable table graphic with columns Item / Condition / Included / Sold price, filled with three example rows in Ink and "Example figures" label. Sold Green total row.
@@ -142,14 +142,14 @@ Notes for every pin:
 ## PIN17: Vinted Message Templates for Sellers
 
 - **Title:** Vinted Message Templates: Replies for Every Buyer Question
-- **Description:** Vinted message templates for sellers: replies for "is this still available?", measurements, bundles, postage questions, delays and returns. Polite, short UK English replies you can save in your phone and adapt, so buyer messages stop eating your evenings.
+- **Description:** Vinted message templates for sellers: replies for "is this still available?", measurements, bundles, postage questions, delays and returns. Polite, short UK English replies you can save in your phone and adapt, so the same questions take seconds to answer.
 - **Board:** Vinted Selling Tips
 - **Link:** /blog/vinted-message-templates.html
 - **Design:** 1000 x 1500, Cream background. Headline on parcel-label card: "Vinted message templates". Six small chat bubble icons with labels (Available? / Measurements / Bundle / Postage / Delay / Return). Kraft tape strip.
 
 ## PIN18: Reply to "Is This Still Available?"
 
-- **Title:** Best Reply to "Is This Still Available?" on Vinted and eBay
+- **Title:** A Better Reply to "Is This Still Available?" on Vinted and eBay
 - **Description:** One saved reply for "is this still available?" that answers and moves things on: yes, happy to answer questions, and you can buy or make an offer through the app. Save it in your phone's text replacement settings for quick replies.
 - **Board:** Listing Templates and Prompts
 - **Link:** /blog/vinted-message-templates.html
@@ -190,7 +190,7 @@ Notes for every pin:
 ## PIN23: 7 Checks Before You Press List
 
 - **Title:** 7 Checks Before You Press List: A Reseller Pre-Post Checklist
-- **Description:** A seven point checklist to run before you press list: title length, size and measurements, every flaw written and photographed, what is included, no risky claims, postage set right, and photos of the actual item. Printable for UK resellers.
+- **Description:** A seven point checklist to run before you press list: title within the limit, no [CHECK] notes left in, every flaw written and photographed, measurements in cm, UK words and sizes, no other brand names in the title, and your lowest price kept private. Printable for UK resellers.
 - **Board:** Reseller Organisation
 - **Link:** /#free-cheat-sheet
 - **Design:** 1000 x 1500, Cream background. Headline on parcel-label card: "7 checks before you list". Printable checklist with empty tick boxes, one Sold Green tick filled in. Kraft border around the page.
@@ -206,10 +206,10 @@ Notes for every pin:
 ## PIN25: Americanisms AI Adds to UK Listings
 
 - **Title:** 5 Americanisms AI Sneaks Into UK Listings (and the UK Word)
-- **Description:** AI tools often write American: sweater, pants, color, mailing and US sizes. Five swaps for UK listings, such as jumper, trousers, colour and postage, plus one line to add to any prompt so ChatGPT writes in UK English for UK buyers.
+- **Description:** AI tools often write American: sweater, pants, color, shipping and US sizes. Five swaps for UK listings, such as jumper, trousers, colour and postage, plus one line to add to any prompt so ChatGPT writes in UK English for UK buyers.
 - **Board:** eBay Selling Tips UK
 - **Link:** /blog/chatgpt-prompts-for-ebay-listings.html
-- **Design:** 1000 x 1500, Cream background. Headline: "AI wrote it American". Two columns: US word in grey struck through in Returns Red, UK word in Ink with Sold Green tick (sweater / jumper, pants / trousers, color / colour, mailing / postage, US 8 / UK 12). Note: "Size swaps vary by brand, check the label".
+- **Design:** 1000 x 1500, Cream background. Headline: "AI wrote it American". Two columns: US word in grey struck through in Returns Red, UK word in Ink with Sold Green tick (sweater / jumper, pants / trousers, color / colour, shipping / postage, US 8 / UK 12). Note: "Size swaps vary by brand, check the label".
 
 ## PIN26: How to Measure Clothes for Vinted
 
@@ -222,7 +222,7 @@ Notes for every pin:
 ## PIN27: Depop Description Outline
 
 - **Title:** Depop Description Outline: A Simple Structure That Covers Everything
-- **Description:** A simple Depop description outline: opening line with brand and item, size and measurements, condition and any wear, then relevant hashtags. Short, clear and honest, as Depop's own tips suggest. Check the current hashtag rules in Depop's help pages.
+- **Description:** Four parts for every Depop description: opening line with brand and item, size and measurements, condition and any wear, then relevant hashtags. Short, clear and honest, as Depop's own tips suggest. Check the current hashtag rules in Depop's help pages.
 - **Board:** Listing Templates and Prompts
 - **Link:** /#free-cheat-sheet
 - **Design:** 1000 x 1500, Cream background. Headline on parcel-label card: "Depop description outline". Four stacked sections with numbered Kraft circles. Example text in Inter with "Example" label. No Depop logo.

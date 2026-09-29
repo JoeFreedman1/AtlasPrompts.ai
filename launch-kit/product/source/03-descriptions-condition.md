@@ -2,17 +2,7 @@
 
 The title gets the tap. The description turns "that looks nice" into "I know exactly what I am getting", and it is your best protection against "not as described" claims. A good second-hand description is not long. It is complete.
 
-## The shape of a good description
-
-1. **What it is:** brand, item, key detail.
-2. **Size and measurements:** in cm for clothes, dimensions for everything else.
-3. **Condition, with flaws:** the grade, then each flaw: where, what, how big, which photo.
-4. **Details:** material, features, what is included and not included.
-5. **Postage,** if the platform does not already show it.
-
-Short lines. Most buyers read on a phone.
-
----
+The order that works on every platform: what it is, size and measurements, condition with every flaw, details and what is included, then postage. Short lines: most buyers read on a phone.
 
 ## The honest condition grading scale
 
@@ -227,9 +217,7 @@ My Listing Brief:
 For the invented "Hartwell Home" linen napkins:
 
 > - SIZE AND SET: Four napkins, each 45 x 45 cm, in sage green.
-> - MATERIAL: 100% linen.
-> - CARE: Machine washable at 40 degrees.
-> - IN THE BOX: 4 napkins.
+> - MATERIAL: 100% linen. Machine washable at 40 degrees.
 
 **Check before you post:**
 - Every fact matches your product specification and packaging exactly.
@@ -261,9 +249,7 @@ Used or worn? [HOW OFTEN, IF KNOWN]
 
 For a Nike hoodie with light pilling on the cuffs, a faded and cracked logo print, and a bleach spot on the back, about 4 mm:
 
-> **Grade:** Good. The bleach spot is a permanent visible mark, so not Very good.
-> **Closest Vinted option:** Good (read Vinted's description first).
-> **Summary:** Light pilling on both cuffs. Logo print faded with fine cracks. One bleach spot on the upper back, about 4 mm, see photo 6.
+> **Grade:** Good. The bleach spot is a permanent visible mark, so not Very good. **Closest Vinted option:** Good (read Vinted's description first). **Summary:** Light pilling on both cuffs. Logo print faded with fine cracks. One bleach spot on the upper back, about 4 mm, see photo 6.
 
 **Check before you post:**
 - The grade and the description agree. A mismatch is a common cause of disputes.
@@ -316,12 +302,6 @@ Step 2: When I reply with my numbers, format them as:
 
 UK English. Never estimate or invent a measurement. If one is missing, write [CHECK: measure X]. No fit advice unless I give it.
 ```
-**What good output looks like:**
-
-For a wool coat, after the seller replies:
-
-> **Label size:** UK 14. **Measurements (laid flat, in cm):** pit to pit 58, shoulder to shoulder 44, length (shoulder by collar to hem) 96, sleeve (shoulder seam to cuff) 61.
-
 **Check before you post:**
 - Measure buttoned and smoothed, not stretched, the same way every time. Say if the fabric stretches.
 
@@ -354,9 +334,6 @@ Parcel weight or size: [IF KNOWN]
 >
 > 1. [TITLE], [AUTHOR], paperback, 2019 printing. Very good. Spine uncreased.
 > 2. [TITLE], [AUTHOR], paperback. Good. Previous owner's name on first page. [CHECK: printing year]
-> ...
->
-> Parcel: about 1.4 kg.
 
 **Check before you post:**
 - Count the items again before you post, and photograph them all together. A missing item is a common dispute.
@@ -393,12 +370,3 @@ Old: "OMG this gorgeous vintage sweater is a MUST HAVE!! Timeless piece in amazi
 **Check before you post:**
 - If the AI removed a claim you know is true, add it back with the evidence (e.g. "receipt available").
 
----
-
-## Description checklist
-
-- [ ] Opens with what it is, then measurements in cm or dimensions
-- [ ] Grade matches the platform's condition field
-- [ ] Every flaw: where, what, how big, which photo
-- [ ] What is included, and what is not
-- [ ] No hype, unsupported claims, other brands, contact details or "no returns" wording that contradicts buyers' rights

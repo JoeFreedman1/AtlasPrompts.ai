@@ -219,7 +219,7 @@ Free cheat sheet: link in bio
 
 ### Caption
 ```text
-13 Etsy tags, up to 20 characters each (at the time of writing: check the current rule in Etsy's help pages). Here is how to use every one.
+13 Etsy tags, up to 20 characters each (at the time of writing: check the current rule in Etsy's help pages). Make every one count.
 
 Do not repeat one phrase three ways. Give each tag a different way a buyer might search: material, style, use, occasion, room.
 

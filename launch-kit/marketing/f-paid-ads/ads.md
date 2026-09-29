@@ -8,9 +8,9 @@ Read `test-plan.md` before running any of these. Do not start ads before the org
 
 These are our house rules, written to sit safely inside TikTok's and Meta's advertising policies and the UK CAP Code. Policies change: check the current advertising policies in TikTok Ads Manager and Meta Ads Manager before you launch.
 
-1. **No income or sales claims.** Never "make money", "earn", "sell more", "sell faster", "boost sales", "passive income" or anything like it. We promise clearer, more accurate listings written faster. Nothing else.
+1. **No income or sales claims.** Never "make money", "earn", "sell more", "sell faster", "boost sales", "passive income" or anything like it. We promise clearer, more accurate listings written faster. Nothing else. Do not call the prompts "tested" or "proven" in ads unless we hold written evidence of that testing (CAP Code: objective claims need evidence before the ad runs). Say "with worked examples" instead.
 2. **No personal attributes.** On Meta especially, never assert or imply something about the viewer as a person ("Are you struggling...", "Broke?", "Stressed out?", "Your side job isn't working"). Talk about the task (the listing, the title, the message), not about the person. We use "UK sellers" or no subject at all.
-3. **No before and after that promises an outcome.** Our before and after shows **text only** (a messy draft and a tidier draft), labelled "Example item". Never show views, likes, sales, a sold badge, money or a "sold in 2 hours" line.
+3. **No before and after that promises an outcome.** (TikTok and Meta both restrict before and after content that implies an unrealistic or guaranteed result.) Our before and after shows **text only** (a messy draft and a tidier draft), labelled "Example item". Never show views, likes, sales, a sold badge, money or a "sold in 2 hours" line.
 4. **No fake UI or fake notifications.** No mock marketplace screens, no fake "Your item has sold" pop-ups, no fake message bubbles styled like an app, no fake red notification dots. Example listings sit on our own plain parcel-label card in brand colours.
 5. **Screen recordings are real.** Record a real AI chat tool doing the real prompt. Crop to the chat text only. Blur or crop account names, emails, profile pictures, browser tabs and the AI tool's own logo.
 6. **No marketplace logos.** We can write the words "eBay", "Vinted", "Depop", "Etsy", "Amazon" and "TikTok Shop" to describe use. Never their logos, colours styled to look like them, or app icons.
@@ -18,6 +18,8 @@ These are our house rules, written to sit safely inside TikTok's and Meta's adve
 8. **Faceless.** Stock footage is hands-only or no people (Pexels, Pixabay or Canva free library, commercial use allowed). AI voiceover in the brand voice (calm British voice). Never the owner's face, voice, home, pets or handwriting.
 9. **Honest urgency only.** The £12 launch price may only be mentioned in ads that run during days 1 to 14 and only if it genuinely ends on day 14. No countdown timers. The ads below assume full price (£19) or the free cheat sheet.
 10. **UK English, no em dashes or en dashes, no banned words** (see `01-brief/WRITING-RULES.md`).
+10a. **No income-opportunity framing.** Meta and TikTok both restrict ads that promote ways to make money or "side income". Reselling is our audience's activity, not our promise: never show piles of cash, "extra income", "side hustle" or earnings screenshots, and never say or imply the Kit is a money-making opportunity.
+10b. **TikTok is not a partner.** Naming "TikTok Shop" to describe who the Kit is for is fine; never imply TikTok made, approved or sponsors the Kit, and never use TikTok's logo or interface in a TikTok ad.
 11. **Music:** TikTok Commercial Music Library or Meta Sound Collection only. No trending tracks from personal accounts.
 12. **Captions burned in**, centre of screen, clear of the platform's bottom buttons.
 
@@ -55,7 +57,7 @@ Small text underneath (Inter 400): "Examples are illustrative. Always check the 
 | A04 | TikTok | Pricing | Kit | "Pricing from sold listings, not from guesswork." |
 | A05 | TikTok | UK-specific | Cheat sheet | "Color. Sweater. Shipping. Not on a UK listing." |
 | A06 | TikTok | Before and after | Kit | "Same jumper. Two descriptions. Spot the difference." |
-| A07 | TikTok | Myth | Cheat sheet | "Myth: the AI can see the stain on the cuff." |
+| A07 | TikTok | Myth | Cheat sheet | "Myth: the AI knows about the stain on the cuff." |
 | A08 | TikTok | Checklist | Cheat sheet | "Five checks before you press list." |
 | A09 | TikTok | Buyer messages | Kit | "A cheeky offer, a polite no, 10 seconds." |
 | A10 | TikTok | Accuracy | Kit | "The prompt that writes [CHECK] instead of making things up." |
@@ -68,7 +70,7 @@ Small text underneath (Inter 400): "Examples are illustrative. Always check the 
 | A17 | Meta | Buyer messages | Cheat sheet | "Polite replies for the awkward messages." |
 | A18 | Meta | Myth | Kit | "Myth: a longer description is a better description." |
 | A19 | Meta | Time | Cheat sheet | "Same item, six marketplaces, one set of notes." |
-| A20 | Meta | Accuracy | Kit | "Says the size. Says the flaws. Says nothing it can't see." |
+| A20 | Meta | Accuracy | Kit | "Says the size. Says the flaws. Says nothing you didn't tell it." |
 
 Split: 10 TikTok, 10 Meta. Cheat sheet: A01, A03, A05, A07, A08, A11, A13, A15, A17, A19. Kit: A02, A04, A06, A09, A10, A12, A14, A16, A18, A20.
 
@@ -76,7 +78,7 @@ Split: 10 TikTok, 10 Meta. Cheat sheet: A01, A03, A05, A07, A08, A11, A13, A15, 
 
 ## TikTok (A01 to A10)
 
-Format for all TikTok ads: vertical 9:16, 15 to 25 seconds, AI voiceover, captions burned in, standard end card. Upload as In-Feed ads, or run as Spark Ads on our own organic posts if the post already exists (this keeps comments and follows on our account).
+Format for all TikTok ads: vertical 9:16, 15 to 25 seconds, AI voiceover, captions burned in, standard end card. Upload as In-Feed ads, or run as Spark Ads on our own organic posts if the post already exists (this keeps comments and follows on our account). Only Spark-boost an organic post that itself passes every rule above: several organic Kit posts mention "£12 at launch", so never boost those after day 14.
 
 ### A01: The AI said "stunning"
 
@@ -144,15 +146,15 @@ Format for all TikTok ads: vertical 9:16, 15 to 25 seconds, AI voiceover, captio
 - **Visual idea:** Split-screen text graphic. Top: "Before" in grey with Returns Red strike-throughs: "Stunning jumper!!! Perfect for any occasion. Must-have." Bottom: "After" in Ink with Sold Green ticks: "Next grey wool-blend jumper, size 12. Small bobbling under both arms. Pit to pit 52cm." Label in the corner of both: "Example item". Nothing about views, sales or results. 15 to 18s total, then kit end card.
 - **CTA button:** Learn more
 
-### A07: Myth: the AI can see the stain
+### A07: Myth: the AI knows about the stain
 
 - **Platform:** TikTok
 - **Angle:** Myth
 - **Objective:** Free cheat sheet
-- **Hook (first 2 seconds):** On screen: "Myth: the AI can see the stain on the cuff." VO: "Myth. The AI can see the stain on the cuff."
-- **Primary text (ad text):** It can't. You tell it the facts, it writes them up. Free cheat sheet shows how.
+- **Hook (first 2 seconds):** On screen: "Myth: the AI knows about the stain on the cuff." VO: "Myth. The AI knows about the stain on the cuff."
+- **Primary text (ad text):** Only if you tell it. You give it the facts, it writes them up. Free cheat sheet shows how.
 - **Headline:** You stay the editor
-- **Visual idea:** Stock b-roll plus text. (1) 0 to 3s: close-up stock shot of a shirt cuff (hands only). (2) 3 to 10s: text "It only knows what you tell it." on a parcel-label card. (3) 10 to 18s: screen recording of the chat reply showing "[CHECK: any marks on cuffs?]" boxed in yellow. VO: "Good prompts ask instead of guessing." (4) End card: cheat sheet version.
+- **Visual idea:** Stock b-roll plus text. (1) 0 to 3s: close-up stock shot of a shirt cuff (hands only). (2) 3 to 10s: text "It only knows what you tell it. Even from a photo, small marks get missed." on a parcel-label card (12 words or fewer per line: split across two cards). (3) 10 to 18s: screen recording of the chat reply showing "[CHECK: any marks on cuffs?]" boxed in yellow. VO: "Good prompts ask instead of guessing." (4) End card: cheat sheet version.
 - **CTA button:** Download
 
 ### A08: Five checks before you press list
@@ -172,9 +174,9 @@ Format for all TikTok ads: vertical 9:16, 15 to 25 seconds, AI voiceover, captio
 - **Angle:** Buyer messages
 - **Objective:** Kit
 - **Hook (first 2 seconds):** On screen: "A cheeky offer. A polite no. 10 seconds." VO: "A cheeky offer. A polite no."
-- **Primary text (ad text):** Ready replies for offers, bundles, delays and returns, all within the rules.
+- **Primary text (ad text):** Ready replies for offers, bundles, delays and returns. Polite, short, kept on the platform.
 - **Headline:** Polite replies, every time
-- **Visual idea:** Text-on-screen. (1) 0 to 3s: Ink background, "£5 for this coat?" in Cream (plain text, no app styling). (2) 3 to 12s: parcel-label card with reply: "Thanks for the offer. The lowest I can go is £22, which includes room for postage." (3) 12 to 18s: list of message types on cards flicking past: "Bundles", "Late parcel", "Returns", "Not as described". (4) End card: kit version. Warm tone: never mock the buyer.
+- **Visual idea:** Text-on-screen. (1) 0 to 3s: Ink background, "£5 for this coat?" in Cream (plain text, no app styling). (2) 3 to 12s: parcel-label card with reply: "Thanks for the offer. The lowest I can do is £22. Happy to answer any questions about the fit." (3) 12 to 18s: list of message types on cards flicking past: "Bundles", "Late parcel", "Returns", "Not as described". (4) End card: kit version. Warm tone: never mock the buyer.
 - **CTA button:** Learn more
 
 ### A10: The [CHECK] prompt
@@ -204,7 +206,7 @@ Format: 1:1 or 4:5 for Feed, 9:16 for Stories and Reels (make both sizes in Canv
   Our free UK Listing Cheat Sheet shows how to brief a free AI tool so it sticks to the facts: UK spelling, honest condition notes, no invented details.
   Independent. Not affiliated with eBay, Vinted, Depop, Etsy, Amazon or TikTok.
 - **Headline:** Free UK Listing Cheat Sheet
-- **Visual idea:** Single image or 6-second video. Cream background, the hype phrase in grey with a red strike-through, underneath in Ink: "Size 12. Pit to pit 52cm. Small mark on left cuff." with a green tick. Label: "Example item".
+- **Visual idea:** Single image or 6-second video. Cream background, the hype phrase in grey with a red strike-through, underneath in Ink: "Size 12. Pit to pit 52cm. Pulled thread on the hem (photo 5)." with a green tick. Label: "Example item".
 - **CTA button:** Download
 
 ### A12: Paste the details, get a listing
@@ -214,7 +216,7 @@ Format: 1:1 or 4:5 for Feed, 9:16 for Stories and Reels (make both sizes in Canv
 - **Objective:** Kit
 - **Hook (first 2 seconds):** On screen: "Paste the item's details. Get a UK-ready listing back."
 - **Primary text:** Titles, descriptions, item specifics and tags take time for every single item.
-  The Well Listed Kit is a set of tested prompts, templates and checklists for UK sellers, used with the free AI tools you already have. Fill in one short brief, get a title, description and tags back, then check and post.
+  The Well Listed Kit is a set of prompts with worked examples, plus templates and checklists for UK sellers, used with the free AI tools you already have. Fill in one short brief, get a title, description and tags back, then check and post.
   £19, one-off payment. 30-day refund.
   Independent. Not affiliated with eBay, Vinted, Depop, Etsy, Amazon or TikTok.
 - **Headline:** The Well Listed Kit, £19
@@ -268,7 +270,7 @@ Format: 1:1 or 4:5 for Feed, 9:16 for Stories and Reels (make both sizes in Canv
 - **Objective:** Kit
 - **Hook (first 2 seconds):** On screen: "Postage, fees and offers, worked out before listing."
 - **Primary text:** Pricing can feel like guesswork. The Well Listed Kit's pricing prompts work from sold listings you look up yourself, then help you set an asking price, a lowest price and room for offers, with postage in mind.
-  Tested prompts, templates and a stock and pricing tracker. £19, one-off. 30-day refund.
+  Prompts with worked examples, templates and a stock and pricing tracker. £19, one-off. 30-day refund.
   Independent. Not affiliated with eBay, Vinted, Depop, Etsy, Amazon or TikTok.
 - **Headline:** Price from what sold
 - **Visual idea:** 12-second video. Hands-only stock shot of a parcel on kitchen scales (2s), then screen recording of the pricing prompt with five invented example sold prices pasted in, then the reply boxed in yellow: "Asking price", "Lowest price", "Room for offers". Caption: "Example prices." End card: kit version.
@@ -318,19 +320,20 @@ Format: 1:1 or 4:5 for Feed, 9:16 for Stories and Reels (make both sizes in Canv
 - **Platform:** Meta
 - **Angle:** Accuracy
 - **Objective:** Kit
-- **Hook (first 2 seconds):** On screen: "Says the size. Says the flaws. Says nothing it can't see."
+- **Hook (first 2 seconds):** On screen: "Says the size. Says the flaws. Says nothing you didn't tell it."
 - **Primary text:** The Well Listed Kit is built around one habit: give the AI a short brief of facts, and tell it to use only those facts.
-  Tested prompts for titles, descriptions, item specifics, pricing and buyer replies, for UK sellers on eBay, Vinted, Depop, Etsy, Amazon and TikTok Shop. Works with free AI tools. You stay the editor.
+  Prompts with worked examples for titles, descriptions, item specifics, pricing and buyer replies, for UK sellers on eBay, Vinted, Depop, Etsy, Amazon and TikTok Shop. Works with free AI tools. You stay the editor.
   £19, one-off. 30-day refund. Independent. Not affiliated with any of these marketplaces.
 - **Headline:** Honest listings, less typing
-- **Visual idea:** 15-second Reel, text-on-screen only. Three parcel-label cards in sequence, each with a green tick: "Says the size.", "Says the flaws.", "Says nothing it can't see." Then a screen recording clip (3 to 4s) of a reply with a "[CHECK: ...]" line highlighted. End card: kit version.
+- **Visual idea:** 15-second Reel, text-on-screen only. Three parcel-label cards in sequence, each with a green tick: "Says the size.", "Says the flaws.", "Says nothing you didn't tell it." Then a screen recording clip (3 to 4s) of a reply with a "[CHECK: ...]" line highlighted. End card: kit version.
 - **CTA button:** Shop now
 
 ---
 
 ## Before you upload any ad: final check
 
-- [ ] No income, earnings, "sell more" or "sell faster" wording anywhere, including on screen and in the voiceover.
+- [ ] No income, earnings, "sell more" or "sell faster" wording anywhere, including on screen and in the voiceover. No "side income" framing.
+- [ ] No "tested" or "proven" claims unless the evidence is on file.
 - [ ] No sentence tells the viewer something negative about themselves.
 - [ ] Before and after shows text only, labelled "Example item", with no outcome shown.
 - [ ] No fake app screens, message bubbles, notifications or sold badges.

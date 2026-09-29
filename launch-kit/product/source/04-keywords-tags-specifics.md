@@ -29,13 +29,8 @@ Generic AI tools default to American words. Use the UK word in the title. Where 
 | Sneakers | Trainers |
 | Purse | Handbag (a UK "purse" is a small wallet) |
 | Vest | Waistcoat (a UK "vest" is an underwear top) |
-| Zipper | Zip |
-| Cleats | Football boots |
-| Diaper bag | Changing bag |
-| Stroller | Pushchair or pram |
-| Comforter | Duvet |
-| Flashlight | Torch |
-| Cell phone | Mobile phone |
+| Zipper, cleats, stroller | Zip, football boots, pushchair |
+| Diaper bag, comforter, flashlight | Changing bag, duvet, torch |
 
 ---
 
@@ -68,13 +63,8 @@ For the Next jumper:
 
 > | Item specific | Value |
 > |---|---|
-> | Brand | Next |
-> | Size | 12 |
-> | Colour | Grey |
-> | Type | Jumper |
-> | Neckline | Crew Neck |
-> | Material | Acrylic, Wool |
-> | Style | [CHECK: e.g. Pullover] |
+> | Brand / Size / Colour | Next / 12 / Grey |
+> | Neckline / Material | Crew Neck / Acrylic, Wool |
 > | Country of manufacture | [CHECK: on the care label, or leave blank] |
 
 **Check before you post:**
@@ -218,16 +208,6 @@ Sold listing titles I looked up:
 My Listing Brief:
 [PASTE YOUR LISTING BRIEF HERE]
 ```
-**What good output looks like:**
-
-For a grey Nintendo Switch Lite on eBay UK, boxed but without inserts:
-
-> | Phrase | Fits my item? | Where |
-> |---|---|---|
-> | nintendo switch lite grey | Yes | Title |
-> | switch lite with case | No, no case included | Leave out |
-> | switch lite boxed | Partly, box but no inserts | Specifics and description: "Boxed, no inserts" |
-
 **Check before you post:**
 - Copy suggestions and titles by hand. Do not use automated tools to collect data from platforms.
 
@@ -270,35 +250,3 @@ For a Vinted listing of an unbranded floral midi dress, size 12:
 **Check before you post:**
 - Remove another brand's name even if other sellers use it. It can breach platform and trademark rules.
 
-### K8 UK and US search word pairs for my category
-**Use it when:** You sell a category where UK and US words differ and want a reference list for your tags, specifics and backend fields.
-**Paste this:**
-```text
-I sell second-hand [CATEGORY] in the UK on [PLATFORM(S)]. Make me a reference table of search words for this category.
-
-Columns: UK word | Other word buyers might use | Notes (where meanings differ and could confuse a UK buyer) | Where it goes (title: UK word only; tags, hashtags or backend fields: either; or nowhere).
-
-Up to 20 rows, most useful first. Flag any word that means something different in the UK (e.g. vest, pants, purse). UK English, no brand names. Do not claim how popular any word is.
-```
-**What good output looks like:**
-
-For baby and toddler gear:
-
-> | UK word | Also used | Notes | Where |
-> |---|---|---|---|
-> | Pushchair | Stroller | Both searched | Title: pushchair. Tags: stroller |
-> | Changing bag | Diaper bag | "Diaper" is not a UK word | Title: changing bag |
-> | Babygrow | Onesie, sleepsuit | A UK "onesie" can mean an adult lounge suit | Title: babygrow or sleepsuit |
-
-**Check before you post:**
-- Save the table in your notes app and reuse it for every listing in that category.
-
----
-
-## Keywords checklist
-
-- [ ] Every field, specific or attribute that applies is filled in
-- [ ] Every word, tag and hashtag describes the item honestly, with only its own brand
-- [ ] UK words in the title, alternatives only where they fit, once each
-- [ ] Within each platform's current limits (Module 12)
-- [ ] Nothing collected by scraping or automated tools

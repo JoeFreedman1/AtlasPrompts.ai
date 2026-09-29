@@ -157,14 +157,12 @@ My notes:
 
 For the notes "grey next jumper sz12 wool mix, bit bobbly under arms, vinted, want 12 quid":
 
-> **What it is:** Jumper
-> **Brand:** Next
-> **Model or style:** [CHECK: crew neck, V-neck or roll neck?]
-> **Size:** 12
-> **Measurements (cm):** [CHECK: pit to pit, length and sleeve, laid flat]
-> **Material:** Wool mix [CHECK: exact composition from the care label]
-> **Flaws:** Some bobbling under the arms
-> **Top 3 checks:** fabric composition, measurements, any marks or holes besides the bobbling.
+> - **What it is:** Jumper. **Brand:** Next. **Size:** 12. **Colour:** Grey.
+> - **Model or style:** [CHECK: crew neck, V-neck or roll neck?]
+> - **Measurements (cm):** [CHECK: pit to pit, length and sleeve, laid flat]
+> - **Material:** Wool mix [CHECK: exact composition from the care label]
+> - **Flaws:** Some bobbling under the arms
+> - **Top 3 checks:** fabric composition, measurements, any marks or holes besides the bobbling.
 
 **Check before you post:**
 - Make sure the AI has not quietly upgraded your words (for example "wool mix" becoming "merino").
@@ -250,8 +248,7 @@ For Levi's 501 jeans on eBay UK:
 > | Question | Answered? | What to do |
 > |---|---|---|
 > | Real waist and inside leg? | Partly | Measure the waistband flat and double it. Inside leg from crotch seam to hem. |
-> | Any wear at the crotch or hems? | No | Check the inner thighs and back hems. Photograph any thinning. |
-> | Original hem or taken up? | No | Look for a factory hem. If unsure, say "unsure". |
+> | Wear at the crotch or hems? | No | Check the inner thighs and back hems. Photograph any thinning. |
 
 **Check before you post:**
 - Add the answers to the brief itself, so every platform version gets them.
@@ -269,16 +266,6 @@ Include:
 
 UK English, plain words, no sales language.
 ```
-**What good output looks like:**
-
-For children's car seats:
-
-> Safety standard label (copy the exact wording):
-> Date of manufacture (usually moulded into the shell):
-> Ever been in a vehicle collision? (yes / no / unknown):
-> ...
-> Questions to check: Does the platform allow second-hand car seats? Are there rules on seats with no known history?
-
 **Check before you post:**
 - Some categories are restricted or banned on some platforms. Check the prohibited items page before listing.
 
@@ -341,16 +328,5 @@ For a Radley handbag:
 - Fix contradictions in the brief itself so every platform version inherits the fix.
 
 ---
-
-## Weak brief, strong brief
-
-| Weak | Strong |
-|---|---|
-| Size M | Size M on label. Pit to pit 54 cm, length 68 cm, laid flat |
-| Good condition | Good. Light bobbling under both arms. No holes or marks |
-| Small mark | Pale mark on front, left of the buttons, about 5 mm |
-| Works | Tested: powers on, connects to Wi-Fi, all buttons respond. Bluetooth not tested |
-| Vintage | Care label and tag style suggest 1990s (not confirmed) |
-| Genuine | Brand labels shown in photos. Receipt available (only if true) |
 
 Next: Module 02 for titles, 03 for descriptions and 04 for keywords, tags and item specifics.

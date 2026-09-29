@@ -2,7 +2,7 @@
 
 **Skip this module if** you only list second-hand items on Vinted, eBay or Depop and do not make videos. Nothing else in the kit depends on it.
 
-A short video can show an item's size, texture and flaws better than photos. You do not need to show your face, use your voice or film your home: everything here works with hands-only shots, a plain background, on-screen text and a text-to-speech voice. The module covers faceless product videos (V1 to V3, V8) and TikTok Shop UK copy (V5 to V7). For TikTok Shop titles, use T6 in Module 02.
+A short video can show an item's size, texture and flaws better than photos. You do not need to show your face, use your voice or film your home: everything here works with hands-only shots, a plain background, on-screen text and a text-to-speech voice. The module covers faceless product videos (V1 to V3) and TikTok Shop UK copy (V5 to V7). For TikTok Shop titles, use T6 in Module 02.
 
 ## Three rules for video
 
@@ -54,8 +54,7 @@ For the Next jumper, 20 seconds, text-to-speech:
 
 > | Seconds | What we see | On-screen text | Voiceover |
 > |---|---|---|---|
-> | 0 to 2 | Jumper flat on a cream sheet, top-down | Grey Next jumper, size 12 | "Grey Next wool-blend jumper, size 12." |
-> | 2 to 10 | Tape measure across the chest | Pit to pit: 51 cm | "Fifty-one centimetres pit to pit." |
+> | 0 to 5 | Jumper flat on a cream sheet, tape across the chest | Grey Next jumper, size 12. Pit to pit 51 cm | "Grey Next wool-blend jumper, size 12. Fifty-one centimetres pit to pit." |
 > | 10 to 15 | Close-up under the left arm in daylight | Bobbling under both arms | "Light bobbling under both arms. Shown here." |
 > | 15 to 20 | Jumper folded into a mailer | Details in the listing | "Full details and photos in the listing." |
 
@@ -84,17 +83,6 @@ Rules:
 My Listing Brief:
 [PASTE YOUR LISTING BRIEF HERE]
 ```
-**What good output looks like:**
-
-For a small-brand beech wood phone stand with 3 angles:
-
-> 1. **Hero turn.** Rotate the stand slowly on a white sheet. Proves shape and finish. 4 seconds.
-> 2. **Angle adjust.** Hand tilts it through its angles. Proves it adjusts. 4 seconds.
-> 3. **Scale shot.** Stand next to a mug. Proves size. 3 seconds.
-> 4. **Base grip.** Flip it to show the base [CHECK: are there non-slip pads?]. 3 seconds.
->
-> Make clear any phone or cable shown is not included.
-
 **Check before you post:**
 - Every [CHECK] is answered before you film the shots that depend on it.
 
@@ -159,12 +147,8 @@ For an invented "Tidy Nook" bamboo drawer organiser set of 6 boxes in 3 sizes:
 > Six bamboo boxes in three sizes for sorting cutlery, utensils or stationery in drawers.
 >
 > - Three sizes: mix and match to fit your drawer.
-> - Separate boxes: move them around or use them in different drawers.
 >
-> What's included: 6 boxes (2 small, 2 medium, 2 large).
-> Size and specs: small 15 x 7.5 x 5 cm, medium 22.5 x 7.5 x 5 cm, large 30 x 7.5 x 5 cm. Bamboo [CHECK: any lacquer or coating?].
->
-> **Phrases to check:** none are health or performance claims.
+> What's included: 6 boxes (2 small, 2 medium, 2 large). Material: bamboo [CHECK: any lacquer or coating?].
 
 **Check before you post:**
 - Measure the product yourself and match the numbers exactly.
@@ -227,43 +211,5 @@ Also give me:
 
 Only use facts I pasted. [CHECK: ...] for anything missing.
 ```
-**What good output looks like:**
-
-For a 30-minute live with three kitchen products:
-
-> | Time | Segment | On camera | What I say or show |
-> |---|---|---|---|
-> | 0:00 to 2:00 | Welcome | Three products on a worktop | "Tonight: a bamboo drawer set, a spice rack and jar labels. Buy through the shop basket below." |
-> | 2:00 to 9:00 | Drawer set | Hands lay out the 6 boxes | Sizes with a tape measure, what's included, price |
->
-> "Can I pay by bank transfer?" "We only take payment through the TikTok Shop checkout. It keeps you covered."
-
 **Check before you post:**
 - Any offer you mention is set up for real in Seller Center before you go live.
-
-### V8 Turn one listing into a week of short videos
-**Use it when:** You want a few different short videos for the same item without repeating yourself or stretching the truth.
-**Paste this:**
-```text
-Give me 5 different faceless short video ideas, 10 to 20 seconds each, for the item in my Listing Brief. UK English.
-
-Angles: 1. What you get. 2. Size check (everyday objects or a tape measure). 3. Details close-up (label, stitching, texture, ports). 4. Honest condition (every flaw in the brief, calmly). 5. How it is packed.
-
-For each: a hook of 8 words or fewer, 3 or 4 shots (hands or item only), one line of on-screen text per shot, and a caption under 150 characters.
-
-Rules: only facts from the brief; [CHECK: ...] for anything missing; no hype, "best", health claims, fake urgency or faces. If I add music, tell me to use the platform's commercial-use library.
-
-My Listing Brief:
-[PASTE YOUR LISTING BRIEF HERE]
-```
-**What good output looks like:**
-
-Idea 4 for a used turquoise Switch Lite, screen checked with no scratches, light scratches on the back, charger included, no box:
-
-> **Hook:** Switch Lite, turquoise. Here's the honest bit.
-> Shot 1: front, screen on. Text: "Screen: no scratches"
-> Shot 2: back in daylight. Text: "Light scratches on the back"
-> Shot 3: charger beside it. Text: "Charger included, no box"
-
-**Check before you post:**
-- Factory reset electronics and remove accounts before selling, and keep serial numbers out of shot.

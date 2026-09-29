@@ -29,12 +29,9 @@ Use these as a starting order. Swap it if your buyers search differently (collec
 | eBay: shoes | Brand + Model + Shoe type + Colour + UK size |
 | eBay: electronics | Brand + Model name + Model number + Capacity + Colour + (Unlocked / Boxed) |
 | eBay: books | Title + Author + Format + (Edition, only if confirmed) + Year of this copy |
-| eBay: vinyl and CDs | Artist + Title + Format + (Label, catalogue number) |
-| eBay: homeware | Maker + Range or pattern + Item type + Colour + Size |
-| eBay: toys | Brand + Name or set number + Series + (Complete / Boxed) |
+| eBay: homeware and toys | Maker + Range, name or set number + Item type + Colour or size + (Complete / Boxed) |
 | Vinted and Depop | Brand + Item type + Colour + Size + (one true style word, e.g. "oversized") |
-| Etsy handmade | What it is in plain words + Main material + Key feature + (Personalisation) |
-| Etsy vintage | Era (only if you can support it) + Maker + Item type + Material + Colour |
+| Etsy | What it is in plain words + Main material + Key feature + (Personalisation). Vintage: era only if you can support it |
 | Amazon and TikTok Shop | Brand + Product type + Key feature or material + Size or quantity + Colour |
 
 **Mistakes that cost you:** hype ("Stunning", "L@@K"), unsupported claims ("Rare", "Vintage", "Brand new" when it is not), other brands ("Zara style", "not Nike"), US words ("pants", "sweater", "sneakers", "purse"), bare shoe sizes ("8" instead of "UK 8"), and repeated words ("Dress Midi Dress Summer Dress"). Flaws belong in the description, not the title.
@@ -262,10 +259,8 @@ For three eBay titles for a Nintendo Switch Lite:
 >
 > **Recommendation:** Title 1. Brand and model first, within the limit.
 
-**To test for real:** after posting, search the app as a buyer would and see if your listing appears for the obvious searches. If not, compare your title with sold listings for similar items. Change one thing at a time.
-
 **Check before you post:**
-- The platform's own search suggestions (start typing in the search bar) are a better guide than the AI's guesses.
+- The platform's own search suggestions (start typing in the search bar) are a better guide than the AI's guesses. After posting, search as a buyer would and change one thing at a time.
 
 ### T8 Title fixer: too long, too vague or too spammy
 **Use it when:** You already have a title (from an old listing or a generic AI tool) and it needs fixing.
@@ -296,12 +291,3 @@ For "STUNNING!!! Vintage RARE Mulberry Style Leather Purse Bag Bag Brown L@@K" o
 - If the item has no brand label, do not guess one. "Unbranded" is honest.
 - Update the description so it tells the same story as the new title.
 
----
-
-## Title checklist
-
-- [ ] Starts with what a buyer types first (usually brand, then item type)
-- [ ] Within the platform's current limit, counted in the listing form
-- [ ] Every word true and in the brief, with UK spelling and UK sizes
-- [ ] No hype, emoji, capitals for whole words, other brands or flaws
-- [ ] Matches the photos

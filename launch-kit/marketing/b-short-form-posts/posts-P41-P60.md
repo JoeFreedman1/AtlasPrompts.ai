@@ -1,6 +1,6 @@
 # Short-form posts P41 to P60
 
-Written for Well Listed. Follows WRITING-RULES.md, BRAND-GUIDE.md and POST-FORMAT.md. All example items, prices and buyer messages are invented for illustration. Platform facts come from research/platform-rules-uk.md (checked 29 September 2026) and carry a "check the current rule" line. Kit mentions (soft): P46, P49, P53, P58, P60.
+Written for Well Listed. Follows WRITING-RULES.md, BRAND-GUIDE.md and POST-FORMAT.md. All example items, prices and buyer messages are invented for illustration. Platform facts come from research/platform-rules-uk.md (checked 29 September 2026) and carry a "check the current rule" line. Kit mentions (soft): P46, P49, P53, P58, P60. Prices: "£12 launch price" may only appear in a post published during the 14-day launch window (P53 is scheduled for day 7); if any Kit post is published or reposted later, say "£19" or just "link in bio".
 
 ## P41: 7 checks before you press "list"
 
@@ -9,21 +9,21 @@ Written for Well Listed. Follows WRITING-RULES.md, BRAND-GUIDE.md and POST-FORMA
 - **Length:** 9 slides
 - **Call to action:** Soft (save this)
 
-**Hook (first 2 seconds):** "Your listing is not ready until it passes these 7 checks."
+**Hook (first 2 seconds):** "'[CHECK: size]' went live in the listing. Seven checks so yours never does."
 
 ### Script
-1. Slide 1: "Your listing is not ready until it passes these 7 checks." (parcel label card)
+1. Slide 1: "'[CHECK: size]' went live in the listing. Seven checks so yours never does." (parcel label card)
 2. Slide 2: "1. Title fits the limit. eBay UK gives you 80 characters, and spaces count. Check the current limit for your platform."
 3. Slide 3: "2. No [CHECK] left behind. If your AI draft says [CHECK: size], fill it in or delete the line."
-4. Slide 4: "3. Every flaw is in the text AND in a photo. 'Small mark on left cuff, see photo 6.'"
+4. Slide 4: "3. Every flaw is in the text AND in a photo. 'Pulled thread on the hem, see photo 6.'"
 5. Slide 5: "4. Measurements in cm. Pit to pit and length for tops. Inside leg for trousers."
 6. Slide 6: "5. UK words. Jumper, not sweater. Trousers, not pants. UK size, not US."
-7. Slide 7: "6. No other brands in your title. 'Next jumper like Zara' invites trouble. Name only what it is."
+7. Slide 7: "6. No other brands in your title. 'Joules coat, like Barbour' invites trouble. Name only what it is."
 8. Slide 8: "7. Your price floor is nowhere in the listing. That number is for you, not the buyer."
 9. Slide 9: "Save this and run it on your next listing. Free UK Listing Cheat Sheet: link in bio."
 
 ### On-screen text
-Your listing is not ready until it passes these 7 checks
+"[CHECK: size]" went live. 7 checks so yours never does
 1. Title fits the limit
 2. No [CHECK] left behind
 3. Flaw in text AND photo
@@ -35,15 +35,15 @@ Save this. Free cheat sheet in bio
 
 ### Caption
 ```text
-Your listing is not ready until it passes these 7 checks.
+A "[CHECK: size]" left in a live listing is an easy mistake to make. These 7 checks catch it.
 
 We run the same quick list before anything goes live. It catches the small stuff that turns into big messages later: a title one character over, a [CHECK] the AI left for you, a flaw mentioned in the text but missing from the photos.
 
-Number 6 is the one people argue with. Putting another brand name in your title ("like Zara") can break search rules on some platforms and it muddles the listing anyway. Say what the item is and stop there.
+Number 6 is the one people argue with. Putting another brand name in your title ("like Barbour") can break search rules on some platforms and it muddles the listing anyway. Say what the item is and stop there.
 
 Limits and rules change, so check the current rule in the platform's help pages.
 
-Save this for your next listing. Our free UK Listing Cheat Sheet has the character limits for each platform in one table: link in bio.
+Save this and run it on whatever is waiting to go live tonight. Our free UK Listing Cheat Sheet has the character limits for each platform in one table: link in bio.
 ```
 
 ### Hashtags
@@ -52,7 +52,7 @@ Save this for your next listing. Our free UK Listing Cheat Sheet has the charact
 ```
 
 ### Visuals
-Canva carousel, 1080 x 1350. Slide 1: cream #FAF6EF background with the parcel label card (kraft #C9A27E border, dashed cut line), hook in Archivo 800, Ink #1F2A44, "7 checks" highlighted in Label Yellow #F2C84B. Slides 2 to 8: big number in Sold Green #1E7F55 top left, check text in Ink, one small mock-up each (a title bar with a character counter showing 80/80, a [CHECK: size] tag with a yellow highlighter box, a cuff close-up from Pexels search "sweater cuff close up" or "knitwear detail", a tape measure on a jumper from Pexels "tape measure clothing"). Slide 7 shows a mock title with "like Zara" crossed out in Returns Red #C4453B. No faces, no real listings. Build all mock listings ourselves in Canva.
+Canva carousel, 1080 x 1350. Slide 1: cream #FAF6EF background with the parcel label card (kraft #C9A27E border, dashed cut line), hook in Archivo 800, Ink #1F2A44, "7 checks" highlighted in Label Yellow #F2C84B. Slides 2 to 8: big number in Sold Green #1E7F55 top left, check text in Ink, one small mock-up each (a title bar with a character counter showing 80/80, a [CHECK: size] tag with a yellow highlighter box, a hem close-up from Pexels search "knitwear hem close up" or "knitwear detail", a tape measure on a jumper from Pexels "tape measure clothing"). Slide 7 shows a mock title with "like Barbour" crossed out in Returns Red #C4453B. No faces, no real listings. Build all mock listings ourselves in Canva.
 
 ## P42: 5 honest ways to describe condition
 
@@ -61,11 +61,11 @@ Canva carousel, 1080 x 1350. Slide 1: cream #FAF6EF background with the parcel l
 - **Length:** 30 to 35 seconds
 - **Call to action:** Soft (free cheat sheet)
 
-**Hook (first 2 seconds):** "'Good used condition' tells a buyer nothing. Here are 5 better ways to say it."
+**Hook (first 2 seconds):** "'Good used condition' could mean worn once or worn to bits. Five ways to say which."
 
 ### Script
-1. (0 to 3s) VO: "'Good used condition' tells a buyer nothing. Here are five better ways to say it." | On screen: "'Good used condition' tells a buyer nothing"
-2. (3 to 9s) VO: "One. Say where, what and how big. Small pale mark on the left cuff, about five millimetres." | On screen: "1. Where, what, how big"
+1. (0 to 3s) VO: "Good used condition could mean worn once or worn to bits. Five ways to say which." | On screen: "'Good used condition': worn once, or worn to bits?"
+2. (3 to 9s) VO: "One. Say where, what and how big. Faded patch on the right shoulder, about three centimetres." | On screen: "1. Where, what, how big"
 3. (9 to 15s) VO: "Two. Point to the photo. See photo six for the mark. Now the text and the picture back each other up." | On screen: "2. 'See photo 6'"
 4. (15 to 21s) VO: "Three. For electronics, say what you tested and what you did not. Tested: power, screen, Wi-Fi. Not tested: Bluetooth." | On screen: "3. Tested / not tested"
 5. (21 to 26s) VO: "Four. Describe normal wear plainly. Light bobbling under the arms, no holes, no stains." | On screen: "4. Name the wear, then the good news"
@@ -73,7 +73,7 @@ Canva carousel, 1080 x 1350. Slide 1: cream #FAF6EF background with the parcel l
 7. (31 to 35s) VO: "Save this. Our free cheat sheet has the condition prompts. Link in bio." | On screen: "Save this. Free cheat sheet in bio"
 
 ### On-screen text
-"Good used condition" tells a buyer nothing
+"Good used condition": worn once, or worn to bits?
 1. Where, what, how big
 2. "See photo 6"
 3. Tested / not tested
@@ -83,9 +83,9 @@ Save this. Free cheat sheet in bio
 
 ### Caption
 ```text
-"Good used condition" tells a buyer nothing. These five phrases do the job properly.
+"Good used condition" could mean worn once or worn to bits. These five habits tell the buyer which.
 
-1. Where, what, how big: "small pale mark on left cuff, about 5mm".
+1. Where, what, how big: "faded patch on right shoulder, about 3 cm".
 2. Point to the photo: "see photo 6".
 3. Tested and not tested, for anything with a plug or a battery.
 4. Name the wear, then the good news: "light bobbling under arms, no holes or stains".
@@ -93,7 +93,7 @@ Save this. Free cheat sheet in bio
 
 Honest condition notes are not about talking the item down. They set the buyer's expectations so the parcel matches the listing, and that is what cuts down on awkward messages and returns.
 
-Save this for your next listing, and grab the free UK Listing Cheat Sheet from the link in bio.
+Worth a save. The condition prompts are in our free UK Listing Cheat Sheet, link in bio.
 ```
 
 ### Hashtags
@@ -102,7 +102,7 @@ Save this for your next listing, and grab the free UK Listing Cheat Sheet from t
 ```
 
 ### Visuals
-Vertical 1080 x 1920 slideshow in CapCut. Each point is a split screen: top half a close-up stock shot, bottom half an Ink #1F2A44 text panel with Cream #FAF6EF text and one Label Yellow #F2C84B word. Stock searches (Pexels or Canva free): "sweater cuff close up", "knit texture macro", "game controller on table" (item only), "folded jumper flat lay", "phone photo of clothing". Point 1: add a thin yellow circle around a mark on the cuff (use a stock image of fabric and draw the circle, do not fake a real flaw on a real listing photo). Point 3: mock checklist graphic with Sold Green #1E7F55 ticks and a grey "not tested" line. Calm British AI voice, burned-in captions centred above the bottom UI. Hands-only footage at most, no faces.
+Vertical 1080 x 1920 slideshow in CapCut. Each point is a split screen: top half a close-up stock shot, bottom half an Ink #1F2A44 text panel with Cream #FAF6EF text and one Label Yellow #F2C84B word. Stock searches (Pexels or Canva free): "jumper shoulder close up", "knit texture macro", "game controller on table" (item only), "folded jumper flat lay", "phone photo of clothing". Point 1: add a thin yellow circle around a spot on the shoulder (use a stock image of fabric and draw the circle, do not fake a real flaw on a real listing photo). Point 3: mock checklist graphic with Sold Green #1E7F55 ticks and a grey "not tested" line. Calm British AI voice, burned-in captions centred above the bottom UI. Hands-only footage at most, no faces.
 
 ## P43: Phrases to keep out of your listings
 
@@ -161,12 +161,12 @@ Canva carousel, 1080 x 1350, cream #FAF6EF background. Each slide shows the risk
 - **Length:** 25 to 30 seconds
 - **Call to action:** Soft (free cheat sheet)
 
-**Hook (first 2 seconds):** "A buyer wants three things for one price. Here is the message that answers everything at once."
+**Hook (first 2 seconds):** "A bundle reply without the postage in it is only half an answer."
 
 ### Script
-1. (0 to 3s) VO: "A buyer wants three things for one price. Here is the message that answers everything at once." | On screen: "Bundle request? One message, done."
-2. (3 to 8s) VO: "First, list the items so nobody is confused later. Three Frugi tops, age four to five." | On screen: "1. Name every item"
-3. (8 to 13s) VO: "Second, the bundle price, and the reason: one parcel saves postage for both of you." | On screen: "2. Price plus the honest reason"
+1. (0 to 3s) VO: "A bundle reply without the postage in it is only half an answer. Four things make it whole." | On screen: "Bundle request? One message, done."
+2. (3 to 8s) VO: "First, list the items so nobody is confused later. Three children's paperback picture books." | On screen: "1. Name every item"
+3. (8 to 13s) VO: "Second, the bundle price, and the reason: one parcel, so postage is paid once, not three times." | On screen: "2. Price plus the honest reason"
 4. (13 to 18s) VO: "Third, what postage is included, and when it goes out." | On screen: "3. Postage and dispatch day"
 5. (18 to 23s) VO: "Fourth, a one-line condition reminder, so the buyer knows what they are getting." | On screen: "4. Condition reminder"
 6. (23 to 28s) VO: "And no pressure. No 'today only'. Just a friendly offer they can take or leave. Free cheat sheet in bio." | On screen: "5. No pressure. Free cheat sheet in bio"
@@ -182,7 +182,7 @@ Free cheat sheet in bio
 
 ### Caption
 ```text
-A buyer wants three things for one price. One tidy message answers everything.
+A bundle reply without the postage in it is only half an answer. One tidy message covers everything.
 
 What we put in every bundle reply:
 1. Every item named, so there is no confusion later.
@@ -191,9 +191,9 @@ What we put in every bundle reply:
 4. A one-line condition reminder.
 5. No pressure. No "today only" unless it is actually true.
 
-Example (invented): "I can do all three Frugi tops for £19. They go in one parcel, so it saves on postage for both of us. All in very good condition, posted within 2 working days."
+Example (invented): "I can do all three books for £10. They fit in one parcel, so you pay postage once instead of three times. All clean with no torn pages, posted within 2 working days."
 
-Work out your floors first so the bundle price never goes below them. Save this, and get the free UK Listing Cheat Sheet from the link in bio.
+Work out your floors first so the bundle price never goes below them. Save this. The bundle prompt is in our free UK Listing Cheat Sheet (link in bio).
 ```
 
 ### Hashtags
@@ -202,7 +202,7 @@ Work out your floors first so the bundle price never goes below them. Save this,
 ```
 
 ### Visuals
-Screen recording of a laptop or phone AI chat (ChatGPT, Claude, Gemini or Copilot free version) with the bundle pricing prompt pasted in and the answer appearing: example bundle from the kit's pricing module (three children's Frugi tops, £8, £8 and £7 list, £6, £6 and £5 floor, bundle £19). Crop to the chat window only. Blur or crop out the account name, profile picture, sidebar chat history, email and browser tabs. Add Label Yellow #F2C84B highlighter boxes over the five parts of the reply as each is spoken. Cutaway stock (Pexels): "folded kids clothes", "parcel packing hands", "three t-shirts flat lay". Captions in Archivo 800, Cream #FAF6EF on an Ink #1F2A44 band. Tiny corner note: "Example figures only".
+Screen recording of a laptop or phone AI chat (ChatGPT, Claude, Gemini or Copilot free version) with the bundle pricing prompt pasted in and the answer appearing: invented example bundle (three children's paperback picture books, listed at £4, £4 and £5, floors £3 each, bundle £10). Keep it different from the clothing bundle in P19. Crop to the chat window only. Blur or crop out the account name, profile picture, sidebar chat history, email and browser tabs. Add Label Yellow #F2C84B highlighter boxes over the five parts of the reply as each is spoken. Cutaway stock (Pexels): "stack of children's books" (no readable cover art), "parcel packing hands". Captions in Archivo 800, Cream #FAF6EF on an Ink #1F2A44 band. Tiny corner note: "Example figures only".
 
 ## P45: 3 prompts for staying calm with difficult buyers
 
@@ -211,10 +211,10 @@ Screen recording of a laptop or phone AI chat (ChatGPT, Claude, Gemini or Copilo
 - **Length:** 30 seconds
 - **Call to action:** Soft (save this)
 
-**Hook (first 2 seconds):** "POV: it is 11pm and a buyer has sent their fourth message in capitals."
+**Hook (first 2 seconds):** "Fourth message. All capitals. And your draft reply is not one you want on record."
 
 ### Script
-1. (0 to 3s) VO: "It is eleven at night, and a buyer has sent their fourth message in capitals." | On screen: "POV: 11pm. Fourth message. ALL CAPS."
+1. (0 to 3s) VO: "Fourth message, all in capitals. And your draft reply is not one you want on record." | On screen: "Fourth message. ALL CAPS."
 2. (3 to 5s) VO: "Do not reply yet. Use one of these three prompts." | On screen: "Don't reply yet"
 3. (5 to 13s) VO: "One. The cool-down. Paste your angry draft and ask: make this polite, short and firm, keep every fact, remove anything sarcastic." | On screen: "1. The cool-down rewrite"
 4. (13 to 21s) VO: "Two. Facts only. Ask: summarise what this buyer is actually asking for, and list what I can offer under the platform's rules." | On screen: "2. What are they actually asking?"
@@ -222,7 +222,7 @@ Screen recording of a laptop or phone AI chat (ChatGPT, Claude, Gemini or Copilo
 6. (27 to 30s) VO: "Swap their name for 'buyer' before you paste anything. Save this for the next one." | On screen: "Remove their details first. Save this"
 
 ### On-screen text
-POV: 11pm. Fourth message. ALL CAPS.
+Fourth message. ALL CAPS.
 Don't reply yet
 1. The cool-down rewrite
 2. What are they actually asking?
@@ -232,7 +232,7 @@ Save this
 
 ### Caption
 ```text
-POV: it is 11pm and a buyer has sent their fourth message in capitals. Three prompts that keep you calm.
+Fourth message, all capitals, and your draft reply is not one you want on record. Three prompts that keep you calm.
 
 1. The cool-down: "Rewrite my reply below so it is polite, short and firm. Keep every fact. Remove anything sarcastic. UK English."
 2. Facts only: "Summarise what this buyer is asking for in one line, then list what I can offer under the platform's rules."
@@ -240,7 +240,7 @@ POV: it is 11pm and a buyer has sent their fourth message in capitals. Three pro
 
 One rule first: replace the buyer's name, address and order details with [BUYER] before you paste their message into any AI tool.
 
-If it turns into a dispute, use the platform's own help and resolution process. Save this for the next 11pm message.
+If it turns into a dispute, use the platform's own help and resolution process. Save this for the next shouty one.
 ```
 
 ### Hashtags
@@ -249,7 +249,7 @@ If it turns into a dispute, use the platform's own help and resolution process. 
 ```
 
 ### Visuals
-Open on a mock phone message screen built in Canva (never a real buyer's message): an invented message in capitals, "IS THIS STILL AVAILABLE?? WHY HAVE YOU NOT REPLIED", from "Buyer" with a grey circle avatar. Then a screen recording of a free AI chat tool with each of the three prompts pasted in, using an invented draft reply. Crop to the chat, blur account name, avatar, history sidebar and browser tabs. Label Yellow #F2C84B box around "[BUYER]" on the last shot. Stock cutaways (Pexels): "phone on bedside table night", "cup of tea on desk" (no people). Dark Ink #1F2A44 background for the POV slide with Cream #FAF6EF text, softer Cream background for the prompts.
+Open on a mock phone message screen built in Canva (never a real buyer's message): an invented message in capitals, "IS THIS STILL AVAILABLE?? WHY HAVE YOU NOT REPLIED", from "Buyer" with a grey circle avatar. Then a screen recording of a free AI chat tool with each of the three prompts pasted in, using an invented draft reply. Crop to the chat, blur account name, avatar, history sidebar and browser tabs. Label Yellow #F2C84B box around "[BUYER]" on the last shot. Stock cutaways (Pexels): "phone on bedside table night", "cup of tea on desk" (no people). Dark Ink #1F2A44 background for the hook slide with Cream #FAF6EF text, softer Cream background for the prompts.
 
 ## P46: A used games console from notes to full eBay listing
 
@@ -310,11 +310,11 @@ Screen recording of a free AI chat tool on a laptop, zoomed and cropped to the c
 - **Length:** 30 to 35 seconds
 - **Call to action:** Soft (free cheat sheet)
 
-**Hook (first 2 seconds):** "Vintage denim jacket. Depop. Five hashtags, no more. Here is how the prompt writes it."
+**Hook (first 2 seconds):** "Levi's trucker, frayed cuffs, five hashtags. On Depop, line one does the title's job."
 
 ### Script
-1. (0 to 3s) VO: "Vintage denim jacket. Depop. Five hashtags, no more. Here is how the prompt writes it." | On screen: "Denim jacket for Depop, start to finish"
-2. (3 to 9s) VO: "Our example brief: Levi's trucker jacket, mid-wash, men's medium, pit to pit fifty-eight centimetres, fraying on both cuffs." | On screen: "Example brief (invented item)"
+1. (0 to 3s) VO: "Levi's trucker, frayed cuffs, five hashtags. On Depop, line one does the title's job." | On screen: "Denim jacket for Depop, start to finish"
+2. (3 to 9s) VO: "Our example brief: Levi's trucker jacket, mid-wash, men's medium, care label dated 1996, pit to pit fifty-eight centimetres, fraying on both cuffs." | On screen: "Example brief (invented item)"
 3. (9 to 16s) VO: "The opening line matters most on Depop, because it acts like the title. So it leads with brand, item and fit." | On screen: "First line = your title"
 4. (16 to 22s) VO: "Then short lines. Size and measurements. Condition, with the cuff fraying named, not hidden. Postage." | On screen: "Measurements. Flaws named. Postage."
 5. (22 to 28s) VO: "Then five relevant hashtags. Depop's own help pages say up to five, so every one has to earn its place." | On screen: "5 hashtags, all relevant"
@@ -339,9 +339,9 @@ Example output from our Depop prompt (invented item):
 Pit to pit 58cm, length 64cm.
 Good vintage condition: light fraying on both cuffs (photo 4), no rips or stains.
 Posted within 2 working days.
-#levis #denimjacket #truckerjacket #vintagedenim #90sstyle"
+#levis #denimjacket #truckerjacket #vintagedenim #90sdenim"
 
-Why it works: the first line does the job of a title, measurements answer the question buyers ask most, and the flaw is named with its photo.
+Why it works: the first line does the job of a title, measurements answer the question buyers ask most, and the flaw is named with its photo. "Vintage" and "90s" are earned: the brief says the care label is dated 1996.
 
 Depop's help pages say you can use up to five hashtags and to keep them relevant. Check the current rule before you list. Save this, and get the free UK Listing Cheat Sheet from the link in bio.
 ```
@@ -352,7 +352,7 @@ Depop's help pages say you can use up to five hashtags and to keep them relevant
 ```
 
 ### Visuals
-Screen recording of a free AI chat tool on a phone (screen mirrored or recorded natively), cropped to the chat. Paste the invented brief, then the Depop description prompt, then hold on the output. Label Yellow #F2C84B highlight on the first line, the measurements, the flaw line and the five hashtags in turn. Blur the account name, avatar, chat history and status bar notifications. Stock cutaways (Pexels): "denim jacket flat lay", "denim jacket on hanger", "frayed denim close up", "tape measure denim". Hands-only at most. No Levi's logo or red tab close-ups. Text overlays in Archivo 800, Ink #1F2A44 on Cream #FAF6EF cards with a kraft #C9A27E border. Corner tag: "Example item".
+Screen recording of a free AI chat tool on a phone (screen mirrored or recorded natively), cropped to the chat. Paste the invented brief, then the Depop description prompt, then hold on the output. Label Yellow #F2C84B highlight on the first line, the measurements, the flaw line and the five hashtags in turn. Blur the account name, avatar, chat history and status bar notifications. Stock cutaways (Pexels): "denim jacket flat lay", "denim jacket on hanger", "frayed denim close up", "tape measure denim". Hands-only at most. No Levi's logo or red tab close-ups. Only use "vintage" and "90s" in the real post if the seller's brief gives a date or evidence for the era. Text overlays in Archivo 800, Ink #1F2A44 on Cream #FAF6EF cards with a kraft #C9A27E border. Corner tag: "Example item".
 
 ## P48: A handmade candle holder for Etsy
 
@@ -361,15 +361,15 @@ Screen recording of a free AI chat tool on a phone (screen mirrored or recorded 
 - **Length:** 8 slides
 - **Call to action:** Soft (free cheat sheet)
 
-**Hook (first 2 seconds):** "13 Etsy tags. 20 characters each. No duplicates. Here is a full set for one candle holder."
+**Hook (first 2 seconds):** "One tealight holder, 13 Etsy tags, every one counted. The longest is exactly 20."
 
 ### Script
-1. Slide 1: "13 Etsy tags. 20 characters each. No duplicates. A full set for one handmade candle holder."
+1. Slide 1: "One tealight holder, 13 Etsy tags, every one counted. The longest is exactly 20."
 2. Slide 2: "The example brief (invented): handmade stoneware tealight holder, speckled cream glaze, wheel thrown, 8cm wide, 6cm tall, fits a standard tealight."
 3. Slide 3: "The title (111 of 140 characters): Handmade Ceramic Tealight Holder, Speckled Cream Glaze, Small Wheel Thrown Pottery Candle Holder, Gift for Home"
 4. Slide 4: "Readable first, keywords second. The first few words say exactly what it is."
 5. Slide 5: "Tags 1 to 7: ceramic tealight, tealight holder, candle holder, pottery gift, speckled glaze, wheel thrown pottery, handmade ceramics"
-6. Slide 6: "Tags 8 to 13: cream candle holder, small pottery, housewarming gift, minimalist decor, stoneware tealight, mantelpiece decor"
+6. Slide 6: "Tags 8 to 13: neutral decor, small pottery, housewarming gift, minimalist decor, stoneware, mantelpiece decor"
 7. Slide 7: "In the description: size, what fits, care, and a safety line. 'Never leave a lit candle unattended.' No 'fireproof' claims you have not tested."
 8. Slide 8: "Etsy's limits can change: check the help pages. Save this, and get the free cheat sheet in bio."
 
@@ -385,7 +385,7 @@ Save this. Free cheat sheet in bio
 
 ### Caption
 ```text
-13 Etsy tags, 20 characters each, no duplicates. Here is a full set for one handmade candle holder.
+One handmade tealight holder, 13 Etsy tags, every one counted. No repeats, and the longest is exactly 20 characters.
 
 This is an invented example to show what our Etsy prompts produce. The brief goes in (size, glaze, how it is made, what fits), and out come a readable title and 13 tags that each add something new.
 
@@ -411,10 +411,10 @@ Canva carousel, 1080 x 1350. Slide 1: parcel label card on Cream #FAF6EF, "13" i
 - **Length:** 35 to 40 seconds
 - **Call to action:** Kit
 
-**Hook (first 2 seconds):** "Stop asking AI what your LEGO set is worth. Ask it this instead."
+**Hook (first 2 seconds):** "Sealed, opened or loose. Mix them up and your LEGO price is wrong before you start."
 
 ### Script
-1. (0 to 3s) VO: "Stop asking AI what your LEGO set is worth. Ask it this instead." | On screen: "Don't ask 'what's it worth?'"
+1. (0 to 3s) VO: "Sealed, opened or loose. Mix them up and your LEGO price is wrong before you start." | On screen: "Sealed. Opened. Loose. Not the same set."
 2. (3 to 9s) VO: "AI chat tools do not know what sold last week. Ask with nothing to go on and you get a confident guess." | On screen: "AI doesn't know last week's sold prices"
 3. (9 to 16s) VO: "So you do the looking. On eBay, search the set and turn on the sold items filter. Copy five to ten matches into your notes." | On screen: "You find the sold prices"
 4. (16 to 23s) VO: "Paste them in. The first prompt tidies them into a table and marks each one good, partial or poor. Sealed sets out, loose sets out." | On screen: "Tidy. Match. Drop the poor ones."
@@ -422,7 +422,7 @@ Canva carousel, 1080 x 1350. Slide 1: parcel label card on Cream #FAF6EF, "13" i
 6. (31 to 38s) VO: "Example figures only, and no promise it sells at that price. Both prompts are in The Well Listed Kit. Link in bio." | On screen: "Example figures. Kit: link in bio"
 
 ### On-screen text
-Don't ask "what's it worth?"
+Sealed. Opened. Loose. Not the same set.
 AI doesn't know last week's sold prices
 You find the sold prices
 Tidy. Match. Drop the poor ones
@@ -432,7 +432,7 @@ The Well Listed Kit: link in bio
 
 ### Caption
 ```text
-Stop asking AI what your LEGO set is worth. Ask it to do the maths on prices you found yourself.
+Sealed, opened or loose: the same LEGO set sells at different prices in each state, so mixing them up skews the answer. Let AI do the maths, but only on matching prices you found yourself.
 
 The method (example item: a boxed, complete, opened LEGO City set with instructions):
 1. Search the set on eBay and turn on the "Sold items" filter.
@@ -517,7 +517,7 @@ Vertical slideshow in CapCut. Each day is a mock phone chat built in Canva (inve
 2. (4 to 9s) VO: "Our invented example: a microfibre hair towel wrap. Pause and have a look." | On screen: the full risky description (held 3 seconds)
 3. (9 to 15s) VO: "One. Anti-bacterial. That is a claim you would need evidence for. Out, unless you can prove it." | On screen: "1. 'Anti-bacterial'"
 4. (15 to 20s) VO: "Two. Dermatologist approved. Can you prove it? No? Then it goes." | On screen: "2. 'Dermatologist approved'"
-5. (20 to 25s) VO: "Three. Best on TikTok. No 'best', and no platform names in your copy." | On screen: "3. 'Best on TikTok'"
+5. (20 to 25s) VO: "Three. Best on TikTok. 'Best' needs proof, and TikTok Shop UK's title rules say no mentioning TikTok." | On screen: "3. 'Best on TikTok'"
 6. (25 to 30s) VO: "Four. Only three left, when there are forty in the drawer. That is fake urgency." | On screen: "4. 'Only 3 left!!!'"
 7. (30 to 35s) VO: "Five. Stops frizz forever. A result you cannot promise." | On screen: "5. 'Stops frizz forever'"
 8. (35 to 40s) VO: "The checker rewrites it using only facts you can back up. Check TikTok Shop's current rules in Seller Center. Save this." | On screen: "Only facts you can back up. Save this"
@@ -548,7 +548,7 @@ What the rule checker flagged:
 
 The rewrite: "Microfibre hair towel wrap with a button loop. 65 x 25 cm, grey. Machine washable at 30 degrees."
 
-TikTok Shop UK's policies say claims must be genuine, accurate and verifiable. Check the current rules in Seller Center before you list. Save this for your next product.
+TikTok Shop UK's policies say listings must be accurate, and its title rules say no mentioning TikTok or other platforms. Check the current rules in Seller Center before you list. Save this for your next product.
 ```
 
 ### Hashtags
@@ -566,10 +566,10 @@ Start on a mock TikTok Shop style product description built in Canva (not a real
 - **Length:** 30 to 35 seconds
 - **Call to action:** Soft (free cheat sheet)
 
-**Hook (first 2 seconds):** "Ten items. One chat. One tidy spreadsheet at the end."
+**Hook (first 2 seconds):** "One spreadsheet column shows which of ten listings still need a measurement."
 
 ### Script
-1. (0 to 3s) VO: "Ten items. One chat. One tidy spreadsheet at the end." | On screen: "10 items, 1 chat, 1 spreadsheet"
+1. (0 to 3s) VO: "One spreadsheet column shows which of ten listings still need a measurement." | On screen: "10 items. 1 CHECK column."
 2. (3 to 9s) VO: "First, give the chat the rules once: UK English, which platform, title limit, and write check wherever a fact is missing." | On screen: "Set the rules once"
 3. (9 to 15s) VO: "Then paste your ten item notes, one per line, numbered. Short is fine. Brand, size, colour, flaws." | On screen: "Paste 10 short briefs"
 4. (15 to 22s) VO: "Ask for one row per item: title, description, condition, price, and a check column for anything missing." | On screen: "One row per item"
@@ -577,7 +577,7 @@ Start on a mock TikTok Shop style product description built in Canva (not a real
 6. (28 to 33s) VO: "Then read every row before it goes live. Free cheat sheet in bio." | On screen: "Read every row. Free cheat sheet in bio"
 
 ### On-screen text
-10 items, 1 chat, 1 spreadsheet
+10 items. 1 CHECK column.
 Set the rules once
 Paste 10 short briefs
 One row per item
@@ -587,7 +587,7 @@ Free cheat sheet in bio
 
 ### Caption
 ```text
-Ten items, one chat, one tidy spreadsheet at the end. This is the batch method.
+One column shows which of ten listings still need a measurement or a photo. This is the spreadsheet version of the batch method.
 
 1. Start the chat with the rules: UK English, the platform, the title limit, and "write [CHECK] if a fact is missing".
 2. Paste ten short item notes, numbered, one per line.
@@ -607,7 +607,7 @@ Save this for your next listing session. Our free UK Listing Cheat Sheet is in t
 ```
 
 ### Visuals
-Screen recording on a laptop: a free AI chat tool (cropped, account name, avatar, history and tabs blurred) receiving the rules and ten invented item notes (for example "1. Next grey jumper size 12 bobbling under arms"), then producing comma-separated rows. Speed typing to 6x, hold 2 seconds on the output. Then cut to Google Sheets (a fresh, untitled sheet: blur the account avatar and file list) showing Data then Split text to columns. Label Yellow #F2C84B highlight on the CHECK column. Zoom so text is readable on a phone. Stock intro shot (Pexels): "clothes rail second hand", "stack of folded clothes" (no people). Title card in Archivo 800 Ink #1F2A44 on Cream #FAF6EF.
+Screen recording on a laptop: a free AI chat tool (cropped, account name, avatar, history and tabs blurred) receiving the rules and ten invented item notes (for example "1. Hunter tall wellies green UK5, scuff on left toe"), then producing comma-separated rows. Speed typing to 6x, hold 2 seconds on the output. Then cut to Google Sheets (a fresh, untitled sheet: blur the account avatar and file list) showing Data then Split text to columns. Label Yellow #F2C84B highlight on the CHECK column. Zoom so text is readable on a phone. Stock intro shot (Pexels): "clothes rail second hand", "stack of folded clothes" (no people). Title card in Archivo 800 Ink #1F2A44 on Cream #FAF6EF.
 
 ## P53: What is inside The Well Listed Kit (product tour)
 
@@ -616,10 +616,10 @@ Screen recording on a laptop: a free AI chat tool (cropped, account name, avatar
 - **Length:** 45 seconds
 - **Call to action:** Kit
 
-**Hook (first 2 seconds):** "Here is exactly what is inside The Well Listed Kit, file by file. No hype."
+**Hook (first 2 seconds):** "The Well Listed Kit, opened file by file. No sales promises, just what is in it."
 
 ### Script
-1. (0 to 3s) VO: "Here is exactly what is inside The Well Listed Kit, file by file. No hype." | On screen: "What's inside, file by file"
+1. (0 to 3s) VO: "The Well Listed Kit, opened file by file. No sales promises, just what is in it." | On screen: "What's inside, file by file"
 2. (3 to 9s) VO: "The guide. A PDF that starts with the Listing Brief: the facts you give AI before it writes anything." | On screen: "1. The guide (PDF)"
 3. (9 to 16s) VO: "Then modules for titles, descriptions and condition, tags, photos, pricing, buyer messages, video and TikTok Shop, and a rule checker." | On screen: "Titles. Descriptions. Tags. Photos. Pricing. Messages."
 4. (16 to 22s) VO: "Every prompt shows an example output for an invented item, and a short list of things to check before you post." | On screen: "Example output + checks, every prompt"
@@ -641,7 +641,7 @@ No promises of sales. Clearer listings, faster.
 
 ### Caption
 ```text
-Here is exactly what is inside The Well Listed Kit, file by file.
+The Well Listed Kit, opened file by file.
 
 The guide (PDF): starts with the Listing Brief method, then modules for titles, descriptions and condition, tags and item specifics, photos, pricing, buyer messages, video and TikTok Shop, a rule checker, batch listing, worked examples and a platform cheat sheet.
 
@@ -660,7 +660,7 @@ It is written for UK sellers on eBay, Vinted, Depop, Etsy, Amazon and TikTok Sho
 ```
 
 ### Visuals
-Record only once the real built files exist (product/dist/Well-Listed-Kit.pdf, prompt-library.html, all-prompts.txt and product/templates/). Screen record a laptop: open the PDF and scroll slowly through the contents page and one module page (the Listing Brief template); open prompt-library.html and use the search box (type "lowball"), then click a copy button; open all-prompts.txt briefly; open the stock-and-pricing-tracker.csv in Google Sheets or Excel. If any file name or module has changed, show and say what is actually in the build, not this script. Crop tightly to the document, blur the desktop, file path bar, account names, dock and browser tabs. Label Yellow #F2C84B highlighter box on each part as it is named. Intro and end cards: parcel label card, "The Well Listed Kit" in Archivo 800 Ink #1F2A44 on Cream #FAF6EF, Sold Green #1E7F55 tick after "Kit". Optional stock (Pexels): "laptop on desk with parcel", "packing parcels table" (hands only). No marketplace logos, no fake reviews, no sales figures, no countdown timers.
+Price line: this post is scheduled for day 7 of the launch window. If it is published or reposted after the launch price ends, change the last slide, VO and caption to "£19" only. Record only once the real built files exist (product/dist/Well-Listed-Kit.pdf, prompt-library.html, all-prompts.txt and product/templates/). Screen record a laptop: open the PDF and scroll slowly through the contents page and one module page (the Listing Brief template); open prompt-library.html and use the search box (type "lowball"), then click a copy button; open all-prompts.txt briefly; open the stock-and-pricing-tracker.csv in Google Sheets or Excel. If any file name or module has changed, show and say what is actually in the build, not this script. Crop tightly to the document, blur the desktop, file path bar, account names, dock and browser tabs. Label Yellow #F2C84B highlighter box on each part as it is named. Intro and end cards: parcel label card, "The Well Listed Kit" in Archivo 800 Ink #1F2A44 on Cream #FAF6EF, Sold Green #1E7F55 tick after "Kit". Optional stock (Pexels): "laptop on desk with parcel", "packing parcels table" (hands only). No marketplace logos, no fake reviews, no sales figures, no countdown timers.
 
 ## P54: Things nobody tells you when you start selling on Vinted
 
@@ -720,37 +720,38 @@ Canva carousel, 1080 x 1350, Cream #FAF6EF background, each tip on a parcel labe
 - **Length:** 30 seconds
 - **Call to action:** Soft (save this)
 
-**Hook (first 2 seconds):** "Your eBay title gets 80 characters, and every space counts. Here is what else nobody mentions."
+**Hook (first 2 seconds):** "eBay counts the spaces. 'Nikon D3200 18-55mm' is 19 characters, not 17."
 
 ### Script
-1. (0 to 3s) VO: "Your eBay title gets eighty characters, and every space counts. Here is what else nobody mentions." | On screen: "80 characters. Spaces count."
-2. (3 to 9s) VO: "Buyers type what it is, not how it feels. 'Nice jumper' matches nobody's search. 'Next women's grey wool blend jumper, size twelve' does." | On screen: "'Nice jumper' vs what buyers type"
-3. (9 to 15s) VO: "The first words matter most, especially on a phone. Put the brand and item type first." | On screen: "Brand + item first"
+1. (0 to 3s) VO: "eBay counts the spaces. Nikon D3200, eighteen to fifty-five millimetre, is nineteen characters, not seventeen." | On screen: "'Nikon D3200 18-55mm' = 19, not 17"
+2. (3 to 9s) VO: "Buyers type what it is, not how it feels. 'Great camera' matches nobody's search. 'Nikon D3200 DSLR camera with 18-55mm lens' does." | On screen: "'Great camera' vs what buyers type"
+3. (9 to 15s) VO: "The first words matter most, especially on a phone. Put the brand and model first." | On screen: "Brand + model first"
 4. (15 to 21s) VO: "L, at, at, K, and exclamation marks use up characters and tell the buyer nothing." | On screen: "L@@K!!! wastes characters"
 5. (21 to 26s) VO: "Item specifics do quiet work. Fill them in, because they help your item show up in filtered searches." | On screen: "Fill in item specifics"
 6. (26 to 30s) VO: "Check the current rules in eBay's help pages. Save this for your next title." | On screen: "Save this for your next title"
 
 ### On-screen text
-80 characters. Spaces count.
-"Nice jumper" vs what buyers type
-Brand + item first
+"Nikon D3200 18-55mm" = 19, not 17
+"Great camera" vs what buyers type
+Brand + model first
 L@@K!!! wastes characters
 Fill in item specifics
 Save this
 
 ### Caption
 ```text
-Your eBay title gets 80 characters, and every space counts. A few more things nobody mentions:
+eBay counts the spaces: "Nikon D3200 18-55mm" is 19 characters, not 17. A few more things nobody mentions about eBay titles:
 
-Buyers search for what an item is, not how it feels. "Nice jumper" matches nobody's search.
-The first words matter most on a phone screen. Brand and item type go first.
+Buyers search for what an item is, not how it feels. "Great camera" matches nobody's search.
+The first words matter most on a phone screen. Brand and model go first.
 "L@@K!!!" uses up characters and adds nothing.
+Other brands ("like Canon") do not belong in your title.
 Item specifics help your listing appear when buyers use search filters, so fill them in.
 
-Before (81 characters): Nice jumper L@@K!!! grey wool good condition women size 12 Next like Zara H&M COS
-After (69 characters): Next Womens Grey Wool Blend Crew Neck Jumper Size 12 Long Sleeve Knit
+Before (79 characters): Camera L@@K!!! nikon dslr great condition works perfect like canon sony bargain
+After (75 characters): Nikon D3200 DSLR Camera with 18-55mm VR Lens Battery and Charger Black 24MP
 
-Invented example. Check the current title rules in eBay's help pages. Save this for your next listing.
+Invented example. eBay's title limit is 80 characters at the time of writing: check the current rule in eBay's help pages.
 ```
 
 ### Hashtags
@@ -759,7 +760,7 @@ Invented example. Check the current title rules in eBay's help pages. Save this 
 ```
 
 ### Visuals
-Vertical video. Background: stock footage from Pexels "folded grey sweater" or "knitwear flat lay" (item only). Overlay a mock eBay-style title field built in Canva (no eBay logo) with a live character counter. Type out the "before" title in grey with Returns Red #C4453B strike-throughs on "L@@K!!!" and "like Zara H&M COS", counter turning red at 81/80. Then the "after" title typed in Ink #1F2A44 with a Sold Green #1E7F55 counter "69/80". Point 5: a simple mock "Item specifics" form with Brand, Size, Colour, Material fields filling in. Archivo 800 captions, Cream #FAF6EF band. Calm British AI voice. Corner tag: "Example listing".
+Vertical video. Background: stock footage from Pexels "dslr camera on table" or "camera lens close up" (item only, no people; blur any brand logo on the stock camera). Overlay a mock eBay-style title field built in Canva (no eBay logo) with a live character counter. Type out the "before" title in grey with Returns Red #C4453B strike-throughs on "L@@K!!!", "works perfect" (untested claim) and "like canon sony", counter at 79/80. Then the "after" title typed in Ink #1F2A44 with a Sold Green #1E7F55 counter "75/80". Point 5: a simple mock "Item specifics" form with Brand, Model, Type, Colour fields filling in. Archivo 800 captions, Cream #FAF6EF band. Calm British AI voice. Corner tag: "Example listing".
 
 ## P56: Things new sellers wish they had known about postage
 
@@ -823,7 +824,7 @@ Stock footage only, hands or objects, no faces (Pexels or Canva free searches): 
 1. Slide 1: "The first 'not as described' claim tends to teach the same five lessons. Here they are, early."
 2. Slide 2: "1. 'Good condition' is not a description. Buyers compare the parcel with your exact words."
 3. Slide 3: "2. A flaw in the text but not in the photos is still a surprise. Show it, and say which photo."
-4. Slide 4: "3. Measurements beat sizes. A size 12 from one brand is not a size 12 from another. Pit to pit in cm settles it."
+4. Slide 4: "3. Say what is not included. No box, no charger, one strap missing. Silence reads as 'everything'."
 5. Slide 5: "4. Keep your evidence: listing photos, proof of postage, and a photo of the item packed, taken before you seal the parcel."
 6. Slide 6: "5. Reply calmly and use the platform's own process. Arguing in messages rarely helps anyone."
 7. Slide 7: "Private sale or not, what arrives should match the description. Check each platform's help pages for how claims work."
@@ -833,7 +834,7 @@ Stock footage only, hands or objects, no faces (Pexels or Canva free searches): 
 5 lessons from a "not as described" claim
 "Good condition" is not a description
 Flaw in the text AND the photos
-Measurements beat sizes
+Say what is not included
 Keep your evidence
 Calm reply, platform process
 It should match the description
@@ -845,13 +846,13 @@ The first "not as described" claim tends to teach the same five lessons. Here th
 
 1. Buyers compare the parcel with your exact words, so be specific.
 2. Put every flaw in the text and in a photo, and say which photo.
-3. Give measurements in cm. Sizes vary between brands.
+3. Say what is not included (no box, no charger). Buyers tend to read silence as "everything".
 4. Keep evidence: listing photos, proof of postage and a photo of the item packed.
 5. Stay calm and use the platform's own resolution process.
 
 Whether you sell privately or as a business, what arrives should match what you described. Platforms such as Vinted cover buyers when an item is significantly not as described, and each has its own process. Check the current rules in the help pages. This is general information, not legal advice.
 
-Save this for your next listing.
+Save this now, not after your first claim.
 ```
 
 ### Hashtags
@@ -860,7 +861,7 @@ Save this for your next listing.
 ```
 
 ### Visuals
-Canva carousel, 1080 x 1350. Slide 1: Ink #1F2A44 background, Cream #FAF6EF text, "not as described" highlighted in Label Yellow #F2C84B. Slides 2 to 6: before and after mini examples: grey "before" line with Returns Red #C4453B strike-through ("Good condition"), Ink "after" line with Sold Green #1E7F55 tick ("Small pale mark on left cuff, about 5mm, see photo 6"). Slide 5 photo from Pexels: "packed parcel on table", "sealing cardboard box hands". Slide 4 photo: "tape measure on shirt". No real buyer messages, no real claim screens, no marketplace logos. Invented examples only, labelled "Example".
+Canva carousel, 1080 x 1350. Slide 1: Ink #1F2A44 background, Cream #FAF6EF text, "not as described" highlighted in Label Yellow #F2C84B. Slides 2 to 6: before and after mini examples: grey "before" line with Returns Red #C4453B strike-through ("Good condition"), Ink "after" line with Sold Green #1E7F55 tick ("Two pulled threads on the back, see photo 6"). Slide 5 photo from Pexels: "packed parcel on table", "sealing cardboard box hands". Slide 4 photo: "empty cardboard box" (to show "no box"). No real buyer messages, no real claim screens, no marketplace logos. Invented examples only, labelled "Example".
 
 ## P58: Things nobody tells you about using ChatGPT for listings
 
@@ -869,48 +870,46 @@ Canva carousel, 1080 x 1350. Slide 1: Ink #1F2A44 background, Cream #FAF6EF text
 - **Length:** 35 seconds
 - **Call to action:** Kit
 
-**Hook (first 2 seconds):** "ChatGPT has never seen your jumper. It will describe one anyway."
+**Hook (first 2 seconds):** "Ask an AI chat tool the Amazon UK title limit. It may still say 200."
 
 ### Script
-1. (0 to 3s) VO: "ChatGPT has never seen your jumper. It will describe one anyway." | On screen: "It has never seen your jumper"
-2. (3 to 9s) VO: "Ask for 'a listing for a grey jumper' and it fills the gaps: a material you did not mention, a fit you never measured." | On screen: "It fills gaps with guesses"
-3. (9 to 14s) VO: "It often defaults to American English. Sweater, pants, color." | On screen: "Sweater. Pants. Color."
-4. (14 to 19s) VO: "It does not know your platform's limits unless you tell it. Titles come out too long." | On screen: "Tell it the limit"
-5. (19 to 24s) VO: "It does not know what sold last week. Its price is a guess." | On screen: "It can't see sold prices"
-6. (24 to 29s) VO: "The fix: give it the facts first, and tell it to write 'check' where something is missing." | On screen: "Facts first. [CHECK] for gaps."
-7. (29 to 35s) VO: "That is the Listing Brief. It is the starting point of The Well Listed Kit. Link in bio." | On screen: "The Well Listed Kit: link in bio"
+1. (0 to 3s) VO: "Ask an AI chat tool the Amazon UK title limit. It may still say two hundred." | On screen: "Amazon UK title limit? 'About 200.'"
+2. (3 to 9s) VO: "Amazon announced seventy-five characters for most categories from twenty-seven July twenty twenty-six. AI tools learn from older text, so the rules they know can be out of date." | On screen: "Most categories: 75 from 27 July 2026"
+3. (9 to 14s) VO: "So tell it the limit. Never ask it what the limit is." | On screen: "Tell it the limit. Don't ask it."
+4. (14 to 19s) VO: "It miscounts characters too. Ask it to show the count, then check it yourself." | On screen: "It miscounts. Check the count."
+5. (19 to 24s) VO: "It softens flaws if you let it. 'Stain' turns into 'character'. Tell it to keep every flaw as serious as you wrote it." | On screen: "'Stain' is not 'character'"
+6. (24 to 29s) VO: "And anything you paste may be stored by the tool. Swap a buyer's name and address for BUYER first." | On screen: "No buyer names or addresses"
+7. (29 to 35s) VO: "Every prompt in The Well Listed Kit gives the AI the rules, instead of asking it for them. Link in bio." | On screen: "The Well Listed Kit: link in bio"
 
 ### On-screen text
-It has never seen your jumper
-It fills gaps with guesses
-Sweater. Pants. Color.
-Tell it the limit
-It can't see sold prices
-Facts first. [CHECK] for gaps.
+Amazon UK title limit? "About 200."
+Most categories: 75 from 27 July 2026
+Tell it the limit. Don't ask it.
+It miscounts. Check the count.
+"Stain" is not "character"
+No buyer names or addresses
 The Well Listed Kit: link in bio
 
 ### Caption
 ```text
-ChatGPT has never seen your jumper. It will describe one anyway.
+Ask an AI chat tool for the Amazon UK title limit and it may still say 200. Amazon announced that from 27 July 2026, titles in most categories (media excepted) must be 75 characters or fewer. AI tools learn from older text, so the platform rules they "know" can be out of date.
 
-Things nobody mentions about using AI chat tools for listings:
-It fills missing details with plausible guesses.
-It often slips into American English: sweater, pants, color.
-It does not know a platform's title limit unless you tell it.
-It cannot see sold prices, so any price it offers is a guess.
+Things nobody mentions:
+1. Tell it the limit. Never ask it.
+2. It miscounts characters, so ask for the count and check it.
+3. It softens flaws unless told not to ("stain" becomes "character").
+4. Anything you paste may be stored by the tool, so swap buyers' names and addresses for [BUYER].
 
-The fix is to give it the facts first (brand, size, measurements, flaws) and tell it to write [CHECK] wherever something is missing, instead of inventing it. We call that the Listing Brief, and every prompt in The Well Listed Kit starts from one. Link in bio.
-
-Same applies to Claude, Gemini and Copilot. Whatever tool you use, read the draft before it goes live.
+Every prompt in The Well Listed Kit gives the AI the rules instead of asking for them. Link in bio. Rules change: check the current rule in each platform's help pages.
 ```
 
 ### Hashtags
 ```text
-#chatgpt #chatgptprompts #vintedtips #ebaysellertips #resellinguk
+#chatgpt #chatgptprompts #amazonseller #ebaysellertips #resellinguk
 ```
 
 ### Visuals
-Screen recording of a free AI chat tool, cropped to the chat, account name, avatar, history sidebar and browser tabs blurred. Shot A: type "write a listing for a grey jumper" and let the generic output appear; highlight invented details and American spellings with Returns Red #C4453B boxes. Shot B: paste a filled Listing Brief (invented: grey Next wool-blend jumper, size 12, small bobbling under arms) with the instruction to use [CHECK]; highlight UK spellings and [CHECK] lines in Label Yellow #F2C84B and Sold Green #1E7F55 ticks. Opening stock shot (Pexels): "grey sweater folded" (item only). End card: parcel label, "The Well Listed Kit" in Archivo 800 Ink #1F2A44 on Cream #FAF6EF. Do not show the ChatGPT logo large; the brand name can appear in text only.
+Screen recording of a free AI chat tool, cropped to the chat, account name, avatar, history sidebar and browser tabs blurred. Shot A: type "What is the maximum length of an Amazon UK product title?" and show only what the tool really answers. If it gives the current 75-character rule on the day, do not fake an old answer: use a Canva card labelled "Example of an out-of-date answer" for the hook instead. Shot B: paste a Kit prompt that states the limit, and highlight "75 characters" and the character count in Label Yellow #F2C84B. Shot C: a mock condition note with "stain" in Ink and "character" struck through in Returns Red #C4453B. Source for the Amazon change: research/platform-rules-uk.md (Amazon UK section, official Seller Forums announcement). End card: parcel label, "The Well Listed Kit" in Archivo 800 Ink #1F2A44 on Cream #FAF6EF. Do not show the ChatGPT logo large; the brand name can appear in text only.
 
 ## P59: Things nobody tells you about selling on TikTok Shop UK
 
@@ -919,15 +918,15 @@ Screen recording of a free AI chat tool, cropped to the chat, account name, avat
 - **Length:** 8 slides
 - **Call to action:** Soft (save this)
 
-**Hook (first 2 seconds):** "TikTok Shop UK's rules say no '50% off' in product titles. Here is what else nobody mentions."
+**Hook (first 2 seconds):** "'50% OFF' in a TikTok Shop UK title breaks the title rules. So does your shop name."
 
 ### Script
-1. Slide 1: "TikTok Shop UK's rules say no '50% off' in product titles. Here is what else nobody mentions."
+1. Slide 1: "'50% OFF' in a TikTok Shop UK title breaks the title rules. So does your shop name."
 2. Slide 2: "Titles: no promo wording, no shop name or URL, no mentioning TikTok or other marketplaces, no symbols."
 3. Slide 3: "Health claims are off the table. No 'cures', 'treats', 'prevents' or 'relieves', in the title, description or video."
 4. Slide 4: "Images: square, at least 800 x 800 pixels, at least 3 per product, main image showing the front. No added text or watermarks."
 5. Slide 5: "Your video counts as part of the listing. If you would not write it, do not say it on camera."
-6. Slide 6: "Realistic AI images need labelling, and must not make a product look different from what arrives."
+6. Slide 6: "TikTok Shop UK's AI content policy: label realistic AI images, and never make a product look different from what arrives."
 7. Slide 7: "Affiliate creators are paid a commission you set, on top of the platform's own commission. Check the current rates in Seller Center."
 8. Slide 8: "Rules change fast. Check TikTok Shop UK's current policies in Seller Center. Save this."
 
@@ -943,7 +942,7 @@ Check Seller Center. Save this
 
 ### Caption
 ```text
-TikTok Shop UK's rules say no "50% off" in product titles. A few more things nobody mentions:
+"50% OFF" in a TikTok Shop UK product title breaks the title rules, and so does your shop name. A few more things nobody mentions:
 
 Titles cannot include promo wording, your shop name or URL, other platform names or symbols.
 No claims that a product cures, treats, prevents or relieves anything, in any part of the listing or the video.
@@ -960,7 +959,7 @@ All of this comes from TikTok Shop UK's policy pages at the time of writing. Rul
 ```
 
 ### Visuals
-Canva carousel, 1080 x 1350 (or 1080 x 1920 for TikTok photo mode). Slide 1: a mock product title bar reading "Bamboo Drawer Organiser Set 50% OFF!!!" with "50% OFF!!!" struck through in Returns Red #C4453B, then the clean version "Bamboo Drawer Organiser Set of 6, Three Sizes" with a Sold Green #1E7F55 tick. Slides use Cream #FAF6EF backgrounds, Ink #1F2A44 Archivo 800 text, Label Yellow #F2C84B for one key word per slide. Slide 4: a square frame graphic labelled "800 x 800". Stock images from Pexels or Canva free: "bamboo drawer organiser", "product flat lay white background", "phone on tripod filming product" (no people). No TikTok logo or app screenshots. Footer on each slide: "From TikTok Shop UK policy pages, Sept 2026. Check Seller Center."
+Canva carousel, 1080 x 1350 (or 1080 x 1920 for TikTok photo mode). Slide 1: a mock product title bar reading "Stoneware Mug Set 50% OFF!!!" with "50% OFF!!!" struck through in Returns Red #C4453B, then the clean version "Stoneware Mug Set of 4, Speckled White, 350 ml" with a Sold Green #1E7F55 tick (invented product). Slides use Cream #FAF6EF backgrounds, Ink #1F2A44 Archivo 800 text, Label Yellow #F2C84B for one key word per slide. Slide 4: a square frame graphic labelled "800 x 800". Stock images from Pexels or Canva free: "stoneware mugs white background", "product flat lay white background", "phone on tripod filming product" (no people). No TikTok logo or app screenshots. Footer on each slide: "From TikTok Shop UK policy pages, Sept 2026. Check Seller Center."
 
 ## P60: What to set up before your 50th listing
 
@@ -1010,4 +1009,4 @@ The Well Listed Kit includes the brief, tracker, snippets and shot lists as read
 ```
 
 ### Visuals
-Screen recording on a laptop of the kit's real template files once built (product/templates/listing-brief-template.txt, stock-and-pricing-tracker.csv opened in Google Sheets or Excel, message-snippets.txt, photo-shot-lists.md). If a template has changed, show what is actually there. Fill in 3 rows of the tracker with invented items (for example "WL-014, grey Next jumper, box 2, £3.00, Vinted, £12, £8"). Blur account avatars, file paths, desktop and browser tabs. For point 4, stock footage from Pexels: "white background product photography setup", "phone on tripod clothes flat lay" (no people). For point 5, a simple Canva card reading "gov.uk: selling online" (no government crest or logo). Label Yellow #F2C84B highlight on each column header as it is named. End card: parcel label, Archivo 800 Ink #1F2A44 on Cream #FAF6EF with a Sold Green #1E7F55 tick.
+Screen recording on a laptop of the kit's real template files once built (product/templates/listing-brief-template.txt, stock-and-pricing-tracker.csv opened in Google Sheets or Excel, message-snippets.txt, photo-shot-lists.md). If a template has changed, show what is actually there. Fill in 3 rows of the tracker with invented items (for example "WL-014, Hunter wellies green UK5, box 2, £3.00, Vinted, £27, £20"). Blur account avatars, file paths, desktop and browser tabs. For point 4, stock footage from Pexels: "white background product photography setup", "phone on tripod clothes flat lay" (no people). For point 5, a simple Canva card reading "gov.uk: selling online" (no government crest or logo). Label Yellow #F2C84B highlight on each column header as it is named. End card: parcel label, Archivo 800 Ink #1F2A44 on Cream #FAF6EF with a Sold Green #1E7F55 tick.

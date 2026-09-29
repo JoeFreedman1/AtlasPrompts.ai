@@ -107,14 +107,6 @@ UK English, no jargon, short steps. Do not recommend buying anything or any edit
 My Listing Brief:
 [PASTE YOUR LISTING BRIEF HERE]
 ```
-**What good output looks like:**
-
-For a mustard yellow cotton cardigan:
-
-> 1. **Where and when:** by the north-facing window in daylight, ideally at the weekend. Soft, even light suits a strong colour.
-> 2. **Background:** the grey wall. White can make mustard look darker, and wood will clash.
-> 4. **Colour check:** hold the cardigan next to the screen in the same light. If the photo looks more orange, retake it rather than editing the colour.
-
 **Check before you post:**
 - Nothing in the background could be mistaken as included.
 
@@ -134,7 +126,7 @@ My photos, in order (a plain description of each):
 Tell me:
 1. Missing shots a buyer would expect.
 2. Mismatches with the brief (a flaw shown but not in the brief, or something in shot that is not included).
-3. The best order, cover photo first.
+3. The best order. The cover should show the whole item in true colour on a plain background, filling the frame and clear as a small square thumbnail. Major flaws go early in the set.
 4. Privacy: anything to crop out (post, family photos, house numbers, reflections).
 
 UK English. Only comment on what I describe or show. If you cannot tell, write [CHECK: ...].
@@ -173,14 +165,6 @@ Rules:
 My Listing Brief:
 [PASTE YOUR LISTING BRIEF HERE]
 ```
-**What good output looks like:**
-
-For a Le Creuset 20 cm cast iron casserole with light marks on the enamel inside:
-
-> 1. Front view, 20 cm casserole.
-> 3. Inside: light marks on the enamel, see close up.
-> 5. Underside with size stamp. [CHECK: what number is stamped?]
-
 **Check before you post:**
 - Captions match the description word for word on flaws.
 
@@ -205,13 +189,6 @@ Rules:
 My Listing Brief:
 [PASTE YOUR LISTING BRIEF HERE]
 ```
-**What good output looks like:**
-
-For a handmade speckled blue ceramic mug, 350 ml:
-
-> 1. Speckled blue ceramic mug with a curved handle, side view on a wooden table.
-> 2. Unglazed base with a stamped maker's mark. [CHECK: what does the mark say?]
-
 **Check before you post:**
 - Each line describes the photo, not the sales pitch.
 
@@ -246,31 +223,3 @@ For a cream Zara linen shirt with a faint mark on the left cuff, edited onto an 
 
 **Check before you post:**
 - At least one unedited photo of the real item is in the set, and every flaw is still visible.
-
-### PH8 Choose my cover photo
-**Use it when:** You have several decent shots and want to pick the first one buyers see in search.
-**Paste this:**
-```text
-Help me choose the cover (first) photo for my [PLATFORM] listing.
-
-My candidate photos:
-A. [DESCRIBE PHOTO A]
-B. [DESCRIBE PHOTO B]
-C. [DESCRIBE PHOTO C]
-
-Pick one and say why in two lines. Judge on: whole item visible, true colour, plain background, item fills most of the frame, still clear as a small square thumbnail. Then say one change that would make it better on a reshoot.
-
-UK English. Do not suggest adding text, borders or badges. If a flaw is major, say it should be shown early in the set, not hidden.
-
-My Listing Brief:
-[PASTE YOUR LISTING BRIEF HERE]
-```
-**What good output looks like:**
-
-For a built Lego set with its box, missing one minifigure:
-
-> **Pick: B** (built model on a plain white sheet, front on). Whole model visible, clear as a thumbnail. A cuts the box off, C is too dark.
-> **One change:** step back so square crops do not cut the edges. Show the missing minifigure in photo 2 and the first line of the description.
-
-**Check before you post:**
-- The cover shows the item you are selling, not the box or a stock image.

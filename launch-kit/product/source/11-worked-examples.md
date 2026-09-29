@@ -194,7 +194,6 @@ The notes said "works fine", but the loose stick means we list exactly what was 
 | Field | Fact |
 |---|---|
 | Brand | Oakpeg (invented small UK brand, selling its own product) |
-| What it is | Adjustable wooden phone stand |
 | Material | Solid beech, oiled finish [CHECK: name of oil] |
 | Features | 3 viewing angles. Cable slot at the back. 4 rubber feet |
 | Fits | Phones up to 7 inch screen, with or without a slim case. Tested with an 8.3 inch small tablet in landscape |
@@ -206,12 +205,6 @@ The notes said "works fine", but the loose stick means we list exactly what was 
 **Title (A5 or T5):** Oakpeg Beech Wood Phone Stand, Adjustable Holder with Cable Slot, 3 Angles (74)
 
 **Item Highlights:** Solid beech, 3 viewing angles, charging cable slot, rubber feet, fits phones up to 7 inch. Made in the UK. (106)
-
-**Bullets (D5), first three of five:**
-
-1. VIEWING ANGLES: move the back support to one of 3 positions for video calls, recipes or watching.
-2. CABLE SLOT: thread your charging cable through the slot at the back to charge while the phone is on the stand.
-3. FITS: phones up to 7 inch, with or without a slim case. Also tested with an 8.3 inch small tablet in landscape.
 
 **Search terms (K5):** desk mobile cradle dock kitchen recipe video call bedside tablet
 
@@ -249,13 +242,7 @@ No word from the title is repeated, and nothing the product is not (no "bamboo",
 
 **Description (V5):**
 
-> An expandable bamboo cutlery tray that widens to fit your kitchen drawer.
->
-> - Expands from 29 cm to 49 cm wide: slide it out to fit your drawer.
-> - 5 compartments closed, 7 expanded: room for cutlery and utensils.
-> - Bamboo with a lacquered finish. Arrives in one piece.
->
-> Size: 29 to 49 cm wide, 38 cm deep, 5 cm high. What's included: 1 cutlery tray. Care: wipe clean with a damp cloth. Not dishwasher safe. Do not soak.
+> An expandable bamboo cutlery tray that widens from 29 cm to 49 cm to fit your kitchen drawer. 5 compartments closed, 7 expanded. Bamboo with a lacquered finish, arrives in one piece. Size: 29 to 49 cm wide, 38 cm deep, 5 cm high. Care: wipe clean with a damp cloth. Not dishwasher safe. Do not soak.
 
 **Price reasoning, invented figures:** landed unit cost £5.80, packaging £0.60, delivery £2.90: £9.30. TikTok Shop UK standard commission checked September 2026: 9%, inclusive of VAT. At £16.99, commission is about £1.53, leaving about £6.16 before any affiliate commission, ads or promotions. Similar trays are priced from £14.99 to £22.99 (invented, a sense check only). List at **£16.99**. Any "was" price or discount must be genuine.
 

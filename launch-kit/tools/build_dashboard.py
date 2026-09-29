@@ -315,7 +315,7 @@ function pinCard(r){const p=D.pins[r.item];if(!p)return `<div class="card"><b>Pi
  <div class="copies">${copyBtn('title',p.title)}${copyBtn('description',p.description)}${copyBtn('link',link)}</div>
  <details><summary>Design</summary><pre>${esc(p.design)}</pre></details></div>`}
 
-function otherCard(r){let t=r.notes;if(r.slot==='Blog'){const b=D.blog[r.item];t=`Publish ${esc(r.item)}: <b>${esc(b?b.title:'')}</b><br><span class="muted">${esc(b?b.file:'')}</span><br>${esc(r.notes)}`}else t=esc(t);
+function otherCard(r){let t=r.notes;if(r.slot==='Blog'){const b=D.blog[r.item];t=`Blog article ${esc(r.item)}: <b>${esc(b?b.title:'')}</b><br><span class="muted">${esc(b?b.file:'')}</span><br>${esc(r.notes)}`}else t=esc(t);
  return `<div class="card"><div class="row"><span class="pill">${esc(r.slot)}</span><span class="muted">${esc(r.time)} &middot; ${esc(r.platforms)}</span></div><p>${t}</p></div>`}
 
 function renderToday(){

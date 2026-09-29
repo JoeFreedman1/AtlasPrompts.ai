@@ -5,7 +5,7 @@ This repo runs a faceless UK side business called **Well Listed**. Any new sessi
 If the owner types **"Run OPERATOR.md"**, follow `OPERATOR.md` step by step.
 
 ## The business in one paragraph
-Well Listed sells **The Well Listed Kit**, a £19 digital download (launch price £12 for the first 14 days) of tested AI prompts, fill-in templates and checklists that help UK sellers write accurate listings, price items and answer buyers on eBay, Vinted, Depop, Etsy, Amazon and TikTok Shop, using free AI chat tools. It is sold through Gumroad, marketed with faceless short-form content (TikTok, Instagram, YouTube Shorts), Pinterest, a blog, and an email list fed by a free lead magnet ("The UK Listing Cheat Sheet").
+Well Listed sells **The Well Listed Kit**, a £19 digital download (launch price £12 for days 1 to 14, ending 11:59pm on day 14; day 1 is the launch date in STATE.md) of tested AI prompts, fill-in templates and checklists that help UK sellers write accurate listings, price items and answer buyers on eBay, Vinted, Depop, Etsy, Amazon and TikTok Shop, using free AI chat tools. It is sold through Gumroad, marketed with faceless short-form content (TikTok, Instagram, YouTube Shorts), Pinterest, a blog, and an email list fed by a free lead magnet ("The UK Listing Cheat Sheet").
 
 **Who it is for:** UK side-business resellers (Vinted, eBay, Depop), small makers and brand owners (Etsy, Amazon, TikTok Shop), and declutterers turning pro. Time-poor, on mobile, price-sensitive, sceptical of hype and of "AI nonsense" listings.
 
@@ -35,7 +35,7 @@ Well Listed sells **The Well Listed Kit**, a £19 digital download (launch price
 7. Everything customer-facing passes the quality check: `launch-kit/QUALITY-CHECKLIST.md` plus `python3 launch-kit/tools/check_content.py` with zero problems.
 8. Work on a branch, commit after each meaningful step, open pull requests, and never merge unless the owner asks.
 9. Where tasks are independent (posts, articles, emails, ads), subagents may work in parallel, and every subagent's output goes through the quality check.
-10. Facts that change (fees, character limits, rules) must come from `launch-kit/research/platform-rules-uk.md` or `tools-and-fees.md`, and be phrased with "check the current rule" where not verified. Web research was limited overnight (search budget ran out, many sites blocked); many facts there are marked NOT VERIFIED.
+10. Facts that change (fees, character limits, rules) must come from `launch-kit/research/platform-rules-uk.md` or `launch-kit/research/tools-and-fees.md`, and be phrased with "check the current rule" where not verified. Web research was limited overnight (search budget ran out, many sites blocked); many facts there are marked NOT VERIFIED.
 
 ## What has been built (all in `launch-kit/` unless stated)
 | What | Where |
@@ -52,7 +52,7 @@ Well Listed sells **The Well Listed Kit**, a £19 digital download (launch price
 | 30 Pinterest pins | `marketing/c-pinterest/pins.md` |
 | 10 SEO blog articles (B01 to B10) | `marketing/d-blog/` |
 | 7 welcome emails and 3 launch emails | `marketing/e-email/` |
-| 20 ads, £5 a day test plan | `marketing/f-paid-ads/` |
+| 20 ads, £5 a day test plan (from day 15, Meta first: TikTok's minimum budget may be above £5 a day) | `marketing/f-paid-ads/` |
 | Affiliate and creator programme | `marketing/g-affiliates/` |
 | Community plan with 10 helpful posts | `marketing/h-community/` |
 | Marketplace listings (Gumroad, Payhip, Amazon KDP; why not Etsy or TikTok Shop) | `marketing/i-marketplace-listings/` |
@@ -75,8 +75,13 @@ The older **Atlas Prompts** website in `public/` and `css/` is unrelated to Well
 ## What is live
 Nothing yet, as of the overnight build. `STATE.md` holds the truth: launch date, links, price, and what is live. Always read it before acting.
 
+**Which branch:** until the owner merges the pull request, all of this lives on the working branch named in STATE.md (at the time of writing `claude/keen-thompson-uxkjgk`), not on main. If you cannot see `launch-kit/`, run `git fetch origin` and check out or merge that branch first (OPERATOR.md Step 1 explains).
+
 ## How to do common jobs
 - **Rebuild everything after edits:** `python3 launch-kit/product/build.py && python3 launch-kit/tools/build_site.py && python3 launch-kit/tools/build_dashboard.py && python3 launch-kit/tools/check_content.py`
-- **Add new posts:** follow `marketing/POST-FORMAT.md` exactly (the dashboard parses it), continue IDs from the highest, add rows to `calendar.csv`.
+- **Fill in or change the sales site:** put the values in `launch-kit/sales-site/placeholders.json` (never edit `netlify-site/` by hand), run `python3 launch-kit/tools/build_site.py`, which rebuilds `launch-kit/sales-site/netlify-site/`, then commit and push. The owner downloads the repo ZIP and drags the `netlify-site` folder onto Netlify. Details: `launch-kit/sales-site/README.md`.
+- **Day 15 price switch:** see the key dates table in `OPERATOR.md` (£12 ends 11:59pm on day 14; pages switch to £19 on day 15).
+- **Add new posts:** follow `launch-kit/marketing/POST-FORMAT.md` exactly (the dashboard parses it), continue IDs from the highest, add rows to `launch-kit/marketing/a-content-calendar/calendar.csv`.
+- **Launch checklist edits:** every step in `launch-kit/LAUNCH.md` must keep the exact form `N. **Title (N min).**` because the dashboard script reads it, and the steps must total under 120 minutes.
 - **Rename the brand** (if the trade mark check fails): replace "Well Listed" and handles across `launch-kit/`, update the brand guide, rebuild, run the checker.
-- **Weekly review:** see `ROUTINE.md`.
+- **Weekly review:** see `launch-kit/ROUTINE.md`.

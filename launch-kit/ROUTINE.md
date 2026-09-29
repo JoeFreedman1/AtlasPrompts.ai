@@ -2,6 +2,8 @@
 
 Two routines: **30 minutes every day** and **1 hour once a week**. The daily operator session (type "Run OPERATOR.md" in Claude Code each morning) prepares everything, so your time goes on the parts only a human can do: posting, replying and pressing buttons.
 
+**The dashboard** is the file `launch-kit/dashboard.html`. Download a fresh copy from GitHub after each morning's operator session (open the file, press "Download raw file") and open it in your phone's browser. If that is a faff, the operator's reply in Claude Code gives you the same to-do list.
+
 ## The daily 30 minutes
 
 | Minutes | What you do | Where |
@@ -13,9 +15,9 @@ Two routines: **30 minutes every day** and **1 hour once a week**. The daily ope
 | 23 to 28 | **Reply.** Answer every comment and DM on the brand accounts from yesterday and today, helpfully and briefly. Never argue. Never send the same message to lots of people | The apps |
 | 28 to 30 | **Tick off.** Tick today's tasks on the dashboard. If a comment asked a good question, note it: it is tomorrow's post idea | Dashboard |
 
-**On blog days** (days 1, 3, 6, 9, 12, 15, 18, 21, 24, 27) add 10 minutes: publish the article (instructions in `sales-site/README.md`) and make one extra pin for it.
+**On blog days** (days 1, 3, 6, 9, 12, 15, 18, 21, 24, 27) add 10 minutes. All 10 articles are already on the website from launch day (the build puts them in `/blog/`), so "publish" means share it: make one extra pin that links to that day's article (its address is your site plus `/blog/` plus the article's slug, shown on the dashboard) and schedule it.
 
-**Community (3 times a week, 10 minutes, in place of the reply block):** answer one genuine question in a relevant community, following `marketing/h-community/community-plan.md`. No links unless the rules allow and someone asks.
+**Community (3 times a week, add 10 minutes):** answer one genuine question in a relevant community, following `marketing/h-community/community-plan.md`. In week 1, only read the rules and the questions; start answering from week 2. No links unless the rules allow and someone asks. Always check you are posting as Well Listed, not your personal profile.
 
 ## The weekly 1-hour review (every 7th day, evening)
 
@@ -34,20 +36,28 @@ Slot A goes out at **07:30** on TikTok, Instagram Reels and YouTube Shorts (same
 
 | Day | Slot A (07:30 video) | Slot B (19:30 carousel or second video) | Pin (12:00) | Also today |
 |---|---|---|---|---|
-| 1 | **P01** Messy notes to an 80-character eBay title in one prompt (Tutorial) | **P18** Generic ChatGPT output vs Listing Brief output (the Americanism problem) (Before/after) | PIN01 | Publish blog article B01; Turn on welcome sequence (W1 to W7 run automatically) |
+| 1 | **P01** Messy notes to an 80-character eBay title in one prompt (Tutorial) | **P18** Generic ChatGPT output vs Listing Brief output (the Americanism problem) (Before/after) | PIN01 | Extra pin for blog article B01; Turn on welcome sequence (W1 to W7 run automatically) |
 | 2 | **P13** "Nice jumper" to a search-ready eBay title (Before/after) | **P38** 5 Americanisms AI sneaks into UK listings (Listicle) | PIN02 |  |
-| 3 | **P02** The Listing Brief: the facts to give AI before it writes anything (Tutorial) | **P15** Replying to "is this still available?" (Before/after) | PIN03 | Publish blog article B02 |
+| 3 | **P02** The Listing Brief: the facts to give AI before it writes anything (Tutorial) | **P15** Replying to "is this still available?" (Before/after) | PIN03 | Extra pin for blog article B02 |
 | 4 | **P34** 5 words that make a listing look like spam (Listicle) | **P06** Reply to a lowball offer politely (Tutorial) | PIN04 |  |
 | 5 | **P14** Vague Vinted description to a clear one (Before/after) | **P29** "ChatGPT makes things up so it is useless for listings" (Myth) | PIN05 |  |
-| 6 | **P03** A Vinted description that answers the questions buyers always ask (Tutorial) | **P41** 7 checks before you press "list" (Listicle) | PIN06 | Publish blog article B03 |
+| 6 | **P03** A Vinted description that answers the questions buyers always ask (Tutorial) | **P41** 7 checks before you press "list" (Listicle) | PIN06 | Extra pin for blog article B03 |
 | 7 | **P53** What is inside The Well Listed Kit (product tour) (Walkthrough) | **P55** Things nobody tells you about eBay titles (Wish we knew) | PIN07 | Send launch email L1 to everyone subscribed so far; Weekly review tonight |
 | 8 | **P05** Price from sold listings you paste in (Tutorial) | **P24** Guessing a price vs pricing from comps (Before/after) | PIN08 |  |
-| 9 | **P27** "Stuff every keyword into the title" (Myth) | **P35** 7 things every clothing listing needs (Listicle) | PIN09 | Publish blog article B04 |
+| 9 | **P27** "Stuff every keyword into the title" (Myth) | **P35** 7 things every clothing listing needs (Listicle) | PIN09 | Extra pin for blog article B04 |
 | 10 | **P07** Condition notes that head off "not as described" claims (Tutorial) | **P17** Hiding a flaw vs disclosing it well (Before/after) | PIN10 |  |
 | 11 | **P46** A used games console from notes to full eBay listing (Walkthrough) | **P36** 5 buyer messages one prompt can answer (Listicle) | PIN11 |  |
-| 12 | **P08** One listing into eBay, Vinted and Depop versions (Tutorial) | **P54** Things nobody tells you when you start selling on Vinted (Wish we knew) | PIN12 | Publish blog article B05; Send launch email L2 (launch price ends in 48 hours) |
+| 12 | **P08** One listing into eBay, Vinted and Depop versions (Tutorial) | **P54** Things nobody tells you when you start selling on Vinted (Wish we knew) | PIN12 | Extra pin for blog article B05; Send launch email L2 (launch price ends in 2 days) |
 | 13 | **P19** A bundle offer message (Before/after) | **P44** What to include in a bundle offer (Listicle) | PIN13 |  |
-| 14 | **P09** List 10 items in one chat: the batch method (Tutorial) | **P30** "Price high and wait for offers" (Myth) | PIN14 | Send launch email L3 (launch price ends tonight); switch price to £19 at midnight; Weekly review tonight |
+| 14 | **P09** List 10 items in one chat: the batch method (Tutorial) | **P30** "Price high and wait for offers" (Myth) | PIN14 | Send launch email L3 by 10am (launch price ends 11:59pm tonight); Weekly review tonight |
+Launch email send times and wording are in `marketing/e-email/launch-emails.md` (L1 and L2 about 7:30pm, L3 by 10am).
+
+**Day 15 (full price day), first thing, about 15 minutes on a computer:**
+1. In Gumroad, change the price to **£19** (never before 11:59pm on day 14: the launch price must run for the full time we promised).
+2. Say "Run OPERATOR.md" as usual. On day 15 the operator switches both sales pages to £19, rebuilds the site and pushes, and updates STATE.md (current price £19, ad cap).
+3. Download a fresh ZIP from GitHub and drag the new `netlify-site` folder onto Netlify (Deploys, drag and drop box). Check the site now says £19 and the buy button opens Gumroad at £19.
+4. From today the optional £5 a day ad test may start, on **Meta first** (TikTok's minimum budget may be above £5 a day). Only if the checklist in `marketing/f-paid-ads/test-plan.md` is met.
+
 From day 15 onwards, follow `marketing/a-content-calendar/calendar.csv` (days 15 to 30), adjusted by the daily operator using the stop, keep, scale rules. After day 30, the operator builds the next month from what worked.
 
 ## Things that are never part of the routine
