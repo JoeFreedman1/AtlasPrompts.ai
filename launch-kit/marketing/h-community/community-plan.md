@@ -249,7 +249,7 @@ These are **not adverts**. Each one works on its own and needs nothing from us. 
 - **Target community:** r/vinted, Vinted and eBay Facebook groups
 - **Question it answers:** "Everyone messages 'is this still available?' and then disappears. What do I say?"
 
-> We keep a saved reply that answers and moves things on in one go:
+> A saved reply that answers and moves things on in one go:
 >
 > "Hi, yes it is. Happy to answer any questions about size or condition. If you'd like it, you can buy or make an offer through the app."
 >
