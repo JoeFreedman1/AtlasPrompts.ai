@@ -189,10 +189,10 @@ Transcript:
 
 For "it's a Dualit toaster, um, four slice, cream, works fine, I did two rounds of toast, there's a little dent on the back, no, the side, left side":
 
-> **What it is:** Four-slice toaster
-> **Brand:** Dualit [CHECK: model number from the base label]
-> **Tested (how):** Toasted two rounds of bread
-> **Flaws:** Small dent on the left side [CHECK: size in mm or cm]
+> - **What it is:** Four-slice toaster
+> - **Brand:** Dualit [CHECK: model number from the base label]
+> - **Tested (how):** Toasted two rounds of bread
+> - **Flaws:** Small dent on the left side [CHECK: size in mm or cm]
 
 **Check before you post:**
 - Check brand names and model numbers against the label. Transcription gets them wrong most often.
@@ -218,10 +218,10 @@ Postage: [POSTAGE]
 ```
 **What good output looks like:**
 
-> **What it is:** Ceramic milk jug
-> **Labels and markings:** base stamp reads "Denby, Made in England" (as described)
-> **Flaws:** tiny glaze chip on the rim next to the spout [CHECK: size in mm]
-> **Extra photos to take:** the rim chip next to a coin for scale, the base stamp in focus.
+> - **What it is:** Ceramic milk jug
+> - **Labels and markings:** base stamp reads "Denby, Made in England" (as described)
+> - **Flaws:** tiny glaze chip on the rim next to the spout [CHECK: size in mm]
+> - **Extra photos to take:** the rim chip next to a coin for scale, the base stamp in focus.
 
 **Check before you post:**
 - If you are not sure a mark is genuine, say what it reads rather than who made it.
@@ -291,9 +291,9 @@ My extra details (condition, flaws, whether opened, postage, price):
 ```
 **What good output looks like:**
 
-> **In the box:** 1 handle, 1 brush head, 1 charging base
-> **Condition:** New, box opened to check contents, brush head still sealed
-> **Box claims left out:** "removes up to 100% more plaque". A manufacturer claim: leave it out unless you are the brand and can support it.
+> - **In the box:** 1 handle, 1 brush head, 1 charging base
+> - **Condition:** New, box opened to check contents, brush head still sealed
+> - **Box claims left out:** "removes up to 100% more plaque". A manufacturer claim: leave it out unless you are the brand and can support it.
 
 **Check before you post:**
 - Check whether the category has hygiene rules on the platform. Opened personal care items often do.
@@ -320,9 +320,9 @@ My Listing Brief:
 
 For a Radley handbag:
 
-> **Contradiction:** condition "Excellent" but "corners rubbed through to the lining". That is nearer Good or Fair.
-> **Risky claim:** "100% genuine": only with proof (receipt, bought from the brand). Otherwise state the brand and show the labels.
-> **US to UK:** "purse" to "handbag".
+> - **Contradiction:** condition "Excellent" but "corners rubbed through to the lining". That is nearer Good or Fair.
+> - **Risky claim:** "100% genuine": only with proof (receipt, bought from the brand). Otherwise state the brand and show the labels.
+> - **US to UK:** "purse" to "handbag".
 
 **Check before you post:**
 - Fix contradictions in the brief itself so every platform version inherits the fix.

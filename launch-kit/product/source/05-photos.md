@@ -78,9 +78,9 @@ Extra flaws I have noticed since: [EXTRA FLAWS OR "NONE"]
 
 For the Next jumper with light bobbling under both arms:
 
-> **How to shoot it:** lay it flat, lift one arm out, shoot from about 20 cm in window light from the side (side light shows bobbling better). Ruler along the patch.
-> **Caption:** "Light bobbling under both arms, shown close up."
-> **Also check:** [CHECK: bobbling where a bag strap rubs?] [CHECK: any small holes? Hold it up to a window.] [CHECK: any smell, such as smoke or perfume?]
+> - **How to shoot it:** lay it flat, lift one arm out, shoot from about 20 cm in window light from the side (side light shows bobbling better). Ruler along the patch.
+> - **Caption:** "Light bobbling under both arms, shown close up."
+> - **Also check:** [CHECK: bobbling where a bag strap rubs?] [CHECK: any small holes? Hold it up to a window.] [CHECK: any smell, such as smoke or perfume?]
 
 **Check before you post:**
 - The flaw is visible at phone screen size, not only when zoomed in.
@@ -138,9 +138,9 @@ My Listing Brief:
 
 For a Tefal kettle with limescale inside and a small chip on the lid:
 
-> **Missing:** the base plate and plug, and the inside showing the limescale (it is in your brief, so show it).
-> **Mismatch:** photo 3 has two mugs beside the kettle. Retake without them.
-> **Privacy:** photo 2 shows a letter on the worktop. Crop it out.
+> - **Missing:** the base plate and plug, and the inside showing the limescale (it is in your brief, so show it).
+> - **Mismatch:** photo 3 has two mugs beside the kettle. Retake without them.
+> - **Privacy:** photo 2 shows a letter on the worktop. Crop it out.
 
 **Check before you post:**
 - Nothing in any photo suggests something is included when it is not.

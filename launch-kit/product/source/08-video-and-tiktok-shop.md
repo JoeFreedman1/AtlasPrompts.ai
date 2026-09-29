@@ -113,8 +113,8 @@ For Levi's 501 jeans, W32 L30, mid-blue, button fly, light fraying at the back h
 > 2. Mid-blue, button fly
 > 3. Light fraying at back hems
 >
-> **Caption:** Levi's 501 jeans, W32 L30, mid-blue. Light fraying on the back hems, shown in the video.
-> **Hashtags:** #levis501 #secondhandjeans #denim
+> - **Caption:** Levi's 501 jeans, W32 L30, mid-blue. Light fraying on the back hems, shown in the video.
+> - **Hashtags:** #levis501 #secondhandjeans #denim
 
 **Check before you post:**
 - The caption mentions the flaw as clearly as the video shows it.

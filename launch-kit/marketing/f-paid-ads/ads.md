@@ -18,7 +18,7 @@ These are our house rules, written to sit safely inside TikTok's and Meta's adve
 8. **Faceless.** Stock footage is hands-only or no people (Pexels, Pixabay or Canva free library, commercial use allowed). AI voiceover in the brand voice (calm British voice). Never the owner's face, voice, home, pets or handwriting.
 9. **Honest urgency only.** The £12 launch price may only be mentioned in ads that run during days 1 to 14 and only if it genuinely ends on day 14. No countdown timers. The ads below assume full price (£19) or the free cheat sheet.
 10. **UK English, no em dashes or en dashes, no banned words** (see `01-brief/WRITING-RULES.md`).
-10a. **No income-opportunity framing.** Meta and TikTok both restrict ads that promote ways to make money or "side income". Reselling is our audience's activity, not our promise: never show piles of cash, "extra income", "side hustle" or earnings screenshots, and never say or imply the Kit is a money-making opportunity.
+10a. **No income-opportunity framing.** Meta and TikTok both restrict ads that promote ways to make money or "side income". Reselling is our audience's activity, not our promise: never show piles of cash, "extra income" wording or earnings screenshots, and never say or imply the Kit is a money-making opportunity.
 10b. **TikTok is not a partner.** Naming "TikTok Shop" to describe who the Kit is for is fine; never imply TikTok made, approved or sponsors the Kit, and never use TikTok's logo or interface in a TikTok ad.
 11. **Music:** TikTok Commercial Music Library or Meta Sound Collection only. No trending tracks from personal accounts.
 12. **Captions burned in**, centre of screen, clear of the platform's bottom buttons.

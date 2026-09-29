@@ -189,8 +189,8 @@ My Listing Brief:
 
 For an invented "Hartwell Home" set of 4 linen napkins, 45 cm square, sage green, 100% linen, machine washable at 40 degrees, hemmed edges:
 
-> **Title:** Hartwell Home Linen Napkins Set of 4, 45 x 45 cm, Sage Green (60)
-> **Item Highlights:** 100% linen, machine washable at 40 degrees, hemmed edges (54)
+> - **Title:** Hartwell Home Linen Napkins Set of 4, 45 x 45 cm, Sage Green (60)
+> - **Item Highlights:** 100% linen, machine washable at 40 degrees, hemmed edges (54)
 
 **Check before you post:**
 - Check your category's style guide in Seller Central. Title rules differ by category.
@@ -284,8 +284,8 @@ UK English. No hype, emoji or exclamation marks.
 
 For "STUNNING!!! Vintage RARE Mulberry Style Leather Purse Bag Bag Brown L@@K" on an unbranded brown leather shoulder bag with a top zip and two handles:
 
-> **Wrong:** capitals and exclamation marks, "Stunning" and "L@@K" are hype, "Vintage" and "Rare" are not in the brief, "Mulberry Style" names another brand, "Bag" is repeated, "Purse" is a US word here.
-> **Fixed:** Brown Leather Shoulder Handbag, Top Zip, Two Handles, Unbranded (64)
+> - **Wrong:** capitals and exclamation marks, "Stunning" and "L@@K" are hype, "Vintage" and "Rare" are not in the brief, "Mulberry Style" names another brand, "Bag" is repeated, "Purse" is a US word here.
+> - **Fixed:** Brown Leather Shoulder Handbag, Top Zip, Two Handles, Unbranded (64)
 
 **Check before you post:**
 - If the item has no brand label, do not guess one. "Unbranded" is honest.

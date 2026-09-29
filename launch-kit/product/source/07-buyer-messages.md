@@ -100,8 +100,8 @@ My Listing Brief (includes my floor):
 
 For a Le Creuset casserole, list £65, floor £48, offer £20:
 
-> **Counter:** "Thanks for the offer. £20 is a bit too low for me, as similar ones have sold for more. I could do £55, and I will send it through the offer button."
-> **Decline:** "Thanks for your interest, but I cannot go that low on this one. You are welcome to make another offer."
+> - **Counter:** "Thanks for the offer. £20 is a bit too low for me, as similar ones have sold for more. I could do £55, and I will send it through the offer button."
+> - **Decline:** "Thanks for your interest, but I cannot go that low on this one. You are welcome to make another offer."
 
 **Check before you post:**
 - Your stated reason is true (you really looked at comps).

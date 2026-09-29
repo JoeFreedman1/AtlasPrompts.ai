@@ -49,8 +49,8 @@ Examples 1, 2 and 4 are second-hand resale. Examples 3, 5 and 6 are for makers a
 
 **Buyer reply (M3):**
 
-> **Buyer:** Would you take £8?
-> **Reply:** Hi, thanks for the offer. That's a bit low for this one, as similar White Stuff jumpers have sold for more. I could do £12. Let me know and I'll send an offer through Vinted.
+> - **Buyer:** Would you take £8?
+> - **Reply:** Hi, thanks for the offer. That's a bit low for this one, as similar White Stuff jumpers have sold for more. I could do £12. Let me know and I'll send an offer through Vinted.
 
 ---
 
@@ -95,8 +95,8 @@ The notes said "works fine", but the loose stick means we list exactly what was 
 
 **Buyer reply (M1):**
 
-> **Buyer:** Does the controller drift? Mine did and it drove me mad.
-> **Reply:** Hi, fair question. The left stick has a little play if you move it, but I tested it in a game for 10 minutes and saw no drift. It's in the listing so there are no surprises. If anything isn't as described, you're covered by eBay's protection and I'll sort it.
+> - **Buyer:** Does the controller drift? Mine did and it drove me mad.
+> - **Reply:** Hi, fair question. The left stick has a little play if you move it, but I tested it in a game for 10 minutes and saw no drift. It's in the listing so there are no surprises. If anything isn't as described, you're covered by eBay's protection and I'll sort it.
 
 ---
 
@@ -141,8 +141,8 @@ The notes said "works fine", but the loose stick means we list exactly what was 
 
 **Buyer reply (M1):**
 
-> **Buyer:** Would these hold a small pillar candle instead?
-> **Reply:** Hi, thanks for asking. They're made for standard tealights, so a pillar candle won't fit inside. The opening is about [CHECK: inner width] cm across.
+> - **Buyer:** Would these hold a small pillar candle instead?
+> - **Reply:** Hi, thanks for asking. They're made for standard tealights, so a pillar candle won't fit inside. The opening is about [CHECK: inner width] cm across.
 
 ---
 
@@ -180,8 +180,8 @@ The notes said "works fine", but the loose stick means we list exactly what was 
 
 **Buyer reply (M1):**
 
-> **Buyer:** I'm usually a size 12 in women's, would this fit?
-> **Reply:** Hi, it's labelled M and has a boxy cut, so it's likely to be roomy on a size 12. The best check is to lay a jacket you like flat and measure pit to pit: this one is 60 cm. If yours is around 52 to 55 cm, this will be an oversized fit.
+> - **Buyer:** I'm usually a size 12 in women's, would this fit?
+> - **Reply:** Hi, it's labelled M and has a boxy cut, so it's likely to be roomy on a size 12. The best check is to lay a jacket you like flat and measure pit to pit: this one is 60 cm. If yours is around 52 to 55 cm, this will be an oversized fit.
 
 ---
 
@@ -193,7 +193,7 @@ The notes said "works fine", but the loose stick means we list exactly what was 
 
 | Field | Fact |
 |---|---|
-| Brand | Oakpeg (invented small UK brand, selling its own product) |
+| Brand and item | Oakpeg adjustable wooden phone stand (invented small UK brand, selling its own product) |
 | Material | Solid beech, oiled finish [CHECK: name of oil] |
 | Features | 3 viewing angles. Cable slot at the back. 4 rubber feet |
 | Fits | Phones up to 7 inch screen, with or without a slim case. Tested with an 8.3 inch small tablet in landscape |
@@ -214,8 +214,8 @@ No word from the title is repeated, and nothing the product is not (no "bamboo",
 
 **Buyer reply (M1):**
 
-> **Buyer:** Will this hold an iPad Air?
-> **Reply:** Hello, thanks for your message. We've tested it with phones up to 7 inch and an 8.3 inch small tablet in landscape. We haven't tested an iPad Air, which is larger and heavier, so we can't promise it will be stable.
+> - **Buyer:** Will this hold an iPad Air?
+> - **Reply:** Hello, thanks for your message. We've tested it with phones up to 7 inch and an 8.3 inch small tablet in landscape. We haven't tested an iPad Air, which is larger and heavier, so we can't promise it will be stable.
 
 ---
 
@@ -248,8 +248,8 @@ No word from the title is repeated, and nothing the product is not (no "bamboo",
 
 **Buyer reply (M1):**
 
-> **Buyer:** Can it go in the dishwasher?
-> **Reply:** Hi, thanks for asking. No, it's bamboo, so please wipe it with a damp cloth and don't soak it.
+> - **Buyer:** Can it go in the dishwasher?
+> - **Reply:** Hi, thanks for asking. No, it's bamboo, so please wipe it with a damp cloth and don't soak it.
 
 ---
 

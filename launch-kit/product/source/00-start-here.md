@@ -41,9 +41,9 @@ Rules:
 ```
 **What good output looks like:**
 
-> **Title:** Next grey wool-blend jumper, size 12 (36)
-> **Description:** Grey wool-blend jumper from Next, size 12. Measured flat: pit to pit 51 cm, length 63 cm, sleeve 58 cm. Good condition: light bobbling under both arms, no holes or marks that I can see. 60% acrylic, 40% wool. Happy to answer questions or send more photos.
-> **Fields:** Category: [CHECK: women's or men's? Then pick the closest jumper category you see]. Brand: Next. Size: 12. Condition: Good. Colour: Grey. Material: Acrylic, Wool.
+> - **Title:** Next grey wool-blend jumper, size 12 (36)
+> - **Description:** Grey wool-blend jumper from Next, size 12. Measured flat: pit to pit 51 cm, length 63 cm, sleeve 58 cm. Good condition: light bobbling under both arms, no holes or marks that I can see. 60% acrylic, 40% wool. Happy to answer questions or send more photos.
+> - **Fields:** Category: [CHECK: women's or men's? Then pick the closest jumper category you see]. Brand: Next. Size: 12. Condition: Good. Colour: Grey. Material: Acrylic, Wool.
 
 **Check before you post:**
 - Tap every field in the app yourself. Filters use the fields, not the text.

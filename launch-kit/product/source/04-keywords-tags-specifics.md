@@ -148,8 +148,8 @@ My current title and description (if written):
 
 For black Levi's 501 jeans, W30 L32:
 
-> **Fields:** Category: Jeans > Straight fit [CHECK: men's or women's, from the label]. Brand: Levi's. Size: W30 L32. Condition: Good. Colour: Black. Material: Cotton.
-> **Search words:** levis 501, black jeans, straight leg jeans (all in title). Faded black jeans: could go in the description as "faded to a washed charcoal".
+> - **Fields:** Category: Jeans > Straight fit [CHECK: men's or women's, from the label]. Brand: Levi's. Size: W30 L32. Condition: Good. Colour: Black. Material: Cotton.
+> - **Search words:** levis 501, black jeans, straight leg jeans (all in title). Faded black jeans: could go in the description as "faded to a washed charcoal".
 
 **Check before you post:**
 - Select the brand from Vinted's list where it exists, so brand filters find you.

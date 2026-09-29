@@ -70,9 +70,9 @@ Then paste each brief starting with ITEM 1, ITEM 2 and so on.
 
 For ITEM 3 on eBay UK: "Joules women's quilted gilet, navy, size 12, zip front, 2 zip pockets, light pilling on inside collar, pre-owned, good":
 
-> **Title:** Joules Womens Navy Quilted Gilet Size 12 Full Zip Two Zip Pockets (65)
-> **Description:** Navy quilted gilet from Joules, women's size 12. Full zip front and two zip pockets. Pre-owned, good: light pilling on the inside collar (see photos). Measurements: pit to pit [CHECK: cm], length [CHECK: cm].
-> **Item specifics:** Brand: Joules. Size: 12. Colour: Blue [CHECK: eBay's colour list may use Blue for navy]. Type: Gilet. Department: Women. Outer shell material: [CHECK].
+> - **Title:** Joules Womens Navy Quilted Gilet Size 12 Full Zip Two Zip Pockets (65)
+> - **Description:** Navy quilted gilet from Joules, women's size 12. Full zip front and two zip pockets. Pre-owned, good: light pilling on the inside collar (see photos). Measurements: pit to pit [CHECK: cm], length [CHECK: cm].
+> - **Item specifics:** Brand: Joules. Size: 12. Colour: Blue [CHECK: eBay's colour list may use Blue for navy]. Type: Gilet. Department: Women. Outer shell material: [CHECK].
 
 **Check before you post:**
 - Scan each item for facts that leaked from an earlier item.
