@@ -895,7 +895,7 @@ Before (131 characters): Macrame Plant Hanger Boho Macrame Plant Hanger Handmade
 
 After (85 characters): Handmade Macrame Plant Hanger, Natural Cotton Rope, 90 cm Long, Fits Pots up to 15 cm
 
-The after says what it is, what it is made of, how long it is and what pot it takes, which is what a buyer checks first. "Boho decor", "plant lover gift" and "housewarming gift" move into your 13 tags, where they still help search. Etsy titles can be up to 140 characters at the time of writing, but you do not have to fill them.
+The after says what it is, what it is made of, how long it is and what pot it takes. "Boho decor", "plant lover gift" and "housewarming gift" move into your 13 tags, where they still help search. Etsy titles can be up to 140 characters at the time of writing, but you do not have to fill them.
 
 The Well Listed Kit writes the title and tags together from one brief. Link in bio. Example item. Check current limits in Etsy's help pages.
 ```

@@ -48,9 +48,7 @@ Rules:
 My Listing Brief:
 [PASTE YOUR LISTING BRIEF HERE]
 ```
-**What good output looks like:**
-
-For the Next jumper, 20 seconds, text-to-speech:
+**What good output looks like,** for the Next jumper, 20 seconds, text-to-speech:
 
 > | Seconds | What we see | On-screen text | Voiceover |
 > |---|---|---|---|
@@ -105,9 +103,7 @@ Rules: only facts from my brief; [CHECK: ...] for anything missing; no hype, "be
 My Listing Brief:
 [PASTE YOUR LISTING BRIEF HERE]
 ```
-**What good output looks like:**
-
-For Levi's 501 jeans, W32 L30, mid-blue, button fly, light fraying at the back hems:
+**What good output looks like,** for Levi's 501 jeans, W32 L30, mid-blue, button fly, light fraying at the back hems:
 
 > 1. Levi's 501, W32 L30
 > 2. Mid-blue, button fly
@@ -140,9 +136,7 @@ Rules:
 My Listing Brief:
 [PASTE YOUR LISTING BRIEF HERE]
 ```
-**What good output looks like:**
-
-For an invented "Tidy Nook" bamboo drawer organiser set of 6 boxes in 3 sizes:
+**What good output looks like,** for an invented "Tidy Nook" bamboo drawer organiser set of 6 boxes in 3 sizes:
 
 > Six bamboo boxes in three sizes for sorting cutlery, utensils or stationery in drawers.
 >
@@ -178,9 +172,7 @@ Copy or script to check:
 My Listing Brief:
 [PASTE YOUR LISTING BRIEF HERE]
 ```
-**What good output looks like:**
-
-For a lavender wheat bag:
+**What good output looks like,** for a lavender wheat bag:
 
 > | Original | Problem | Safer rewrite |
 > |---|---|---|

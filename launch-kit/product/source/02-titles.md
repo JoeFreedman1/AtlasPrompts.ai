@@ -59,9 +59,7 @@ Rules:
 My Listing Brief:
 [PASTE YOUR LISTING BRIEF HERE]
 ```
-**What good output looks like:**
-
-For a brief that says: Next, women's jumper, crew neck, grey, 60% acrylic and 40% wool, size 12, light bobbling under both arms:
+**What good output looks like,** for a brief that says: Next, women's jumper, crew neck, grey, 60% acrylic and 40% wool, size 12, light bobbling under both arms:
 
 > 1. Next Womens Grey Wool Blend Crew Neck Jumper Size 12 (51)
 > 2. Next Grey Crew Neck Jumper Womens Size 12 Acrylic Wool Blend (61)
@@ -91,9 +89,7 @@ Rules:
 My Listing Brief:
 [PASTE YOUR LISTING BRIEF HERE]
 ```
-**What good output looks like:**
-
-For black Levi's 501 jeans, W30 L32, straight leg, button fly (checked), faded at the knees:
+**What good output looks like,** for black Levi's 501 jeans, W30 L32, straight leg, button fly (checked), faded at the knees:
 
 > 1. Levi's 501 Black Straight Leg Jeans W30 L32 (43)
 > 2. Levi's 501 Jeans Black W30 L32 Button Fly (41)
@@ -119,9 +115,7 @@ Rules:
 My Listing Brief:
 [PASTE YOUR LISTING BRIEF HERE]
 ```
-**What good output looks like:**
-
-For a brown suede Topshop jacket, size 10, button front, boxy fit, tag style suggests late 1990s (not confirmed):
+**What good output looks like,** for a brown suede Topshop jacket, size 10, button front, boxy fit, tag style suggests late 1990s (not confirmed):
 
 > 1. Topshop brown suede jacket, size 10, 90s style (46)
 > 2. Brown suede Topshop jacket UK 10, button front (46)
@@ -152,9 +146,7 @@ Rules:
 My Listing Brief:
 [PASTE YOUR LISTING BRIEF HERE]
 ```
-**What good output looks like:**
-
-For a handmade sterling silver stacking ring, hammered finish, thin band, UK sizes J to Q:
+**What good output looks like,** for a handmade sterling silver stacking ring, hammered finish, thin band, UK sizes J to Q:
 
 > 1. Hammered Sterling Silver Stacking Ring, Handmade Thin Band, UK Sizes J to Q (75 characters, 13 words)
 > 2. Sterling Silver Stacking Ring with Hammered Finish, Handmade Thin Band (70 characters, 10 words)
@@ -185,9 +177,7 @@ Rules:
 My Listing Brief:
 [PASTE YOUR LISTING BRIEF HERE]
 ```
-**What good output looks like:**
-
-For an invented "Hartwell Home" set of 4 linen napkins, 45 cm square, sage green, 100% linen, machine washable at 40 degrees, hemmed edges:
+**What good output looks like,** for an invented "Hartwell Home" set of 4 linen napkins, 45 cm square, sage green, 100% linen, machine washable at 40 degrees, hemmed edges:
 
 > - **Title:** Hartwell Home Linen Napkins Set of 4, 45 x 45 cm, Sage Green (60)
 > - **Item Highlights:** 100% linen, machine washable at 40 degrees, hemmed edges (54)
@@ -215,9 +205,7 @@ Rules:
 My Listing Brief:
 [PASTE YOUR LISTING BRIEF HERE]
 ```
-**What good output looks like:**
-
-For an invented "Brookfield" stainless steel insulated water bottle, 750 ml, double wall, matte black:
+**What good output looks like,** for an invented "Brookfield" stainless steel insulated water bottle, 750 ml, double wall, matte black:
 
 > 1. Brookfield 750ml Insulated Water Bottle, Double Wall Stainless Steel, Black (75)
 > 2. Brookfield Water Bottle 750ml, Stainless Steel, Insulated, Matte Black Finish (77)
@@ -247,9 +235,7 @@ Titles:
 My Listing Brief:
 [PASTE YOUR LISTING BRIEF HERE]
 ```
-**What good output looks like:**
-
-For three eBay titles for a Nintendo Switch Lite:
+**What good output looks like,** for three eBay titles for a Nintendo Switch Lite:
 
 > | Title | Count | Matches "switch lite grey" | First 40 clear? | Issues |
 > |---|---|---|---|---|
@@ -280,9 +266,7 @@ My Listing Brief:
 
 UK English. No hype, emoji or exclamation marks.
 ```
-**What good output looks like:**
-
-For "STUNNING!!! Vintage RARE Mulberry Style Leather Purse Bag Bag Brown L@@K" on an unbranded brown leather shoulder bag with a top zip and two handles:
+**What good output looks like,** for "STUNNING!!! Vintage RARE Mulberry Style Leather Purse Bag Bag Brown L@@K" on an unbranded brown leather shoulder bag with a top zip and two handles:
 
 > - **Wrong:** capitals and exclamation marks, "Stunning" and "L@@K" are hype, "Vintage" and "Rare" are not in the brief, "Mulberry Style" names another brand, "Bag" is repeated, "Purse" is a US word here.
 > - **Fixed:** Brown Leather Shoulder Handbag, Top Zip, Two Handles, Unbranded (64)

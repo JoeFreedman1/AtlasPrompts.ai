@@ -67,9 +67,7 @@ Rules:
 My Listing Brief:
 [PASTE YOUR LISTING BRIEF HERE]
 ```
-**What good output looks like:**
-
-For the Next jumper (grey, women's, crew neck, size 12, 60% acrylic and 40% wool, measured, light bobbling under both arms, sent in a postal bag):
+**What good output looks like,** for the Next jumper (grey, women's, crew neck, size 12, 60% acrylic and 40% wool, measured, light bobbling under both arms, sent in a postal bag):
 
 > Next women's grey wool-blend jumper, size 12.
 >
@@ -110,9 +108,7 @@ Rules:
 My Listing Brief:
 [PASTE YOUR LISTING BRIEF HERE]
 ```
-**What good output looks like:**
-
-For black Levi's 501 jeans, W30 L32:
+**What good output looks like,** for black Levi's 501 jeans, W30 L32:
 
 > Black Levi's 501 straight leg jeans, label size W30 L32. Measured flat: waist 39 cm (78 cm doubled), inside leg 81 cm. Good condition: faded to a washed charcoal on both knees (photo 4). No rips or holes. 100% cotton, button fly. Happy to answer questions or send more photos.
 
@@ -143,9 +139,7 @@ Rules:
 My Listing Brief:
 [PASTE YOUR LISTING BRIEF HERE]
 ```
-**What good output looks like:**
-
-For the brown suede Topshop jacket, size 10:
+**What good output looks like,** for the brown suede Topshop jacket, size 10:
 
 > Topshop brown suede jacket, size 10, 90s style
 >
@@ -180,9 +174,7 @@ Rules:
 My Listing Brief:
 [PASTE YOUR LISTING BRIEF HERE]
 ```
-**What good output looks like:**
-
-For a handmade soy wax candle in a 200 ml amber glass jar, fig scent:
+**What good output looks like,** for a handmade soy wax candle in a 200 ml amber glass jar, fig scent:
 
 > A hand-poured soy wax candle in a 200 ml amber glass jar, scented with fig. **Wax:** soy wax blend [CHECK: exact wax from supplier]. **Burn time:** [CHECK: your tested burn time, or leave out]. Made to order, dispatched within 3 working days. **Safety:** never leave a burning candle unattended. [CHECK: the safety and allergen information your fragrance supplier provides]
 
@@ -212,9 +204,7 @@ Rules:
 My Listing Brief:
 [PASTE YOUR LISTING BRIEF HERE]
 ```
-**What good output looks like:**
-
-For the invented "Hartwell Home" linen napkins:
+**What good output looks like,** for the invented "Hartwell Home" linen napkins:
 
 > - SIZE AND SET: Four napkins, each 45 x 45 cm, in sage green.
 > - MATERIAL: 100% linen. Machine washable at 40 degrees.
@@ -245,9 +235,7 @@ Flaws and wear: [LIST EVERY FLAW]
 Tags attached? [YES / NO]
 Used or worn? [HOW OFTEN, IF KNOWN]
 ```
-**What good output looks like:**
-
-For a Nike hoodie with light pilling on the cuffs, a faded and cracked logo print, and a bleach spot on the back, about 4 mm:
+**What good output looks like,** for a Nike hoodie with light pilling on the cuffs, a faded and cracked logo print, and a bleach spot on the back, about 4 mm:
 
 > **Grade:** Good. The bleach spot is a permanent visible mark, so not Very good. **Closest Vinted option:** Good (read Vinted's description first). **Summary:** Light pilling on both cuffs. Logo print faded with fine cracks. One bleach spot on the upper back, about 4 mm, see photo 6.
 
@@ -275,9 +263,7 @@ My flaws, as I wrote them:
 Things I checked and found fine:
 [E.G. NO HOLES, ZIP WORKS, NO ODOUR]
 ```
-**What good output looks like:**
-
-For "mark on the front, bit of fraying at the hem, zip a bit stiff":
+**What good output looks like,** for "mark on the front, bit of fraying at the hem, zip a bit stiff":
 
 > - Pale mark on the front [CHECK: which side, and size in mm]
 > - Light fraying along the bottom hem [CHECK: length in cm]
@@ -359,9 +345,7 @@ Old description:
 My Listing Brief:
 [PASTE YOUR LISTING BRIEF HERE]
 ```
-**What good output looks like:**
-
-Old: "OMG this gorgeous vintage sweater is a MUST HAVE!! Timeless piece in amazing condition, perfect color for fall. Fits true to size!"
+**What good output looks like,** Old: "OMG this gorgeous vintage sweater is a MUST HAVE!! Timeless piece in amazing condition, perfect color for fall. Fits true to size!"
 
 > **Rewrite:** Cream cable knit jumper, size M on label. Measured flat: pit to pit 55 cm, length 66 cm. Very good condition, light bobbling under the arms. [CHECK: fabric from the care label]
 >

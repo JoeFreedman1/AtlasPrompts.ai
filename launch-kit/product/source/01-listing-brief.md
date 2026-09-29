@@ -153,9 +153,7 @@ Rules:
 My notes:
 [PASTE YOUR NOTES HERE]
 ```
-**What good output looks like:**
-
-For the notes "grey next jumper sz12 wool mix, bit bobbly under arms, vinted, want 12 quid":
+**What good output looks like,** for the notes "grey next jumper sz12 wool mix, bit bobbly under arms, vinted, want 12 quid":
 
 > - **What it is:** Jumper. **Brand:** Next. **Size:** 12. **Colour:** Grey.
 > - **Model or style:** [CHECK: crew neck, V-neck or roll neck?]
@@ -185,9 +183,7 @@ Rules:
 Transcript:
 [PASTE TRANSCRIPT HERE]
 ```
-**What good output looks like:**
-
-For "it's a Dualit toaster, um, four slice, cream, works fine, I did two rounds of toast, there's a little dent on the back, no, the side, left side":
+**What good output looks like,** for "it's a Dualit toaster, um, four slice, cream, works fine, I did two rounds of toast, there's a little dent on the back, no, the side, left side":
 
 > - **What it is:** Four-slice toaster
 > - **Brand:** Dualit [CHECK: model number from the base label]
@@ -241,9 +237,7 @@ Do not write the listing. Do not invent answers. UK English, short lines.
 My Listing Brief:
 [PASTE YOUR LISTING BRIEF HERE]
 ```
-**What good output looks like:**
-
-For Levi's 501 jeans on eBay UK:
+**What good output looks like,** for Levi's 501 jeans on eBay UK:
 
 > | Question | Answered? | What to do |
 > |---|---|---|
@@ -316,9 +310,7 @@ UK English, short bullet points. Do not invent facts to fix problems. Ask me ins
 My Listing Brief:
 [PASTE YOUR LISTING BRIEF HERE]
 ```
-**What good output looks like:**
-
-For a Radley handbag:
+**What good output looks like,** for a Radley handbag:
 
 > - **Contradiction:** condition "Excellent" but "corners rubbed through to the lining". That is nearer Good or Fair.
 > - **Risky claim:** "100% genuine": only with proof (receipt, bought from the brand). Otherwise state the brand and show the labels.

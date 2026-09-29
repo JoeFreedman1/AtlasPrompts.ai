@@ -32,9 +32,7 @@ My answers:
 
 It must include these fixed rules: UK English, UK sizes and £. Only facts from each Listing Brief; never invent brand, size, material, measurements, age, condition or contents. Missing facts become [CHECK: what is missing]. eBay UK titles 80 characters or fewer. State flaws clearly. No hype, keyword stuffing, misleading or health claims, fake urgency, other platform names, or payment outside the platform.
 ```
-**What good output looks like:**
-
-For a private seller on Vinted and eBay UK:
+**What good output looks like,** for a private seller on Vinted and eBay UK:
 
 > You are my listing assistant for a UK shop.
 > 1. I am a private seller on Vinted and eBay UK, mainly women's clothing, UK sizes 8 to 18.
@@ -66,9 +64,7 @@ Reply "Ready for ITEM 1" and nothing else.
 ```
 Then paste each brief starting with ITEM 1, ITEM 2 and so on.
 
-**What good output looks like:**
-
-For ITEM 3 on eBay UK: "Joules women's quilted gilet, navy, size 12, zip front, 2 zip pockets, light pilling on inside collar, pre-owned, good":
+**What good output looks like,** for ITEM 3 on eBay UK: "Joules women's quilted gilet, navy, size 12, zip front, 2 zip pockets, light pilling on inside collar, pre-owned, good":
 
 > - **Title:** Joules Womens Navy Quilted Gilet Size 12 Full Zip Two Zip Pockets (65)
 > - **Description:** Navy quilted gilet from Joules, women's size 12. Full zip front and two zip pockets. Pre-owned, good: light pilling on the inside collar (see photos). Measurements: pit to pit [CHECK: cm], length [CHECK: cm].
@@ -208,9 +204,7 @@ My Listing Brief:
 ```
 For Amazon UK or TikTok Shop UK, use A5 or A6 in Module 00 with the same facts.
 
-**What good output looks like:**
-
-For a Levi's denim jacket, size M, mid-wash, small fade at the left cuff, care label dated 1996, first written for eBay UK:
+**What good output looks like,** for a Levi's denim jacket, size M, mid-wash, small fade at the left cuff, care label dated 1996, first written for eBay UK:
 
 > **Depop.** Vintage 1996 Levi's denim jacket, size M, mid-wash. Small fade at the left cuff (see photos). Pit to pit 56 cm, length 62 cm. #vintagelevis #denimjacket #90svintage #levisjacket #midwash
 

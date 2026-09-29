@@ -32,9 +32,7 @@ My Listing Brief:
 My listing (title, description, specifics or tags, condition, price, postage):
 [PASTE YOUR LISTING HERE]
 ```
-**What good output looks like:**
-
-For the Next jumper:
+**What good output looks like,** for the Next jumper:
 
 > 1. **Must fix:** listing says "100% wool". The brief says 60% acrylic, 40% wool.
 > 2. **Must fix:** the bobbling under the arms is missing from the description.
@@ -71,9 +69,7 @@ My Listing Brief:
 My listing (title, specifics, condition, description, photos in a line each, price, postage, returns):
 [PASTE YOUR LISTING HERE]
 ```
-**What good output looks like:**
-
-For Clarks black leather Chelsea boots, UK 6:
+**What good output looks like,** for Clarks black leather Chelsea boots, UK 6:
 
 > 1. **Must fix:** title is 86 characters. Remove the "Womens Ladies" repeat: 74.
 > 2. **Must fix:** "Dr Martens style" in the description. These are Clarks: remove it.
@@ -106,9 +102,7 @@ My Listing Brief:
 My listing (title, description, fields, photos in a line each, price):
 [PASTE YOUR LISTING HERE]
 ```
-**What good output looks like:**
-
-For a cream Zara linen shirt, size S, faint mark on the left cuff:
+**What good output looks like,** for a cream Zara linen shirt, size S, faint mark on the left cuff:
 
 > 1. **Must fix:** no photo of the cuff mark. Add one.
 > 2. **Should fix:** condition "Very good", but there is a mark. "Good" fits the brief better.
@@ -141,9 +135,7 @@ My Listing Brief:
 My listing (description with hashtags, fields, photos in a line each, price):
 [PASTE YOUR LISTING HERE]
 ```
-**What good output looks like:**
-
-For Levi's 501 jeans, W30 L32, light fading on the knees:
+**What good output looks like,** for Levi's 501 jeans, W30 L32, light fading on the knees:
 
 > 1. **Must fix:** 8 hashtags (limit 5), and #wranglerstyle names another brand.
 > 2. **Should fix:** the fading is only called "character". Say "light fading on both knees".
@@ -177,9 +169,7 @@ My Listing Brief:
 My listing (title, tags, description, item type, materials, photos in a line each, price, returns):
 [PASTE YOUR LISTING HERE]
 ```
-**What good output looks like:**
-
-For a handmade speckled blue ceramic mug:
+**What good output looks like,** for a handmade speckled blue ceramic mug:
 
 > 1. **Must fix:** "eco-friendly glaze" has no evidence in the brief. Remove, or state the specific fact.
 > 2. **Should fix:** tag "handmade ceramic coffee mug" is 27 characters. Limit 20.
@@ -214,9 +204,7 @@ My Listing Brief:
 My listing (title, Item Highlights, bullets, description, search terms, images in a line each):
 [PASTE YOUR LISTING HERE]
 ```
-**What good output looks like:**
-
-For an own-brand "Oakden Home" bamboo chopping board set of 3:
+**What good output looks like,** for an own-brand "Oakden Home" bamboo chopping board set of 3:
 
 > 1. **Must fix:** title is 118 characters and "board" appears three times. Suggested: "Oakden Home Bamboo Chopping Board Set of 3, Small Medium Large" (62).
 > 2. **Must fix:** "antibacterial" has no evidence in the brief. Remove.
@@ -248,9 +236,7 @@ My Listing Brief:
 My title, description, images in a line each, and any video script:
 [PASTE YOUR LISTING HERE]
 ```
-**What good output looks like:**
-
-For an own-brand lavender and shea hand balm, 50 ml:
+**What good output looks like,** for an own-brand lavender and shea hand balm, 50 ml:
 
 > 1. **Must fix:** "soothes eczema" and "helps you sleep" are health claims. Remove.
 > 2. **Should fix:** "Hand Balm!! 20% OFF" has symbols and a promotion. Suggested: "Lavender and Shea Butter Hand Balm 50 ml" (40).
@@ -283,9 +269,7 @@ My Listing Brief:
 My listing:
 [PASTE YOUR LISTING HERE]
 ```
-**What good output looks like:**
-
-For second-hand Joules wellies, UK 5, small scuff on the left toe:
+**What good output looks like,** for second-hand Joules wellies, UK 5, small scuff on the left toe:
 
 > | Claim | Type | Rating | Safer wording |
 > |---|---|---|---|
@@ -337,9 +321,7 @@ My wording:
 
 UK English. Never suggest wording that denies legal rights. Tell me to check gov.uk, Citizens Advice and the platform's help pages.
 ```
-**What good output looks like:**
-
-For a seller who buys at car boots to resell on eBay, with "Sold as seen. No returns, no refunds.":
+**What good output looks like,** for a seller who buys at car boots to resell on eBay, with "Sold as seen. No returns, no refunds.":
 
 > 1. **Status:** buying to resell suggests you are likely a trader.
 > 2. **Must fix:** this tries to remove rights a trader cannot remove.

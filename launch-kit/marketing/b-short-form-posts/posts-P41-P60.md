@@ -432,7 +432,7 @@ The Well Listed Kit: link in bio
 
 ### Caption
 ```text
-Sealed, opened or loose: the same LEGO set sells at different prices in each state, so mixing them up skews the answer. Let AI do the maths, but only on matching prices you found yourself.
+Sealed, opened or loose: the same LEGO set sells at different prices in each state. Let AI do the maths on matching prices you found yourself.
 
 The method (example item: a boxed, complete, opened LEGO City set with instructions):
 1. Search the set on eBay and turn on the "Sold items" filter.
@@ -440,7 +440,7 @@ The method (example item: a boxed, complete, opened LEGO City set with instructi
 3. Paste them into our "tidy my comps" prompt. It marks each as a good, partial or poor match. Sealed and loose sets get dropped.
 4. Paste the good matches into the pricing prompt for a range, median, list price and floor, with the working shown.
 
-No scraping tools, no guesses, and no promise that it sells at that price. Buyers decide that.
+No scraping tools, no guesses, and no promise that it sells at that price.
 
 Both prompts are in The Well Listed Kit (link in bio). Figures in the video are invented for illustration.
 ```
