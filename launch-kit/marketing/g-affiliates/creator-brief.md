@@ -16,7 +16,7 @@ Every prompt tells the AI to use UK English, stick to the facts given, and write
 - **Price:** £19, one-off payment, no subscription (£12 during the first 14 days of launch only).
 - **Refund:** 30 days, no fuss.
 - **Sold through:** Gumroad.
-- **Free taster:** The UK Listing Cheat Sheet (free, by email sign-up).
+- **Free taster:** The UK Listing Cheat Sheet (free direct download, no sign-up).
 
 ## What we would love you to make
 

@@ -17,7 +17,7 @@ Well Listed sells **The Well Listed Kit**, a £19 digital download (launch price
 - The business is completely separate from the owner. **Never use the owner's name, face, voice, handwriting, home, or personal accounts** anywhere: content, pages, emails, commits to content files, metadata.
 - All content works without a person on camera: text-on-screen slideshows, carousels, screen recordings (with account names blurred), licence-free stock footage without "us", simple graphics, AI text-to-speech voiceover (never a voice clone), Pinterest, blog posts and email.
 - The brand speaks as "we". No founder story. Sign-off: "The Well Listed team".
-- The owner trades as a **sole trader** under the brand name Well Listed. Their legal name and address appear **only** on the terms and privacy pages, as `[LEGAL NAME]` and `[ADDRESS]`, which the owner fills in themselves in `launch-kit/sales-site/placeholders.json`. Never in the brand, social bios, posts, emails, product or sales page body (see `launch-kit/ASSUMPTIONS.md` point 12). The automatic checker flags possible owner identifiers without storing them, and the site build warns if the name or address leaks beyond those two pages.
+- The owner trades as a **sole trader** under the brand name Well Listed. **Their name and address must never appear anywhere in the site or the repo** (owner's decision, 30 September 2026). All sales go through Gumroad as merchant of record; the contact is `hello.welllisted@gmail.com`. The site collects no personal data: no forms, accounts, analytics or tracking cookies (see `launch-kit/ASSUMPTIONS.md` point 12). The automatic checker flags possible owner identifiers without storing them.
 
 ## Brand guide (short version; full version in `launch-kit/01-brief/BRAND-GUIDE.md`)
 - **Voice:** plain, practical, seller to seller, dry British warmth, honest. No hype. Banned words include hustle, grind, passive income, guru, secret, game-changer, unlock, skyrocket, insane.
@@ -36,7 +36,7 @@ Well Listed sells **The Well Listed Kit**, a £19 digital download (launch price
 8. Work on a branch, commit after each meaningful step, open pull requests, and never merge unless the owner asks.
 9. Where tasks are independent (posts, articles, emails, ads), subagents may work in parallel, and every subagent's output goes through the quality check.
 10. **No tax rules anywhere.** Never state tax rules, thresholds or HMRC figures in content, the product or docs. Tax questions point to gov.uk (search "selling online tax" or "working for yourself") or an accountant. Gumroad handles UK and EU VAT on its sales.
-11. **Sole trader, £0 budget** (owner's decisions). No limited company. Only free plans: Gumroad, Netlify, MailerLite free, free social accounts, free content tools. No paid tools, domain or ads in the launch plan; paid ads are for later, only once money kept from sales covers the test budget.
+11. **Sole trader, £0 budget** (owner's decisions). No limited company. Only free plans: Gumroad, Netlify, free social accounts, free content tools (no email tool at launch). No paid tools, domain or ads in the launch plan; paid ads are for later, only once money kept from sales covers the test budget.
 12. Facts that change (fees, character limits, rules) must come from `launch-kit/research/platform-rules-uk.md` or `launch-kit/research/tools-and-fees.md`, and be phrased with "check the current rule" where not verified. Web research was limited overnight (search budget ran out, many sites blocked); many facts there are marked NOT VERIFIED.
 
 ## What has been built (all in `launch-kit/` unless stated)
@@ -49,7 +49,7 @@ Well Listed sells **The Well Listed Kit**, a £19 digital download (launch price
 | The product: markdown source modules 00 to 12, templates, build script, critique log | `product/source/`, `product/templates/`, `product/build.py`, `product/CRITIQUE.md` |
 | The product as sold (PDF, prompt library, prompt text file, zip for Gumroad) | `product/dist/` (rebuild with `python3 launch-kit/product/build.py`) |
 | Sales pages A and B, privacy and terms, lead magnet, deploy guide, logo and Gumroad cover | `sales-site/` (`sales-site/README.md` explains placeholders; images in `sales-site/brand-assets/`) |
-| Ready-to-deploy Netlify folder (built from the above plus the blog) | `sales-site/netlify-site/` (rebuild with `python3 launch-kit/tools/build_site.py`) |
+| The built site Netlify publishes (from the above plus the blog) | `sales-site/netlify-site/` (rebuild with `python3 launch-kit/tools/build_site.py`; published via `netlify.toml` at the repo root) |
 | 30-day content calendar | `marketing/a-content-calendar/calendar.csv` |
 | 60 faceless short-form posts (P01 to P60) and their plan and format | `marketing/b-short-form-posts/`, `marketing/POST-PLAN.md`, `marketing/POST-FORMAT.md` |
 | Ready-to-upload images for all 60 posts and 30 pins, each with caption.txt, plus a zip of days 1 to 14 | `marketing/ready-to-post/` (rebuild with `python3 launch-kit/tools/build_post_images.py`) |
@@ -64,7 +64,7 @@ Well Listed sells **The Well Listed Kit**, a £19 digital download (launch price
 | Money: prices, fees, profit per sale, break-even, scenarios, daily numbers | `MONEY.md` |
 | Stop, keep, scale rules | `STOP-KEEP-SCALE.md` |
 | Daily 30-minute routine, weekly review, first 14 days of posts | `ROUTINE.md` |
-| Owner's launch checklist (one session, 80 minutes, £0; step 7 hands over to Claude to deploy the site to Netlify) | `LAUNCH.md` |
+| Owner's launch checklist (one session, 67 minutes, £0; Netlify deploys from the repo) | `LAUNCH.md` |
 | Every launch-day value in copy boxes (owner only: contains GitHub download links) | `LAUNCH-COPY-PASTE.md` |
 | Growth plan (next products, prices, affiliates, ads) | `GROWTH.md` |
 | Quality checklist | `QUALITY-CHECKLIST.md` |
@@ -79,14 +79,13 @@ Well Listed sells **The Well Listed Kit**, a £19 digital download (launch price
 The older **Atlas Prompts** website in `public/` and `css/` is unrelated to Well Listed. Leave it alone and never link the two.
 
 ## What is live
-Nothing yet, as of the overnight build. `STATE.md` holds the truth: launch date, links, price, and what is live. Always read it before acting.
+Launch day was 30 September 2026. Gumroad is live at https://welllisted.gumroad.com/l/well-listed-kit and the site is https://well-listed.netlify.app. `STATE.md` holds the truth: launch date, links, price, and what is live. Always read it before acting.
 
 **Which branch:** everything is on `main` (merged at the owner's request on 30 September 2026). Work on a new branch for changes and open a pull request, unless the owner asks for a direct push to main.
 
 ## How to do common jobs
 - **Rebuild everything after edits:** `python3 launch-kit/product/build.py && python3 launch-kit/tools/build_site.py && python3 launch-kit/tools/build_dashboard.py && python3 launch-kit/tools/check_content.py`
-- **Fill in or change the sales site:** put the values in `launch-kit/sales-site/placeholders.json` (never edit `netlify-site/` by hand), run `python3 launch-kit/tools/build_site.py`, which rebuilds `launch-kit/sales-site/netlify-site/`, then commit and push. The owner downloads the repo ZIP and drags the `netlify-site` folder onto Netlify. Details: `launch-kit/sales-site/README.md`.
-- **Deploy to Netlify (LAUNCH.md step 7 handover):** when the owner asks, set `launch_date` (YYYY-MM-DD, today) in `launch-kit/sales-site/placeholders.json`, check `GUMROAD_PRODUCT_LINK`, `LEGAL NAME` and `ADDRESS` are filled, run `python3 launch-kit/tools/build_site.py` (it works out the launch end date and page dates), and deploy `launch-kit/sales-site/netlify-site/` with the Netlify connector. If the live address is not `https://well-listed.netlify.app`, update `site_url`, rebuild and redeploy. The sign-up form uses Netlify Forms (`data-netlify`), so no embed code is needed. Record the launch date, links and address in STATE.md. Deploying is the one publishing step the owner has asked Claude to do.
+- **Change the sales site:** edit the sources in `launch-kit/sales-site/` or `placeholders.json` (never edit `netlify-site/` by hand), run `python3 launch-kit/tools/build_site.py`, then commit and push to `main`. Netlify is connected to the repo and redeploys automatically, but only when `launch-kit/sales-site/netlify-site/` changes (`netlify.toml` at the repo root). Each deploy uses Netlify free credits, so batch changes. Never add a form, analytics or anything that collects personal data without the owner's approval and a rewritten privacy page. Details: `launch-kit/sales-site/README.md`.
 - **Day 15 price switch:** see the key dates table in `OPERATOR.md` (£12 ends 11:59pm on day 14; pages switch to £19 on day 15).
 - **Add new posts:** follow `launch-kit/marketing/POST-FORMAT.md` exactly (the dashboard parses it), continue IDs from the highest, add rows to `launch-kit/marketing/a-content-calendar/calendar.csv`.
 - **Launch checklist edits:** every step in `launch-kit/LAUNCH.md` must keep the exact form `N. **Title (N min).**` because the dashboard script reads it, and the steps must total under 90 minutes in one session.

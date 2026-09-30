@@ -24,7 +24,7 @@ Everything here is planning maths, not a forecast or a promise. Fee figures come
 |---|---|
 | Gumroad account (fees are only taken when a sale happens) | £0 |
 | Netlify hosting (free plan, free `.netlify.app` address) | £0 |
-| Sign-up form: Netlify Forms (free and unlimited on the free plan, verified 30 September 2026). If MailerLite is ever used: free up to 250 subscribers and 2,500 emails a month since 1 July 2026 | £0 |
+| Email sign-up: none (the cheat sheet is a direct download, so no email tool is needed). If one is ever added: MailerLite is free up to 250 subscribers and 2,500 emails a month since 1 July 2026 | £0 |
 | Brand email address (free Gmail or Outlook) | £0 |
 | Social accounts (TikTok, Instagram, YouTube, Pinterest) | £0 |
 | Canva free, CapCut free, free AI chat tools | £0 |
@@ -86,8 +86,8 @@ Refunds come out of the balance, so allow one or two more. In the "bad" scenario
 
 | | What it looks like | By day 30 | By day 60 | By day 90 |
 |---|---|---|---|---|
-| **Bad** | Posts get a few hundred views each, nothing takes off, a handful of sign-ups a week | 2 sales, about **£26** | 6 sales, about **£90** | 12 sales, about **£185** |
-| **Okay** | A few posts reach a few thousand views, Pinterest and blog start to bring a trickle, a steady flow of sign-ups | 10 sales, about **£129** | 35 sales, about **£528** | 80 sales, about **£1,246** |
+| **Bad** | Posts get a few hundred views each, nothing takes off, a handful of site visits a day | 2 sales, about **£26** | 6 sales, about **£90** | 12 sales, about **£185** |
+| **Okay** | A few posts reach a few thousand views, Pinterest and blog start to bring a trickle of visitors | 10 sales, about **£129** | 35 sales, about **£528** | 80 sales, about **£1,246** |
 | **Good** | One or two formats clearly work and get repeated, the email list converts, a creator or two shares it | 30 sales, about **£387** | 100 sales, about **£1,504** | 220 sales, about **£3,418** |
 
 What moves you from bad to okay: posting every day for the full 30 days, repeating what works (the stop, keep, scale rules), and building the email list. What moves you from okay to good is usually one repeatable winning format plus word of mouth from real buyers.
@@ -98,7 +98,7 @@ Paid ads are not part of these scenarios. They are for later, only once money ke
 
 1. **Sales yesterday** (and money kept after fees). Gumroad dashboard.
 2. **Checkout conversion:** Gumroad product page views, and what share became sales (7-day). Tells you whether the offer and price work.
-3. **Email sign-ups yesterday.** MailerLite. This is your future sales pipeline.
+3. **Pinterest outbound clicks yesterday.** Pinterest analytics. There is no email sign-up (the cheat sheet is a direct download), so this and bio link clicks show whether content sends people to the site.
 4. **Bio link clicks and site visitors.** TikTok and Instagram analytics or your link tool. Tells you whether content is sending people anywhere.
 5. **Best post's views against your usual (baseline).** Tells you what to make more of. (Later, if ads ever run, swap this for **ad cost per sale**.)
 

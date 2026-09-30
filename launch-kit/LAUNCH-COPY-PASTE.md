@@ -2,9 +2,9 @@
 
 Every value you need during `LAUNCH.md`, in the order you need it. Each value is in its own box: press the copy button on the box (on GitHub it appears at the top right of the box when you hover or tap), then paste.
 
-**This file is for you only.** The download links contain your GitHub username, so never share this file or paste these links anywhere public. Nothing here contains your legal name or address: those go only into `placeholders.json` for the terms and privacy pages (LAUNCH.md step 4).
+**This file is for you only.** The download links contain your GitHub username, so never share this file or paste these links anywhere public. Nothing here contains your name or address, and neither does the site.
 
-**Welcome emails are off (option a).** The sign-up form uses Netlify's free forms and opens the cheat sheet straight away, so there is no MailerLite set-up at launch. Nothing in this file needs your postal address.
+**There is no email sign-up.** The free cheat sheet is a direct download and the site collects no personal data, so there is no MailerLite set-up.
 
 ---
 
@@ -196,12 +196,17 @@ https://github.com/JoeFreedman1/AtlasPrompts.ai/raw/main/launch-kit/sales-site/b
 
 ---
 
-## Step 7: handover to Claude
+## Netlify (connect the repo)
 
-The message to send Claude:
+Site name:
 ```text
-We launch today. Deploy the Well Listed site to Netlify with the site name well-listed. I have filled in my legal name, address and the Gumroad link in placeholders.json.
+well-listed
 ```
+Branch to deploy:
+```text
+main
+```
+Leave the build command empty and the publish folder as it comes from `netlify.toml` (`launch-kit/sales-site/netlify-site`).
 
 ---
 
@@ -217,7 +222,7 @@ Display name on every account:
 Well Listed
 ```
 
-Website link for every account (the planned Netlify address; use the one Claude gives you in step 7 if it differs):
+Website link for every account:
 ```text
 https://well-listed.netlify.app
 ```

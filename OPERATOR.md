@@ -26,7 +26,7 @@ You are the daily operator for **Well Listed**, a faceless UK digital-product bu
 | 7 | Launch email L1 (about 7:30pm). First weekly review (`launch-kit/ROUTINE.md`) |
 | 12 | Launch email L2 (about 7:30pm), which says the launch price ends in 2 days |
 | 14 | Launch email L3 by 10am. Remind the owner: change the Gumroad price to £19 **after 11:59pm tonight** (or first thing tomorrow), never earlier. Weekly review tonight |
-| 15 | Full price day. You: switch both sales pages (`launch-kit/sales-site/version-a.html` and `version-b.html`) from £12 to £19 (hero button, price box, buy buttons, sticky bar, meta description; remove the launch price note, following `launch-kit/sales-site/README.md`, "After launch"), run `python3 launch-kit/tools/build_site.py`, update STATE.md ("Current price" to "£19 full price since day 15"), commit and push. Owner: check Gumroad shows £19, ask Claude to redeploy the site to Netlify with the Netlify connector (or download a fresh ZIP and drag `netlify-site` onto Netlify) (about 15 minutes). The optional ad test may start on Meta (see `launch-kit/marketing/f-paid-ads/test-plan.md`) |
+| 15 | Full price day. You: switch both sales pages (`launch-kit/sales-site/version-a.html` and `version-b.html`) from £12 to £19 (hero button, price box, buy buttons, sticky bar, meta description; remove the launch price note, following `launch-kit/sales-site/README.md`, "Day 15"), run `python3 launch-kit/tools/build_site.py`, update STATE.md ("Current price" to "£19 full price since day 15"), commit and push. Owner: check Gumroad shows £19. Netlify redeploys by itself once the change is pushed to `main`. No ads: they only start once money kept from sales covers the test budget |
 | 21, 28, ... | Weekly review (every 7th day) |
 | 30 | Build the next 30 days (Step 4) |
 
@@ -38,9 +38,9 @@ Blog days (1, 3, 6, 9, 12, 15, 18, 21, 24, 27): all articles are already live on
 3. Calculate and write down:
    - Sales yesterday, last 7 days, and total to date. Revenue after fees (use the fee maths in `launch-kit/MONEY.md`).
    - Checkout conversion: sales divided by checkout page views (7-day).
-   - Email sign-ups per day (7-day average) and sign-up rate if site visitors are known.
+   - Bio link clicks and Pinterest outbound clicks (7-day). There is no email sign-up: the cheat sheet is a direct download.
    - Views per post by platform (7-day median) and which posts beat the median.
-   - Ad numbers if running: spend, link CTR, cost per click, cost per landing page view, cost per sign-up, cost per sale.
+   - Ad numbers if running: spend, link CTR, cost per click, cost per landing page view, cost per sale.
 
 ### Step 3. Decide what is working (5 minutes)
 Apply the rules in `launch-kit/STOP-KEEP-SCALE.md` exactly (remember: days 1 to 14, never STOP anything, only SCALE). For every organic format, every post from the last 7 days, every ad and the sales page, label it **STOP**, **KEEP** or **SCALE** with a one-line reason using the numbers. Never make decisions on fewer data points than the rules require: say "too early to call" instead.

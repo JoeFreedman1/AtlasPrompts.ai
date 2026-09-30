@@ -27,7 +27,7 @@ Never delete underperforming posts (it can look odd and does not help). Just sto
 
 | Signal | Minimum data before deciding | Rule |
 |---|---|---|
-| Email sign-up rate (sign-ups divided by site visitors) | 200 visitors | Under **3%**: switch the page to the other version (A or B) for the next 200 visitors. **3% to 8%**: KEEP and leave it alone. Over **8%**: KEEP the page |
+| Visits to the sales page (only if free analytics is added later) | 200 visitors | There is no email sign-up (the cheat sheet is a direct download), so judge the page on checkout conversion below |
 | Checkout (Gumroad page views to sales) | 100 checkout page views | 0 sales: check the Gumroad page works on a phone, then test the other sales page version. Under **2%**: test a new headline on the Gumroad page. Over **5%**: SCALE traffic (more posts pointing to the kit, consider ads) |
 | Welcome email opens | 50 subscribers | Under **30%** opens: test new subject lines for emails 1 and 2 |
 | Welcome email clicks | 50 subscribers | Under **2%** clicks on the kit link: make the kit mention clearer and earlier in emails 4 to 6 |

@@ -24,7 +24,7 @@ Two routines: **30 minutes every day** and **1 hour once a week**. The daily ope
 | Minutes | What you do |
 |---|---|
 | 0 to 10 | Make sure all 7 days of numbers are in `metrics/`. Fill any gaps |
-| 10 to 25 | Ask Claude: **"Run the weekly review from ROUTINE.md"**. It will: total the week (sales, money kept, sign-ups, views per platform), compare with last week, label every format, post and ad STOP, KEEP or SCALE (`STOP-KEEP-SCALE.md`), and list the 3 best and 3 worst posts with a reason for each |
+| 10 to 25 | Ask Claude: **"Run the weekly review from ROUTINE.md"**. It will: total the week (sales, money kept, clicks, views per platform), compare with last week, label every format, post and ad STOP, KEEP or SCALE (`STOP-KEEP-SCALE.md`), and list the 3 best and 3 worst posts with a reason for each |
 | 25 to 40 | Decide the 3 changes for next week (for example: 2 new variations of the best post, drop one weak format on one platform, test a new hook style). Claude writes any new posts and updates the calendar |
 | 40 to 50 | Read every buyer email, refund reason and comment question from the week. Anything that shows confusion becomes a product fix, an FAQ line or a post |
 | 50 to 55 | Check the money: spend so far versus the ad cap in STATE.md, and whether any price change is due (only per the rules) |

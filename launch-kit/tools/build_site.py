@@ -255,11 +255,7 @@ def main():
             write(os.path.join(OUT, name), fill(read(os.path.join(SITE, name)), ph))
     items = build_blog(ph, site_url)
     build_lead_magnet(ph)
-    thanks = """<h1>Thank you</h1><p>Your free UK Listing Cheat Sheet is ready.</p>
-<p><a class="btn" href="/free/uk-listing-cheat-sheet.pdf">Download the cheat sheet (PDF)</a></p>
-<p>Prefer to read it on screen? <a href="/free/uk-listing-cheat-sheet.html">Open the web version</a>.</p>
-<p>When you want every prompt, template and checklist in one place, <a href="/#buy">see The Well Listed Kit</a>. Or browse our <a href="/blog/">free guides</a>.</p>"""
-    write(os.path.join(OUT, "free", "thanks.html"), page("Your cheat sheet | Well Listed", "Download the free UK Listing Cheat Sheet.", thanks).replace("<head>", '<head><meta name="robots" content="noindex">', 1))
+    # no sign-up form: the cheat sheet is a direct download, so there is no thanks page
     build_og_image()
     write(os.path.join(OUT, "robots.txt"), "User-agent: *\nAllow: /\n" + ("Sitemap: %s/sitemap.xml\n" % site_url.rstrip("/") if site_url else ""))
     if site_url:
@@ -269,7 +265,7 @@ def main():
             "<url><loc>%s%s</loc><lastmod>%s</lastmod></url>\n" % (site_url.rstrip("/"), u, today) for u in urls) + "</urlset>\n"
         write(os.path.join(OUT, "sitemap.xml"), xml)
     build_brand_assets()
-    # the owner's legal name and address may appear ONLY on terms.html and privacy.html
+    # no personal details of the owner may appear anywhere in the site
     for key in ("LEGAL NAME", "ADDRESS"):
         val = (ph.get(key) or "").strip()
         if not val:

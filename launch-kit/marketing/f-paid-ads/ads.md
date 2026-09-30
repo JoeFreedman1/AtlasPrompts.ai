@@ -2,6 +2,8 @@
 
 > **LATER, ONLY ONCE SALES COVER IT.** The launch budget is £0. Do not run any of these ads until the money kept from sales (after Gumroad's fees) covers the whole test budget of about £70 per fortnight. Until then, organic posting only.
 
+> **No sign-up form any more (30 September 2026):** the cheat sheet is a direct download and the site collects no personal data, so any sign-up counting below does not apply. Judge cheat sheet ads on cost per landing page view only, or run kit ads and count sales.
+
 
 A01 to A10 are for **TikTok**. A11 to A20 are for **Meta** (Facebook and Instagram, placements: Feed, Stories and Reels).
 

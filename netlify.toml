@@ -1,0 +1,9 @@
+# Netlify settings for the Well Listed site (https://well-listed.netlify.app).
+# The site is already built into this folder by launch-kit/tools/build_site.py,
+# so Netlify only publishes it: no build command.
+[build]
+  publish = "launch-kit/sales-site/netlify-site"
+  command = ""
+  # Only deploy when something inside the site folder changed.
+  # Netlify skips the deploy when this command exits with 0 (no changes).
+  ignore = "git diff --quiet $CACHED_COMMIT_REF $COMMIT_REF -- launch-kit/sales-site/netlify-site/"

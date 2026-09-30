@@ -1,14 +1,12 @@
 {
-  "_help": "Only GUMROAD_PRODUCT_LINK, LEGAL NAME and ADDRESS are left for the owner. LEGAL NAME and ADDRESS appear ONLY on the terms and privacy pages. launch_date (YYYY-MM-DD) is set by Claude on deploy day; the launch end date and page dates are worked out from it. site_url and BRAND_EMAIL are pre-filled with the planned values: change them if the real ones differ. Never put passwords here.",
+  "_help": "All values are filled. launch_date (YYYY-MM-DD) is day 1; the launch end date (day 14) and page dates are worked out from it by tools/build_site.py. No personal details belong in this file or anywhere in the site. Never put passwords here.",
   "live_version": "A",
   "site_url": "https://well-listed.netlify.app",
-  "GUMROAD_PRODUCT_LINK": "",
+  "GUMROAD_PRODUCT_LINK": "https://welllisted.gumroad.com/l/well-listed-kit",
   "LAUNCH END DATE": "",
   "BRAND_EMAIL": "hello.welllisted@gmail.com",
-  "LEGAL NAME": "",
-  "ADDRESS": "",
   "DATE": "",
   "SALES_PAGE_URL": "",
   "CHEAT_SHEET_LINK": "",
-  "launch_date": ""
+  "launch_date": "2026-09-30"
 }

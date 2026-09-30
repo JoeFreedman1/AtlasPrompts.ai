@@ -12,8 +12,8 @@ The easiest way on a phone: open the CSV in the GitHub app or website, tap edit,
 | `refunds_count` | Refunds issued | Gumroad: Sales, filter "Refunded" |
 | `checkout_page_views` | Views of the Gumroad product page | Gumroad Analytics, "Views" |
 | `site_visitors` | Visitors to the sales page | Your free site analytics (see note below). Leave blank if none set up |
-| `email_signups_today` | New subscribers from the free cheat sheet | MailerLite: Subscribers, or the form's stats |
-| `email_subscribers_total` | Total active subscribers | MailerLite dashboard |
+| `email_signups_today` | Leave blank. There is no email sign-up: the cheat sheet is a direct download. The column stays so the file layout never changes | |
+| `email_subscribers_total` | Leave blank (as above) | |
 | `tiktok_views` | Total video views yesterday | TikTok app: Profile, menu, TikTok Studio (or Business Suite), Analytics, Overview, set to yesterday. Analytics must be switched on with a Business account |
 | `tiktok_profile_views` | People who visited the profile | Same TikTok Analytics screen |
 | `tiktok_followers` | Follower total | TikTok profile |
@@ -35,4 +35,4 @@ The easiest way on a phone: open the CSV in the GitHub app or website, tap edit,
 
 **If you ever run ads on both TikTok and Meta on the same day** (the test plan runs one platform at a time, Meta first, so this should be rare), add two rows with the same date, one per platform, and put the non-ad numbers only on the first row.
 
-**Free site analytics:** Netlify's own analytics is a paid add-on. Free options are Cloudflare Web Analytics or GoatCounter (both need a free account, which you create yourself, then paste their small tracking snippet where the sales page says `<!-- ANALYTICS SNIPPET -->`). This is optional in week 1: Gumroad views and email sign-ups are enough to start.
+**Free site analytics:** Netlify's own analytics is a paid add-on. Free options are Cloudflare Web Analytics or GoatCounter (both need a free account, which you create yourself, then paste their small tracking snippet where the sales page says `<!-- ANALYTICS SNIPPET -->`). Adding one needs the privacy page rewritten first, because the site currently collects no personal data. Optional: Gumroad views and bio link clicks are enough to start.

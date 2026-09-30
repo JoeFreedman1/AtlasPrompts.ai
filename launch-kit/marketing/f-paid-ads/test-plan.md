@@ -2,6 +2,8 @@
 
 > **LATER, ONLY ONCE SALES COVER IT.** The launch budget is £0. Do not run any of these ads until the money kept from sales (after Gumroad's fees) covers the whole test budget of about £70 per fortnight. Until then, organic posting only.
 
+> **No sign-up form any more (30 September 2026):** the cheat sheet is a direct download and the site collects no personal data, so any sign-up counting below does not apply. Judge cheat sheet ads on cost per landing page view only, or run kit ads and count sales.
+
 
 This is a small, careful test, not a growth plan. Its only job is to answer one question: **can £5 a day of ads bring email sign-ups or sales for less than a sale is worth to us?** The ads are in `ads.md` (A01 to A20). The decision numbers come from `STOP-KEEP-SCALE.md` and are copied exactly below.
 
@@ -95,7 +97,7 @@ Write down each link or code in `metrics/` so the daily operator can match sales
 
 ### Cheat sheet ads: count sign-ups per platform
 
-- **At launch sign-ups go through Netlify Forms, not MailerLite.** Netlify Forms are free and unlimited on the free plan (verified 30 September 2026), so ask Claude to add a second copy of the sign-up form with a different form name (for example "cheatsheet-meta") on a page used only by the ads; Netlify's Forms list then counts each one separately.
+- **There is no sign-up form at launch** (the cheat sheet is a direct download and the site collects no personal data). Cheat sheet ads therefore cannot count sign-ups: judge them on landing page views and cost per click, or run only kit ads and count sales with a Gumroad discount code used only in the ads.
 - If MailerLite is used by then instead: make a copy of the cheat sheet sign-up form for each platform (for example "Cheat sheet: Meta ads"), which adds people to the same "Cheat sheet" group **plus** a second group called "Source: Meta ads". MailerLite's free plan allows only 3 active forms (verified 30 September 2026), so this uses one of the three.
 - Point the cheat sheet ads at that copy. The number of people in "Source: Meta ads" is your ad sign-ups.
 - Cost per email sign-up = amount spent on the cheat sheet ads divided by sign-ups in that group.

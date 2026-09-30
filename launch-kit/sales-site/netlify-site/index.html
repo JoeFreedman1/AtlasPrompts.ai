@@ -95,9 +95,6 @@ summary::-webkit-details-marker{display:none}
 summary:after{content:"+";position:absolute;right:16px;top:12px;font:700 1.4rem/1 Archivo,Arial,sans-serif;color:var(--green)}
 details[open] summary:after{content:"\2212"}
 details .a{padding:0 16px 6px}
-form.signup{display:grid;gap:10px;margin-top:10px}
-form.signup label{font-weight:600}
-form.signup input[type=email]{font:inherit;padding:14px;border:2px solid var(--ink);border-radius:8px;background:#fff;color:var(--ink);min-height:48px;width:100%}
 .small{font-size:.88rem;color:var(--grey)}
 footer{background:var(--ink);color:var(--cream);padding:40px 0 90px;font-size:.93rem}
 footer a{color:var(--cream)}
@@ -135,7 +132,7 @@ footer p a{display:inline-block;padding:10px 0;min-height:44px}
    <p class="eyebrow">For UK sellers on eBay, Vinted, Depop, Etsy, Amazon and TikTok Shop</p>
    <h1>AI listings that <span class="hl">stick to your facts</span> and sound like a normal person.</h1>
    <p class="lede">The Well Listed Kit gives the free AI tool you already use a proper brief and strict rules. It writes your titles, descriptions and buyer replies in UK English, keeps every flaw in, and marks anything it does not know with <span class="mono check">[CHECK]</span> instead of making it up.</p>
-   <a class="btn" href="[GUMROAD_PRODUCT_LINK]">Get the kit for £12</a>
+   <a class="btn" href="https://welllisted.gumroad.com/l/well-listed-kit">Get the kit for £12</a>
    <p class="micro">Launch price until Tuesday 13 October 2026, then £19. Instant download. 30-day no-questions refund. Works with the free versions of ChatGPT, Claude, Gemini or Copilot.</p>
   </div>
  </div>
@@ -285,7 +282,7 @@ Postage: tracked, 2 working days</p></div>
     <li>Listing Brief, stock tracker, photo shot lists and 22 buyer replies as templates</li>
     <li>Works with free ChatGPT, Claude, Gemini or Copilot</li>
    </ul>
-   <a class="btn block" href="[GUMROAD_PRODUCT_LINK]">Buy the kit for £12</a>
+   <a class="btn block" href="https://welllisted.gumroad.com/l/well-listed-kit">Buy the kit for £12</a>
    <p class="micro">Secure checkout through Gumroad. Instant download. 30-day no-questions refund.</p>
    <p class="small" style="text-align:left">By buying, you ask for immediate access to the download. For digital content, that ends the usual 14-day right to cancel once the download starts. The 30-day refund below still applies.</p>
   </div>
@@ -331,7 +328,7 @@ Postage: tracked, 2 working days</p></div>
 <section id="free-cheat-sheet">
  <div class="wrap narrow">
   <div class="label">
-   <p class="eyebrow">Free, no card needed</p>
+   <p class="eyebrow">Free, no sign-up needed</p>
    <h2>Not ready yet? Get the free UK Listing Cheat Sheet</h2>
    <p>A few printable pages to try the method on your next listing:</p>
    <ul class="ticks">
@@ -340,15 +337,8 @@ Postage: tracked, 2 working days</p></div>
     <li>A platform title and tag limits table, with links to check</li>
     <li>A 7-point check before you post</li>
    </ul>
-   <!-- Sign-up uses Netlify Forms (free, built into Netlify). Submissions appear in the Netlify dashboard under Forms. Welcome emails are off, so the cheat sheet opens on the next page. -->
-   <form class="signup" name="cheat-sheet" method="POST" action="/free/thanks.html" data-netlify="true" netlify-honeypot="bot-field">
-    <input type="hidden" name="form-name" value="cheat-sheet">
-    <p hidden><label>Leave this empty: <input name="bot-field"></label></p>
-    <label for="email-a">Your email address</label>
-    <input id="email-a" type="email" name="email" autocomplete="email" required placeholder="you@example.com">
-    <button class="btn" type="submit">Get the cheat sheet</button>
-    <p class="small">The cheat sheet opens straight away on the next page. We keep your email address so we can send occasional selling tips and kit news later; every email will have a one-click unsubscribe, and you can ask us to delete your address at any time. See our <a href="/privacy.html">privacy notice</a>.</p>
-   </form>
+   <p><a class="btn" href="/free/uk-listing-cheat-sheet.pdf" download>Download the free cheat sheet (PDF)</a></p>
+    <p class="small">No sign-up and no email address needed. Prefer to read it on screen? <a href="/free/uk-listing-cheat-sheet.html">Open the web version</a>.</p>
   </div>
  </div>
 </section>
@@ -362,12 +352,11 @@ Postage: tracked, 2 working days</p></div>
   <p><strong>Well Listed</strong>. The Well Listed Kit: AI prompts, templates and checklists for UK sellers.</p>
   <p>Not affiliated with or endorsed by eBay, Vinted, Depop, Etsy, Amazon or TikTok. Platform names are used only to describe which platforms the kit is written for. Platform rules and limits change: check the current rule in each platform's help pages. Nothing on this site is legal or tax advice.</p>
   <p><a href="/blog/">Free guides</a> &middot; <a href="/privacy.html">Privacy notice</a> &middot; <a href="/terms.html">Terms of sale and licence</a> &middot; Contact: hello.welllisted@gmail.com</p>
-  <!-- Seller details (legal name and address) appear ONLY on terms.html and privacy.html. Never put them here. -->
-  <p class="small" style="color:#D8D2C6">Seller details: see our <a href="/terms.html" style="color:#D8D2C6">terms</a>.</p>
+  <p class="small" style="color:#D8D2C6">Sales are made through Gumroad as merchant of record: see our <a href="/terms.html" style="color:#D8D2C6">terms</a>. This site collects no personal data.</p>
  </div>
 </footer>
 
-<div class="sticky" id="sticky"><span>The Well Listed Kit: £12 launch price</span><a class="btn" href="[GUMROAD_PRODUCT_LINK]">Buy now</a></div>
+<div class="sticky" id="sticky"><span>The Well Listed Kit: £12 launch price</span><a class="btn" href="https://welllisted.gumroad.com/l/well-listed-kit">Buy now</a></div>
 <script>
 (function(){var s=document.getElementById('sticky'),t=['top','buy','free-cheat-sheet'].map(function(i){return document.getElementById(i)});if(!s||!('IntersectionObserver' in window))return;var v={};var o=new IntersectionObserver(function(e){e.forEach(function(x){v[x.target.id]=x.isIntersecting});s.classList.toggle('hide',!!(v.top||v.buy||v['free-cheat-sheet']))});t.forEach(function(el){if(el)o.observe(el)})})();
 </script>
