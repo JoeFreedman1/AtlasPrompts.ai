@@ -50,7 +50,7 @@ Do **not** start ads until all of these are true:
 
 Run **one platform per 14-day test**. Two platforms at £2.50 a day each gives too little data on both.
 
-- **Start with Meta** (Facebook and Instagram) because Meta's own advice (at least $5, over six days) fits £5 a day.
+- **Start with Meta** (Facebook and Instagram) because Meta's own advice (at least $5, over six days) fits a £5 daily budget.
 - **Then TikTok** in a later fortnight, only through Promote (see section 1), because Ads Manager's minimums are well above £5 a day.
 
 ---
