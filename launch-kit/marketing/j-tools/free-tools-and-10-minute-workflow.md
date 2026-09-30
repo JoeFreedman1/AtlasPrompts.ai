@@ -167,4 +167,4 @@ Run through this for every image, video and screen recording before it goes live
 - [ ] **No personal voice or handwriting.** Voiceover is the brand text-to-speech voice. The screen recording's microphone was off (play it back with the sound up to check). No handwritten notes in shot.
 - [ ] **No marketplace logos** used as if we are affiliated.
 - [ ] **Words checked.** No em dashes or en dashes, no income claims, no invented numbers, UK spelling, "check the current rule" where a limit appears (`01-brief/WRITING-RULES.md`).
-- [ ] **Music is licensed.** Only the platform's commercial-use library or a royalty-free source (TikTok business accounts are generally limited to its Commercial Music Library: check the current rule in the app).
+- [ ] **Music is licensed.** Only the platform's commercial-use library or a royalty-free source (TikTok business accounts are generally limited to its Commercial Music Library: check the current rule in the app). Do not use CapCut's own library sounds (CapCut's terms allow only items labelled "Commercial Use" for commercial posts) or Canva's "Popular Music" (not for commercial use).

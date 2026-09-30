@@ -72,6 +72,7 @@ Well Listed sells **The Well Listed Kit**, a £19 digital download (launch price
 | Daily metrics template and guide | `metrics/template.csv`, `metrics/HOW-TO-FILL-IN.md` (real data goes in `metrics/YYYY-MM.csv`) |
 | Daily plans written by the operator | `daily/YYYY-MM-DD.md` |
 | Tools (no internet or installs needed): markdown converter, content checker, dashboard and site builders | `tools/` |
+| The owner's short launch checklist (phone-friendly) | `YOUR-TURN.md` (repo root) |
 | Running log, key facts, current numbers | `STATE.md` (repo root) |
 | Daily operator instructions | `OPERATOR.md` (repo root) |
 
@@ -80,7 +81,7 @@ The older **Atlas Prompts** website in `public/` and `css/` is unrelated to Well
 ## What is live
 Nothing yet, as of the overnight build. `STATE.md` holds the truth: launch date, links, price, and what is live. Always read it before acting.
 
-**Which branch:** until the owner merges the pull request, all of this lives on the working branch named in STATE.md (at the time of writing `claude/keen-thompson-uxkjgk`), not on main. If you cannot see `launch-kit/`, run `git fetch origin` and check out or merge that branch first (OPERATOR.md Step 1 explains).
+**Which branch:** everything is on `main` (merged at the owner's request on 30 September 2026). Work on a new branch for changes and open a pull request, unless the owner asks for a direct push to main.
 
 ## How to do common jobs
 - **Rebuild everything after edits:** `python3 launch-kit/product/build.py && python3 launch-kit/tools/build_site.py && python3 launch-kit/tools/build_dashboard.py && python3 launch-kit/tools/check_content.py`

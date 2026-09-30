@@ -176,21 +176,21 @@ Refund policy:
 
 ### Files to upload to Gumroad (direct download links)
 
-Open each link while signed in to GitHub; the file downloads straight away. (These links point to the working branch. If you have merged the pull request, swap `claude/keen-thompson-uxkjgk` for `main` in the link.)
+Open each link while signed in to GitHub; the file downloads straight away. (These links point to the main branch.)
 
 The product (the file buyers download):
 ```text
-https://github.com/JoeFreedman1/AtlasPrompts.ai/raw/claude/keen-thompson-uxkjgk/launch-kit/product/dist/Well-Listed-Kit.zip
+https://github.com/JoeFreedman1/AtlasPrompts.ai/raw/main/launch-kit/product/dist/Well-Listed-Kit.zip
 ```
 
 Cover image (1280 x 720):
 ```text
-https://github.com/JoeFreedman1/AtlasPrompts.ai/raw/claude/keen-thompson-uxkjgk/launch-kit/sales-site/brand-assets/gumroad-cover-1280x720.png
+https://github.com/JoeFreedman1/AtlasPrompts.ai/raw/main/launch-kit/sales-site/brand-assets/gumroad-cover-1280x720.png
 ```
 
 Thumbnail (square, the logo):
 ```text
-https://github.com/JoeFreedman1/AtlasPrompts.ai/raw/claude/keen-thompson-uxkjgk/launch-kit/sales-site/brand-assets/logo-1080.png
+https://github.com/JoeFreedman1/AtlasPrompts.ai/raw/main/launch-kit/sales-site/brand-assets/logo-1080.png
 ```
 
 
@@ -209,7 +209,7 @@ We launch today. Deploy the Well Listed site to Netlify with the site name well-
 
 Profile picture for every account (download, then upload in each app):
 ```text
-https://github.com/JoeFreedman1/AtlasPrompts.ai/raw/claude/keen-thompson-uxkjgk/launch-kit/sales-site/brand-assets/logo-1080.png
+https://github.com/JoeFreedman1/AtlasPrompts.ai/raw/main/launch-kit/sales-site/brand-assets/logo-1080.png
 ```
 
 Display name on every account:
