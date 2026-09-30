@@ -1,0 +1,3 @@
+Five buyer messages, one prompt. Keep your Listing Brief in your notes app, then paste it with the buyer's message and this instruction: write a short, polite reply in UK English, using only facts from the brief, and never reveal my lowest price. It handles "is this still available?", lowball offers, "measurements?", "when will it post?" and bundle requests, because the answers are already in your brief. Two habits: replace the buyer's name with [BUYER] before pasting (never paste buyers' personal details into an AI tool), and read the reply before sending. The prices shown are an invented example. The Well Listed Kit has the full set of message prompts, including offers and returns, link in bio.
+
+#vintedsellertips #lowballoffers #resellertok #ebayseller #chatgptprompts

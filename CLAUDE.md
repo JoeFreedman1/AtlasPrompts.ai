@@ -52,6 +52,7 @@ Well Listed sells **The Well Listed Kit**, a £19 digital download (launch price
 | Ready-to-deploy Netlify folder (built from the above plus the blog) | `sales-site/netlify-site/` (rebuild with `python3 launch-kit/tools/build_site.py`) |
 | 30-day content calendar | `marketing/a-content-calendar/calendar.csv` |
 | 60 faceless short-form posts (P01 to P60) and their plan and format | `marketing/b-short-form-posts/`, `marketing/POST-PLAN.md`, `marketing/POST-FORMAT.md` |
+| Ready-to-upload images for all 60 posts and 30 pins, each with caption.txt, plus a zip of days 1 to 14 | `marketing/ready-to-post/` (rebuild with `python3 launch-kit/tools/build_post_images.py`) |
 | 30 Pinterest pins | `marketing/c-pinterest/pins.md` |
 | 10 SEO blog articles (B01 to B10) | `marketing/d-blog/` |
 | 7 welcome emails and 3 launch emails | `marketing/e-email/` |
@@ -63,7 +64,7 @@ Well Listed sells **The Well Listed Kit**, a £19 digital download (launch price
 | Money: prices, fees, profit per sale, break-even, scenarios, daily numbers | `MONEY.md` |
 | Stop, keep, scale rules | `STOP-KEEP-SCALE.md` |
 | Daily 30-minute routine, weekly review, first 14 days of posts | `ROUTINE.md` |
-| Owner's launch checklist (one session, 87 minutes, £0; step 7 hands over to Claude to deploy the site to Netlify) | `LAUNCH.md` |
+| Owner's launch checklist (one session, 80 minutes, £0; step 7 hands over to Claude to deploy the site to Netlify) | `LAUNCH.md` |
 | Every launch-day value in copy boxes (owner only: contains GitHub download links) | `LAUNCH-COPY-PASTE.md` |
 | Growth plan (next products, prices, affiliates, ads) | `GROWTH.md` |
 | Quality checklist | `QUALITY-CHECKLIST.md` |
@@ -84,7 +85,7 @@ Nothing yet, as of the overnight build. `STATE.md` holds the truth: launch date,
 ## How to do common jobs
 - **Rebuild everything after edits:** `python3 launch-kit/product/build.py && python3 launch-kit/tools/build_site.py && python3 launch-kit/tools/build_dashboard.py && python3 launch-kit/tools/check_content.py`
 - **Fill in or change the sales site:** put the values in `launch-kit/sales-site/placeholders.json` (never edit `netlify-site/` by hand), run `python3 launch-kit/tools/build_site.py`, which rebuilds `launch-kit/sales-site/netlify-site/`, then commit and push. The owner downloads the repo ZIP and drags the `netlify-site` folder onto Netlify. Details: `launch-kit/sales-site/README.md`.
-- **Deploy to Netlify (LAUNCH.md step 7 handover):** when the owner asks, use the Netlify connector to deploy `launch-kit/sales-site/netlify-site/` after filling in the MailerLite form embed code in both sales pages and running `python3 launch-kit/tools/build_site.py`. Set `site_url` in `placeholders.json` to the live address, rebuild, redeploy, then record the launch date, links and address in STATE.md. Deploying is the one publishing step the owner has asked Claude to do.
+- **Deploy to Netlify (LAUNCH.md step 7 handover):** when the owner asks, set `launch_date` (YYYY-MM-DD, today) in `launch-kit/sales-site/placeholders.json`, check `GUMROAD_PRODUCT_LINK`, `LEGAL NAME` and `ADDRESS` are filled, run `python3 launch-kit/tools/build_site.py` (it works out the launch end date and page dates), and deploy `launch-kit/sales-site/netlify-site/` with the Netlify connector. If the live address is not `https://well-listed.netlify.app`, update `site_url`, rebuild and redeploy. The sign-up form uses Netlify Forms (`data-netlify`), so no embed code is needed. Record the launch date, links and address in STATE.md. Deploying is the one publishing step the owner has asked Claude to do.
 - **Day 15 price switch:** see the key dates table in `OPERATOR.md` (£12 ends 11:59pm on day 14; pages switch to £19 on day 15).
 - **Add new posts:** follow `launch-kit/marketing/POST-FORMAT.md` exactly (the dashboard parses it), continue IDs from the highest, add rows to `launch-kit/marketing/a-content-calendar/calendar.csv`.
 - **Launch checklist edits:** every step in `launch-kit/LAUNCH.md` must keep the exact form `N. **Title (N min).**` because the dashboard script reads it, and the steps must total under 90 minutes in one session.

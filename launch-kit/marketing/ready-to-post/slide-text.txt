@@ -1,0 +1,468 @@
+P01 slide 1: These scribbles became an 80-character eBay title.
+P01 slide 2: tnf nuptse 700 mens M black, down fill, hood stows in collar, small mark left sleeve
+P01 slide 3: Only my facts. Brand first. 80 characters max.
+P01 slide 4: Ask for the count. Then check it.
+P01 slide 5: The North Face Nuptse 700 Mens Black Down Puffer Jacket Size M Stowable Hood (76)
+P01 slide 6: Flaws go in the description.
+P01 slide 7: Free cheat sheet: link in bio
+P01 slide 8: Check the current rule in eBay's help pages.
+P02 slide 1: 'Blue jumper, good condition.' That is all the AI got. So it invented cashmere. | The fix fits in one note.
+P02 slide 2: Type 'blue jumper, good condition' and AI fills every gap with guesses. Cashmere. Vintage. Flawless. None of it true.
+P02 slide 3: The fix: a Listing Brief. A short block of facts you fill in once, then paste before every prompt.
+P02 slide 4: What it is / Brand / Size on label / Measurements (cm) / Colour / Material (from the label) / Condition / Flaws: where, what, how big / Included / Postage / Price
+P02 slide 5: Then one rule in every prompt: 'Use ONLY the facts in my brief. Write [CHECK: ...] where something is missing.'
+P02 slide 6: Blank is better than wrong. A blank line becomes a [CHECK]. A wrong line becomes a return.
+P02 slide 7: The Well Listed Kit has category briefs for clothing, electronics, books, homeware, toys and handmade. Launch price £12. Or grab the free cheat sheet first.
+P03 slide 1: Is it true to size? Any flaws? Can you measure it?
+P03 slide 2: Answer them before they ask.
+P03 slide 3: What / Measurements / Fit / Condition / Postage
+P03 slide 4: Levi's 501 black jeans, W30 L32.
+P03 slide 5: Waist 38 cm flat, inside leg 81 cm, rise 28 cm.
+P03 slide 6: Straight fit, sits on the waist.
+P03 slide 7: Fading at both knees (photo 4).
+P03 slide 8: Posted within 2 days.
+P03 slide 9: No "stunning". No emoji walls.
+P03 slide 10: Save this for your next listing.
+P04 slide 1: 13 Etsy tags. Write 'tea towel' three ways and two of them are wasted. | Up to 20 characters each. Limits at the time of writing: check Etsy's help pages.
+P04 slide 2: Common waste: the same phrase 3 ways. 'tea towel', 'tea towels', 'linen tea towels'.
+P04 slide 3: Better: each tag is a different way a buyer might search. Material. Style. Use. Occasion. Room.
+P04 slide 4: Write 13 Etsy tags for my Listing Brief. Each 20 characters or fewer, with the count. No two tags the same idea. Only facts from my brief. No other brand names.
+P04 slide 5: linen tea towel / lemon print / natural linen / block printed towel / yellow kitchen decor / citrus kitchen / cottage kitchen / drying cloth / summer table linen / kitchen textiles / housewarming gift / gift for baker / mothers day gift
+P04 slide 6: Check every tag is true for your item. Free cheat sheet with the character table: link in bio.
+P05 slide 1: Stop asking AI "what is this worth?
+P05 slide 2: You find the sold prices.
+P05 slide 3: 5 to 10 matches. Sold, not asking.
+P05 slide 4: Use only my numbers. Show the sums.
+P05 slide 5: Sold £20 to £32. Median £25.
+P05 slide 6: List £28. Floor £18.
+P05 slide 7: Example figures only.
+P05 slide 8: You find the prices. AI does the maths.
+P06 slide 1: Listed at £65. Offer: £25.
+P06 slide 2: Ignore. Snap. Cave.
+P06 slide 3: Decide your floor first.
+P06 slide 4: Friendly. Short. One true reason.
+P06 slide 5: Thanks for the offer. The lowest I can do is £56, as it is heavy to post.
+P06 slide 6: Example figures only.
+P06 slide 7: No fake pressure.
+P06 slide 8: Free cheat sheet: link in bio
+P07 slide 1: 'Minor signs of wear' is not a condition note. It is an argument waiting to happen.
+P07 slide 2: Minor to you. Major to the buyer. Vague words let each side picture something different.
+P07 slide 3: The formula: WHERE + WHAT + HOW BIG + WHICH PHOTO.
+P07 slide 4: Before: 'Some marks.' After: 'Pale mark on front, left of the buttons, about 5 mm (photo 5).'
+P07 slide 5: Before: 'Works fine.' After: 'Tested: powers on, Wi-Fi connects, all buttons respond. Bluetooth not tested.'
+P07 slide 6: Rewrite my flaws using where, what, how big and which photo. Keep every flaw as serious as I wrote it. Do not soften anything.
+P07 slide 7: Honest detail protects you and the buyer. Save this for your next listing.
+P08 slide 1: Same jacket. Three platforms. Three different listings.
+P08 slide 2: eBay: use the title. Vinted: short. Depop: caption-style.
+P08 slide 3: One brief. Three versions. Same facts.
+P08 slide 4: eBay: Topshop Womens Brown Suede Jacket Size 10 Button Front 90s Style
+P08 slide 5: Vinted: Topshop brown suede jacket, size 10
+P08 slide 6: Depop: Brown suede Topshop jacket, UK 10, boxy fit
+P08 slide 7: 90s style" because the era is not confirmed.
+P08 slide 8: The Well Listed Kit. £12 at launch.
+P09 slide 1: Ten items. One chat. Stop starting from scratch.
+P09 slide 2: Message 1: the rules. Once.
+P09 slide 3: Reply READY and wait for my first item.
+P09 slide 4: Item 1. Item 2. Item 3...
+P09 slide 5: Every 5 items: paste the rules again.
+P09 slide 6: Batch the typing. Not the checking.
+P09 slide 7: Free cheat sheet: link in bio
+P10 slide 1: Size 12 today is not size 12 in 1985.
+P10 slide 2: Tops: pit to pit. Armpit seam to armpit seam.
+P10 slide 3: Length: shoulder by the collar to hem.
+P10 slide 4: Trousers: waist flat. Inside leg: crotch seam to hem.
+P10 slide 5: Rise: high-waisted. Sleeve: coats.
+P10 slide 6: Doubled? Say so.
+P10 slide 7: Cm. Laid flat. Say how. Save this.
+P11 slide 1: This Amazon title has 4 problems. Spot them?
+P11 slide 2: 1. 138 characters. Most categories: 75 max.
+P11 slide 3: 2. "!" is a restricted character.
+P11 slide 4: 3. Same word more than twice.
+P11 slide 5: 4. "Best" is an unsupported claim.
+P11 slide 6: Tidy Nook Bamboo Drawer Organiser Set of 6 Boxes in 3 Sizes Natural (67)
+P11 slide 7: Invented brand, example only.
+P11 slide 8: Check your category in Seller Central.
+P11 slide 9: Free cheat sheet: link in bio
+P12 slide 1: Five shots. Fifteen seconds. Hands only.
+P12 slide 2: Shot 1 (0 to 3s): What it is.
+P12 slide 3: Shot 2 (3 to 6s): Key detail, close up.
+P12 slide 4: Shot 3 (6 to 9s): Size, for scale.
+P12 slide 5: Shot 4 (9 to 12s): The honest bit.
+P12 slide 6: Shot 5 (12 to 15s): Details in the listing.
+P12 slide 7: No "cures". No "best". No fake countdowns.
+P12 slide 8: The Well Listed Kit. Link in bio.
+P13 slide 1: Title: 'Nice jumper'. Nobody has ever searched that.
+P13 slide 2: Buyers type brand, item, size, colour. So the title should too.
+P13 slide 3: Before: 'Nice jumper' (11 characters, 69 unused).
+P13 slide 4: After: 'Seasalt Womens Navy Striped Cotton Breton Jumper Size 14 Crew Neck Long Sleeve' (78). | Every word from the care label and the item.
+P13 slide 5: Brand. Who. Colour. Pattern. Fabric. Style. Item. Size. Detail. Save this formula.
+P14 slide 1: Good condition, fits true to size, open to offers.
+P14 slide 2: Compared to what? Which size?
+P14 slide 3: After:
+P14 slide 4: Whistles wool-blend coat, size 12 on label.
+P14 slide 5: Pit to pit 54 cm, length 98 cm.
+P14 slide 6: Very good: light bobbling on pocket edges (photo 6).
+P14 slide 7: Lining intact.
+P14 slide 8: Facts, not adjectives.
+P14 slide 9: Free cheat sheet: link in bio
+P15 slide 1: Is this still available?" "Yes." ...silence.
+P15 slide 2: Yes" is a dead end.
+P15 slide 3: Yes, still available. Size 12, pit to pit 52 cm.
+P15 slide 4: Posted within 2 days. Any questions, just ask.
+P15 slide 5: 1 fact. 1 postage line. 1 open door.
+P15 slide 6: Save it as a quick reply.
+P16 slide 1: 'Macrame Plant Hanger Boho Macrame Plant Hanger Handmade Macrame Wall Hanging...' Read that out loud.
+P16 slide 2: Keyword soup. 'Macrame' four times, 'boho' twice, 131 characters. It reads like spam, and it never says how long it is.
+P16 slide 3: Write a title a person can read. The extra search phrases go in your 13 tags. That is what tags are for.
+P16 slide 4: After: 'Handmade Macrame Plant Hanger, Natural Cotton Rope, 90 cm Long, Fits Pots up to 15 cm' (85).
+P16 slide 5: What it is. Material. Size. What it fits. Everything else goes in the tags.
+P16 slide 6: The Well Listed Kit writes the title and the 13 tags together, from one brief. Link in bio.
+P17 slide 1: Two listings. Same scuffed boots.
+P17 slide 2: A: "Great condition." Scuff not shown.
+P17 slide 3: B: Small scuff, outer left heel, about 1 cm (photo 5).
+P17 slide 4: Light toe creasing.
+P17 slide 5: A buyer who knows is a buyer who stays.
+P17 slide 6: Close-up. Daylight. Coin for scale.
+P17 slide 7: Disclose it. Show it. Save this.
+P18 slide 1: Sweater. Pants. Fall. Ships fast.
+P18 slide 2: Gorgeous merino sweater! Perfect for fall! Size 8 US.
+P18 slide 3: Merino? Label says wool blend.
+P18 slide 4: UK English. Jumper, trousers, trainers, postage.
+P18 slide 5: Use ONLY the facts in my brief.
+P18 slide 6: Next grey wool-blend jumper, size 12. Light bobbling under both arms.
+P18 slide 7: The Well Listed Kit. £12 at launch.
+P19 slide 1: 'Would you do all 3 for £10?' Answer with a number, not a sigh.
+P19 slide 2: Before: 'No sorry.' Conversation over.
+P19 slide 3: Do the sums first. 3 tops listed at £8, £8 and £7 = £23. Your floors: £6, £6 and £5 = £17.
+P19 slide 4: Postage: £3.20 as one parcel, £8.40 separately. They save £5.20 by bundling. (Example figures)
+P19 slide 5: After: 'Thanks for asking. I can do all three for £19. They go in one parcel, so it saves on postage for both of us.'
+P19 slide 6: Never below your floors added together. Free bundle prompt in our cheat sheet: link in bio.
+P20 slide 1: #vintage #y2k #nike #zara #aesthetic
+P20 slide 2: Up to 5. Relevant only.
+P20 slide 3: Not your brand? Not your hashtag.
+P20 slide 4: Primark white cotton babydoll top, UK 10.
+P20 slide 5: Pit to pit 46 cm, length 52 cm. Worn twice, no marks.
+P20 slide 6: #primark #babydolltop #whitetop #cottontop #summertop
+P20 slide 7: Brand. Item. Colour. Fabric. Style.
+P20 slide 8: Save this for your next listing.
+P21 slide 1: 3 photos: front, box, sole. The buyer's first question? 'Any scuffs?'
+P21 slide 2: Before. Black Chelsea boots, UK 6. Photo 1: side on. Photo 2: the box. Photo 3: one sole. No inside, no heels, no flaw close-up.
+P21 slide 3: Every missing photo becomes a message. 'What size is stamped inside?' 'Any wear on the heels?' 'Can I see the other sole?'
+P21 slide 4: After. An 8-shot list. 1 Cover: pair side on, at boot height. 2 Front: both toes. 3 Back: both heels. 4 Soles: both, top down.
+P21 slide 5: 5 Inside: size and brand stamp. 6 Flaw: left heel scuff, coin for scale. 7 Flaw: toe creasing, daylight. 8 Detail: elastic side panel.
+P21 slide 6: The rule we use: every flaw gets its own photo. Prompt: 'Write a numbered shot list for this exact item. Give every flaw in my brief its own shot. Never drop a flaw shot.'
+P21 slide 7: Photo limits differ. At the time of writing Vinted allows up to 20, Depop up to 8. Check the app. Save this for your next pair.
+P22 slide 1: Read the description." 4 words that start a dispute
+P22 slide 2: Buyer: "Doesn't fit, can I return it?
+P22 slide 3: BEFORE: "No returns. Read the description.
+P22 slide 4: AFTER: polite, clear, points to the app
+P22 slide 5: Same answer. Calmer.
+P22 slide 6: Traders: different rules
+P22 slide 7: General information, not legal advice
+P22 slide 8: Save this
+P23 slide 1: 3 problems in one description
+P23 slide 2: BEFORE: "Relieves back pain... 100% natural... Only 3 left!
+P23 slide 3: 1. Health claim
+P23 slide 4: 2. Vague safety claim
+P23 slide 5: 3. Urgency that isn't true
+P23 slide 6: AFTER: what it is, what it's made of
+P23 slide 7: Say what it is, not what it cures
+P24 slide 1: Guess: £45. Sold: £18 to £30.
+P24 slide 2: BEFORE: priced from memory
+P24 slide 3: Buyers can see sold prices too
+P24 slide 4: AFTER: 5 sold pairs, with postage
+P24 slide 5: Match the condition, not just the name
+P24 slide 6: List £27. Floor £20.
+P24 slide 7: Example figures only
+P24 slide 8: The answer was on the sold page.
+P25 slide 1: Myth: a longer description sells better. Nobody reads 300 words about a pair of chinos.
+P25 slide 2: What buyers actually want: their questions answered before they ask. That's complete, not long.
+P25 slide 3: 'These gorgeous chinos are perfect for smart-casual days and will become a staple in your wardrobe, pairing beautifully with a crisp shirt...' (four more lines like this)
+P25 slide 4: M&S navy slim-fit chinos, W34 L31. Cotton blend (check label for %). Waist 44 cm flat, inside leg 79 cm. Good condition: light fading on both back pockets (photo 5). Posted within 2 days.
+P25 slide 5: The five-line test: what is it, what size really, what's it made of, what's wrong with it, when does it post. If a line doesn't answer one of those, cut it.
+P25 slide 6: Short, true, complete. Save this and use the five-line test tonight.
+P26 slide 1: Myth: AI listings get you banned
+P26 slide 2: The platforms build AI tools themselves
+P26 slide 3: The problem: what the words say
+P26 slide 4: And photos that aren't the real item
+P26 slide 5: 1. Every fact mine? 2. Every claim provable? 3. Exactly what they get?
+P26 slide 6: Check each platform's current rules
+P27 slide 1: 3 brands. None of them are the item.
+P27 slide 2: BEFORE: Zara Mango Topshop Style Dress...
+P27 slide 3: Other brands = keyword spam
+P27 slide 4: Repeats waste space
+P27 slide 5: AFTER: Warehouse Womens Green Satin Midi Slip Dress Size 10 Bias Cut Adjustable Straps
+P27 slide 6: 79 of 80 characters (eBay UK)
+P27 slide 7: Words buyers type. Nothing untrue.
+P28 slide 1: Phone. Window. Duvet cover.
+P28 slide 2: Myth: you need a lightbox and a camera
+P28 slide 3: 1. Window light, flash off
+P28 slide 4: 2. Plain background you own
+P28 slide 5: 3. Clean lens, tap focus, no zoom
+P28 slide 6: 4. A shot list, flaws included
+P28 slide 7: Example item
+P28 slide 8: True colour. Every flaw shown.
+P29 slide 1: Notes: 1 battery. Listing: 2.
+P29 slide 2: Myth: AI makes things up, so it's useless
+P29 slide 3: Notes: bosch drill 18v, 1 battery, charger, case
+P29 slide 4: Use ONLY facts in my notes. Write [CHECK] for gaps.
+P29 slide 5: Battery: 1 [CHECK: Ah on label]
+P29 slide 6: No guesses. Just a to-do list.
+P30 slide 1: £90. "Waiting for offers." Still in the loft.
+P30 slide 2: Myth: price high and wait
+P30 slide 3: Example: list £45, floor £32
+P30 slide 4: Accept £40+ / Counter at £38 / Decline under £32
+P30 slide 5: Fix the listing first. Then planned drops.
+P30 slide 6: Example figures only
+P30 slide 7: Room for offers. Not wishful thinking.
+P31 slide 1: Size? Fabric? It's a Pyrex dish.
+P31 slide 2: Myth: one template fits every item
+P31 slide 3: Clothing: measurements, fabric, tags
+P31 slide 4: Electronics: model, tested how, not tested
+P31 slide 5: Homeware: mark, size, chips
+P31 slide 6: Books: edition. Toys: pieces counted.
+P31 slide 7: Example item
+P31 slide 8: One master brief, plus category extras
+P32 slide 1: #fyp #aesthetic #trendy #cute #musthave
+P32 slide 2: Depop: up to 5 hashtags. Relevant ones.
+P32 slide 3: #drmartens #1460 #cherryred #leatherboots #uk7
+P32 slide 4: Vibes are not search words
+P32 slide 5: Vinted: fill every field properly
+P32 slide 6: Relevant beats more
+P33 slide 1: Notes app + free AI + tape measure
+P33 slide 2: Myth: you need paid software
+P33 slide 3: 1. Brief template in your notes app
+P33 slide 4: 2. Fill it in: about 2 minutes
+P33 slide 5: 3. Paste into any free AI tool
+P33 slide 6: Kit or free cheat sheet: link in bio
+P34 slide 1: L@@K
+P34 slide 2: 1. L@@K: nobody searches it
+P34 slide 3: 2. "Stunning!!!": say colour and fabric
+P34 slide 4: 3. "Rare": only if you can prove it
+P34 slide 5: 4. "Must have": use the space for size
+P34 slide 6: 5. "100% genuine": show labels instead
+P34 slide 7: Plain words look trustworthy
+P35 slide 1: 'Cotton' is not a fabric description. '98% cotton, 2% elastane' is.
+P35 slide 2: 7 things every clothing listing needs. Screenshot this before your next one.
+P35 slide 3: 1. Brand, exactly as on the label. 'Boden', not 'Boden-ish'.
+P35 slide 4: 2. Size as printed on the label. 'UK 12', and say if it's EU or US.
+P35 slide 5: 3. Measurements, laid flat, in cm. 'Waist 36 cm. Length 58 cm.' Say how you measured.
+P35 slide 6: 4. Fabric, copied from the care label. '98% cotton, 2% elastane', not 'cotton'.
+P35 slide 7: 5. Condition in one word. 6. Every flaw: where, what, how big. 'Faded edge on front pocket, about 2 cm.'
+P35 slide 8: 7. Postage: when it goes and how. 'Posted within 2 days, tracked.'
+P35 slide 9: Boden green corduroy skirt. UK 12. Waist 36 cm, length 58 cm, laid flat. 98% cotton, 2% elastane. Good: faded edge on front pocket, about 2 cm (photo 4). Posted within 2 days. Save this.
+P36 slide 1: 3 messages. 1 prompt.
+P36 slide 2: Reply using only facts from my brief. Never reveal my lowest price.
+P36 slide 3: 1. "Still available?
+P36 slide 4: 2. Lowball offer (example: £5 on £14)
+P36 slide 5: 3. "Measurements?
+P36 slide 6: 4. Postage 5. Bundle
+P36 slide 7: Replace names with [BUYER] first
+P37 slide 1: Screen off = no information
+P37 slide 2: 1. Front, switched ON
+P37 slide 3: 2. Back and corners
+P37 slide 4: 3. Every port, close up
+P37 slide 5: 4. Model label or settings screen
+P37 slide 6: 5. Everything included, laid out
+P37 slide 7: 6. Every scratch, with scale
+P37 slide 8: Say what you tested
+P38 slide 1: Pants? You mean trousers.
+P38 slide 2: 1. pants to trousers
+P38 slide 3: 2. sweater to jumper
+P38 slide 4: 3. sneakers to trainers
+P38 slide 5: 4. purse to handbag
+P38 slide 6: 5. shipping to postage (and colour)
+P38 slide 7: Add: "UK English, UK sizes, UK words.
+P39 slide 1: 10pm. 12 items. Zero energy.
+P39 slide 2: 1. Voice note to brief
+P39 slide 3: 2. Titles only, for 3 items
+P39 slide 4: 3. Draft now, [CHECK] tomorrow
+P39 slide 5: 4. Tomorrow's shot list
+P39 slide 6: Save this for tonight
+P40 slide 1: ChatGPT, Claude, Gemini, Copilot: all free to start. eBay and Depop have AI drafting built in.
+P40 slide 2: General AI chat tools with free versions: ChatGPT, Claude, Gemini, Microsoft Copilot. Any of them can turn a Listing Brief into a title and description.
+P40 slide 3: Built into the platforms: the eBay app can draft a listing from a photo. Depop's 'Generate Description' drafts one from a photo too.
+P40 slide 4: Amazon offers generative AI listing tools to UK sellers: a few words or an image, and it drafts the title, bullets and description.
+P40 slide 5: Whichever you use, the same three checks apply. Every fact from your item? UK English? Within the character limit?
+P40 slide 6: Brief: 'Denby milk jug, blue glaze, 12 cm tall, base stamp , tiny chip on rim by spout.' Prompt: 'eBay UK title, max 80 characters, only my facts.' Output: 'Denby Blue Glaze Ceramic Milk Jug 12 cm Made in England Small Rim Chip' (70 characters).
+P40 slide 7: Free plans and features change. Check what each one includes today. Free cheat sheet with 10 prompts: link in bio.
+P41 slide 1: '[CHECK: size]' went live in the listing. Seven checks so yours never does.
+P41 slide 2: 1. Title fits the limit. eBay UK gives you 80 characters, and spaces count. Check the current limit for your platform.
+P41 slide 3: 2. No [CHECK] left behind. If your AI draft says [CHECK: size], fill it in or delete the line.
+P41 slide 4: 3. Every flaw is in the text AND in a photo. 'Pulled thread on the hem, see photo 6.'
+P41 slide 5: 4. Measurements in cm. Pit to pit and length for tops. Inside leg for trousers.
+P41 slide 6: 5. UK words. Jumper, not sweater. Trousers, not pants. UK size, not US.
+P41 slide 7: 6. No other brands in your title. 'Joules coat, like Barbour' invites trouble. Name only what it is.
+P41 slide 8: 7. Your price floor is nowhere in the listing. That number is for you, not the buyer.
+P41 slide 9: Save this and run it on your next listing. Free UK Listing Cheat Sheet: link in bio.
+P42 slide 1: Good used condition": worn once, or worn to bits?
+P42 slide 2: 1. Where, what, how big
+P42 slide 3: 2. "See photo 6
+P42 slide 4: 3. Tested / not tested
+P42 slide 5: 4. Name the wear, then the good news
+P42 slide 6: 5. Condition box matches the text
+P42 slide 7: Save this. Free cheat sheet in bio
+P43 slide 1: Six phrases that can get a listing removed. 'Replica' is only the first.
+P43 slide 2: 'Replica', 'dupe', '1:1', 'inspired by [brand]'. Counterfeit and lookalike wording breaks marketplace rules. If it is not the real brand, do not list it as that brand.
+P43 slide 3: '100% genuine' when you cannot show it. Say what you actually know instead: 'Bought new from the brand's shop in 2023, receipt included.'
+P43 slide 4: 'Cures', 'relieves', 'heals', 'detox'. Health claims are not allowed on TikTok Shop UK and are risky everywhere. Describe the item, not a medical result.
+P43 slide 5: 'Fully working' on something you only switched on. Write exactly what you tested.
+P43 slide 6: 'Not Nike' or 'like Zara' in the title. Other brand names in your title muddle search and can break the rules. Name only what it is.
+P43 slide 7: 'Non-toxic', '100% safe', 'eco-friendly' with no proof. Only say it if you can show the specific fact behind it.
+P43 slide 8: Rules differ by platform, so check the current rule in the help pages. Save this list for your next draft.
+P44 slide 1: Bundle request? One message, done
+P44 slide 2: 1. Name every item
+P44 slide 3: 2. Price plus the honest reason
+P44 slide 4: 3. Postage and dispatch day
+P44 slide 5: 4. Condition reminder
+P44 slide 6: 5. No pressure
+P44 slide 7: Free cheat sheet in bio
+P45 slide 1: Fourth message. ALL CAPS.
+P45 slide 2: Don't reply yet
+P45 slide 3: 1. The cool-down rewrite
+P45 slide 4: 2. What are they actually asking?
+P45 slide 5: 3. The polite no
+P45 slide 6: Remove their details first
+P45 slide 7: Save this
+P46 slide 1: Scribbled notes to full eBay listing
+P46 slide 2: Example notes (invented item)
+P46 slide 3: Step 1: Brief + [CHECK] list
+P46 slide 4: Step 2: Title, 77 / 80 characters
+P46 slide 5: Step 3: Tested. Not tested. Flaw + photo
+P46 slide 6: Step 4: Item specifics, ready to paste
+P46 slide 7: Example output. You check the facts
+P46 slide 8: The Well Listed Kit: link in bio
+P47 slide 1: Denim jacket for Depop, start to finish
+P47 slide 2: Example brief (invented item)
+P47 slide 3: First line = your title
+P47 slide 4: Measurements. Flaws named. Postage.
+P47 slide 5: 5 hashtags, all relevant
+P47 slide 6: Example output only
+P47 slide 7: Free cheat sheet: link in bio
+P48 slide 1: One tealight holder, 13 Etsy tags, every one counted. The longest is exactly 20.
+P48 slide 2: The example brief (invented): handmade stoneware tealight holder, speckled cream glaze, wheel thrown, 8cm wide, 6cm tall, fits a standard tealight.
+P48 slide 3: The title (111 of 140 characters): Handmade Ceramic Tealight Holder, Speckled Cream Glaze, Small Wheel Thrown Pottery Candle Holder, Gift for Home
+P48 slide 4: Readable first, keywords second. The first few words say exactly what it is.
+P48 slide 5: Tags 1 to 7: ceramic tealight, tealight holder, candle holder, pottery gift, speckled glaze, wheel thrown pottery, handmade ceramics
+P48 slide 6: Tags 8 to 13: neutral decor, small pottery, housewarming gift, minimalist decor, stoneware, mantelpiece decor
+P48 slide 7: In the description: size, what fits, care, and a safety line. 'Never leave a lit candle unattended.' No 'fireproof' claims you have not tested.
+P48 slide 8: Etsy's limits can change: check the help pages. Save this, and get the free cheat sheet in bio.
+P49 slide 1: Sealed. Opened. Loose. Not the same set.
+P49 slide 2: AI doesn't know last week's sold prices
+P49 slide 3: You find the sold prices
+P49 slide 4: Tidy. Match. Drop the poor ones
+P49 slide 5: Range. Median. List. Floor
+P49 slide 6: Example figures only
+P49 slide 7: The Well Listed Kit: link in bio
+P50 slide 1: Mon: "Still available?" Tue: "£5?
+P50 slide 2: Mon: Yes, plus the useful detail
+P50 slide 3: Tue: Polite counter, above your floor
+P50 slide 4: Thu: One bundle price, one reason
+P50 slide 5: Sat: Calm parcel update
+P50 slide 6: Remove their details first
+P50 slide 7: Free cheat sheet in bio
+P51 slide 1: 5 problems. Spot them?
+P51 slide 2: 1. "Anti-bacterial
+P51 slide 3: 2. "Dermatologist approved
+P51 slide 4: 3. "Best on TikTok
+P51 slide 5: 4. "Only 3 left!!!
+P51 slide 6: 5. "Stops frizz forever
+P51 slide 7: Rewritten with facts you can back up
+P51 slide 8: Save this
+P52 slide 1: 10 items. 1 CHECK column.
+P52 slide 2: Set the rules once
+P52 slide 3: Paste 10 short briefs
+P52 slide 4: One row per item
+P52 slide 5: Copy into Sheets or Excel
+P52 slide 6: Read every row before it goes live
+P52 slide 7: Free cheat sheet in bio
+P53 slide 1: What's inside, file by file
+P53 slide 2: 1. The guide (PDF): 90 prompts
+P53 slide 3: Titles. Descriptions. Tags. Photos. Pricing. Messages. Video. Rule checker.
+P53 slide 4: Examples + checks
+P53 slide 5: 2. Prompt library (copy and paste)
+P53 slide 6: 3. Templates and trackers
+P53 slide 7: Works with free AI tools
+P53 slide 8: No promises of sales. Clearer listings, faster.
+P53 slide 9: £12 launch price (full price £19). Link in bio
+P54 slide 1: Things nobody tells you when you start on Vinted. Starting with who pays the fee.
+P54 slide 2: The buyer pays the Buyer Protection fee at checkout, not you. Vinted says it varies by item, so check the current price list.
+P54 slide 3: Your first photo should show the whole item. Vinted's help pages also say: your own photos, no stock images, no collages.
+P54 slide 4: You can add up to 20 photos. Use them for labels, measurements and every flaw.
+P54 slide 5: Measurements save you messages. Pit to pit and length in cm answers the question you would get anyway.
+P54 slide 6: Lowball offers are not personal. Decide your lowest price before you list, and reply calmly.
+P54 slide 7: Buying to resell as a business? Vinted says traders should use Vinted Pro, which has its own rules on returns.
+P54 slide 8: Rules change: check Vinted's help pages. Our free cheat sheet has a table of platform limits. Link in bio.
+P55 slide 1: Nikon D3200 18-55mm" = 19, not 17
+P55 slide 2: Great camera" vs what buyers type
+P55 slide 3: Brand + model first
+P55 slide 4: L@@K!!! wastes characters
+P55 slide 5: Fill in item specifics
+P55 slide 6: Save this
+P56 slide 1: Weigh the parcel, not the item
+P56 slide 2: Packaging counts
+P56 slide 3: Measure the finished parcel
+P56 slide 4: Always get proof of postage
+P56 slide 5: Count packaging in your price
+P56 slide 6: Promise the dispatch time you can keep
+P56 slide 7: Free cheat sheet in bio
+P57 slide 1: The first 'not as described' claim tends to teach the same five lessons. Here they are, early.
+P57 slide 2: 1. 'Good condition' is not a description. Buyers compare the parcel with your exact words.
+P57 slide 3: 2. A flaw in the text but not in the photos is still a surprise. Show it, and say which photo.
+P57 slide 4: 3. Say what is not included. No box, no charger, one strap missing. Silence reads as 'everything'.
+P57 slide 5: 4. Keep your evidence: listing photos, proof of postage, and a photo of the item packed, taken before you seal the parcel.
+P57 slide 6: 5. Reply calmly and use the platform's own process. Arguing in messages rarely helps anyone.
+P57 slide 7: Private sale or not, what arrives should match the description. Check each platform's help pages for how claims work.
+P57 slide 8: Save this and read it before your next listing, not after your first claim.
+P58 slide 1: Amazon UK title limit? "About 200.
+P58 slide 2: Most categories: 75 from 27 July 2026
+P58 slide 3: Tell it the limit. Don't ask it.
+P58 slide 4: It miscounts. Check the count.
+P58 slide 5: Stain" is not "character
+P58 slide 6: No buyer names or addresses
+P58 slide 7: The Well Listed Kit: link in bio
+P59 slide 1: '50% OFF' in a TikTok Shop UK title breaks the title rules. So does your shop name.
+P59 slide 2: Titles: no promo wording, no shop name or URL, no mentioning TikTok or other marketplaces, no symbols.
+P59 slide 3: Health claims are off the table. No 'cures', 'treats', 'prevents' or 'relieves', in the title, description or video.
+P59 slide 4: Images: square, at least 800 x 800 pixels, at least 3 per product, main image showing the front. No added text or watermarks.
+P59 slide 5: Your video counts as part of the listing. If you would not write it, do not say it on camera.
+P59 slide 6: TikTok Shop UK's AI content policy: label realistic AI images, and never make a product look different from what arrives.
+P59 slide 7: Affiliate creators are paid a commission you set, on top of the platform's own commission. Check the current rates in Seller Center.
+P59 slide 8: Rules change fast. Check TikTok Shop UK's current policies in Seller Center. Save this.
+P60 slide 1: Before listing 50, set up these
+P60 slide 2: 1. One brief template
+P60 slide 3: 2. A stock and pricing tracker
+P60 slide 4: 3. Saved message snippets
+P60 slide 5: 4. One photo spot, one shot list
+P60 slide 6: 5. Read gov.uk on selling online
+P60 slide 7: Templates in The Well Listed Kit: link in bio
+PIN01: eBay Title Formula for UK Sellers: Brand, Item, Size, Colour (80 Characters) | A simple eBay title formula for UK sellers: brand, item type, key detail, size, colour.
+PIN02: 5 eBay Title Mistakes That Make Your Listing Hard to Find (UK) | Five common eBay title mistakes: hype words, missing brand, US sizes, flaws in the title and wasted characters.
+PIN03: Vinted Description Template: Copy, Paste, Fill In the Gaps | A copy and paste Vinted description template for UK sellers: brand, size and fit, measurements, material, honest condition notes and a bundle line.
+PIN04: What to Put in a Vinted Description: 6 Things Buyers Always Ask | Not sure what to write in a Vinted description?
+PIN05: eBay Condition Description Examples: Honest Wording for Used Items | Honest eBay condition description examples for used clothes, electronics and homeware.
+PIN06: How to Describe Flaws in a Listing: What, Where and How Big | A simple way to describe flaws in any eBay, Vinted or Depop listing: what the flaw is, where it is, how big it is, and which photo shows it.
+PIN07: eBay Item Specifics Explained for UK Sellers: Which Ones to Fill In | A plain English guide to eBay item specifics for UK sellers.
+PIN08: Item Specifics Checklist for Clothing Listings on eBay UK | A quick item specifics checklist for clothing on eBay UK: brand, size type, size, colour, material, style, fit, sleeve length and pattern.
+PIN09: ChatGPT Prompts for eBay Listings That Write in UK English | ChatGPT prompts for eBay listings that use UK English and UK sizes, keep titles within the character limit and never invent details.
+PIN10: How to Stop ChatGPT Making Things Up in Your Listings | AI tools guess when you leave gaps.
+PIN11: ChatGPT Etsy Listing Prompt for Handmade Products (UK English) | A ChatGPT prompt for Etsy product descriptions that sound like you, not a robot.
+PIN12: Etsy Tags Planner: How to Fill All 13 Tags Without Repeats | Plan your 13 Etsy tags in five groups: what it is, style, material, who it is for and occasion, so you use every slot without repeating your title.
+PIN13: How to Price Items on Vinted UK Using Sold Listings | How to price items on Vinted in the UK: look at sold items that match yours, not active ones, adjust for condition, then set your list price and your lowest price before offers arrive.
+PIN14: Sold Comps Pricing Worksheet for eBay and Vinted Sellers | Price from evidence, not memory.
+PIN15: How to Respond to Lowball Offers on Vinted (Polite Replies) | How to respond to lowball offers on Vinted without being rude: a friendly counter-offer and a polite decline you can copy.
+PIN16: Counter Offer Message Templates for Vinted and eBay Resellers | Short counter offer message templates for Vinted and eBay: meet in the middle, offer a bundle deal or hold your price politely.
+PIN17: Vinted Message Templates: Replies for Every Buyer Question | Vinted message templates for sellers: replies for "is this still available?", measurements, bundles, postage questions, delays and returns.
+PIN18: A Better Reply to "Is This Still Available?" on Vinted and eBay | One saved reply for "is this still available?" that answers and moves things on: yes, happy to answer questions, and you can buy or make an offer through the app.
+PIN19: TikTok Shop Product Title Tips for UK Sellers: What to Include | TikTok Shop UK product title tips: say what the product is, the material, key features, quantity and size.
+PIN20: Words to Keep Out of Your TikTok Shop Product Title (UK) | Keep these out of TikTok Shop UK product titles: discount wording like "50% off", your shop name or a web address, other platform names, and decorative symbols.
+PIN21: Free UK Listing Cheat Sheet: 10 Prompts and a Character Limit Table | Get The UK Listing Cheat Sheet free: 10 copy and paste AI prompts for listings plus a character limit table for eBay, Vinted, Depop, Etsy, Amazon and TikTok Shop.
+PIN22: Listing Character Limits by Platform: eBay, Vinted, Depop, Etsy and More | Keep every title within the limit: a one-page character limit table for eBay, Vinted, Depop, Etsy, Amazon and TikTok Shop, for UK sellers.
+PIN23: 7 Checks Before You Press List: A Reseller Pre-Post Checklist | A seven point checklist to run before you press list: title within the limit, no [CHECK] notes left in, every flaw written and photographed, measurements in cm, UK words and sizes, no other brand names in the title, and your lowest price kept private.
+PIN24: A Weekly Listing Routine for Part-Time Resellers | A calm weekly listing routine for part-time resellers: one session to photograph, one to write listings in a batch, one to answer messages and review prices.
+PIN25: 5 Americanisms AI Sneaks Into UK Listings (and the UK Word) | AI tools often write American: sweater, pants, color, shipping and US sizes.
+PIN26: How to Measure Clothes for Vinted and eBay: Pit to Pit, Length, Inside Leg | How to measure clothes for your listings: pit to pit, length and inside leg, laid flat, in centimetres.
+PIN27: Depop Description Outline: A Simple Structure That Covers Everything | Four parts for every Depop description: opening line with brand and item, size and measurements, condition and any wear, then relevant hashtags.
+PIN28: Listing Photo Checklist: The Shots Every Listing Needs | A listing photo checklist for eBay, Vinted and Depop: the whole item first, front and back, labels, close ups, every flaw and what is included.
+PIN29: Bundle Offer Message Template for Vinted and Depop Sellers | A friendly bundle offer message for Vinted and Depop: thank the buyer, name the items, give one clear bundle price and a postage note, and invite them to send it through the app.
+PIN30: Declutter and Sell: Start Every Listing With a 2-Minute Listing Brief | Clearing the loft and ready to sell?

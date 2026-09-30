@@ -1,0 +1,13 @@
+"Nice jumper" is a title nobody has ever typed into a search bar.
+
+eBay UK gives you 80 characters (at the time of writing). Use them for the words a buyer would actually type:
+Brand, who it is for, colour, pattern, fabric, style, item type, size, one detail.
+
+Before: Nice jumper (11)
+After: Seasalt Womens Navy Striped Cotton Breton Jumper Size 14 Crew Neck Long Sleeve (78)
+
+Every word has to be true: fabric from the care label, size from the label, "crew neck" only if it is one. Leave "nice", "stunning" and "L@@K" out. Buyers do not search for them.
+
+Example item. Save this formula, and check the current limit in eBay's help pages.
+
+#ebaysellertips #ebayuk #resellertok #listingtips

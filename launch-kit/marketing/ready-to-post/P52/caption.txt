@@ -1,0 +1,14 @@
+One column shows which of ten listings still need a measurement or a photo. This is the spreadsheet version of the batch method.
+
+1. Start the chat with the rules: UK English, the platform, the title limit, and "write [CHECK] if a fact is missing".
+2. Paste ten short item notes, numbered, one per line.
+3. Ask for one row per item with columns for title, description, condition, price and CHECK.
+4. Ask for comma-separated text, paste it into Google Sheets or Excel and split it into columns.
+
+The check column is the useful bit. You can see at a glance which items still need a measurement or a photo before they go live.
+
+Read every row yourself before listing. The AI drafts, you decide.
+
+Save this for your next listing session. Our free UK Listing Cheat Sheet is in the bio.
+
+#resellinguk #ebayseller #vintedseller #chatgptprompts #resellertok

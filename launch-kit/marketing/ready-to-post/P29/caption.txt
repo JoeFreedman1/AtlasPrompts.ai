@@ -1,0 +1,9 @@
+AI tools do make things up, mostly when you leave gaps. Give a free AI chat tool "bosch drill 18v, 1 battery, charger, case, used, works" and ask for a listing, and it may helpfully add a second battery or "barely used". On a drill, that is a "not as described" claim waiting to happen.
+
+The fix is one instruction: use only the facts in my notes, and write [CHECK: ...] wherever something is missing.
+
+Now you get a short to-do list instead: read the battery label, say what you tested, pick a condition word. You fill those in with real facts and the listing is accurate.
+
+We call it the Listing Brief method, and every prompt in The Well Listed Kit is built on it (link in bio). Or copy the instruction from this video and use it today. Example item.
+
+#chatgptprompts #ebaysellertips #resellinguk #chatgpt #ukseller

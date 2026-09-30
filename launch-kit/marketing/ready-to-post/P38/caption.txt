@@ -1,0 +1,3 @@
+UK buyers search for "trousers". Your AI wrote "pants", which in the UK are underwear. Free AI chat tools often default to American English, so five words to watch for: pants (trousers), sweater (jumper), sneakers (trainers), purse when you mean a handbag, and shipping (postage), plus "color" and "gray" spellings. Sizes too: shoes should say "UK 6", not just "6". The fix is one line at the top of every prompt: "Use UK English spelling, UK sizes and UK words (jumper, trousers, trainers, postage)." Then read the result once before you post. Our free UK Listing Cheat Sheet has 10 prompts with this line already built in, link in bio.
+
+#chatgpttips #vintedtips #ebayuk #resellercommunityuk #ukseller

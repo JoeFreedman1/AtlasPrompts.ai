@@ -1,0 +1,15 @@
+Vintage denim jacket for Depop, with five hashtags and not one more.
+
+Example output from our Depop prompt (invented item):
+
+"Levi's mid-wash denim trucker jacket, men's M, relaxed boxy fit.
+Pit to pit 58cm, length 64cm.
+Good vintage condition: light fraying on both cuffs (photo 4), no rips or stains.
+Posted within 2 working days.
+#levis #denimjacket #truckerjacket #vintagedenim #90sdenim"
+
+Why it works: the first line does the job of a title, measurements answer the question buyers ask most, and the flaw is named with its photo. "Vintage" and "90s" are earned: the brief says the care label is dated 1996.
+
+Depop's help pages say you can use up to five hashtags and to keep them relevant. Check the current rule before you list. Save this, and get the free UK Listing Cheat Sheet from the link in bio.
+
+#depopseller #depoptips #vintagedenim #resellinguk

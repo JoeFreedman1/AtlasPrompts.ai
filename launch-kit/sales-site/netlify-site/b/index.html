@@ -116,12 +116,14 @@ footer p a{display:inline-block;padding:10px 0;min-height:44px}
  footer{padding-bottom:40px}
 }
 @media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}.sticky{transition:none}}
+.top .wrap{display:flex;justify-content:space-between;align-items:center;gap:12px}.navlink{font-weight:600;color:var(--ink);text-decoration:underline;min-height:44px;display:inline-flex;align-items:center}
+.guides ul{list-style:none;padding:0;display:grid;gap:10px}.guides li a{display:block;background:#fff;border:1px solid #e6dccd;border-radius:12px;padding:14px 16px;color:var(--ink);text-decoration:none;font-weight:600}.guides li a span{display:block;font-weight:400;color:#5b6478;font-size:.92rem;margin-top:4px}
 </style>
 </head>
 <body>
 <a class="skip" href="#main">Skip to content</a>
 <header class="top">
- <div class="wrap"><a class="logo" href="#top" aria-label="Well Listed, home">Well Listed<svg viewBox="0 0 20 20" aria-hidden="true"><path d="M3 10l5 5 9-11" stroke="#1E7F55" stroke-width="3.2" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></a></div>
+ <div class="wrap"><a class="logo" href="#top" aria-label="Well Listed, home">Well Listed<svg viewBox="0 0 20 20" aria-hidden="true"><path d="M3 10l5 5 9-11" stroke="#1E7F55" stroke-width="3.2" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></a> <a class="navlink" href="/blog/">Free guides</a></div>
 </header>
 
 <main id="main">
@@ -134,7 +136,7 @@ footer p a{display:inline-block;padding:10px 0;min-height:44px}
    <h1>Clear the listing pile and the buyer messages <span class="hl">without losing your evening.</span></h1>
    <p class="lede">The Well Listed Kit turns the free AI tool on your phone into a careful listing assistant. Fill in a short brief for each item, paste in a prompt, and get a UK-ready title, description and polite replies for "is this still available?" and cheeky offers. You check it, you post it, you put the kettle on.</p>
    <a class="btn" href="[GUMROAD_PRODUCT_LINK]">Get the kit for £12</a>
-   <p class="micro">Launch price until [LAUNCH END DATE], then £19. One payment, no subscription. 30-day no-questions refund. For eBay, Vinted, Depop, Etsy, Amazon and TikTok Shop, using free ChatGPT, Claude, Gemini or Copilot.</p>
+   <p class="micro">Launch price until Tuesday 13 October 2026, then £19. One payment, no subscription. 30-day no-questions refund. For eBay, Vinted, Depop, Etsy, Amazon and TikTok Shop, using free ChatGPT, Claude, Gemini or Copilot.</p>
   </div>
  </div>
 </section>
@@ -244,12 +246,14 @@ vinted</p>
     <li>A platform title and tag limits table, with links to check</li>
     <li>A 7-point check before you post</li>
    </ul>
-   <!-- EMAIL FORM EMBED CODE: paste MailerLite form here -->
-   <form class="signup" action="[EMAIL_FORM_ACTION_URL]" method="post">
+   <!-- Sign-up uses Netlify Forms (free, built into Netlify). Submissions appear in the Netlify dashboard under Forms. Welcome emails are off, so the cheat sheet opens on the next page. -->
+   <form class="signup" name="cheat-sheet" method="POST" action="/free/thanks.html" data-netlify="true" netlify-honeypot="bot-field">
+    <input type="hidden" name="form-name" value="cheat-sheet">
+    <p hidden><label>Leave this empty: <input name="bot-field"></label></p>
     <label for="email-b">Your email address</label>
     <input id="email-b" type="email" name="email" autocomplete="email" required placeholder="you@example.com">
-    <button class="btn" type="submit">Send me the cheat sheet</button>
-    <p class="small">We will email you the cheat sheet, then occasional selling tips and news about the kit. Unsubscribe any time with one click. See our <a href="/privacy.html">privacy notice</a>.</p>
+    <button class="btn" type="submit">Get the cheat sheet</button>
+    <p class="small">The cheat sheet opens straight away on the next page. We keep your email address so we can send occasional selling tips and kit news later; every email will have a one-click unsubscribe, and you can ask us to delete your address at any time. See our <a href="/privacy.html">privacy notice</a>.</p>
    </form>
   </div>
  </div>
@@ -276,7 +280,7 @@ vinted</p>
    <p class="was">Full price £19</p>
    <p class="now">£12</p>
    <p><strong>Launch price for the first 14 days.</strong></p>
-   <p class="note">Launch price ends at 11:59pm UK time on [LAUNCH END DATE]. After that the kit is £19. There is no timer and no limited stock: it is a download.</p>
+   <p class="note">Launch price ends at 11:59pm UK time on Tuesday 13 October 2026. After that the kit is £19. There is no timer and no limited stock: it is a download.</p>
    <ul class="ticks" style="text-align:left">
     <li>90 prompts in 13 modules, including an all-in-one prompt per platform</li>
     <li>Batch prompts for up to 10 items in one chat</li>
@@ -292,7 +296,7 @@ vinted</p>
     <div class="seal" aria-hidden="true">30<br>days</div>
     <div>
      <h2>30 days, no questions</h2>
-     <p>Use the kit on your next few batches. If it does not earn its place in your evening, email us at [BRAND_EMAIL] or reply to your Gumroad receipt within 30 days of buying and we will refund you in full through Gumroad. No questions, no forms.</p>
+     <p>Use the kit on your next few batches. If it does not earn its place in your evening, email us at hello.welllisted@gmail.com or reply to your Gumroad receipt within 30 days of buying and we will refund you in full through Gumroad. No questions, no forms.</p>
      <p class="small">This is on top of your legal rights, not instead of them.</p>
     </div>
    </div>
@@ -313,7 +317,7 @@ vinted</p>
   <details><summary>Will it guarantee sales?</summary><div class="a"><p>No. Nobody can honestly promise that. The kit helps you write clear, accurate listings and replies faster. What sells still depends on the item, the price and the buyer.</p></div></details>
   <details><summary>Is it affiliated with eBay, Vinted, Etsy or the others?</summary><div class="a"><p>No. Well Listed is independent and is not affiliated with or endorsed by eBay, Vinted, Depop, Etsy, Amazon, TikTok or any AI tool provider. We only name them to say which platforms the kit is written for.</p></div></details>
   <details><summary>Does it work with my cross-listing app?</summary><div class="a"><p>Yes, alongside it. Use your cross-lister for posting and the kit for the words. One batch prompt outputs your listings as a table or CSV you can paste into a spreadsheet or import into bulk tools that accept CSV (check your tool's import format).</p></div></details>
-  <details><summary>How do refunds work?</summary><div class="a"><p>Email [BRAND_EMAIL] or reply to your Gumroad receipt within 30 days of buying. We refund you in full through Gumroad, back to the way you paid. No questions asked.</p></div></details>
+  <details><summary>How do refunds work?</summary><div class="a"><p>Email hello.welllisted@gmail.com or reply to your Gumroad receipt within 30 days of buying. We refund you in full through Gumroad, back to the way you paid. No questions asked.</p></div></details>
   <details><summary>Do I get updates?</summary><div class="a"><p>If we update the kit (for example after a platform changes a limit or rule), you can download the new version free from your Gumroad library. We cannot promise future updates, so please buy it for what is in it today. The platform cheatsheet shows the date its facts were last checked.</p></div></details>
   <details><summary>What file formats do I get?</summary><div class="a"><p>A PDF guide, an HTML prompt library (any browser, works offline), a plain-text file of every prompt, and templates as CSV spreadsheets and text files. CSV opens in Excel, Google Sheets or Apple Numbers. It all comes as one download from Gumroad.</p></div></details>
   <details><summary>Anything I should know about Etsy?</summary><div class="a"><p>The Etsy prompts write titles, 13 tags and descriptions for handmade, vintage and craft supply items. Etsy's Creativity Standards ask you to disclose when AI was used to create or design the item itself, and the Etsy checker prompt reminds you of this. Check Etsy's current rules in its help pages.</p></div></details>
@@ -322,13 +326,15 @@ vinted</p>
  </div>
 </section>
 
+
+<section class="section guides" id="guides"><div class="wrap narrow"><h2>Free guides for UK sellers</h2><p>Practical how-tos you can use today, no sign-up needed.</p><ul><li><a href="/blog/how-to-write-an-ebay-title-uk.html">How to Write an eBay Title (UK): Formula and Examples<span>How to write an eBay title in the UK: a simple word order, 80-character tips, before and after examples and a free AI prompt you can copy.</span></a></li><li><a href="/blog/vinted-description-template.html">Vinted Description Template (Free, Copy and Paste)<span>A free Vinted description template you can copy, what to put in a Vinted description, worked examples and an AI prompt that sticks to the facts.</span></a></li><li><a href="/blog/ebay-condition-description-examples.html">eBay Condition Description Examples (UK Sellers)<span>eBay condition description examples for clothing, electronics, books and homeware, how to describe flaws honestly, and what GUC and VGC mean.</span></a></li><li><a href="/blog/ebay-item-specifics-uk.html">eBay Item Specifics UK: How to Fill Them In Properly<span>What eBay item specifics are, how to fill them in on eBay UK, a worked clothing example and a free AI prompt that never guesses brand or material.</span></a></li><li><a href="/blog/chatgpt-prompts-for-ebay-listings.html">ChatGPT Prompts for eBay Listings (UK, Copy and Paste)<span>Copy-paste ChatGPT prompts for eBay UK listings: titles, descriptions, condition and item specifics, plus how to stop AI inventing details.</span></a></li><li><a href="/blog/chatgpt-etsy-listing-prompt.html">ChatGPT Etsy Listing Prompt: Titles and Descriptions<span>A copy-paste ChatGPT Etsy listing prompt for UK makers, plus an Etsy product description template that keeps the AI to your real facts.</span></a></li><li><a href="/blog/how-to-price-items-on-vinted-uk.html">How to Price Items on Vinted UK: A Calm Method<span>How to price items on Vinted UK from real comparable items: find the middle, adjust for condition, set a floor and plan price drops.</span></a></li><li><a href="/blog/how-to-respond-to-lowball-offers-vinted.html">How to Respond to Lowball Offers on Vinted<span>How to respond to lowball offers on Vinted: set a floor, then counter, decline politely or accept. Copy-paste replies and a prompt inside.</span></a></li><li><a href="/blog/vinted-message-templates.html">Vinted Message Templates: 14 Polite Replies to Copy<span>Copy-paste Vinted message templates for &quot;is this still available?&quot;, offers, postage, delays and returns. They work as eBay buyer replies too.</span></a></li><li><a href="/blog/tiktok-shop-product-title-uk.html">TikTok Shop Product Title UK: Rules and Examples<span>How to write a TikTok Shop product title in the UK: the listing rules, a simple formula, before and after examples and a prompt to copy.</span></a></li></ul><p><a href="/blog/">All guides</a></p></div></section>
 </main>
 
 <footer>
  <div class="wrap">
   <p><strong>Well Listed</strong>. The Well Listed Kit: AI prompts, templates and checklists for UK sellers.</p>
   <p>Not affiliated with or endorsed by eBay, Vinted, Depop, Etsy, Amazon or TikTok. Platform names are used only to describe which platforms the kit is written for. Platform rules and limits change: check the current rule in each platform's help pages. Nothing on this site is legal or tax advice.</p>
-  <p><a href="/privacy.html">Privacy notice</a> &middot; <a href="/terms.html">Terms of sale and licence</a> &middot; Contact: [BRAND_EMAIL]</p>
+  <p><a href="/blog/">Free guides</a> &middot; <a href="/privacy.html">Privacy notice</a> &middot; <a href="/terms.html">Terms of sale and licence</a> &middot; Contact: hello.welllisted@gmail.com</p>
   <!-- Seller details (legal name and address) appear ONLY on terms.html and privacy.html. Never put them here. -->
   <p class="small" style="color:#D8D2C6">Seller details: see our <a href="/terms.html" style="color:#D8D2C6">terms</a>.</p>
  </div>

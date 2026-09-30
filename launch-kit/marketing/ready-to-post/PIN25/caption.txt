@@ -1,0 +1,11 @@
+TITLE:
+5 Americanisms AI Sneaks Into UK Listings (and the UK Word)
+
+DESCRIPTION:
+AI tools often write American: sweater, pants, color, shipping and US sizes. Five swaps for UK listings, such as jumper, trousers, colour and postage, plus one line to add to any prompt so ChatGPT writes in UK English for UK buyers.
+
+LINK:
+https://well-listed.netlify.app/blog/chatgpt-prompts-for-ebay-listings.html
+
+BOARD:
+eBay Selling Tips UK

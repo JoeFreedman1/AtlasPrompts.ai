@@ -1,0 +1,11 @@
+Ask an AI chat tool for the Amazon UK title limit and it may still say 200. Amazon announced that from 27 July 2026, titles in most categories (media excepted) must be 75 characters or fewer. AI tools learn from older text, so the platform rules they "know" can be out of date.
+
+Things nobody mentions:
+1. Tell it the limit. Never ask it.
+2. It miscounts characters, so ask for the count and check it.
+3. It softens flaws unless told not to ("stain" becomes "character").
+4. Anything you paste may be stored by the tool, so swap buyers' names and addresses for [BUYER].
+
+Every prompt in The Well Listed Kit gives the AI the rules instead of asking for them. Link in bio. Rules change: check the current rule in each platform's help pages.
+
+#chatgpt #chatgptprompts #amazonseller #ebaysellertips #resellinguk

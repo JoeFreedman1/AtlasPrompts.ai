@@ -1,0 +1,12 @@
+Guessed £45, but the last five matching pairs sold for £18 to £30. A price from memory ("they cost a lot new") is still a guess.
+
+The fix takes about ten minutes:
+1. Turn on the Sold items filter on eBay and copy five pairs that match: same boot, same size.
+2. Note the postage each one charged.
+3. Compare like with like. In our example, two pairs had splits at the ankle and sold low, so they are not fair comparisons for a pair without splits.
+
+What is left gives you a range, a list price and a floor. Paste the good matches into any free AI tool and ask it to show the sums if you want the maths done for you.
+
+Every figure here is invented for illustration. Save this for the next thing you are not sure how to price.
+
+#ebaysellertips #vintedpricing #resellinguk #resellercommunityuk

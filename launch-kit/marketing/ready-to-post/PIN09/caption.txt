@@ -1,0 +1,11 @@
+TITLE:
+ChatGPT Prompts for eBay Listings That Write in UK English
+
+DESCRIPTION:
+ChatGPT prompts for eBay listings that use UK English and UK sizes, keep titles within the character limit and never invent details. Give the AI your facts first, then ask for the title and description. Works with free ChatGPT, Claude or Gemini.
+
+LINK:
+https://well-listed.netlify.app/blog/chatgpt-prompts-for-ebay-listings.html
+
+BOARD:
+Listing Templates and Prompts

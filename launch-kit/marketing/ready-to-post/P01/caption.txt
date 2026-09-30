@@ -1,0 +1,14 @@
+Scrappy notes to a full eBay UK title in one prompt.
+
+The trick is not a clever prompt. It is three plain rules:
+1. Use only the facts in my notes. Do not add anything.
+2. Brand first, then item type, then model, size and colour.
+3. Never go over 80 characters, spaces included, and show the count.
+
+Then count it yourself or paste it into the eBay form, because AI tools miscount. Flaws (like the small mark on this sleeve) belong in the description and condition notes, not the title.
+
+The full prompt is in our free UK Listing Cheat Sheet. Link in bio.
+
+Example item. eBay's title limit is 80 characters at the time of writing: check the current rule in eBay's help pages.
+
+#ebayuk #ebaysellertips #resellertok #chatgptprompts #resellercommunityuk

@@ -1,0 +1,11 @@
+Sweater, pants, fall, ships fast. If your AI-written listing sounds like this, UK buyers can tell.
+
+Free AI tools often default to American English, and when they are short of facts they fill the gaps: "merino" instead of wool blend, a US size instead of the label size, "gorgeous" instead of anything useful.
+
+Two fixes:
+1. Say "UK English and UK sizes" in every prompt (jumper, trousers, trainers, postage).
+2. Give it a Listing Brief and say "use only these facts. Write [CHECK] if something is missing."
+
+The Well Listed Kit has these rules built into every prompt, plus brief templates for seven categories. £12 at launch. Example item in the video.
+
+#chatgptprompts #vintedtips #ebayseller #resellertok #ukseller

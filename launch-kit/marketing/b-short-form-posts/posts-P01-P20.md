@@ -263,7 +263,7 @@ Free UK Listing Cheat Sheet (with the character-limit table): link in bio.
 6. (25 to 30s) VO: "You find the prices. The AI does the maths. Save this." | On screen: "You find the prices. AI does the maths."
 
 ### On-screen text
-Stop asking AI "what is this worth?"
+Stop asking AI 'what is this worth?'
 You find the sold prices.
 5 to 10 matches. Sold, not asking.
 Use only my numbers. Show the sums.
@@ -312,7 +312,7 @@ No scraping tools needed. Ten minutes of looking gives better matches anyway. Ex
 
 ### Script
 1. (0 to 2s) VO: "Listed at sixty-five pounds. They offer twenty-five." | On screen: "Listed at £65. Offer: £25."
-2. (2 to 5s) VO: "You have three bad options: ignore it, snap at them, or cave." | On screen: "Ignore. Snap. Cave."
+2. (2 to 5s) VO: "You have three bad options: ignore it, snap at them, or cave." | On screen: "Three bad options: ignore, snap, cave."
 3. (5 to 10s) VO: "Better: decide your floor before the offer arrives. Then the reply writes itself." | On screen: "Decide your floor first."
 4. (10 to 16s) VO: "Ask the AI for a short, friendly counter that never goes below your floor and gives one true reason." | On screen: "Friendly. Short. One true reason."
 5. (16 to 21s) VO: "Thanks for the offer. The lowest I can do is fifty-six pounds, as it is heavy to post. Happy to hold it if that works." | On screen: "Thanks for the offer. The lowest I can do is £56, as it is heavy to post."
@@ -320,7 +320,7 @@ No scraping tools needed. Ten minutes of looking gives better matches anyway. Ex
 
 ### On-screen text
 Listed at £65. Offer: £25.
-Ignore. Snap. Cave.
+Three bad options: ignore, snap, cave.
 Decide your floor first.
 Friendly. Short. One true reason.
 Thanks for the offer. The lowest I can do is £56, as it is heavy to post.
@@ -442,7 +442,7 @@ One brief. Three versions. Same facts.
 eBay: Topshop Womens Brown Suede Jacket Size 10 Button Front 90s Style
 Vinted: Topshop brown suede jacket, size 10
 Depop: Brown suede Topshop jacket, UK 10, boxy fit
-"90s style" because the era is not confirmed.
+Written as '90s style' because the era is not confirmed.
 The Well Listed Kit. £12 at launch.
 
 ### Caption
@@ -495,7 +495,7 @@ The Well Listed Kit has the three-in-one prompt. £12 at launch. Check current l
 ### On-screen text
 Ten items. One chat. Stop starting from scratch.
 Message 1: the rules. Once.
-"Reply READY and wait for my first item."
+'Reply READY and wait for my first item.'
 Item 1. Item 2. Item 3...
 Every 5 items: paste the rules again.
 Batch the typing. Not the checking.
@@ -541,18 +541,18 @@ Works in the free versions of the common AI chat tools. The rules message is in 
 2. (2 to 8s) VO: "Tops: pit to pit. Lay it flat, buttoned, and measure straight across from one armpit seam to the other." | On screen: "Tops: pit to pit. Armpit seam to armpit seam."
 3. (8 to 12s) VO: "Then length: top of the shoulder by the collar, down to the hem." | On screen: "Length: shoulder by the collar to hem."
 4. (12 to 17s) VO: "Trousers and jeans: waist straight across, then inside leg, crotch seam to hem." | On screen: "Trousers: waist flat. Inside leg: crotch seam to hem."
-5. (17 to 22s) VO: "Rise matters for high-waisted jeans. Sleeve matters for coats and anyone tall." | On screen: "Rise: high-waisted. Sleeve: coats."
-6. (22 to 26s) VO: "If you double a flat measurement, say you doubled it." | On screen: "Doubled? Say so."
-7. (26 to 30s) VO: "Centimetres, laid flat, and say how you measured. Save this." | On screen: "Cm. Laid flat. Say how. Save this."
+5. (17 to 22s) VO: "Rise matters for high-waisted jeans. Sleeve matters for coats and anyone tall." | On screen: "Rise: for high-waisted jeans. Sleeve: for coats."
+6. (22 to 26s) VO: "If you double a flat measurement, say you doubled it." | On screen: "Doubled a flat measurement? Say so."
+7. (26 to 30s) VO: "Centimetres, laid flat, and say how you measured. Save this." | On screen: "In cm, laid flat. Say how you measured. Save this."
 
 ### On-screen text
 Size 12 today is not size 12 in 1985.
 Tops: pit to pit. Armpit seam to armpit seam.
 Length: shoulder by the collar to hem.
 Trousers: waist flat. Inside leg: crotch seam to hem.
-Rise: high-waisted. Sleeve: coats.
-Doubled? Say so.
-Cm. Laid flat. Say how. Save this.
+Rise: for high-waisted jeans. Sleeve: for coats.
+Doubled a flat measurement? Say so.
+In cm, laid flat. Say how you measured. Save this.
 
 ### Caption
 ```text
@@ -764,15 +764,15 @@ Example item. Save this formula, and check the current limit in eBay's help page
 ### Script
 1. (0 to 2s) VO: "This description is three phrases and zero facts." | On screen: "'Good condition, fits true to size, open to offers.'"
 2. (2 to 6s) VO: "Good condition compared to what? True to which size? And 'open to offers' invites twenty-five pounds on a sixty-pound coat." | On screen: "Compared to what? Which size?"
-3. (6 to 10s) VO: "Paste your brief and ask for facts in short lines. Here is the after." | On screen: "After:"
+3. (6 to 10s) VO: "Paste your brief and ask for facts in short lines. Here is the after." | On screen: "After: the same coat, in facts."
 4. (10 to 17s) VO: "Whistles wool-blend coat, size 12 on label. Pit to pit 54 centimetres, length 98. Very good: light bobbling on the pocket edges, photo six. Lining intact." | On screen: "Whistles wool-blend coat, size 12 on label. Pit to pit 54 cm, length 98 cm. Very good: light bobbling on pocket edges (photo 6). Lining intact."
 5. (17 to 21s) VO: "Same coat, but now a buyer can decide without messaging you first." | On screen: "Facts, not adjectives."
 6. (21 to 25s) VO: "Free description prompts in our cheat sheet. Link in bio." | On screen: "Free cheat sheet: link in bio"
 
 ### On-screen text
-"Good condition, fits true to size, open to offers."
+'Good condition, fits true to size, open to offers.'
 Compared to what? Which size?
-After:
+After: the same coat, in facts.
 Whistles wool-blend coat, size 12 on label.
 Pit to pit 54 cm, length 98 cm.
 Very good: light bobbling on pocket edges (photo 6).
@@ -827,8 +827,8 @@ Example item, invented for the video. Free description prompts in the UK Listing
 5. (16 to 20s) VO: "Save it as a quick reply. Save this post too." | On screen: "Save it as a quick reply."
 
 ### On-screen text
-"Is this still available?" "Yes." ...silence.
-"Yes" is a dead end.
+'Is this still available?' 'Yes.' ...silence.
+'Yes' is a dead end.
 Yes, still available. Size 12, pit to pit 52 cm.
 Posted within 2 days. Any questions, just ask.
 1 fact. 1 postage line. 1 open door.
@@ -937,7 +937,7 @@ The Well Listed Kit writes the title and tags together from one brief. Link in b
 Two listings. Same scuffed boots.
 A: "Great condition." Scuff not shown.
 B: Small scuff, outer left heel, about 1 cm (photo 5).
-Light toe creasing.
+B also names the light toe creasing.
 A buyer who knows is a buyer who stays.
 Close-up. Daylight. Coin for scale.
 Disclose it. Show it. Save this.
@@ -988,7 +988,7 @@ Photograph it close up in daylight with a coin for scale. Save this.
 
 ### On-screen text
 Sweater. Pants. Fall. Ships fast.
-"Gorgeous merino sweater! Perfect for fall! Size 8 US."
+'Gorgeous merino sweater! Perfect for fall! Size 8 US.'
 Merino? Label says wool blend.
 UK English. Jumper, trousers, trainers, postage.
 Use ONLY the facts in my brief.

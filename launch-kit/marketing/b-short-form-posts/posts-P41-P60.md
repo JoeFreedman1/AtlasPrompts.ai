@@ -73,9 +73,9 @@ Canva carousel, 1080 x 1350. Slide 1: cream #FAF6EF background with the parcel l
 7. (31 to 35s) VO: "Save this. Our free cheat sheet has the condition prompts. Link in bio." | On screen: "Save this. Free cheat sheet in bio"
 
 ### On-screen text
-"Good used condition": worn once, or worn to bits?
+'Good used condition': worn once, or worn to bits?
 1. Where, what, how big
-2. "See photo 6"
+2. 'See photo 6'
 3. Tested / not tested
 4. Name the wear, then the good news
 5. Condition box matches the text
@@ -471,7 +471,7 @@ Screen recording of a free AI chat tool, cropped to the chat. Paste a block of i
 6. (29 to 35s) VO: "Four prompts, one week. Remove the buyer's name before you paste. Free cheat sheet in bio." | On screen: "Remove their details. Free cheat sheet in bio"
 
 ### On-screen text
-Mon: "Still available?" Tue: "£5?"
+Mon: 'Still available?' Tue: '£5?'
 Mon: Yes, plus the useful detail
 Tue: Polite counter, above your floor
 Thu: One bundle price, one reason
@@ -524,11 +524,11 @@ Vertical slideshow in CapCut. Each day is a mock phone chat built in Canva (inve
 
 ### On-screen text
 5 problems. Spot them?
-1. "Anti-bacterial"
-2. "Dermatologist approved"
-3. "Best on TikTok"
-4. "Only 3 left!!!"
-5. "Stops frizz forever"
+1. 'Anti-bacterial'
+2. 'Dermatologist approved'
+3. 'Best on TikTok'
+4. 'Only 3 left!!!'
+5. 'Stops frizz forever'
 Rewritten with facts you can back up
 Save this
 
@@ -731,8 +731,8 @@ Canva carousel, 1080 x 1350, Cream #FAF6EF background, each tip on a parcel labe
 6. (26 to 30s) VO: "Check the current rules in eBay's help pages. Save this for your next title." | On screen: "Save this for your next title"
 
 ### On-screen text
-"Nikon D3200 18-55mm" = 19, not 17
-"Great camera" vs what buyers type
+'Nikon D3200 18-55mm' = 19, not 17
+'Great camera' vs what buyers type
 Brand + model first
 L@@K!!! wastes characters
 Fill in item specifics
@@ -877,16 +877,16 @@ Canva carousel, 1080 x 1350. Slide 1: Ink #1F2A44 background, Cream #FAF6EF text
 2. (3 to 9s) VO: "Amazon announced seventy-five characters for most categories from twenty-seven July twenty twenty-six. AI tools learn from older text, so the rules they know can be out of date." | On screen: "Most categories: 75 from 27 July 2026"
 3. (9 to 14s) VO: "So tell it the limit. Never ask it what the limit is." | On screen: "Tell it the limit. Don't ask it."
 4. (14 to 19s) VO: "It miscounts characters too. Ask it to show the count, then check it yourself." | On screen: "It miscounts. Check the count."
-5. (19 to 24s) VO: "It softens flaws if you let it. 'Stain' turns into 'character'. Tell it to keep every flaw as serious as you wrote it." | On screen: "'Stain' is not 'character'"
+5. (19 to 24s) VO: "It softens flaws if you let it. 'Stain' turns into 'character'. Tell it to keep every flaw as serious as you wrote it." | On screen: "Don't let 'stain' become 'character'"
 6. (24 to 29s) VO: "And anything you paste may be stored by the tool. Swap a buyer's name and address for BUYER first." | On screen: "No buyer names or addresses"
 7. (29 to 35s) VO: "Every prompt in The Well Listed Kit gives the AI the rules, instead of asking it for them. Link in bio." | On screen: "The Well Listed Kit: link in bio"
 
 ### On-screen text
-Amazon UK title limit? "About 200."
+Amazon UK title limit? 'About 200.'
 Most categories: 75 from 27 July 2026
 Tell it the limit. Don't ask it.
 It miscounts. Check the count.
-"Stain" is not "character"
+Don't let 'stain' become 'character'
 No buyer names or addresses
 The Well Listed Kit: link in bio
 
@@ -971,7 +971,7 @@ Canva carousel, 1080 x 1350 (or 1080 x 1920 for TikTok photo mode). Slide 1: a m
 **Hook (first 2 seconds):** "Somewhere around listing 50, the notes app stops coping. Set these up before you get there."
 
 ### Script
-1. (0 to 3s) VO: "Somewhere around listing fifty, the notes app stops coping. Set these up before you get there." | On screen: "Before listing 50, set up these"
+1. (0 to 3s) VO: "Somewhere around listing fifty, the notes app stops coping. Set these up before you get there." | On screen: "Before listing 50, set these up"
 2. (3 to 9s) VO: "One. A Listing Brief template. The same fields every time, so nothing gets forgotten." | On screen: "1. One brief template"
 3. (9 to 16s) VO: "Two. A stock tracker. Item code, where it is stored, what you paid, where it is listed, price, floor, and date sold." | On screen: "2. A stock and pricing tracker"
 4. (16 to 22s) VO: "Three. Message snippets for the questions you answer every week." | On screen: "3. Saved message snippets"
@@ -980,7 +980,7 @@ Canva carousel, 1080 x 1350 (or 1080 x 1920 for TikTok photo mode). Slide 1: a m
 7. (33 to 39s) VO: "The Well Listed Kit includes the brief, tracker, snippets and shot lists as templates. Link in bio." | On screen: "Templates in The Well Listed Kit. Link in bio"
 
 ### On-screen text
-Before listing 50, set up these
+Before listing 50, set these up
 1. One brief template
 2. A stock and pricing tracker
 3. Saved message snippets

@@ -116,12 +116,14 @@ footer p a{display:inline-block;padding:10px 0;min-height:44px}
  footer{padding-bottom:40px}
 }
 @media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}.sticky{transition:none}}
+.top .wrap{display:flex;justify-content:space-between;align-items:center;gap:12px}.navlink{font-weight:600;color:var(--ink);text-decoration:underline;min-height:44px;display:inline-flex;align-items:center}
+.guides ul{list-style:none;padding:0;display:grid;gap:10px}.guides li a{display:block;background:#fff;border:1px solid #e6dccd;border-radius:12px;padding:14px 16px;color:var(--ink);text-decoration:none;font-weight:600}.guides li a span{display:block;font-weight:400;color:#5b6478;font-size:.92rem;margin-top:4px}
 </style>
 </head>
 <body>
 <a class="skip" href="#main">Skip to content</a>
 <header class="top">
- <div class="wrap"><a class="logo" href="#top" aria-label="Well Listed, home">Well Listed<svg viewBox="0 0 20 20" aria-hidden="true"><path d="M3 10l5 5 9-11" stroke="#1E7F55" stroke-width="3.2" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></a></div>
+ <div class="wrap"><a class="logo" href="#top" aria-label="Well Listed, home">Well Listed<svg viewBox="0 0 20 20" aria-hidden="true"><path d="M3 10l5 5 9-11" stroke="#1E7F55" stroke-width="3.2" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></a> <a class="navlink" href="/blog/">Free guides</a></div>
 </header>
 
 <main id="main">
@@ -244,12 +246,14 @@ vinted</p>
     <li>A platform title and tag limits table, with links to check</li>
     <li>A 7-point check before you post</li>
    </ul>
-   <!-- EMAIL FORM EMBED CODE: paste MailerLite form here -->
-   <form class="signup" action="[EMAIL_FORM_ACTION_URL]" method="post">
+   <!-- Sign-up uses Netlify Forms (free, built into Netlify). Submissions appear in the Netlify dashboard under Forms. Welcome emails are off, so the cheat sheet opens on the next page. -->
+   <form class="signup" name="cheat-sheet" method="POST" action="/free/thanks.html" data-netlify="true" netlify-honeypot="bot-field">
+    <input type="hidden" name="form-name" value="cheat-sheet">
+    <p hidden><label>Leave this empty: <input name="bot-field"></label></p>
     <label for="email-b">Your email address</label>
     <input id="email-b" type="email" name="email" autocomplete="email" required placeholder="you@example.com">
-    <button class="btn" type="submit">Send me the cheat sheet</button>
-    <p class="small">We will email you the cheat sheet, then occasional selling tips and news about the kit. Unsubscribe any time with one click. See our <a href="/privacy.html">privacy notice</a>.</p>
+    <button class="btn" type="submit">Get the cheat sheet</button>
+    <p class="small">The cheat sheet opens straight away on the next page. We keep your email address so we can send occasional selling tips and kit news later; every email will have a one-click unsubscribe, and you can ask us to delete your address at any time. See our <a href="/privacy.html">privacy notice</a>.</p>
    </form>
   </div>
  </div>
@@ -322,13 +326,15 @@ vinted</p>
  </div>
 </section>
 
+
+<!-- BLOG LINKS: filled in by tools/build_site.py from the blog articles -->
 </main>
 
 <footer>
  <div class="wrap">
   <p><strong>Well Listed</strong>. The Well Listed Kit: AI prompts, templates and checklists for UK sellers.</p>
   <p>Not affiliated with or endorsed by eBay, Vinted, Depop, Etsy, Amazon or TikTok. Platform names are used only to describe which platforms the kit is written for. Platform rules and limits change: check the current rule in each platform's help pages. Nothing on this site is legal or tax advice.</p>
-  <p><a href="/privacy.html">Privacy notice</a> &middot; <a href="/terms.html">Terms of sale and licence</a> &middot; Contact: [BRAND_EMAIL]</p>
+  <p><a href="/blog/">Free guides</a> &middot; <a href="/privacy.html">Privacy notice</a> &middot; <a href="/terms.html">Terms of sale and licence</a> &middot; Contact: [BRAND_EMAIL]</p>
   <!-- Seller details (legal name and address) appear ONLY on terms.html and privacy.html. Never put them here. -->
   <p class="small" style="color:#D8D2C6">Seller details: see our <a href="/terms.html" style="color:#D8D2C6">terms</a>.</p>
  </div>

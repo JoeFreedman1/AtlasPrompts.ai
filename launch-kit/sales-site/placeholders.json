@@ -1,14 +1,14 @@
 {
-  "_help": "Fill in the values, then run: python3 launch-kit/tools/build_site.py . LEGAL NAME and ADDRESS are yours to fill in yourself; they appear ONLY on the terms and privacy pages. Leave a value empty to keep the [PLACEHOLDER] visible. Never put passwords here.",
+  "_help": "Only GUMROAD_PRODUCT_LINK, LEGAL NAME and ADDRESS are left for the owner. LEGAL NAME and ADDRESS appear ONLY on the terms and privacy pages. launch_date (YYYY-MM-DD) is set by Claude on deploy day; the launch end date and page dates are worked out from it. site_url and BRAND_EMAIL are pre-filled with the planned values: change them if the real ones differ. Never put passwords here.",
   "live_version": "A",
-  "site_url": "",
+  "site_url": "https://well-listed.netlify.app",
   "GUMROAD_PRODUCT_LINK": "",
   "LAUNCH END DATE": "",
-  "BRAND_EMAIL": "",
+  "BRAND_EMAIL": "hello.welllisted@gmail.com",
   "LEGAL NAME": "",
   "ADDRESS": "",
   "DATE": "",
-  "EMAIL_FORM_ACTION_URL": "",
   "SALES_PAGE_URL": "",
-  "CHEAT_SHEET_LINK": ""
+  "CHEAT_SHEET_LINK": "",
+  "launch_date": ""
 }

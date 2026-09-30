@@ -1,0 +1,11 @@
+TITLE:
+Bundle Offer Message Template for Vinted and Depop Sellers
+
+DESCRIPTION:
+A friendly bundle offer message for Vinted and Depop: thank the buyer, name the items, give one clear bundle price and a postage note, and invite them to send it through the app. Helps buyers say yes without a long back and forth.
+
+LINK:
+https://well-listed.netlify.app/blog/vinted-message-templates.html
+
+BOARD:
+Vinted Selling Tips

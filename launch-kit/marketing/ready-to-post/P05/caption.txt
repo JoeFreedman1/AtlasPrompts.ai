@@ -1,0 +1,12 @@
+Stop asking AI what your item is worth. It has not seen last week's sold prices, so it guesses, confidently.
+
+Do this instead:
+1. Look up sold listings yourself (on eBay, turn on the "Sold items" filter).
+2. Copy 5 to 10 close matches: title, sold price, postage, condition. Asking prices are not sold prices.
+3. Paste them in with your item details and say: use only my numbers, show your working, tell me if the evidence is thin.
+
+You get a range, a median, a list price and a floor you can explain to yourself later.
+
+No scraping tools needed. Ten minutes of looking gives better matches anyway. Example figures in the video. Save this.
+
+#vintedtips #ebaysellertips #resellertok #resellinguk #chatgpttips

@@ -1,6 +1,6 @@
-# LAUNCH.md: launch day in one session (87 minutes)
+# LAUNCH.md: launch day in one session (80 minutes)
 
-Well Listed trades as a **sole trader** under the brand name Well Listed. Your legal name and address appear **only** on the terms and privacy pages, which you fill in yourself (step 4). They never appear in the brand, bios, posts, emails, product or sales page. **Budget: £0.** Everything below uses free plans only: Gumroad, Netlify, MailerLite free, free social accounts and free content tools. No ads.
+Well Listed trades as a **sole trader** under the brand name Well Listed. Your legal name and address appear **only** on the terms and privacy pages, which you fill in yourself (step 4). They never appear in the brand, bios, posts, emails, product or sales page. **Budget: £0.** Everything below uses free plans only: Gumroad, Netlify (including its free forms), free social accounts and free content tools. No ads.
 
 **Every value you type today** (email options, Gumroad text, handles, bios, captions and download links) is in `LAUNCH-COPY-PASTE.md`, each in its own copy box. Keep it open alongside this checklist.
 
@@ -28,17 +28,13 @@ Do the steps in order. Each step says how long it should take. Everything else (
    - Description, summary and tags: copy from `marketing/i-marketplace-listings/listings.md` (Gumroad section). It includes the line "Instant download. By buying you agree to immediate access.", which the terms page relies on.
    - Refund policy: 30 days, no questions (matches the sales page).
    - Publish the product and copy its link (it looks like `https://welllisted.gumroad.com/l/...`).
-4. **Fill in the terms page placeholders yourself (4 min).** On GitHub (make sure the repository is **private**: Settings, General, "Danger zone" shows the visibility), switch to the working branch, open `launch-kit/sales-site/placeholders.json` and press the pencil icon. Type your values between the quotes for `LEGAL NAME` (your full legal name), `ADDRESS` (your postal address), `BRAND_EMAIL` (the brand email from step 2), `DATE` (today, e.g. 5 October 2026) and `LAUNCH END DATE` (launch day plus 13 days: launch on Monday 5 October 2026 and it is Sunday 18 October 2026). Commit the change. Your name and address are only used on the terms and privacy pages; the build warns if they ever appear anywhere else.
-5. **Put the Gumroad link into the sales page (3 min).** In the same file, paste the Gumroad link from step 3 into `GUMROAD_PRODUCT_LINK` and commit.
+4. **Fill in the terms page placeholders yourself (4 min).** On GitHub (make sure the repository is **private**: Settings, General, the "Danger zone" shows the visibility), open `launch-kit/sales-site/placeholders.json` and press the pencil icon. Type your full legal name between the quotes after `LEGAL NAME`, and your postal address after `ADDRESS`. Commit the change. These two values are used only on the terms and privacy pages; the build warns if they ever appear anywhere else. (The brand email, website address and launch dates are already filled in or worked out automatically.)
+5. **Put the Gumroad link into the sales page (3 min).** In the same file, paste the Gumroad link from step 3 between the quotes after `GUMROAD_PRODUCT_LINK` and commit.
 
-### Part 2: Email sign-up and website (19 minutes)
+### Part 2: Website (12 minutes)
 
-6. **MailerLite free sign-up form (12 min).** Sign up to MailerLite's free plan with the brand email.
-   - **Welcome emails stay off (your decision, option a).** MailerLite prints a postal address in every email footer, so no emails are sent for now. Create the account and the form only. The form shows the cheat sheet link on screen instead.
-   - Create a group called "Cheat sheet".
-   - Create an embedded form with just an email field, linked to that group. In the form's success message, put: "Thank you. Your cheat sheet is here:" followed by `https://well-listed.netlify.app/free/uk-listing-cheat-sheet.pdf` (if Netlify gives the site a different name in step 7, Claude will tell you the right link to paste instead). This way people get the cheat sheet straight away, with no email needed.
-   - Copy the form's embed code (HTML) and keep it for step 7.
-7. **HANDOVER TO CLAUDE: deploy the site to Netlify (7 min).** Sign up free at Netlify with the brand email. Then open Claude (claude.ai), make sure the Netlify connector is connected (Settings, Connectors, Netlify), and in a session on this repo say: **"We launch today. Deploy the Well Listed site to Netlify with the site name well-listed. Here is the MailerLite form embed code: [paste it]."** Claude fills the form into both sales pages, rebuilds the site from `placeholders.json`, deploys it to your Netlify account, records the launch date and links in STATE.md, and gives you the live address. You check it on your phone: the page loads, the buy button opens Gumroad at £12, and signing up shows the cheat sheet link. Never paste passwords.
+6. **Check the free sign-up form needs nothing from you (2 min).** The cheat sheet form uses Netlify's own free form handling, so there is no MailerLite set-up today: sign-ups appear in your Netlify account under "Forms", and the cheat sheet opens straight after signing up. Welcome emails stay off (your decision). Skip MailerLite until you decide to send emails.
+7. **HANDOVER TO CLAUDE: deploy the site to Netlify (10 min).** Sign up free at Netlify with the brand email. Then open Claude (claude.ai), make sure the Netlify connector is connected (Settings, Connectors, Netlify), and in a session on this repo say the message in `LAUNCH-COPY-PASTE.md` (step 7). Claude sets today as the launch date, rebuilds the site from `placeholders.json`, deploys it to your Netlify account, records everything in STATE.md and gives you the live address. Check it on your phone: the page loads, the buy button opens Gumroad at £12, and signing up with a spare email opens the cheat sheet. In Netlify, open Forms and switch on form detection if it asks. Never paste passwords.
 
 ### Part 3: Social accounts (22 minutes)
 
@@ -62,9 +58,9 @@ From tomorrow morning, follow `ROUTINE.md`: add yesterday's numbers, then type "
 ### In the first two weeks (free, not on launch day)
 - Before day 3: do the one-time 30-minute template setup in section 2 of `marketing/j-tools/free-tools-and-10-minute-workflow.md`, so every post after that takes 10 minutes.
 - Do the free ICO data protection fee self-assessment (5 min, search "ICO fee self assessment"), to check whether a fee applies.
-- Welcome emails stay off (option a). If you ever change your mind, the 7 emails are ready in `marketing/e-email/welcome-sequence.md`.
+- Welcome emails stay off (option a). If you ever change your mind, set up MailerLite free and load the 7 emails in `marketing/e-email/welcome-sequence.md` (Claude can move the form over).
 - For tax questions, read gov.uk (search "selling online tax") or ask an accountant. We do not state tax rules here.
 
-**Total: 87 minutes in one session.** If a step runs over, move Pinterest (step 11) and the pin (step 14) to tomorrow.
+**Total: 80 minutes in one session.** If a step runs over, move Pinterest (step 11) and the pin (step 14) to tomorrow.
 
 **No ads.** Paid ads are for later, only once money kept from sales covers the test budget (see `marketing/f-paid-ads/test-plan.md`).

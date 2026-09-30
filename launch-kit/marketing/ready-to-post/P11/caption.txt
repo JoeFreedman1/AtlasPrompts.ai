@@ -1,0 +1,12 @@
+This Amazon title has four problems. Did you spot them all?
+
+1. Length. Amazon announced that from 27 July 2026, titles in most categories (media excepted) must be 75 characters or fewer. This one is 138.
+2. Special characters. "!" is on Amazon's restricted list unless it is part of the brand name.
+3. Repeats. The same word may not appear more than twice. "Bamboo" appears three times.
+4. "Best". An unsupported claim, and it wastes space.
+
+Fixed version, 67 characters, invented brand for the example. Ask your AI tool to check your title against these rules, then confirm the style guide for your category in Seller Central, as rules change.
+
+Free UK Listing Cheat Sheet: link in bio.
+
+#amazonseller #smallbusinessuk #ukseller #chatgpttips

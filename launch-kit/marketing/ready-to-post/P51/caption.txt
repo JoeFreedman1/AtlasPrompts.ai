@@ -1,0 +1,17 @@
+This TikTok Shop description has 5 problems. How many did you spot?
+
+Invented example, a microfibre hair towel wrap:
+"The best hair towel on TikTok! Anti-bacterial, dermatologist approved, stops frizz forever. Only 3 left!!!"
+
+What the rule checker flagged:
+1. "Anti-bacterial": needs evidence.
+2. "Dermatologist approved": needs proof.
+3. "Best" and a platform name.
+4. "Only 3 left" when that is not true: fake urgency.
+5. "Stops frizz forever": a result nobody can promise.
+
+The rewrite: "Microfibre hair towel wrap with a button loop. 65 x 25 cm, grey. Machine washable at 30 degrees."
+
+TikTok Shop UK's policies say listings must be accurate, and its title rules say no mentioning TikTok or other platforms. Check the current rules in Seller Center before you list. Save this for your next product.
+
+#tiktokshopuk #tiktokshopseller #smallbusinessuk #ecommerceuk #listingtips

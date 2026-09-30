@@ -1,0 +1,11 @@
+TITLE:
+ChatGPT Etsy Listing Prompt for Handmade Products (UK English)
+
+DESCRIPTION:
+A ChatGPT prompt for Etsy product descriptions that sound like you, not a robot. Give it the materials, size, making process and care notes, and ask for a readable title and description in UK English with no hype words or invented details.
+
+LINK:
+https://well-listed.netlify.app/blog/chatgpt-etsy-listing-prompt.html
+
+BOARD:
+Listing Templates and Prompts

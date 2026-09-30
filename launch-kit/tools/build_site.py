@@ -203,6 +203,21 @@ await p.screenshot({path:process.argv[2]});await b.close()})();""", tmp, os.path
         os.remove(tmp)
 
 
+BLOG_MARKER = "<!-- BLOG LINKS: filled in by tools/build_site.py from the blog articles -->"
+
+
+def blog_links_html():
+    items = []
+    for fn in sorted(os.listdir(os.path.join(KIT, "marketing", "d-blog"))):
+        if re.match(r"^B\d\d-.*\.md$", fn):
+            meta, _ = front_matter(read(os.path.join(KIT, "marketing", "d-blog", fn)))
+            items.append((meta.get("slug") or fn[4:-3], meta.get("title", ""), meta.get("meta_description", "")))
+    lis = "".join('<li><a href="/blog/%s.html">%s<span>%s</span></a></li>' % (sl, html.escape(t), html.escape(d)) for sl, t, d in items)
+    return ('<section class="section guides" id="guides"><div class="wrap narrow"><h2>Free guides for UK sellers</h2>'
+            '<p>Practical how-tos you can use today, no sign-up needed.</p><ul>%s</ul>'
+            '<p><a href="/blog/">All guides</a></p></div></section>' % lis)
+
+
 def main():
     ph = load_placeholders()
     su = (ph.get("site_url") or "").strip().rstrip("/")
@@ -213,13 +228,24 @@ def main():
             ph["SALES_PAGE_URL"] = su + "/"
         if not ph["CHEAT_SHEET_LINK"]:
             ph["CHEAT_SHEET_LINK"] = su + "/free/uk-listing-cheat-sheet.pdf"
+    # Launch dates: day 1 is launch_date (Claude sets it on deploy day; if empty, today).
+    try:
+        ld = datetime.date.fromisoformat((ph.get("launch_date") or "").strip())
+    except ValueError:
+        ld = datetime.date.today()
+    fmt = lambda d: "%s %d %s" % (d.strftime("%A"), d.day, d.strftime("%B %Y"))
+    if not (ph.get("LAUNCH END DATE") or "").strip():
+        ph["LAUNCH END DATE"] = fmt(ld + datetime.timedelta(days=13))
+    if not (ph.get("DATE") or "").strip():
+        ph["DATE"] = "%d %s" % (ld.day, ld.strftime("%B %Y"))
     live = (ph.get("live_version") or "A").upper()
     site_url = (ph.get("site_url") or "").strip()
     if os.path.isdir(OUT):
         shutil.rmtree(OUT)
     os.makedirs(OUT)
-    a = fill(read(os.path.join(SITE, "version-a.html")), ph)
-    b = fill(read(os.path.join(SITE, "version-b.html")), ph)
+    guides = blog_links_html()
+    a = fill(read(os.path.join(SITE, "version-a.html")), ph).replace(BLOG_MARKER, guides)
+    b = fill(read(os.path.join(SITE, "version-b.html")), ph).replace(BLOG_MARKER, guides)
     main_html, other_html, other_dir = (a, b, "b") if live == "A" else (b, a, "a")
     write(os.path.join(OUT, "index.html"), main_html)
     other_html = other_html.replace("<head>", '<head><meta name="robots" content="noindex">', 1)
@@ -229,6 +255,11 @@ def main():
             write(os.path.join(OUT, name), fill(read(os.path.join(SITE, name)), ph))
     items = build_blog(ph, site_url)
     build_lead_magnet(ph)
+    thanks = """<h1>Thank you</h1><p>Your free UK Listing Cheat Sheet is ready.</p>
+<p><a class="btn" href="/free/uk-listing-cheat-sheet.pdf">Download the cheat sheet (PDF)</a></p>
+<p>Prefer to read it on screen? <a href="/free/uk-listing-cheat-sheet.html">Open the web version</a>.</p>
+<p>When you want every prompt, template and checklist in one place, <a href="/#buy">see The Well Listed Kit</a>. Or browse our <a href="/blog/">free guides</a>.</p>"""
+    write(os.path.join(OUT, "free", "thanks.html"), page("Your cheat sheet | Well Listed", "Download the free UK Listing Cheat Sheet.", thanks).replace("<head>", '<head><meta name="robots" content="noindex">', 1))
     build_og_image()
     write(os.path.join(OUT, "robots.txt"), "User-agent: *\nAllow: /\n" + ("Sitemap: %s/sitemap.xml\n" % site_url.rstrip("/") if site_url else ""))
     if site_url:

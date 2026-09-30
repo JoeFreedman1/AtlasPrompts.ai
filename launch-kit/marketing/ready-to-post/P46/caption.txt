@@ -1,0 +1,14 @@
+Four lines of scribbled notes about a PS4, turned into a full eBay listing. Example item, start to finish.
+
+Notes in: "PS4 slim 500gb black, 1 pad, cables, works, scratch on top, reset".
+
+What came out:
+Title (77 characters): Sony PS4 Slim 500GB Console Black with Controller HDMI and Power Cable Tested
+Description: what is included, exactly what was tested (power, disc drive, controller pairing, a game played), what was not, and "light scratch on top panel, see photo 5".
+Item specifics ready to copy.
+
+The prompts flagged three gaps before writing anything: model number, test details, account signed out. That is the point. No guessing.
+
+This is an invented example to show the output, not a sale. The full set of prompts is in The Well Listed Kit (link in bio). Check the current rules in eBay's help pages.
+
+#ebayuk #ebaysellertips #chatgptprompts #resellinguk #retrogaming

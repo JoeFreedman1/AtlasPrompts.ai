@@ -4,7 +4,7 @@ Every value you need during `LAUNCH.md`, in the order you need it. Each value is
 
 **This file is for you only.** The download links contain your GitHub username, so never share this file or paste these links anywhere public. Nothing here contains your legal name or address: those go only into `placeholders.json` for the terms and privacy pages (LAUNCH.md step 4).
 
-**Welcome emails are off (option a).** The MailerLite form shows the cheat sheet link on screen instead. Nothing in this file needs your postal address.
+**Welcome emails are off (option a).** The sign-up form uses Netlify's free forms and opens the cheat sheet straight away, so there is no MailerLite set-up at launch. Nothing in this file needs your postal address.
 
 ---
 
@@ -196,18 +196,12 @@ https://github.com/JoeFreedman1/AtlasPrompts.ai/raw/claude/keen-thompson-uxkjgk/
 
 ---
 
-## Step 7: handover to Claude (after the MailerLite form is made)
+## Step 7: handover to Claude
 
-The sentence to say in Claude (paste the MailerLite embed code where shown):
+The message to send Claude:
 ```text
-We launch today. Deploy the Well Listed site to Netlify with the site name well-listed. Here is the MailerLite form embed code: [PASTE THE EMBED CODE HERE]
+We launch today. Deploy the Well Listed site to Netlify with the site name well-listed. I have filled in my legal name, address and the Gumroad link in placeholders.json.
 ```
-
-MailerLite form success message (this is how people get the cheat sheet while emails are off; if Netlify gives the site a different name, Claude will tell you the right link):
-```text
-Thank you. Your UK Listing Cheat Sheet is here: https://well-listed.netlify.app/free/uk-listing-cheat-sheet.pdf
-```
-
 
 ---
 

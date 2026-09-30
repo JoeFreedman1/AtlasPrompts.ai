@@ -1,0 +1,11 @@
+TITLE:
+How to Stop ChatGPT Making Things Up in Your Listings
+
+DESCRIPTION:
+AI tools guess when you leave gaps. Give ChatGPT a short list of facts about your item and tell it to write [CHECK] where anything is missing instead of guessing. A simple fix for accurate, honest eBay and Vinted listings in UK English.
+
+LINK:
+https://well-listed.netlify.app/blog/chatgpt-prompts-for-ebay-listings.html
+
+BOARD:
+Listing Templates and Prompts

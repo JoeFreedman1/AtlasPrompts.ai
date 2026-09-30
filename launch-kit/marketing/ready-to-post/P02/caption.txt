@@ -1,0 +1,13 @@
+Four words in, and the AI invented cashmere. It was not guessing badly: it had nothing else to go on.
+
+Before you ask any AI tool to write a listing, give it a Listing Brief: a short block of facts about the item. Brand, size on the label, measurements in cm, colour, material from the care label, condition, and flaws written as where, what and how big.
+
+Then add one line to every prompt: "Use ONLY the facts in my brief. Write [CHECK: ...] wherever something is missing."
+
+You fill in the checks yourself. No invented cashmere, no surprise "vintage".
+
+Save this, and copy the template from slide 4 into your notes app.
+
+The Well Listed Kit has brief templates for seven categories and prompts that turn messy notes or a voice note into a brief. £12 at launch. The free cheat sheet is in our bio too.
+
+#chatgptprompts #listingtips #vintedtips #ebayseller #ukseller

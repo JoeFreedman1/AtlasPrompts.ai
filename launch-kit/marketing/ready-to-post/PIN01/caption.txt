@@ -1,0 +1,11 @@
+TITLE:
+eBay Title Formula for UK Sellers: Brand, Item, Size, Colour (80 Characters)
+
+DESCRIPTION:
+A simple eBay title formula for UK sellers: brand, item type, key detail, size, colour. Use the words buyers type into search, skip "L@@K" and "stunning", and keep within eBay's 80 character limit. Check the current rule in eBay's help pages.
+
+LINK:
+https://well-listed.netlify.app/blog/how-to-write-an-ebay-title-uk.html
+
+BOARD:
+eBay Selling Tips UK

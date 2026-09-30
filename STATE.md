@@ -12,10 +12,10 @@ Updated by every session. Newest log entries at the top of the log. The dashboar
 | Gumroad link | _not set_ |
 | Sales page address | _not set_ |
 | Sales page version live | _not set (A or B)_ |
-| Email tool | MailerLite free plan (planned). Welcome emails OFF (owner chose option a): the sign-up form shows the cheat sheet link on screen |
+| Email tool | None at launch. Sign-ups use Netlify Forms (free); welcome emails OFF (owner chose option a); the cheat sheet opens after sign-up |
 | Legal identity | Sole trader trading as Well Listed. Legal name and address only on the terms and privacy pages (placeholders the owner fills in) |
 | Ad budget cap | £0. Ads are for later, only once money kept from sales covers the £70 test budget (then Meta first) |
-| Working branch | claude/keen-thompson-uxkjgk |
+| Working branch | main (the launch kit was merged into main on 30 September 2026) |
 
 ## Current numbers (fill in from launch-kit/metrics/)
 
@@ -39,7 +39,7 @@ Updated by every session. Newest log entries at the top of the log. The dashboar
 - Nothing is live yet. No accounts exist.
 
 ## What is next
-1. Owner works through `launch-kit/LAUNCH.md` in one session (87 minutes, £0). Step 7 hands over to Claude to deploy the site to Netlify.
+1. Owner works through `YOUR-TURN.md` (the short version of `launch-kit/LAUNCH.md`, 80 minutes, £0). Step 7 hands over to Claude to deploy the site to Netlify.
 2. Owner tells a session the launch date, Gumroad link and sales page address; the session fills in the Key facts table above and rebuilds the dashboard.
 3. From the next morning: "Run OPERATOR.md" daily.
 

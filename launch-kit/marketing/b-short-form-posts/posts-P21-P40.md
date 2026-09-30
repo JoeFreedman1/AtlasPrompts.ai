@@ -55,10 +55,10 @@ Canva carousel, 1080 x 1350, Cream background. Slide 1: parcel-label card (cream
 - **Length:** 25 to 30 seconds
 - **Call to action:** Kit
 
-**Hook (first 2 seconds):** "'Read the description.' Four words that turn a return request into a dispute."
+**Hook (first 2 seconds):** "'Read the description.' Three words that turn a return request into a dispute."
 
 ### Script
-1. (0 to 2s) VO: "Read the description. Four words that turn a return request into a dispute." | On screen: "'Read the description.' 4 words that start a dispute"
+1. (0 to 2s) VO: "Read the description. Three words that turn a return request into a dispute." | On screen: "'Read the description.' 3 words that start a dispute"
 2. (2 to 6s) VO: "Here's the message. The jumper arrived, it doesn't fit, can I send it back?" | On screen: "Buyer: 'Doesn't fit, can I return it?'"
 3. (6 to 10s) VO: "Before. 'No returns. It says so in the listing. Read the description.' Accurate. Also a bit spiky." | On screen: "BEFORE: 'No returns. Read the description.'"
 4. (10 to 18s) VO: "After. Thanks for letting me know, and sorry it's not right. As a private seller I don't take returns for change of mind, as the listing says. If there's a problem with the item itself, please open a request through the app so it's handled properly." | On screen: "AFTER: polite, clear, points to the app"
@@ -67,9 +67,9 @@ Canva carousel, 1080 x 1350, Cream background. Slide 1: parcel-label card (cream
 7. (28 to 30s) VO: "Save this for the next one." | On screen: "Save this"
 
 ### On-screen text
-"Read the description." 4 words that start a dispute
-Buyer: "Doesn't fit, can I return it?"
-BEFORE: "No returns. Read the description."
+'Read the description.' 3 words that start a dispute
+Buyer: 'Doesn't fit, can I return it?'
+BEFORE: 'No returns. Read the description.'
 AFTER: polite, clear, points to the app
 Same answer. Calmer.
 Traders: different rules
@@ -111,7 +111,7 @@ Screen recording of a free AI chat tool on a phone (crop to the chat area only; 
 
 ### On-screen text
 3 problems in one description
-BEFORE: "Relieves back pain... 100% natural... Only 3 left!"
+BEFORE: 'Relieves back pain... 100% natural... Only 3 left!'
 1. Health claim
 2. Vague safety claim
 3. Urgency that isn't true
@@ -331,7 +331,6 @@ Myth: you need a lightbox and a camera
 2. Plain background you own
 3. Clean lens, tap focus, no zoom
 4. A shot list, flaws included
-Example item
 True colour. Every flaw shown.
 
 ### Caption
@@ -371,7 +370,7 @@ CapCut slideshow, 9:16, Cream #FAF6EF background, Archivo 800 Ink #1F2A44 text, 
 Notes: 1 battery. Listing: 2.
 Myth: AI makes things up, so it's useless
 Notes: bosch drill 18v, 1 battery, charger, case
-"Use ONLY facts in my notes. Write [CHECK] for gaps."
+'Use ONLY facts in my notes. Write [CHECK] for gaps.'
 Battery: 1 [CHECK: Ah on label]
 No guesses. Just a to-do list.
 
@@ -462,7 +461,6 @@ Clothing: measurements, fabric, tags
 Electronics: model, tested how, not tested
 Homeware: mark, size, chips
 Books: edition. Toys: pieces counted.
-Example item
 One master brief, plus category extras
 
 ### Caption
@@ -664,21 +662,21 @@ Canva carousel, 1080 x 1350, Cream background, one numbered item per slide in Ar
 **Hook (first 2 seconds):** "'Is this still available?' 'Would you take £5?' 'Measurements?' One prompt. All three."
 
 ### Script
-1. (0 to 3s) VO: "Is this still available? Would you take five pounds? Measurements? One prompt. All three." | On screen: "3 messages. 1 prompt."
+1. (0 to 3s) VO: "Is this still available? Would you take five pounds? Measurements? One prompt. All three." | On screen: "5 messages. 1 prompt."
 2. (3 to 9s) VO: "The prompt. Here's my Listing Brief and a buyer message. Write a short, polite reply in UK English using only facts from the brief. Never reveal my lowest price." | On screen: "'Reply using only facts from my brief. Never reveal my lowest price.'"
 3. (9 to 13s) VO: "One. Is this still available? Yes, it is. Happy to answer any questions." | On screen: "1. 'Still available?'"
 4. (13 to 17s) VO: "Two. Would you take five pounds, on a fourteen pound rain jacket? Thanks for the offer. The lowest I can do is eleven." | On screen: "2. Lowball offer (example: £5 on £14)"
 5. (17 to 21s) VO: "Three. Measurements? Pit to pit fifty-four centimetres, length seventy, laid flat." | On screen: "3. 'Measurements?'"
-6. (21 to 24s) VO: "Four. When will it post? Five. Can you do a bundle? Both answered from the same brief." | On screen: "4. Postage 5. Bundle"
+6. (21 to 24s) VO: "Four. When will it post? Five. Can you do a bundle? Both answered from the same brief." | On screen: "4. Postage. 5. Bundle."
 7. (24 to 30s) VO: "Swap the buyer's name for BUYER before you paste. The Well Listed Kit has the full set of message prompts. Link in bio." | On screen: "Replace names with [BUYER] first"
 
 ### On-screen text
-3 messages. 1 prompt.
-"Reply using only facts from my brief. Never reveal my lowest price."
-1. "Still available?"
+5 messages. 1 prompt.
+'Reply using only facts from my brief. Never reveal my lowest price.'
+1. 'Still available?'
 2. Lowball offer (example: £5 on £14)
-3. "Measurements?"
-4. Postage 5. Bundle
+3. 'Measurements?'
+4. Postage. 5. Bundle.
 Replace names with [BUYER] first
 
 ### Caption
@@ -765,7 +763,7 @@ Pants? You mean trousers.
 3. sneakers to trainers
 4. purse to handbag
 5. shipping to postage (and colour)
-Add: "UK English, UK sizes, UK words."
+Add: 'UK English, UK sizes, UK words.'
 
 ### Caption
 ```text
@@ -837,7 +835,7 @@ Hook: stock of a bed or sofa covered in folded clothes in low lamp light, Pexels
 3. Slide 3: "Built into the platforms: the eBay app can draft a listing from a photo. Depop's 'Generate Description' drafts one from a photo too."
 4. Slide 4: "Amazon offers generative AI listing tools to UK sellers: a few words or an image, and it drafts the title, bullets and description."
 5. Slide 5: "Whichever you use, the same three checks apply. Every fact from your item? UK English? Within the character limit?"
-6. Slide 6 (worked example): "Brief: 'Denby milk jug, blue glaze, 12 cm tall, base stamp "Made in England", tiny chip on rim by spout.' Prompt: 'eBay UK title, max 80 characters, only my facts.' Output: 'Denby Blue Glaze Ceramic Milk Jug 12 cm Made in England Small Rim Chip' (70 characters)."
+6. Slide 6 (worked example): "Brief: 'Denby milk jug, blue glaze, 12 cm tall, base stamp reads Made in England, tiny chip on rim by spout.' Prompt: 'eBay UK title, max 80 characters, only my facts.' Output: 'Denby Blue Glaze Ceramic Milk Jug 12 cm Made in England Small Rim Chip' (70 characters)."
 7. Slide 7 (parcel label): "Free plans and features change. Check what each one includes today. Free cheat sheet with 10 prompts: link in bio."
 
 ### On-screen text
