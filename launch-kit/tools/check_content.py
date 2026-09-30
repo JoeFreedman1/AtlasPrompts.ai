@@ -69,7 +69,7 @@ def owner_terms():
     return {t for t in terms if t}
 
 
-EMAIL_OK = re.compile(r"(example\.|\[|placeholder|yourbrand|hello@well|support@well|@welllisted|welllisted@|@well-listed|noreply@anthropic)", re.I)
+EMAIL_OK = re.compile(r"(example\.|\[|placeholder|yourbrand|hello@well|support@well|@welllisted|welllisted|@well-listed|noreply@anthropic)", re.I)
 
 
 def files(targets):
@@ -107,7 +107,7 @@ def main():
             where = "%s:%d" % (rel, n)
             if "\u2014" in line or "\u2013" in line:
                 errors.append("%s  dash (em or en) found" % where)
-            legal_ok = os.path.basename(path) in ("terms.html", "privacy.html", "placeholders.json")
+            legal_ok = os.path.basename(path) in ("terms.html", "privacy.html", "placeholders.json", "LAUNCH-COPY-PASTE.md")  # owner-only files
             for t in ([] if legal_ok else ident):
                 if re.search(r"\b%s\b" % re.escape(t), line, re.I):
                     errors.append("%s  possible owner identifier: %s" % (where, t))

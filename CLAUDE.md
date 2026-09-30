@@ -64,6 +64,7 @@ Well Listed sells **The Well Listed Kit**, a £19 digital download (launch price
 | Stop, keep, scale rules | `STOP-KEEP-SCALE.md` |
 | Daily 30-minute routine, weekly review, first 14 days of posts | `ROUTINE.md` |
 | Owner's launch checklist (one session, 87 minutes, £0; step 7 hands over to Claude to deploy the site to Netlify) | `LAUNCH.md` |
+| Every launch-day value in copy boxes (owner only: contains GitHub download links) | `LAUNCH-COPY-PASTE.md` |
 | Growth plan (next products, prices, affiliates, ads) | `GROWTH.md` |
 | Quality checklist | `QUALITY-CHECKLIST.md` |
 | Mission control page for the owner's phone | `dashboard.html` (rebuild with `python3 launch-kit/tools/build_dashboard.py`) |

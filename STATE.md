@@ -12,7 +12,7 @@ Updated by every session. Newest log entries at the top of the log. The dashboar
 | Gumroad link | _not set_ |
 | Sales page address | _not set_ |
 | Sales page version live | _not set (A or B)_ |
-| Email tool | MailerLite free plan (planned; welcome emails off until the footer address decision below) |
+| Email tool | MailerLite free plan (planned). Welcome emails OFF (owner chose option a): the sign-up form shows the cheat sheet link on screen |
 | Legal identity | Sole trader trading as Well Listed. Legal name and address only on the terms and privacy pages (placeholders the owner fills in) |
 | Ad budget cap | £0. Ads are for later, only once money kept from sales covers the £70 test budget (then Meta first) |
 | Working branch | claude/keen-thompson-uxkjgk |
@@ -45,10 +45,10 @@ Updated by every session. Newest log entries at the top of the log. The dashboar
 
 ## Decisions waiting for the owner
 - Merge the pull request into main before launch, so every new session sees these files (say "merge the Well Listed pull request"). Until then, sessions must work from the working branch above.
-- **Email footer address (needs a decision):** MailerLite prints a postal address in every email footer, which clashes with keeping your address to the terms and privacy pages. Options: (a) keep welcome emails off and let the sign-up form show the cheat sheet link on screen (the default, £0); (b) accept your address in email footers; (c) later, once sales cover it, pay for a PO box or virtual address. Tell Claude which you choose.
 - Check the facts still marked "NOT VERIFIED" (full list: `launch-kit/research/STILL-TO-VERIFY.md`) that matter most before launch: the MailerLite free plan limit, the ICO fee exemption, and the consumer law points in `launch-kit/research/platform-rules-uk.md`. (Gumroad fees, VAT handling and the $100 payout minimum are now verified by the owner. Tax rules were removed from all content.)
 
 ## Log
+- 2026-09-30: Owner chose option (a): welcome emails stay off; the MailerLite form shows the cheat sheet link on screen. Added `launch-kit/LAUNCH-COPY-PASTE.md` with every launch-day value in its own copy box.
 - 2026-09-29: Owner decisions: sole trader (limited company removed everywhere), £0 budget (company, registered office and paid ads removed from the launch plan; ads files kept and marked "later, only once sales cover it"). LAUNCH.md is now one 87-minute session with a handover to Claude for the Netlify deploy. Legal name and address only on terms and privacy. Logo and Gumroad cover generated in `launch-kit/sales-site/brand-assets/`.
 - 2026-09-29: Owner verified Gumroad fees, VAT handling and the $100 payout minimum (MONEY.md now shows sales needed before the first payout). Brand will trade through a new limited company: LAUNCH.md is now two sessions (98 and 71 minutes). All tax rules removed from content; posts P28 and P31 replaced with non-tax posts. Remaining unverified facts listed in `launch-kit/research/STILL-TO-VERIFY.md`.
 - 2026-09-29: Final pass. Product critiqued twice (now 90 prompts, 141-page PDF, two-digit prompt IDs), all files synced to the final product, every file checked (0 problems in check_content.py, no dashes), site, kit and dashboard rebuilt. Ready for the owner's LAUNCH.md.

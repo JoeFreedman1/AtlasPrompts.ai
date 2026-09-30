@@ -2,6 +2,8 @@
 
 Well Listed trades as a **sole trader** under the brand name Well Listed. Your legal name and address appear **only** on the terms and privacy pages, which you fill in yourself (step 4). They never appear in the brand, bios, posts, emails, product or sales page. **Budget: £0.** Everything below uses free plans only: Gumroad, Netlify, MailerLite free, free social accounts and free content tools. No ads.
 
+**Every value you type today** (email options, Gumroad text, handles, bios, captions and download links) is in `LAUNCH-COPY-PASTE.md`, each in its own copy box. Keep it open alongside this checklist.
+
 Do the steps in order. Each step says how long it should take. Everything else (writing, designing, planning) is already done. Tick them off in the dashboard as you go. Launch day is day 1: the £12 launch price runs for days 1 to 14 and ends at 11:59pm on day 14.
 
 **Where the files are:** everything lives in the GitHub repo. File paths below start inside the `launch-kit` folder (so `product/dist/Well-Listed-Kit.zip` means `launch-kit/product/dist/Well-Listed-Kit.zip`). Until the pull request is merged, the files are on the **working branch** named in `STATE.md` (at the time of writing `claude/keen-thompson-uxkjgk`), not on main. The simplest fix: before you start, tell Claude "merge the Well Listed pull request into main". Otherwise, on GitHub, switch the branch menu (top left of the file list, usually showing "main") to the working branch before downloading anything.
@@ -32,7 +34,7 @@ Do the steps in order. Each step says how long it should take. Everything else (
 ### Part 2: Email sign-up and website (19 minutes)
 
 6. **MailerLite free sign-up form (12 min).** Sign up to MailerLite's free plan with the brand email.
-   - **Important:** MailerLite asks for a postal address when you sign up and prints it in the footer of every email it sends. That clashes with keeping your address to the terms and privacy pages only. So, for now: create the account, but **do not switch on any emails yet** (see "Decisions waiting for the owner" in STATE.md for the options).
+   - **Welcome emails stay off (your decision, option a).** MailerLite prints a postal address in every email footer, so no emails are sent for now. Create the account and the form only. The form shows the cheat sheet link on screen instead.
    - Create a group called "Cheat sheet".
    - Create an embedded form with just an email field, linked to that group. In the form's success message, put: "Thank you. Your cheat sheet is here:" followed by `https://well-listed.netlify.app/free/uk-listing-cheat-sheet.pdf` (if Netlify gives the site a different name in step 7, Claude will tell you the right link to paste instead). This way people get the cheat sheet straight away, with no email needed.
    - Copy the form's embed code (HTML) and keep it for step 7.
@@ -60,7 +62,7 @@ From tomorrow morning, follow `ROUTINE.md`: add yesterday's numbers, then type "
 ### In the first two weeks (free, not on launch day)
 - Before day 3: do the one-time 30-minute template setup in section 2 of `marketing/j-tools/free-tools-and-10-minute-workflow.md`, so every post after that takes 10 minutes.
 - Do the free ICO data protection fee self-assessment (5 min, search "ICO fee self assessment"), to check whether a fee applies.
-- Decide the email footer address question (STATE.md), then load the 7 welcome emails from `marketing/e-email/welcome-sequence.md` into MailerLite and switch them on.
+- Welcome emails stay off (option a). If you ever change your mind, the 7 emails are ready in `marketing/e-email/welcome-sequence.md`.
 - For tax questions, read gov.uk (search "selling online tax") or ask an accountant. We do not state tax rules here.
 
 **Total: 87 minutes in one session.** If a step runs over, move Pinterest (step 11) and the pin (step 14) to tomorrow.
