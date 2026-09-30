@@ -835,7 +835,7 @@ Hook: stock of a bed or sofa covered in folded clothes in low lamp light, Pexels
 3. Slide 3: "Built into the platforms: the eBay app can draft a listing from a photo. Depop's 'Generate Description' drafts one from a photo too."
 4. Slide 4: "Amazon offers generative AI listing tools to UK sellers: a few words or an image, and it drafts the title, bullets and description."
 5. Slide 5: "Whichever you use, the same three checks apply. Every fact from your item? UK English? Within the character limit?"
-6. Slide 6 (worked example): "Brief: 'Denby milk jug, blue glaze, 12 cm tall, base stamp reads Made in England, tiny chip on rim by spout.' Prompt: 'eBay UK title, max 80 characters, only my facts.' Output: 'Denby Blue Glaze Ceramic Milk Jug 12 cm Made in England Small Rim Chip' (70 characters)."
+6. Slide 6 (worked example): "Brief: 'Denby milk jug, blue glaze, 12 cm tall, base stamp reads Made in England, tiny chip on rim by spout.' Prompt: 'eBay UK title, max 80 characters, only my facts.' Output: 'Denby Blue Glaze Milk Jug 12 cm Made in England' (47 characters). The chip goes in the description, not the title."
 7. Slide 7 (parcel label): "Free plans and features change. Check what each one includes today. Free cheat sheet with 10 prompts: link in bio."
 
 ### On-screen text
@@ -858,4 +858,4 @@ You do not need a paid AI plan to write good listings. ChatGPT, Claude, Gemini a
 ```
 
 ### Visuals
-Canva carousel, 1080 x 1350. Tool and platform names in plain Archivo text only: no logos, no screenshots of the eBay, Depop or Amazon apps. Slide 2: four plain Ink cards with the tool names and a small "free version" Sold Green tag. Slides 3 and 4: a simple drawn phone outline with a camera icon turning into a text block (illustrates "photo to draft" without showing any real interface). Slide 6: a JetBrains Mono box with the brief and the title output, "70 characters" highlighted in Label Yellow; optional background photo, Pexels search "blue ceramic jug" (no brand marks visible). Slide 7: parcel label. Pinterest version: 1000 x 1500 pin titled "Free AI tools for resellers".
+Canva carousel, 1080 x 1350. Tool and platform names in plain Archivo text only: no logos, no screenshots of the eBay, Depop or Amazon apps. Slide 2: four plain Ink cards with the tool names and a small "free version" Sold Green tag. Slides 3 and 4: a simple drawn phone outline with a camera icon turning into a text block (illustrates "photo to draft" without showing any real interface). Slide 6: a JetBrains Mono box with the brief and the title output, "47 characters" highlighted in Label Yellow; optional background photo, Pexels search "blue ceramic jug" (no brand marks visible). Slide 7: parcel label. Pinterest version: 1000 x 1500 pin titled "Free AI tools for resellers".
