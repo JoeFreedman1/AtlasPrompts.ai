@@ -45,7 +45,7 @@ We could not open Gumroad's help pages overnight, so check each step against Gum
 
 ### Cookie and tracking notes
 
-- Gumroad tracks affiliate sales with a cookie set when someone clicks the link. The cookie length is commonly reported as 30 days, but we have **not verified** this. Check Gumroad's help pages and tell creators the real figure, or say "tracking lasts for a limited time after the click" if unsure.
+- Gumroad tracks affiliate sales with a cookie set when someone clicks the link. For affiliates we add directly (which is how this programme works) the cookie lasts **30 days**: a purchase within 30 days of the click is credited to the creator. (Links made through Gumroad's separate "Gumroad Affiliates" programme only last 7 days, so make sure creators use the link from our invitation.) Verified 30 September 2026: https://gumroad.com/help/article/333-affiliates-on-gumroad . Recheck before telling creators, as it can change.
 - Tracking can fail if the buyer uses a different device or browser, clears cookies, or uses an ad blocker. Creators should know this upfront so there is no bad feeling.
 - If a sale goes through our own site first and then to Gumroad, the affiliate link must point straight to the Gumroad product page (or a page that keeps the affiliate tag). Test one link end to end before a creator posts.
 - Keep a simple sheet of creators: public handle, platform, date added, commission rate, date of their post, sales reported by Gumroad. Keep it in a private spreadsheet in the brand's own Google account, **not in this repo**: names and email addresses are personal data, and the repo may be shared. The daily operator only needs handles and numbers.

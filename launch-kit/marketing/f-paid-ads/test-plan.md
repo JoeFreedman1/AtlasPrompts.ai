@@ -18,9 +18,9 @@ Everything here is planning, not a forecast. Ads can lose money, and a brand-new
    - TikTok: go to TikTok Ads Manager (ads.tiktok.com) and sign up as a business with the brand email.
 2. **Enter the payment details yourself.** Use a card you control. Set a **spending limit** in the billing settings if the platform offers one (Meta calls it an "account spending limit"). Set it to £70 for the first test.
 3. **Check whether VAT is added** to your ad spend in the billing settings. The £5 a day in this plan is the budget you set in Ads Manager; any VAT is on top.
-4. **Check the minimum daily budget** in Ads Manager when you create the campaign. We could not verify the current UK minimums overnight (see `research/tools-and-fees.md`). What we found:
-   - **Meta:** commonly reported as a low daily minimum (around £1 a day for some goals, higher for others). £5 a day should be allowed, but check.
-   - **TikTok:** historically quoted as around $50 a day per campaign and $20 a day per ad group (with local currency equivalents). If that is still true, **a £5 a day test is not possible in TikTok Ads Manager.** If Ads Manager will not accept £5, do not raise the budget. Either test Meta only, or use TikTok's in-app **Promote** feature on an existing organic post (it has its own, lower minimum: check in the app) and treat it as the TikTok test.
+4. **Check the minimum daily budget** in Ads Manager when you create the campaign. What the official help pages said on 30 September 2026 (see `research/tools-and-fees.md`):
+   - **Meta:** no single fixed minimum. Meta works out a minimum for each ad set from the currency, goal and bid settings, and shows it in Ads Manager. Its own advice is to start with at least $5 (roughly our £5 a day) and run for more than six days, which matches this plan. If Ads Manager asks for more than £5, do not raise it: change the goal (for example to link clicks) or wait.
+   - **TikTok:** campaign budgets must be more than $50 a day and ad group budgets more than $20 a day (TikTok quotes these in US dollars). So **a £5 a day test is not possible in TikTok Ads Manager.** Do not raise the budget. Either test Meta only, or use TikTok's in-app **Promote** feature on an existing organic post (it has its own, lower minimum: check in the app) and treat it as the TikTok test.
 5. **Read and accept** each platform's advertising policies yourself. Our ads are written to follow them, but you are the advertiser. The policy points that matter most for this Kit (check the current wording, as policies change):
    - **Meta, personal attributes:** ad text must not assert or imply things about the viewer (for example their finances, stress or job). Talk about the listing, not the person. See rule 2 in `ads.md`.
    - **Meta and TikTok, money-making framing:** both restrict ads that promote income opportunities or "side income". Our ads never claim or imply earnings.
@@ -50,8 +50,8 @@ Do **not** start ads until all of these are true:
 
 Run **one platform per 14-day test**. Two platforms at £2.50 a day each gives too little data on both.
 
-- **Start with Meta** (Facebook and Instagram) because the low minimum budget makes £5 a day workable.
-- **Then TikTok** in a later fortnight, only if the budget minimum allows £5 a day or you use Promote (see section 1).
+- **Start with Meta** (Facebook and Instagram) because Meta's own advice (at least $5, over six days) fits £5 a day.
+- **Then TikTok** in a later fortnight, only through Promote (see section 1), because Ads Manager's minimums are well above £5 a day.
 
 ---
 
@@ -95,7 +95,8 @@ Write down each link or code in `metrics/` so the daily operator can match sales
 
 ### Cheat sheet ads: count sign-ups per platform
 
-- In MailerLite, make a copy of the cheat sheet sign-up form or landing page for each platform (for example "Cheat sheet: Meta ads"), which adds people to the same "Cheat sheet" group **plus** a second group called "Source: Meta ads". Check that your MailerLite plan includes this.
+- **At launch sign-ups go through Netlify Forms, not MailerLite.** Netlify Forms are free and unlimited on the free plan (verified 30 September 2026), so ask Claude to add a second copy of the sign-up form with a different form name (for example "cheatsheet-meta") on a page used only by the ads; Netlify's Forms list then counts each one separately.
+- If MailerLite is used by then instead: make a copy of the cheat sheet sign-up form for each platform (for example "Cheat sheet: Meta ads"), which adds people to the same "Cheat sheet" group **plus** a second group called "Source: Meta ads". MailerLite's free plan allows only 3 active forms (verified 30 September 2026), so this uses one of the three.
 - Point the cheat sheet ads at that copy. The number of people in "Source: Meta ads" is your ad sign-ups.
 - Cost per email sign-up = amount spent on the cheat sheet ads divided by sign-ups in that group.
 

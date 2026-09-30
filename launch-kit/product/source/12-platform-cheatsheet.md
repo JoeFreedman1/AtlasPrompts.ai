@@ -22,17 +22,18 @@ Limits, fees and the rules that matter most when you write a listing, one table 
 | What | Rule |
 |---|---|
 | Title | 80 characters. Most important words first (brand, item type, model, size, colour) |
+| Description | Up to 500,000 characters (HTML counts). No active content such as scripts. Phones show a short summary, so put the key facts and flaws first |
 | Item specifics | Fill in all that apply: they power filtered search. Values commonly reported as up to 65 characters |
 | Photos | Must show the actual item. No stock photos for used items. No added text, borders or watermarks (eBay's Picture policy) |
 | Private seller fees | UK private sellers pay no final value fee and no regulatory operating fee in all categories except Motors. 300 free listings a month. Fees apply to optional upgrades and overseas delivery |
 | Buyer Protection fee | Paid by the buyer on private sellers' items, not taken from your payout. Current tiers: check the help page |
 | Business seller fees | Final value fee by category, a per-order fee and a regulatory operating fee, plus VAT on fees. Rates changed in early 2026 |
-| Key rules | Describe the item accurately. No unrelated brand names or keyword spam (search and browse manipulation policy). No counterfeits. Keep communication and payment on eBay |
+| Key rules | Describe the item accurately. Every word must be accurate and about the item: no unrelated keywords and no other brands' names (search manipulation policy). No counterfeits. Keep communication and payment on eBay |
 
 - Private seller fees: https://www.ebay.co.uk/help/selling/fees-credits-invoices/fees-private-sellers-activated-managed-payments?id=4822
 - Business seller fees: https://www.ebay.co.uk/help/selling/fees-credits-invoices/fees-business-sellers-activated-managed-payments?id=4809
 - Buyer Protection fee: https://www.ebay.co.uk/help/buying/paying-items/buyer-protection-fee?id=5594
-- Search and browse manipulation policy: https://www.ebay.co.uk/help/policies/listing-policies/search-browse-manipulation-policy?id=4255
+- Search manipulation policy: https://www.ebay.co.uk/help/policies/listing-policies/search-browse-manipulation-policy?id=4243
 
 ## Vinted UK
 
@@ -55,7 +56,7 @@ Limits, fees and the rules that matter most when you write a listing, one table 
 
 | What | Rule |
 |---|---|
-| Description | One combined field, commonly reported as 1,000 characters. Depop advises short, clear descriptions with measurements and signs of wear |
+| Description | One combined field of up to 1,000 characters. No email addresses. Depop advises short, clear descriptions with measurements and signs of wear |
 | Hashtags | Up to 5. Only relevant words, brands and tags |
 | Photos | Up to 8. A short video can be added (check the current video rules in the app) |
 | Fees | No selling fee for UK sellers on GBP sales (for listings created from 20 March 2024). Payment processing is still charged to the seller. UK buyers pay a marketplace fee of up to 5% plus up to £1 |
@@ -112,7 +113,7 @@ Limits, fees and the rules that matter most when you write a listing, one table 
 
 ## Beyond the platforms: UK rules worth knowing
 
-We have not verified the detail here. Please read the official pages yourself.
+These are pointers, not legal advice. Please read the official pages yourself.
 
 - **Selling as a business?** Read GOV.UK on accepting returns and giving refunds: https://www.gov.uk/accepting-returns-and-giving-refunds
 - **Tax:** tax rules for online selling are explained on gov.uk. Search "selling online tax" on gov.uk, or ask an accountant. This kit does not cover tax.

@@ -51,7 +51,7 @@ You only do this once. After that it runs by itself for every new sign-up.
 ### Footer (required on every email)
 
 - **Unsubscribe link:** MailerLite adds an unsubscribe link to every email footer automatically. Do not remove it. UK law (PECR and UK GDPR) says every marketing email must give an easy way to opt out.
-- **Postal address:** MailerLite requires a postal address in every email footer and adds an unsubscribe link (never remove it). **Do not send these emails until the owner has decided the footer address question in STATE.md**: the owner's address must otherwise appear only on the terms and privacy pages. When decided, put the chosen address in [FOOTER_ADDRESS].
+- **Postal address:** MailerLite requires a postal address in every email footer and adds an unsubscribe link (never remove it). (Verified 30 September 2026 in MailerLite's help pages: the footer address cannot be removed, but MailerLite says the address of your nearest post office or a private mailbox can be used instead of a home address; a private mailbox service usually costs money. The free plan also allows only 3 active automations and 2,500 emails a month.) **Do not send these emails until the owner has decided the footer address question in STATE.md**: the owner's address must otherwise appear only on the terms and privacy pages. When decided, put the chosen address in [FOOTER_ADDRESS].
 - **Suggested footer text:** "You are getting this because you downloaded The UK Listing Cheat Sheet from Well Listed. Well Listed is independent and not affiliated with eBay, Vinted, Depop, Etsy, Amazon or TikTok. [FOOTER_ADDRESS]. Unsubscribe any time with the link below."
 
 ---

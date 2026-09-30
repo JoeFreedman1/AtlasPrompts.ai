@@ -5,6 +5,7 @@ Research date: 29 September 2026.
 ## Honest status of this list
 
 - **We could not open TikTok, Instagram, YouTube or Pinterest pages directly in this session** (the platforms were blocked to our research tools), and our web search allowance ran out part-way through. So we could confirm that the accounts below **exist and post in this niche** (they appear in search results with their content), but for most of them we **could not watch enough posts to confirm they are faceless**. Each entry says which.
+- **Rechecked 30 September 2026:** whether each account is fully faceless can only be checked by scrolling its posts in the app, which our tools cannot do. Still to check by hand.
 - **We could not verify 10 truly faceless accounts in the reseller niche.** As the brief allows, the list mixes (a) real accounts found in search, (b) adjacent faceless formats (ChatGPT tips carousel pages, Pinterest how-to pins, text-post threads), each clearly labelled.
 - **No follower counts are quoted**, even where a search result showed one.
 - Before we borrow anything, someone should spend 10 minutes on each account in the app, confirm the "faceless" label, and note the posting pattern first-hand. Anything marked "to confirm" is a lead, not a fact.

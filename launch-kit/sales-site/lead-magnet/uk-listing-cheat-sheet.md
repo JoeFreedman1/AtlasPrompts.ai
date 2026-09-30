@@ -198,7 +198,7 @@ My Listing Brief:
 |---|---|---|---|---|
 | eBay UK | 80 characters (commonly reported) | Check help pages | Fill in every item specific that applies. Value length: check help pages | Up to 24 free in most categories (commonly reported). Must show the actual item |
 | Vinted UK | Check help pages | Check help pages | Check help pages | Up to 20. Whole item in the first photo, your own photos, no collages, show any defects |
-| Depop UK | No separate title: the first words of the description do the job | One field, 1,000 characters (commonly reported) | Up to 5 hashtags, relevant words only | Up to 8 |
+| Depop UK | No separate title: the first words of the description do the job | One field, up to 1,000 characters | Up to 5 hashtags, relevant words only | Up to 8 |
 | Etsy | 140 characters (commonly reported) | Check help pages | 13 tags, up to 20 characters each (commonly reported) | Up to 20 photos and 1 video (commonly reported) |
 | Amazon UK | 75 characters or fewer in all categories except media, from 27 July 2026. Plus a 125-character Item Highlights field | 2,000 characters (commonly reported). Up to 5 bullet points (commonly reported) | Backend search terms: 250 bytes, not characters (commonly reported) | Check help pages |
 | TikTok Shop UK | At least 15 characters. No promo wording, shop name, other platform names or symbols. Maximum commonly reported as 255 | 10,000 characters (commonly reported) | Check help pages | Up to 9 square images, at least 800 x 800 pixels, upload at least 3 |

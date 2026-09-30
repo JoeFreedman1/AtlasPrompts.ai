@@ -24,12 +24,12 @@ Everything here is planning maths, not a forecast or a promise. Fee figures come
 |---|---|
 | Gumroad account (fees are only taken when a sale happens) | £0 |
 | Netlify hosting (free plan, free `.netlify.app` address) | £0 |
-| MailerLite free plan (free up to a subscriber limit, reported as 500: check) | £0 |
+| Sign-up form: Netlify Forms (free and unlimited on the free plan, verified 30 September 2026). If MailerLite is ever used: free up to 250 subscribers and 2,500 emails a month since 1 July 2026 | £0 |
 | Brand email address (free Gmail or Outlook) | £0 |
 | Social accounts (TikTok, Instagram, YouTube, Pinterest) | £0 |
 | Canva free, CapCut free, free AI chat tools | £0 |
 | Logo and Gumroad cover (already made, in `sales-site/brand-assets/`) | £0 |
-| ICO data protection fee | £0 if exempt: check with the free ICO self-assessment |
+| ICO data protection fee | £0: processing only for our own marketing, and accounts and records, is exempt (ICO, verified 30 September 2026). Confirm with the free ICO self-assessment |
 | **Total to launch** | **£0** |
 
 Not in the launch plan (only later, and only once money kept from sales covers it): a domain name, a paid email plan, paid ads.
@@ -40,7 +40,7 @@ Not in the launch plan (only later, and only once money kept from sales covers i
 | Gumroad fee | 10% of the price plus $0.50 (about £0.37) |
 | Card processing | about 2.9% plus $0.30 (about £0.22) |
 | VAT | Gumroad is the merchant of record: it charges, collects and pays UK and EU VAT on each sale. You do not need to register for VAT for Gumroad sales. The tables below assume Gumroad **adds VAT on top** of your price at checkout; if your Gumroad settings show prices including VAT instead, you keep less (see the line under the table) |
-| Gumroad Discover (sales found through Gumroad's marketplace) | Reported as 30% instead of 10% (check on Gumroad). These are extra sales you would not otherwise get |
+| Gumroad Discover (sales found through Gumroad's marketplace) | A flat 30% (processing included) instead of the direct-sale fee (verified 30 September 2026). These are extra sales you would not otherwise get |
 | Payouts | Gumroad pays out only once your balance reaches **$100** (about £75). See "Your first payout" below |
 
 ### Ongoing costs
@@ -48,7 +48,7 @@ Not in the launch plan (only later, and only once money kept from sales covers i
 |---|---|
 | Everything in the launch plan | £0 (Gumroad takes its fee from each sale, see above) |
 | Later, only once sales cover it: paid ads | The £5 a day test in `marketing/f-paid-ads/test-plan.md` needs about £70 per fortnight. Only start once money kept from sales is at least that much |
-| Later, only once sales cover it: email tool over the free limit | MailerLite's paid plans start at roughly £9 to £10 a month (check) |
+| Later, only once sales cover it: email tool over the free limit | MailerLite's free plan stops at 250 subscribers; its paid plans cost money every month and prices rose in 2026 (check the current price). Kit's free plan allows up to 10,000 subscribers (verified 30 September 2026), so compare before paying |
 | Later, optional: a domain name | About £5 to £15 a year |
 
 ## 3. Profit per sale

@@ -12,7 +12,7 @@ We checked these in September 2026. Limits change, so **check the current rule i
 |---|---|---|
 | eBay UK | 80 characters | Front-load brand and item type. No unrelated brand names |
 | Vinted | No confirmed limit. Check the listing form | Brand, size, colour and condition have their own fields, which power the filters |
-| Depop | No separate title: the first line of the description acts as one | Description commonly quoted as 1,000 characters |
+| Depop | No separate title: the first line of the description acts as one | Description up to 1,000 characters |
 | Etsy | 140 characters | A readable phrase first, not a keyword list |
 | Amazon UK | 75 characters in all categories except media, from 27 July 2026 | No ! $ ? _ { } ^ ¬ ¦ unless in the brand name. No word more than twice. New 125-character Item Highlights field |
 | TikTok Shop UK | At least 15 characters. Maximum commonly quoted as 255 | No promotions, shop name, web address, platform names or symbols |

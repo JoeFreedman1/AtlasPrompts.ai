@@ -6,7 +6,7 @@ Three places the kit can legitimately be sold, with copy ready to paste:
 2. **Payhip** (backup storefront, only if Gumroad is down, closes the account or changes terms)
 3. **Amazon KDP** (a separate, text-only Kindle ebook: "The Well Listed Guide to UK Listings")
 
-Keep prices consistent everywhere the full kit is sold. Never quote sales, downloads, ratings or reviews, because we have none yet, and never add testimonials. The Gumroad fees, merchant of record status and minimum payout in section 1 have been verified by the owner. Other rules and fees below (Gumroad Discover, Payhip, Amazon KDP) were not verified on the providers' own pages this session (see `research/tools-and-fees.md`), so check each of those before publishing.
+Keep prices consistent everywhere the full kit is sold. Never quote sales, downloads, ratings or reviews, because we have none yet, and never add testimonials. The Gumroad fees, merchant of record status and minimum payout in section 1 have been verified by the owner. The Gumroad Discover fee and Payhip's free plan fee and VAT handling were verified from official pages on 30 September 2026; the Amazon KDP details were only partly verified (see `research/tools-and-fees.md`), so check those before publishing.
 
 Facts about the kit used below (checked against `product/` on 29 September 2026): 90 prompts across modules 00 to 10 (IDs A, B, T, D, K, PH, R, M, V, C, W; recount with `grep -cE "^### [A-Z]{1,2}[0-9]+ " launch-kit/product/source/*.md`), 13 guide modules (00 to 12), six worked examples, 5 template files (including 22 ready buyer replies and photo shot lists for 10 categories), delivered as a PDF guide, an offline HTML prompt library and a plain text file of all prompts, in one zip.
 
@@ -50,7 +50,7 @@ well-listed-kit
 
 Suggested: **Business and Money** (the closest fit for seller tools). Alternative: **Education**. Check Gumroad's current category list when creating the product and pick the one that best describes a how-to kit for sellers.
 
-Discover note: Gumroad reportedly takes a higher fee (about 30%) on sales that come through Discover rather than your own link (NOT VERIFIED, check https://gumroad.com/pricing). These are extra sales we would not otherwise get, so keep Discover on.
+Discover note: Gumroad takes a flat 30% fee (processing included) on sales that come through Discover rather than your own link (verified 30 September 2026: https://gumroad.com/pricing). These are extra sales we would not otherwise get, so keep Discover on. Do not opt into a higher Discover fee for better placement.
 
 ### Tags
 
@@ -206,7 +206,7 @@ Well Listed
 
 Set up but leave **unpublished** (or unlisted) until needed, so there is only one live checkout and prices stay consistent. If you do publish both, use the same price on both and the same refund promise.
 
-Fees and VAT handling were not verified (see `research/tools-and-fees.md`). Check https://payhip.com/pricing and https://help.payhip.com before publishing, especially whether Payhip handles UK and EU VAT for you.
+Fees and VAT handling (verified 30 September 2026, see `research/tools-and-fees.md`): the free plan charges 5% per sale plus PayPal or Stripe processing fees, and for digital products bought by UK and EU customers Payhip acts as the reseller and handles the VAT by default. Sources: https://payhip.com/pricing and https://help.payhip.com/article/127-digital-eu-vat . Recheck before publishing, as fees change.
 
 ### Title
 
@@ -336,7 +336,7 @@ KDP's category tree changes and shows differently by marketplace, so browse it w
 Reasoning:
 - **It is a smaller product.** No offline prompt library, no copy buttons, no spreadsheet templates. So it should cost clearly less than the full kit (£19), and it does not undercut the kit's launch price of £12.
 - **An easy first step.** Kindle browsers expect practical guides at a low price; £4.99 is a low-risk price for someone who is not ready to buy the full kit.
-- **Royalty band.** KDP has historically offered a 70% royalty option on amazon.co.uk only for list prices within a set range (reported as roughly £1.77 to £9.99), with a delivery cost deducted based on file size, and 35% outside it. £4.99 sits well inside that range. NOT VERIFIED: check the current royalty rules and delivery costs in KDP Help before choosing the price.
+- **Royalty band.** KDP offers a 35% or a 70% royalty option; 70% applies only to list prices within a set band, with a delivery cost deducted based on file size. From 7 July 2026 KDP widened the band on amazon.com to $2.99 to $12.99 (from $9.99), with equivalent changes in other marketplaces (verified 30 September 2026: https://kdp.amazon.com/en_US/help/topic/G200644210 and https://kdp.amazon.com/en_US/help/topic/G200634560). The amazon.co.uk band in pounds was not found (it was reported as roughly £1.77 to £9.99 before the change), so check it and the delivery cost in KDP Help before choosing the price. £4.99 should sit well inside it.
 - **VAT.** KDP prices for UK buyers are shown including VAT; check how KDP handles VAT on the price you set.
 - Do not enrol in anything that needs exclusivity (such as KDP Select) until you have checked it does not conflict with selling the kit's guide content elsewhere, because the Kindle text overlaps with the kit's PDF. Read KDP Select's exclusivity terms carefully before ticking it.
 

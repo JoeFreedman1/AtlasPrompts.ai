@@ -4,6 +4,7 @@ Research date: 29 September 2026.
 
 ## Read this first: what we could and could not verify
 
+- **Rechecked 30 September 2026:** Reddit is still blocked to our research tools (web search refuses reddit.com too) and Facebook group rules need a logged-in account, so the rules below are still unverified. Read each community's rules in the app before posting.
 - **Reddit could not be read directly in this session** (reddit.com and old.reddit.com were blocked to our research tools, and web search did not index subreddit rule pages). Subreddit rules below come from secondary sources where we found them, and are otherwise marked **"rules not verified"**. Before posting anything, open the subreddit on the Reddit app, read the sidebar rules and the pinned posts, and follow them.
 - **Facebook groups** were found by name through web search. We could not open them to read their rules. Assume every group bans promotion unless its rules say otherwise, and read the "About" and pinned posts before joining.
 - **No member counts are quoted** for communities we could not check first-hand. The one figure quoted in a source is flagged as the source's claim.
